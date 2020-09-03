@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Percichthyidae</keyword>
+  <gramrel name="modifiers of X" hits="4" score="23.530">
+    <coll hits="1" score="12.680">Macquaria_ambigua</coll>
+    <coll hits="2" score="12.410">Perciformes</coll>
+    <coll hits="1" score="7.610">perch</coll>
+  </gramrel>
+</wordsketch>
+</export>

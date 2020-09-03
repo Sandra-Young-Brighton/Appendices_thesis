@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">acutipinnis</keyword>
+  <gramrel name="modifiers of X" hits="6" score="37.500">
+    <coll hits="6" score="13.990">Cotylopus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">refugia</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="35" score="33.650">
+    <coll hits="1" score="9.380">glaciation</coll>
+    <coll hits="1" score="8.890">weather</coll>
+    <coll hits="1" score="8.790">thermocline</coll>
+    <coll hits="1" score="8.790">stratification</coll>
+    <coll hits="1" score="8.540">grazer</coll>
+    <coll hits="1" score="8.190">drought</coll>
+    <coll hits="1" score="7.860">stone</coll>
+    <coll hits="1" score="7.750">Iceland</coll>
+    <coll hits="1" score="7.420">recovery</coll>
+    <coll hits="1" score="7.180">pikeminnow</coll>
+    <coll hits="1" score="7.160">cod</coll>
+    <coll hits="1" score="7.100">space</coll>
+    <coll hits="1" score="6.890">macroinvertebrate</coll>
+    <coll hits="1" score="6.550">mouth</coll>
+    <coll hits="2" score="6.490">zooplankton</coll>
+    <coll hits="2" score="6.140">predation</coll>
+    <coll hits="2" score="5.970">salmonid</coll>
+    <coll hits="1" score="5.930">America</coll>
+    <coll hits="1" score="5.920">Europe</coll>
+    <coll hits="2" score="5.620">condition</coll>
+    <coll hits="1" score="5.120">structure</coll>
+    <coll hits="1" score="4.990">charr</coll>
+    <coll hits="1" score="4.330">predator</coll>
+    <coll hits="1" score="3.800">stream</coll>
+    <coll hits="1" score="3.770">habitat</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hypentelium</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="42.860">
+    <coll hits="3" score="13.580" query="w2130420544">nigricans</coll>
+  </gramrel>
+</wordsketch>
+</export>

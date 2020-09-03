@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cyprinus_carpio</keyword>
+  <gramrel name="modifiers of X" hits="1" score="0.960">
+    <coll hits="1" score="13.990">Pimephales_notatus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="5" score="4.810">
+    <coll hits="1" score="12.410">Acanthorutilus_handlirschi</coll>
+    <coll hits="1" score="11.990">Gobio_gobio</coll>
+    <coll hits="3" score="10.220">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="3.850">
+    <coll hits="1" score="12.680">Acanthorutilus_handlirschi</coll>
+    <coll hits="1" score="12.680">Ameiurus_spp</coll>
+    <coll hits="1" score="12.410">Carassius_gibelio</coll>
+    <coll hits="1" score="12.190">Gobio_gobio</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="5.770">
+    <coll hits="2" score="13.000">Naivasha</coll>
+    <coll hits="1" score="11.410">M1</coll>
+    <coll hits="1" score="8.070">series</coll>
+    <coll hits="1" score="7.890">control</coll>
+    <coll hits="1" score="6.130">August</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="1.920">
+    <coll hits="1" score="13.410">carp</coll>
+    <coll hits="1" score="6.800">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

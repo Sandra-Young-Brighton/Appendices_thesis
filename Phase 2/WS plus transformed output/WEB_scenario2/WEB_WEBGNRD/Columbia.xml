@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Columbia</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="0.090">
+    <coll hits="1" score="13.990" query="w1247006976">livia</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="11" score="0.970">
+    <coll hits="1" score="8.150" query="w1247015495">contaminant</coll>
+    <coll hits="3" score="8.040" query="w1247015493">California</coll>
+    <coll hits="1" score="6.460" query="w1247015488">July</coll>
+    <coll hits="1" score="6.200" query="w1247015494">watershed</coll>
+    <coll hits="1" score="5.940" query="w1247015491">season</coll>
+    <coll hits="2" score="4.750" query="w1247015489">River</coll>
+    <coll hits="1" score="4.640" query="w1247015490">condition</coll>
+    <coll hits="1" score="4.550" query="w1247015492">analysis</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="4" score="0.350">
+    <coll hits="1" score="12.680" query="w1247090371">Puget</coll>
+    <coll hits="1" score="12.680" query="w1247090370">Snake</coll>
+    <coll hits="1" score="12.680" query="w1247090368">Sound</coll>
+    <coll hits="1" score="12.410" query="w1247090369">Columbia</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="2" score="0.180">
+    <coll hits="1" score="13.000" query="w1247122369">waterway</coll>
+    <coll hits="1" score="12.410" query="w1247122368">Columbia</coll>
+  </gramrel>
+</wordsketch>
+</export>

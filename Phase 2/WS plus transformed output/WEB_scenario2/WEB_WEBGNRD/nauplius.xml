@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">nauplius</keyword>
+  <gramrel name="modifiers of X" hits="25" score="9.770">
+    <coll hits="25" score="13.960" query="w1469092160">Balanus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.390">
+    <coll hits="1" score="13.410" query="w1469101376">Temora</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="0.780">
+    <coll hits="1" score="13.410" query="w1469066176">Coscinodiscus</coll>
+    <coll hits="1" score="13.000" query="w1469066177">Temora</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="44" score="17.190">
+    <coll hits="2" score="10.090" query="w1469110870">microzooplankton</coll>
+    <coll hits="2" score="10.070" query="w1469110873">daytime</coll>
+    <coll hits="1" score="9.500" query="w1469110880">Myuxucephalus</coll>
+    <coll hits="1" score="9.500" query="w1469110879">NFS</coll>
+    <coll hits="1" score="9.500" query="w1469110877">AVIZ</coll>
+    <coll hits="1" score="9.440" query="w1469110878">DFS</coll>
+    <coll hits="1" score="9.440" query="w1469110875">NI</coll>
+    <coll hits="1" score="9.410" query="w1469110876">HUFA</coll>
+    <coll hits="1" score="8.960" query="w1469110874">dph</coll>
+    <coll hits="1" score="8.850" query="w1469110871">morning</coll>
+    <coll hits="4" score="8.730" query="w1469110850">M</coll>
+    <coll hits="1" score="8.220" query="w1469110866">digestion</coll>
+    <coll hits="1" score="8.080" query="w1469110872">attack</coll>
+    <coll hits="1" score="8.070" query="w1469110868">reserve</coll>
+    <coll hits="1" score="7.930" query="w1469110854">review</coll>
+    <coll hits="1" score="7.580" query="w1469110869">shrimp</coll>
+    <coll hits="1" score="7.450" query="w1469110865">gut</coll>
+    <coll hits="1" score="6.920" query="w1469110852">March</coll>
+    <coll hits="4" score="6.730" query="w1469110848">day</coll>
+    <coll hits="1" score="6.660" query="w1469110861">week</coll>
+    <coll hits="1" score="6.590" query="w1469110863">hour</coll>
+    <coll hits="2" score="6.060" query="w1469110859">density</coll>
+    <coll hits="1" score="5.950" query="w1469110849">adult</coll>
+    <coll hits="1" score="5.620" query="w1469110860">response</coll>
+    <coll hits="1" score="5.440" query="w1469110858">resource</coll>
+  </gramrel>
+  <gramrel name="... is a X" hits="1" score="0.390">
+    <coll hits="1" score="13.990" query="w1469082112">Myoxocephalus</coll>
+  </gramrel>
+</wordsketch>
+</export>

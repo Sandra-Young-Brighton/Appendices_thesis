@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ammodytes</keyword>
+  <gramrel name="nouns modified by X" hits="16" score="53.330">
+    <coll hits="6" score="13.120" query="w2010551812">hexapterus</coll>
+    <coll hits="3" score="12.330" query="w2010551810">tobianus</coll>
+    <coll hits="3" score="12.120" query="w2010551813">dubius</coll>
+    <coll hits="2" score="11.830" query="w2010551811">personatus</coll>
+    <coll hits="1" score="10.190" query="w2010551809">Cottidae</coll>
+    <coll hits="1" score="6.910" query="w2010551808">marinus</coll>
+  </gramrel>
+</wordsketch>
+</export>

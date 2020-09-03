@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lagocephalus</keyword>
+  <gramrel name="modifiers of X" hits="75" score="42.370">
+    <coll hits="57" score="13.280">Sicyopterus</coll>
+    <coll hits="14" score="11.250">goby</coll>
+    <coll hits="1" score="8.250">species</coll>
+    <coll hits="1" score="8.090">Sicydiinae</coll>
+    <coll hits="2" score="5.370">fish</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="1.690">
+    <coll hits="3" score="7.970">larva</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="1.690">
+    <coll hits="1" score="12.680">acutipinnis</coll>
+    <coll hits="1" score="11.830">Gobiidae</coll>
+    <coll hits="1" score="10.540">species</coll>
+  </gramrel>
+  <gramrel name="X is a ..." hits="1" score="0.560">
+    <coll hits="1" score="13.000">goby</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="10" score="5.650">
+    <coll hits="1" score="9.300">transfer</coll>
+    <coll hits="2" score="7.850">B</coll>
+    <coll hits="1" score="7.820">re</coll>
+    <coll hits="1" score="7.420">phase</coll>
+    <coll hits="1" score="6.870">comparison</coll>
+    <coll hits="1" score="6.570">S</coll>
+    <coll hits="1" score="4.790">condition</coll>
+    <coll hits="1" score="3.920">area</coll>
+    <coll hits="1" score="3.780">site</coll>
+  </gramrel>
+</wordsketch>
+</export>

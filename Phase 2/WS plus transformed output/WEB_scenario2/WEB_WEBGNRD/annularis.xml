@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">annularis</keyword>
+  <gramrel name="modifiers of X" hits="12" score="42.860">
+    <coll hits="12" score="13.000" query="w1152903424">Pomoxis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="7.140">
+    <coll hits="2" score="11.190" query="w1152916160">nigromaculatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

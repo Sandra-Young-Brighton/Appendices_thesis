@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Amia</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="4.350">
+    <coll hits="1" score="12.680" query="w1135945792">Hiodon</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="4.350">
+    <coll hits="1" score="11.540" query="w1135955776">Centrarchidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

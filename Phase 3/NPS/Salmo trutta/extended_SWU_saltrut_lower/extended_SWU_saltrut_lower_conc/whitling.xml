@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_untagged</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="11">[lc=&quot;whitling&quot; | lemma_lc=&quot;whitling&quot;]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#666" num="0" label="_">
+    <left>three different names for salmon, as well as &quot;</left>
+    <kwic>whitling</kwic>
+    <right>&quot;, which is a name for a young male trout, and &quot;</right>
+  </line>
+  <line refs="doc#911" num="1" label="_">
+    <left>as in s. salar. after spending one summer at sea,</left>
+    <kwic> whitling</kwic>
+    <right> start to migrate in july-september to lower</right>
+  </line>
+  <line refs="doc#911" num="2" label="_">
+    <left>enter rivers until late october. most maturing</left>
+    <kwic> whitlings</kwic>
+    <right> are males and the proportion of whitlings might</right>
+  </line>
+  <line refs="doc#911" num="3" label="_">
+    <left>whitlings are males and the proportion of</left>
+    <kwic> whitlings</kwic>
+    <right> might be up to 30 % among spawners. whitlings</right>
+  </line>
+  <line refs="doc#911" num="4" label="_">
+    <left>of whitlings might be up to 30 % among spawners.</left>
+    <kwic> whitlings</kwic>
+    <right> usually sneak in to spawn in redds of large</right>
+  </line>
+  <line refs="doc#911" num="5" label="_">
+    <left>kill sneakers. after one spawning season as</left>
+    <kwic> whitling</kwic>
+    <right> or resident male, individual trouts may spawn</right>
+  </line>
+  <line refs="doc#911" num="6" label="_">
+    <left>triggering the 'choice' to reproduce as</left>
+    <kwic> whitling</kwic>
+    <right> or as large male seems to be related to body size</right>
+  </line>
+  <line refs="doc#911" num="7" label="_">
+    <left>since larger parrs more frequently develop the</left>
+    <kwic> whitling</kwic>
+    <right> tactic and smaller parrs the large male tactic.</right>
+  </line>
+  <line refs="doc#928" num="8" label="_">
+    <left>variously called finnock, peal, herling and</left>
+    <kwic> whitling</kwic>
+    <right> (although whitling is a term generally used for</right>
+  </line>
+  <line refs="doc#928" num="9" label="_">
+    <left>finnock, peal, herling and whitling (although</left>
+    <kwic> whitling</kwic>
+    <right> is a term generally used for small sea_trout in</right>
+  </line>
+  <line refs="doc#930" num="10" label="_">
+    <left>migration (known as finnock, harvesters,</left>
+    <kwic> whitling</kwic>
+    <right> or juniors) or one year or more later (known as</right>
+  </line>
+</concordance>
+</export>

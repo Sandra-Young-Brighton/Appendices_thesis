@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Caligidae</keyword>
+  <gramrel name="modifiers of X" hits="1" score="7.140">
+    <coll hits="1" score="13.990" query="w2131449792">Siphonostomatoida</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="14.290">
+    <coll hits="1" score="4.560" query="w2131460737">analysis</coll>
+    <coll hits="1" score="1.750" query="w2131460736">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

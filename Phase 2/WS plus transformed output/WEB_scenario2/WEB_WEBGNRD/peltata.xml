@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">peltata</keyword>
+  <gramrel name="modifiers of X" hits="5" score="62.500">
+    <coll hits="4" score="13.670" query="w2064261505">Nymphoides</coll>
+    <coll hits="1" score="10.600" query="w2064261504">Percina</coll>
+  </gramrel>
+</wordsketch>
+</export>

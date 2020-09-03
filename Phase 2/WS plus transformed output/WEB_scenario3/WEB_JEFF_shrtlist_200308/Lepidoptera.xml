@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lepidoptera</keyword>
+  <gramrel name="modifiers of X" hits="2" score="5.560">
+    <coll hits="2" score="11.830">Coleoptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="5.560">
+    <coll hits="1" score="13.000">Orthoptera</coll>
+    <coll hits="1" score="12.410">Homoptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="8.330">
+    <coll hits="1" score="13.000">Homoptera</coll>
+    <coll hits="1" score="12.680">Orthoptera</coll>
+    <coll hits="1" score="10.410">Diptera</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="2.780">
+    <coll hits="1" score="12.410">Diptera</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="2.780">
+    <coll hits="1" score="11.670">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Mexico</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="4.070">
+    <coll hits="1" score="11.990" query="w1859716486">fundraiser</coll>
+    <coll hits="1" score="11.670" query="w1859716485">Chemical</coll>
+    <coll hits="1" score="8.960" query="w1859716484">Florida</coll>
+    <coll hits="1" score="6.570" query="w1859716481">Alaska</coll>
+    <coll hits="1" score="6.220" query="w1859716482">month</coll>
+    <coll hits="1" score="6.090" query="w1859716483">order</coll>
+    <coll hits="1" score="3.750" query="w1859716480">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

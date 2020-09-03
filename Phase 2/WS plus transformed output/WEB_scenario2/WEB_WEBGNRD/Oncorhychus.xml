@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Oncorhychus</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="55.560">
+    <coll hits="1" score="7.610" query="w1938453377">tshawytscha</coll>
+    <coll hits="4" score="7.520" query="w1938453376">mykiss</coll>
+  </gramrel>
+</wordsketch>
+</export>

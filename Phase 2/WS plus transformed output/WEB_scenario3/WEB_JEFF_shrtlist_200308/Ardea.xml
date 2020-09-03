@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ardea</keyword>
+  <gramrel name="nouns modified by X" hits="11" score="50.000">
+    <coll hits="10" score="13.930">cinerea</coll>
+    <coll hits="1" score="7.970">Linnaeus</coll>
+  </gramrel>
+</wordsketch>
+</export>

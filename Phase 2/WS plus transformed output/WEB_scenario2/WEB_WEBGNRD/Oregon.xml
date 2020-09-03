@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Oregon</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="0.250">
+    <coll hits="1" score="13.990" query="w1482605184">coasta</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="9" score="2.240">
+    <coll hits="1" score="11.670" query="w1482613894">Conception</coll>
+    <coll hits="1" score="11.540" query="w1482613895">Nickelson</coll>
+    <coll hits="1" score="9.350" query="w1482613891">search</coll>
+    <coll hits="1" score="6.780" query="w1482613892">Columbia</coll>
+    <coll hits="1" score="6.560" query="w1482613889">Alaska</coll>
+    <coll hits="2" score="6.550" query="w1482613888">basin</coll>
+    <coll hits="1" score="6.460" query="w1482613893">California</coll>
+    <coll hits="1" score="4.330" query="w1482613890">temperature</coll>
+  </gramrel>
+</wordsketch>
+</export>

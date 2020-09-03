@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Chloromyxum</keyword>
+  <gramrel name="nouns modified by X" hits="6" score="66.670">
+    <coll hits="5" score="12.030" query="w2015669248">truttae</coll>
+    <coll hits="1" score="11.990" query="w2015669249">schurovi</coll>
+  </gramrel>
+</wordsketch>
+</export>

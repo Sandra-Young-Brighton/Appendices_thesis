@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">squamosissimus</keyword>
+  <gramrel name="modifiers of X" hits="21" score="36.210">
+    <coll hits="21" score="13.990" query="w1990660928">Plagioscion</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="12.070">
+    <coll hits="6" score="7.490" query="w1990676352">group</coll>
+    <coll hits="1" score="4.890" query="w1990676353">stage</coll>
+  </gramrel>
+</wordsketch>
+</export>

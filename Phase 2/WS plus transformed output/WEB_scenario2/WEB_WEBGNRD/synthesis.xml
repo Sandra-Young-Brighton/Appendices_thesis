@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">synthesis</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="55" score="37.160">
+    <coll hits="1" score="9.190" query="w1614880158">Wootton</coll>
+    <coll hits="1" score="9.160" query="w1614880166">lipoprotein</coll>
+    <coll hits="1" score="9.140" query="w1614880165">phenolic</coll>
+    <coll hits="1" score="9.140" query="w1614880164">dehydrogenase</coll>
+    <coll hits="1" score="9.140" query="w1614880159">Meeting</coll>
+    <coll hits="1" score="9.140" query="w1614880157">PG</coll>
+    <coll hits="1" score="9.120" query="w1614880156">vitellogenin</coll>
+    <coll hits="1" score="9.060" query="w1614880162">melatonin</coll>
+    <coll hits="1" score="9.020" query="w1614880161">PGF2α</coll>
+    <coll hits="1" score="9.000" query="w1614880163">kairomone</coll>
+    <coll hits="1" score="9.000" query="w1614880154">Genetics</coll>
+    <coll hits="1" score="8.960" query="w1614880160">prostaglandin</coll>
+    <coll hits="5" score="8.580" query="w1614880130">research</coll>
+    <coll hits="2" score="8.570" query="w1614880132">finding</coll>
+    <coll hits="1" score="8.330" query="w1614880148">acclimation</coll>
+    <coll hits="1" score="8.270" query="w1614880149">enzyme</coll>
+    <coll hits="3" score="7.910" query="w1614880137">ecology</coll>
+    <coll hits="3" score="7.830" query="w1614880145">animal</coll>
+    <coll hits="1" score="7.830" query="w1614880151">hormone</coll>
+    <coll hits="1" score="7.560" query="w1614880152">strain</coll>
+    <coll hits="1" score="7.340" query="w1614880150">phosphate</coll>
+    <coll hits="1" score="7.280" query="w1614880144">recovery</coll>
+    <coll hits="7" score="7.100" query="w1614880139">diet</coll>
+    <coll hits="1" score="7.090" query="w1614880138">approach</coll>
+    <coll hits="1" score="6.810" query="w1614880133">gill</coll>
+  </gramrel>
+</wordsketch>
+</export>

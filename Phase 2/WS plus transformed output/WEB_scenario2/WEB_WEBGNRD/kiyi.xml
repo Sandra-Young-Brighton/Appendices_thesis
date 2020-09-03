@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">kiyi</keyword>
+  <gramrel name="modifiers of X" hits="3" score="21.430">
+    <coll hits="3" score="7.470" query="w2066752192">Coregonus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="14.290">
+    <coll hits="1" score="12.190" query="w2066767809">zenithicus</coll>
+    <coll hits="1" score="7.410" query="w2066767808">nerka</coll>
+  </gramrel>
+</wordsketch>
+</export>

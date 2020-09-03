@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Etheostoma_spectabile</keyword>
+  <gramrel name="modifiers of X" hits="1" score="4.760">
+    <coll hits="1" score="9.830">species</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="14.290">
+    <coll hits="1" score="13.000">Etheostoma_flabellare</coll>
+    <coll hits="1" score="12.410">Noturus</coll>
+    <coll hits="1" score="12.410">Aplodinotus_grunniens</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="5" score="23.810">
+    <coll hits="5" score="13.990">Etheostoma_flabellare</coll>
+  </gramrel>
+</wordsketch>
+</export>

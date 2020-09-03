@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Galaxias</keyword>
+  <gramrel name="nouns modified by X" hits="57" score="56.440">
+    <coll hits="28" score="13.380">olidus</coll>
+    <coll hits="7" score="11.760">maculatus</coll>
+    <coll hits="5" score="11.340">brevipinnis</coll>
+    <coll hits="4" score="11.060">postvectis</coll>
+    <coll hits="4" score="11.020">fasciatus</coll>
+    <coll hits="3" score="10.680">argenteus</coll>
+    <coll hits="2" score="10.110">truttaceus</coll>
+    <coll hits="1" score="9.140">platei</coll>
+    <coll hits="1" score="9.140">paucispondylus</coll>
+    <coll hits="1" score="9.090">vulgaris</coll>
+    <coll hits="1" score="8.080">auratus</coll>
+  </gramrel>
+</wordsketch>
+</export>

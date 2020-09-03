@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Nicola</keyword>
+  <gramrel name="modifiers of X" hits="1" score="2.270">
+    <coll hits="1" score="13.990" query="w2018930816">Elvira</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">imago</keyword>
+  <gramrel name="modifiers of X" hits="1" score="9.090">
+    <coll hits="1" score="10.300" query="w1968478080">Diptera</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="9.090">
+    <coll hits="1" score="7.040" query="w1968486912">insect</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="9.090">
+    <coll hits="1" score="11.670" query="w1968497472">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

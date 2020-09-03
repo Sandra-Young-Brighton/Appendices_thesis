@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lavaretus</keyword>
+  <gramrel name="modifiers of X" hits="218" score="65.470">
+    <coll hits="215" score="13.160" query="w1911151296">Coregonus</coll>
+    <coll hits="1" score="7.220" query="w1911151299">Coregobus</coll>
+    <coll hits="1" score="7.210" query="w1911151297">alpinus</coll>
+    <coll hits="1" score="7.170" query="w1911151298">Lucius</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="0.600">
+    <coll hits="1" score="10.750" query="w1911187777">autumnalis</coll>
+    <coll hits="1" score="8.750" query="w1911187776">clupeaformis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="0.600">
+    <coll hits="1" score="13.410" query="w1911130625">widegreni</coll>
+    <coll hits="1" score="13.000" query="w1911130624">autumnalis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="12" score="3.600">
+    <coll hits="1" score="11.300" query="w1911210116">By</coll>
+    <coll hits="1" score="11.190" query="w1911210120">Annecy</coll>
+    <coll hits="4" score="9.440" query="w1911210119">Britain</coll>
+    <coll hits="1" score="9.210" query="w1911210118">Constance</coll>
+    <coll hits="1" score="8.110" query="w1911210114">Arctic</coll>
+    <coll hits="1" score="7.310" query="w1911210117">England</coll>
+    <coll hits="1" score="6.710" query="w1911210112">L</coll>
+    <coll hits="1" score="6.330" query="w1911210115">feeding</coll>
+    <coll hits="1" score="2.890" query="w1911210113">lake</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="7" score="2.100">
+    <coll hits="3" score="12.880" query="w1911301698">lavaretus</coll>
+    <coll hits="3" score="12.880" query="w1911301696">Coregonus</coll>
+    <coll hits="1" score="11.830" query="w1911301697">whitefish</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="6" score="1.800">
+    <coll hits="3" score="12.880" query="w1911293121">lavaretus</coll>
+    <coll hits="3" score="12.190" query="w1911293120">Coregonus</coll>
+  </gramrel>
+</wordsketch>
+</export>

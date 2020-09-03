@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">erythrogaster</keyword>
+  <gramrel name="modifiers of X" hits="7" score="31.820">
+    <coll hits="6" score="13.770">Chrosomus</coll>
+    <coll hits="1" score="8.930">Phoxinus</coll>
+  </gramrel>
+</wordsketch>
+</export>

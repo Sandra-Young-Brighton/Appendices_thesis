@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">catostomus</keyword>
+  <gramrel name="modifiers of X" hits="18" score="66.670">
+    <coll hits="18" score="12.680">Catostomus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="7.410">
+    <coll hits="1" score="13.000">Esocidae</coll>
+    <coll hits="1" score="11.090">commersonii</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="5" score="18.520">
+    <coll hits="1" score="12.190">Couesius</coll>
+    <coll hits="1" score="12.190">plumbeus</coll>
+    <coll hits="1" score="12.190">Pimephales</coll>
+    <coll hits="1" score="12.190">hudsonius</coll>
+    <coll hits="1" score="12.190">Notropis</coll>
+  </gramrel>
+</wordsketch>
+</export>

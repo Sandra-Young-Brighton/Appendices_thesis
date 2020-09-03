@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">taenia</keyword>
+  <gramrel name="modifiers of X" hits="13" score="65.000">
+    <coll hits="12" score="13.500" query="w1795203329">Cobitis</coll>
+    <coll hits="1" score="10.540" query="w1795203328">Carpio</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.000">
+    <coll hits="1" score="9.610" query="w1795227904">glanis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.000">
+    <coll hits="1" score="13.990" query="w1795193088">glanis</coll>
+  </gramrel>
+</wordsketch>
+</export>

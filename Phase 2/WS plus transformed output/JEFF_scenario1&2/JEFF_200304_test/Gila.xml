@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gila</keyword>
+  <gramrel name="nouns modified by X" hits="11" score="28.950">
+    <coll hits="7" score="13.640">robusta</coll>
+    <coll hits="1" score="11.410">atraria</coll>
+    <coll hits="1" score="11.410">topminnow</coll>
+    <coll hits="1" score="11.410">chub</coll>
+    <coll hits="1" score="11.000">intermedia</coll>
+  </gramrel>
+</wordsketch>
+</export>

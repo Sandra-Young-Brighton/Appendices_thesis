@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">albula</keyword>
+  <gramrel name="modifiers of X" hits="94" score="60.650">
+    <coll hits="94" score="13.010">Coregonus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.650">
+    <coll hits="1" score="7.270">rutilus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="1.940">
+    <coll hits="1" score="13.000">eperlanus</coll>
+    <coll hits="1" score="12.680">lavaretus</coll>
+    <coll hits="1" score="11.190">rutilus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="3.870">
+    <coll hits="1" score="12.190">Skrukkebukta</coll>
+    <coll hits="1" score="11.990">primavera</coll>
+    <coll hits="1" score="11.830">verano</coll>
+    <coll hits="1" score="9.670">watercourse</coll>
+    <coll hits="1" score="8.750">gillnet</coll>
+    <coll hits="1" score="7.170">L</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.650">
+    <coll hits="1" score="12.190">acid</coll>
+  </gramrel>
+</wordsketch>
+</export>

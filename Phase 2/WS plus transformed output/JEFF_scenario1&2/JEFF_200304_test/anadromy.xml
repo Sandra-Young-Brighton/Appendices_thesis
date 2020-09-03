@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">anadromy</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="20" score="44.440">
+    <coll hits="4" score="11.380">mykiss</coll>
+    <coll hits="1" score="10.600">Westley</coll>
+    <coll hits="1" score="9.350">implication</coll>
+    <coll hits="2" score="9.120">Trout</coll>
+    <coll hits="1" score="7.780">decrease</coll>
+    <coll hits="1" score="7.080">Bay</coll>
+    <coll hits="4" score="5.260">population</coll>
+    <coll hits="1" score="5.040">charr</coll>
+    <coll hits="3" score="4.750">trout</coll>
+    <coll hits="1" score="4.560">species</coll>
+    <coll hits="1" score="3.250">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

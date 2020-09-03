@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Oreochromis_niloticus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="2.380">
+    <coll hits="1" score="13.990">Cichla_piquiti</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="4.760">
+    <coll hits="1" score="13.000">Tilapia_rendalli</coll>
+    <coll hits="1" score="8.690">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.380">
+    <coll hits="1" score="13.000">Ictalurus_punctatus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="9.520">
+    <coll hits="1" score="12.680">Zwei</coll>
+    <coll hits="1" score="11.990">Awassa</coll>
+    <coll hits="2" score="10.440">Zwai</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="4.760">
+    <coll hits="2" score="7.810">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

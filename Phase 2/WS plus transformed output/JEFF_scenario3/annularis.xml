@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">annularis</keyword>
+  <gramrel name="modifiers of X" hits="11" score="52.380">
+    <coll hits="9" score="13.170">Pomoxis</coll>
+    <coll hits="1" score="11.300">cepedianum</coll>
+    <coll hits="1" score="11.190">Pornoxis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="4.760">
+    <coll hits="1" score="12.410">Etheostoma</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="4.760">
+    <coll hits="1" score="5.890">reservoir</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rudd</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="3.030">
+    <coll hits="2" score="10.440">Milada</coll>
+    <coll hits="1" score="8.600">enclosure</coll>
+    <coll hits="1" score="8.070">school</coll>
+    <coll hits="1" score="4.370">perch</coll>
+    <coll hits="1" score="2.890">lake</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.510">
+    <coll hits="1" score="12.680">Cladocera</coll>
+  </gramrel>
+</wordsketch>
+</export>

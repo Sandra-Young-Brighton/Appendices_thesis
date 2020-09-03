@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Proterorhinus</keyword>
+  <gramrel name="nouns modified by X" hits="10" score="83.330">
+    <coll hits="9" score="13.470">marmoratus</coll>
+    <coll hits="1" score="11.540">semilunaris</coll>
+  </gramrel>
+</wordsketch>
+</export>

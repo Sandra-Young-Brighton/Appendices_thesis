@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">medium</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="14" score="6.480">
+    <coll hits="1" score="11.090">agosto</coll>
+    <coll hits="1" score="11.090">Yangxi</coll>
+    <coll hits="1" score="10.820">explan</coll>
+    <coll hits="1" score="10.680">dependency</coll>
+    <coll hits="1" score="8.690">Stream</coll>
+    <coll hits="1" score="8.040">score</coll>
+    <coll hits="1" score="6.620">P</coll>
+    <coll hits="4" score="5.250">stream</coll>
+    <coll hits="1" score="4.960">level</coll>
+    <coll hits="1" score="3.580">river</coll>
+    <coll hits="1" score="3.520">size</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="2" score="0.930">
+    <coll hits="1" score="13.410">size</coll>
+    <coll hits="1" score="11.670">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

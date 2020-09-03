@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">przewalskii</keyword>
+  <gramrel name="modifiers of X" hits="2" score="100.000">
+    <coll hits="1" score="13.410" query="w2132827009">Gymnocypris</coll>
+    <coll hits="1" score="13.410" query="w2132827008">Craig</coll>
+  </gramrel>
+</wordsketch>
+</export>

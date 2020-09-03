@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">japonica</keyword>
+  <gramrel name="modifiers of X" hits="54" score="67.500">
+    <coll hits="50" score="12.790">Anguilla</coll>
+    <coll hits="3" score="10.750">Cryptomeria</coll>
+    <coll hits="1" score="9.210">Camellia</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.250">
+    <coll hits="1" score="13.990">obtusa</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="13" score="16.250">
+    <coll hits="2" score="11.000">Coast</coll>
+    <coll hits="5" score="8.700">freshwater</coll>
+    <coll hits="1" score="7.990">coast</coll>
+    <coll hits="2" score="7.640">recruitment</coll>
+    <coll hits="1" score="7.120">Bay</coll>
+    <coll hits="1" score="7.080">laboratory</coll>
+    <coll hits="1" score="4.610">system</coll>
+  </gramrel>
+</wordsketch>
+</export>

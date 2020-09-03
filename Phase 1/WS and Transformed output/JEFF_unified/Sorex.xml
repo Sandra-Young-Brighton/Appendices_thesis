@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sorex</keyword>
+  <gramrel name="X is the generic of..." hits="3" score="75.000">
+    <coll hits="1" score="12.190">Peromyscus_maniculatus</coll>
+    <coll hits="1" score="12.190">Clethrionomys_rutilus</coll>
+    <coll hits="1" score="12.190">Microtus_oeconomus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="50.000">
+    <coll hits="1" score="8.750">prey</coll>
+    <coll hits="1" score="6.830">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Decapoda</keyword>
+  <gramrel name="modifiers of X" hits="6" score="13.950">
+    <coll hits="3" score="12.330" query="w1462123392">Crustacea</coll>
+    <coll hits="1" score="12.190" query="w1462123394">Palaemonidae</coll>
+    <coll hits="1" score="11.300" query="w1462123395">Brachyura</coll>
+    <coll hits="1" score="8.760" query="w1462123393">Daphnia</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="9" score="20.930">
+    <coll hits="4" score="13.300" query="w1462155780">Brachyura</coll>
+    <coll hits="1" score="11.670" query="w1462155781">Grapsoidea</coll>
+    <coll hits="1" score="11.670" query="w1462155778">Caridea</coll>
+    <coll hits="1" score="11.540" query="w1462155779">Atyidae</coll>
+    <coll hits="1" score="11.300" query="w1462155776">Crustacea</coll>
+    <coll hits="1" score="11.190" query="w1462155777">Amphipoda</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="9" score="20.930">
+    <coll hits="4" score="13.300" query="w1462076484">Brachyura</coll>
+    <coll hits="1" score="11.670" query="w1462076485">Grapsoidea</coll>
+    <coll hits="1" score="11.670" query="w1462076482">Caridea</coll>
+    <coll hits="1" score="11.540" query="w1462076483">Atyidae</coll>
+    <coll hits="1" score="11.300" query="w1462076480">Crustacea</coll>
+    <coll hits="1" score="10.750" query="w1462076481">Amphipoda</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">limi</keyword>
+  <gramrel name="modifiers of X" hits="9" score="56.250">
+    <coll hits="6" score="13.670">Umbra</coll>
+    <coll hits="1" score="11.670">atromaculatus</coll>
+    <coll hits="1" score="11.410">Umbridae</coll>
+    <coll hits="1" score="10.140">Semotilus</coll>
+  </gramrel>
+</wordsketch>
+</export>

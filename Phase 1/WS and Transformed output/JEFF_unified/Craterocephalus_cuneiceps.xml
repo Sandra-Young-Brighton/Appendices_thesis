@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Craterocephalus_cuneiceps</keyword>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="2" score="20.000">modifiers of &quot;%w&quot;</coll>
+    <coll hits="2" score="20.000">nouns modified by &quot;%w&quot;</coll>
+  </gramrel>
+</wordsketch>
+</export>

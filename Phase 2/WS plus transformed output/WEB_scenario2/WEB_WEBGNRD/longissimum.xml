@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">longissimum</keyword>
+  <gramrel name="modifiers of X" hits="4" score="12.900">
+    <coll hits="4" score="13.190" query="w2032116032">Heliconema</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="19.350">
+    <coll hits="2" score="13.000" query="w2032128516">Ogden</coll>
+    <coll hits="1" score="11.830" query="w2032128515">Moravec</coll>
+    <coll hits="1" score="11.830" query="w2032128514">De</coll>
+    <coll hits="1" score="8.870" query="w2032128513">locality</coll>
+    <coll hits="1" score="4.340" query="w2032128512">number</coll>
+  </gramrel>
+</wordsketch>
+</export>

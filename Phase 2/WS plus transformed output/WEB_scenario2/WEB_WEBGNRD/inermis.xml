@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">inermis</keyword>
+  <gramrel name="modifiers of X" hits="10" score="55.560">
+    <coll hits="9" score="13.470" query="w2070620673">Spinitectus</coll>
+    <coll hits="1" score="11.000" query="w2070620672">Sanguinicola</coll>
+  </gramrel>
+</wordsketch>
+</export>

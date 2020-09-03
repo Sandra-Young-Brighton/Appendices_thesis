@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">minimum</keyword>
+  <gramrel name="X and/or ..." hits="83" score="21.840">
+    <coll hits="21" score="12.060" query="w1143232389">maximum</coll>
+    <coll hits="9" score="11.480" query="w1143232407">legal</coll>
+    <coll hits="6" score="10.900" query="w1143232400">viable</coll>
+    <coll hits="14" score="10.820" query="w1143232401">daily</coll>
+    <coll hits="4" score="10.550" query="w1143232411">swept-area</coll>
+    <coll hits="3" score="10.100" query="w1143232408">acceptable</coll>
+    <coll hits="2" score="9.440" query="w1143232390">composite</coll>
+    <coll hits="2" score="9.010" query="w1143232393">effective</coll>
+    <coll hits="1" score="8.600" query="w1143232412">sweptarea</coll>
+    <coll hits="1" score="8.600" query="w1143232409">cross-validated</coll>
+    <coll hits="1" score="8.600" query="w1143232403">harvestable</coll>
+    <coll hits="1" score="8.590" query="w1143232410">10-year</coll>
+    <coll hits="1" score="8.570" query="w1143232388">detectable</coll>
+    <coll hits="1" score="8.550" query="w1143232406">hourly</coll>
+    <coll hits="1" score="8.520" query="w1143232405">extended</coll>
+    <coll hits="1" score="8.350" query="w1143232399">suitable</coll>
+    <coll hits="1" score="8.340" query="w1143232386">simple</coll>
+    <coll hits="1" score="8.240" query="w1143232404">energetic</coll>
+    <coll hits="1" score="8.190" query="w1143232392">required</coll>
+    <coll hits="1" score="8.150" query="w1143232391">possible</coll>
+    <coll hits="1" score="8.080" query="w1143232394">median</coll>
+    <coll hits="2" score="7.990" query="w1143232385">mean</coll>
+    <coll hits="1" score="7.770" query="w1143232402">lethal</coll>
+    <coll hits="1" score="7.760" query="w1143232384">standard</coll>
+    <coll hits="1" score="7.680" query="w1143232387">relative</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="0.530">
+    <coll hits="1" score="6.900" query="w1143449152">introduction</coll>
+    <coll hits="1" score="5.330" query="w1143449153">stickleback</coll>
+  </gramrel>
+</wordsketch>
+</export>

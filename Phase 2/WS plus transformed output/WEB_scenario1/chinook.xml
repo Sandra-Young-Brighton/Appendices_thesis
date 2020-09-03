@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">chinook</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="53" score="7.990">
+    <coll hits="14" score="9.480">C</coll>
+    <coll hits="1" score="9.160">Manistee</coll>
+    <coll hits="1" score="9.120">Reach</coll>
+    <coll hits="4" score="8.550">hour</coll>
+    <coll hits="2" score="8.190">chemical</coll>
+    <coll hits="1" score="7.920">Chile</coll>
+    <coll hits="1" score="7.470">1980</coll>
+    <coll hits="4" score="7.460">basin</coll>
+    <coll hits="2" score="6.850">tributary</coll>
+    <coll hits="1" score="6.800">characteristic</coll>
+    <coll hits="2" score="6.600">stock</coll>
+    <coll hits="2" score="6.330">Sea</coll>
+    <coll hits="1" score="6.070">watershed</coll>
+    <coll hits="1" score="5.960">order</coll>
+    <coll hits="1" score="5.820">surface</coll>
+    <coll hits="2" score="5.510">analysis</coll>
+    <coll hits="2" score="5.330">system</coll>
+    <coll hits="3" score="5.310">River</coll>
+    <coll hits="2" score="5.260">period</coll>
+    <coll hits="1" score="4.710">day</coll>
+    <coll hits="2" score="4.680">year</coll>
+    <coll hits="1" score="4.650">prey</coll>
+    <coll hits="1" score="3.720">area</coll>
+    <coll hits="1" score="1.740">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

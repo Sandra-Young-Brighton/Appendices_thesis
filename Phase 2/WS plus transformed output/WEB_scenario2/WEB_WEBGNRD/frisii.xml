@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">frisii</keyword>
+  <gramrel name="modifiers of X" hits="4" score="50.000">
+    <coll hits="1" score="12.680" query="w2031522050">alburnus</coll>
+    <coll hits="1" score="10.910" query="w2031522048">Cyprinidae</coll>
+    <coll hits="2" score="7.910" query="w2031522049">Rutilus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">genomovar</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="50.000">
+    <coll hits="2" score="11.350" query="w2164914755">columnare</coll>
+    <coll hits="1" score="10.820" query="w2164914754">Carpio</coll>
+    <coll hits="1" score="4.960" query="w2164914753">environment</coll>
+    <coll hits="3" score="4.690" query="w2164914752">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

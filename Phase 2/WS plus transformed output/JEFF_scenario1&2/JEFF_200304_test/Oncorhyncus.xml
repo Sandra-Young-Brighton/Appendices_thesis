@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Oncorhyncus</keyword>
+  <gramrel name="nouns modified by X" hits="9" score="64.290">
+    <coll hits="1" score="10.410">keta</coll>
+    <coll hits="1" score="10.350">gorbuscha</coll>
+    <coll hits="4" score="9.720">kisutch</coll>
+    <coll hits="2" score="9.160">tshawytscha</coll>
+    <coll hits="1" score="8.110">nerka</coll>
+  </gramrel>
+</wordsketch>
+</export>

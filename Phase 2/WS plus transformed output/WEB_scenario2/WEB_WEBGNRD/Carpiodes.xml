@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Carpiodes</keyword>
+  <gramrel name="nouns modified by X" hits="10" score="58.820">
+    <coll hits="3" score="12.880" query="w2130360321">cyprinus</coll>
+    <coll hits="2" score="12.410" query="w2130360322">velifer</coll>
+    <coll hits="5" score="10.180" query="w2130360320">Carpio</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ceriodaphnia</keyword>
+  <gramrel name="modifiers of X" hits="1" score="25.000">
+    <coll hits="1" score="13.990">Sida_crystallina</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="25.000">
+    <coll hits="1" score="13.000">Rotifera</coll>
+  </gramrel>
+</wordsketch>
+</export>

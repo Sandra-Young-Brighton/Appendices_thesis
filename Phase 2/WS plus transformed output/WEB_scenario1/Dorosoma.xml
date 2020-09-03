@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Dorosoma</keyword>
+  <gramrel name="nouns modified by X" hits="21" score="55.260">
+    <coll hits="14" score="13.670">cepedianum</coll>
+    <coll hits="7" score="13.000">petenense</coll>
+  </gramrel>
+</wordsketch>
+</export>

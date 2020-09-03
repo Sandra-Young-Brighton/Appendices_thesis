@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Centrarchidae</keyword>
+  <gramrel name="modifiers of X" hits="4" score="8.890">
+    <coll hits="2" score="13.410">rupestris</coll>
+    <coll hits="1" score="12.680">Anguillidae</coll>
+    <coll hits="1" score="10.750">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="4.440">
+    <coll hits="2" score="9.930">gibbosus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.220">
+    <coll hits="1" score="13.990">Clupeidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

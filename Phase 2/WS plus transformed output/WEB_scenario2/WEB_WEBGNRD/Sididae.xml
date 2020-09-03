@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sididae</keyword>
+  <gramrel name="modifiers of X" hits="2" score="40.000">
+    <coll hits="1" score="13.410" query="w1941999104">Bosminidae</coll>
+    <coll hits="1" score="13.000" query="w1941999105">Moinidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="20.000">
+    <coll hits="1" score="12.680" query="w1942016128">birgei</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="40.000">
+    <coll hits="1" score="13.410" query="w1941980097">birgei</coll>
+    <coll hits="1" score="13.410" query="w1941980096">Daphniidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

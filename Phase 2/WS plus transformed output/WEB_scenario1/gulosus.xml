@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">gulosus</keyword>
+  <gramrel name="modifiers of X" hits="17" score="85.000">
+    <coll hits="2" score="11.750">Microgobius</coll>
+    <coll hits="1" score="10.680">cyanellus</coll>
+    <coll hits="1" score="10.600">gibbosus</coll>
+    <coll hits="7" score="9.880">Lepomis</coll>
+    <coll hits="6" score="9.230">Cottus</coll>
+  </gramrel>
+</wordsketch>
+</export>

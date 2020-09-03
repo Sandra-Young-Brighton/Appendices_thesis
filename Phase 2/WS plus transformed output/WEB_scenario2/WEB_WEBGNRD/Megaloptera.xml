@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Megaloptera</keyword>
+  <gramrel name="modifiers of X" hits="5" score="26.320">
+    <coll hits="2" score="12.830" query="w1706760513">Hydracarina</coll>
+    <coll hits="2" score="11.540" query="w1706760514">Oligochaeta</coll>
+    <coll hits="1" score="10.350" query="w1706760512">Gastropoda</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="5" score="26.320">
+    <coll hits="2" score="12.830" query="w1706797633">Dytiscidae</coll>
+    <coll hits="1" score="12.410" query="w1706797634">Sialidae</coll>
+    <coll hits="1" score="12.190" query="w1706797635">Tipulidae</coll>
+    <coll hits="1" score="11.540" query="w1706797632">Bivalvia</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="21.050">
+    <coll hits="2" score="12.830" query="w1706733120">Dytiscidae</coll>
+    <coll hits="1" score="12.680" query="w1706733121">Sialidae</coll>
+    <coll hits="1" score="12.190" query="w1706733122">Tipulidae</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="10.530">
+    <coll hits="1" score="12.680" query="w1706832577">lacustris</coll>
+    <coll hits="1" score="12.680" query="w1706832576">Gammarus</coll>
+  </gramrel>
+</wordsketch>
+</export>

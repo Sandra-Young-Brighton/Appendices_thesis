@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Diporeia</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="6.250">
+    <coll hits="4" score="13.830" query="w1991678977">decline</coll>
+    <coll hits="1" score="12.410" query="w1991678976">Mysis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="2.500">
+    <coll hits="2" score="13.990" query="w1991670144">Mysis</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="1.250" query="w1991735104">&quot;%w&quot; is the generic of...</coll>
+    <coll hits="1" score="1.250" query="w1991749696">&quot;%w&quot; is a type of...</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="7.500">
+    <coll hits="2" score="12.190" query="w1991695105">Mysis</coll>
+    <coll hits="3" score="7.420" query="w1991695106">Ontario</coll>
+    <coll hits="1" score="6.700" query="w1991695104">item</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Mollusca</keyword>
+  <gramrel name="modifiers of X" hits="2" score="8.330">
+    <coll hits="1" score="11.990">Chironomidae</coll>
+    <coll hits="1" score="11.190">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="8.330">
+    <coll hits="1" score="13.410">Bivalvia</coll>
+    <coll hits="1" score="10.600">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="12.500">
+    <coll hits="1" score="13.000">Bivalvia</coll>
+    <coll hits="2" score="11.540">Trichoptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hypophthalmichthys</keyword>
+  <gramrel name="nouns modified by X" hits="21" score="65.630">
+    <coll hits="13" score="13.530" query="w2039997697">molitrix</coll>
+    <coll hits="7" score="12.800" query="w2039997696">nobilis</coll>
+    <coll hits="1" score="10.540" query="w2039997698">harmandi</coll>
+  </gramrel>
+</wordsketch>
+</export>

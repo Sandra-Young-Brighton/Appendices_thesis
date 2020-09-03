@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Carpiodes</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="29.410">
+    <coll hits="3" score="13.580">cyprinus</coll>
+    <coll hits="2" score="13.190">velifer</coll>
+  </gramrel>
+</wordsketch>
+</export>

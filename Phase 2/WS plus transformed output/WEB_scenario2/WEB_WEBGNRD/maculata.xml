@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">maculata</keyword>
+  <gramrel name="modifiers of X" hits="9" score="42.860">
+    <coll hits="5" score="12.680" query="w1925030914">Percina</coll>
+    <coll hits="2" score="12.540" query="w1925030915">Notonecta</coll>
+    <coll hits="1" score="11.540" query="w1925030913">exile</coll>
+    <coll hits="1" score="9.410" query="w1925030912">Etheostoma</coll>
+  </gramrel>
+</wordsketch>
+</export>

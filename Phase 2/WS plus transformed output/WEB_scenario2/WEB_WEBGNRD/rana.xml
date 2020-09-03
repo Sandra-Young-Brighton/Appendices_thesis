@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rana</keyword>
+  <gramrel name="nouns modified by X" hits="21" score="48.840">
+    <coll hits="12" score="13.540" query="w2058538754">temporaria</coll>
+    <coll hits="4" score="12.350" query="w2058538752">catesbeiana</coll>
+    <coll hits="2" score="11.470" query="w2058538756">chiricahuensis</coll>
+    <coll hits="1" score="10.540" query="w2058538757">muscosa</coll>
+    <coll hits="1" score="10.540" query="w2058538755">pipiens</coll>
+    <coll hits="1" score="10.470" query="w2058538753">aurora</coll>
+  </gramrel>
+</wordsketch>
+</export>

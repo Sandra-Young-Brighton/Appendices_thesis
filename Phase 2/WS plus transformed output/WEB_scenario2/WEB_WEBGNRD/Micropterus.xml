@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Micropterus</keyword>
+  <gramrel name="nouns modified by X" hits="80" score="21.680">
+    <coll hits="52" score="13.650" query="w1111414721">dolomieu</coll>
+    <coll hits="16" score="12.410" query="w1111414722">dolomieui</coll>
+    <coll hits="6" score="11.150" query="w1111414723">punctulatus</coll>
+    <coll hits="1" score="8.650" query="w1111414728">notius</coll>
+    <coll hits="1" score="8.650" query="w1111414727">treculi</coll>
+    <coll hits="1" score="8.650" query="w1111414726">coosae</coll>
+    <coll hits="1" score="8.520" query="w1111414725">Percina</coll>
+    <coll hits="1" score="8.430" query="w1111414724">cataractae</coll>
+    <coll hits="1" score="6.890" query="w1111414720">namaycush</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.270">
+    <coll hits="1" score="11.540" query="w1111490816">Centrarchidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

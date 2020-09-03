@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Castor</keyword>
+  <gramrel name="nouns modified by X" hits="9" score="75.000">
+    <coll hits="9" score="13.470">canadensis</coll>
+  </gramrel>
+</wordsketch>
+</export>

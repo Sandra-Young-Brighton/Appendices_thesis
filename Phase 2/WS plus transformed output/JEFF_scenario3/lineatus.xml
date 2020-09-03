@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lineatus</keyword>
+  <gramrel name="modifiers of X" hits="14" score="20.000">
+    <coll hits="14" score="13.990">Prochilodus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="10" score="14.290">
+    <coll hits="2" score="11.610">Parana</coll>
+    <coll hits="2" score="8.490">lagoon</coll>
+    <coll hits="1" score="7.200">floodplain</coll>
+    <coll hits="1" score="6.850">B</coll>
+    <coll hits="3" score="5.680">period</coll>
+    <coll hits="1" score="3.920">area</coll>
+  </gramrel>
+</wordsketch>
+</export>

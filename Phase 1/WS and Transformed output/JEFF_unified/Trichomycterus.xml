@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Trichomycterus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="9.090">
+    <coll hits="1" score="13.990">Characidium</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="18.180">
+    <coll hits="1" score="13.000">Cottus_bairdi</coll>
+    <coll hits="1" score="7.400">species</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="9.090">
+    <coll hits="1" score="3.260">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">sucetta</keyword>
+  <gramrel name="modifiers of X" hits="3" score="60.000">
+    <coll hits="3" score="13.120" query="w2134848256">Erimyzon</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="20.000">
+    <coll hits="1" score="12.410" query="w2134858816">nigricans</coll>
+  </gramrel>
+</wordsketch>
+</export>

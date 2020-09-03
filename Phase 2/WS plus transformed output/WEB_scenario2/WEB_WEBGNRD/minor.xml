@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">minor</keyword>
+  <gramrel name="X and/or ..." hits="13" score="6.600">
+    <coll hits="2" score="11.910" query="w1276875593">setal</coll>
+    <coll hits="1" score="11.190" query="w1276875592">Downloaded</coll>
+    <coll hits="1" score="10.350" query="w1276875589">apical</coll>
+    <coll hits="2" score="10.090" query="w1276875585">major</coll>
+    <coll hits="1" score="9.320" query="w1276875584">geographical</coll>
+    <coll hits="1" score="9.210" query="w1276875590">morphometric</coll>
+    <coll hits="2" score="8.960" query="w1276875591">indirect</coll>
+    <coll hits="1" score="8.930" query="w1276875588">secondary</coll>
+    <coll hits="1" score="7.520" query="w1276875586">commercial</coll>
+    <coll hits="1" score="7.340" query="w1276875587">dietary</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.510">
+    <coll hits="1" score="6.490" query="w1276952576">impact</coll>
+  </gramrel>
+</wordsketch>
+</export>

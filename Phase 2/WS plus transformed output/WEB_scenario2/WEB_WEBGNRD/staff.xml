@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">staff</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="223" score="67.170">
+    <coll hits="115" score="13.440" query="w949107988">DFG</coll>
+    <coll hits="61" score="12.760" query="w949107989">USFS</coll>
+    <coll hits="3" score="8.750" query="w949107990">BLM</coll>
+    <coll hits="2" score="8.180" query="w949108001">Laos</coll>
+    <coll hits="2" score="8.080" query="w949107974">Centre</coll>
+    <coll hits="2" score="7.960" query="w949107978">Laboratory</coll>
+    <coll hits="2" score="7.940" query="w949107999">the</coll>
+    <coll hits="2" score="7.930" query="w949107982">Station</coll>
+    <coll hits="3" score="7.730" query="w949107970">Department</coll>
+    <coll hits="2" score="7.620" query="w949107972">Institute</coll>
+    <coll hits="3" score="7.410" query="w949107971">University</coll>
+    <coll hits="1" score="7.190" query="w949108003">DBML</coll>
+    <coll hits="1" score="7.180" query="w949108000">IISD-ELA</coll>
+    <coll hits="1" score="7.180" query="w949107981">Associates</coll>
+    <coll hits="1" score="7.160" query="w949108002">IFI</coll>
+    <coll hits="1" score="7.130" query="w949107998">destination</coll>
+    <coll hits="1" score="7.080" query="w949107984">School</coll>
+    <coll hits="1" score="7.080" query="w949107968">show</coll>
+    <coll hits="1" score="7.010" query="w949107985">left</coll>
+    <coll hits="1" score="6.960" query="w949107991">band</coll>
+    <coll hits="1" score="6.910" query="w949107973">Museum</coll>
+    <coll hits="1" score="6.900" query="w949107996">Section</coll>
+    <coll hits="1" score="6.860" query="w949107993">Ministry</coll>
+    <coll hits="1" score="6.840" query="w949107987">Association</coll>
+    <coll hits="1" score="6.810" query="w949107994">screen</coll>
+  </gramrel>
+</wordsketch>
+</export>

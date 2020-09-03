@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cottus_gobio</keyword>
+  <gramrel name="modifiers of X" hits="17" score="16.350">
+    <coll hits="15" score="13.090">bullhead</coll>
+    <coll hits="2" score="5.300">fish</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="1.920">
+    <coll hits="1" score="13.410">Barbatula_barbatula</coll>
+    <coll hits="1" score="8.690">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="5.770">
+    <coll hits="1" score="12.190">Alosa_alosa</coll>
+    <coll hits="1" score="12.190">Barbatula_barbatula</coll>
+    <coll hits="1" score="11.670">Cyprinella_venusta</coll>
+    <coll hits="3" score="10.120">specie</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="1.920">
+    <coll hits="1" score="13.410">Voer</coll>
+    <coll hits="1" score="13.410">Knaepkens</coll>
+  </gramrel>
+</wordsketch>
+</export>

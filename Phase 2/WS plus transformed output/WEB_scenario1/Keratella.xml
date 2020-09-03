@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Keratella</keyword>
+  <gramrel name="X is the generic of..." hits="1" score="2.500">
+    <coll hits="1" score="13.000">Daphnia</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="2.500">
+    <coll hits="1" score="13.410">Daphnia</coll>
+  </gramrel>
+</wordsketch>
+</export>

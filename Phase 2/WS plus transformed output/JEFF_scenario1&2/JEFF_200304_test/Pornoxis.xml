@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pornoxis</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="37.500">
+    <coll hits="1" score="13.000">nigrornaculatus</coll>
+    <coll hits="1" score="11.190">annularis</coll>
+    <coll hits="1" score="11.090">nigromaculatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

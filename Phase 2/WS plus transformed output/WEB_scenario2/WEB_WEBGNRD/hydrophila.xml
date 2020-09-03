@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">hydrophila</keyword>
+  <gramrel name="modifiers of X" hits="6" score="100.000">
+    <coll hits="2" score="13.000" query="w1890527232">tarda</coll>
+    <coll hits="4" score="12.830" query="w1890527233">Aeromonas</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">vaneyi</keyword>
+  <gramrel name="modifiers of X" hits="1" score="100.000">
+    <coll hits="1" score="13.990" query="w2071995776">Dollfustrema</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="100.000">
+    <coll hits="1" score="13.000" query="w2072004736">fulvidraco</coll>
+  </gramrel>
+</wordsketch>
+</export>

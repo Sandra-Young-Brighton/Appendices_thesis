@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_sanluc_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">stizostedion_lucioperca</keyword>
+  <gramrel name="modifiers of X" hits="6" score="10.000">
+    <coll hits="5" score="12.270">pikeperch</coll>
+    <coll hits="1" score="11.410">zander</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.670">
+    <coll hits="1" score="13.990">perca_fluviatilis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.670">
+    <coll hits="1" score="13.410">perca_fluviatilis</coll>
+  </gramrel>
+</wordsketch>
+</export>

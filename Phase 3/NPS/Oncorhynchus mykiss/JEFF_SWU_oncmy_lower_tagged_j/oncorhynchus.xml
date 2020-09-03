@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">oncorhynchus</keyword>
+  <gramrel name="modifiers of X" hits="10" score="5.320">
+    <coll hits="5" score="13.320">salmo</coll>
+    <coll hits="2" score="12.290">oncorhynchus</coll>
+    <coll hits="1" score="10.750">steelhead</coll>
+    <coll hits="1" score="10.300">rainbow_trout</coll>
+    <coll hits="1" score="9.440">rainbow_trout</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="1.600">
+    <coll hits="2" score="12.290">oncorhynchus</coll>
+    <coll hits="1" score="12.190">salmo</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="3.190">
+    <coll hits="5" score="13.510">salvelinus</coll>
+    <coll hits="1" score="11.990">salmo</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="3.720">
+    <coll hits="1" score="11.670">mykiss</coll>
+    <coll hits="1" score="8.310">canada</coll>
+    <coll hits="1" score="7.860">extent</coll>
+    <coll hits="1" score="7.530">edge</coll>
+    <coll hits="1" score="5.040">reach</coll>
+    <coll hits="1" score="5.010">basin</coll>
+    <coll hits="1" score="3.210">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

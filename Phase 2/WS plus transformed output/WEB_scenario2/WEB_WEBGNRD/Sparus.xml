@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sparus</keyword>
+  <gramrel name="nouns modified by X" hits="27" score="49.090">
+    <coll hits="19" score="13.630" query="w1819137345">aurata</coll>
+    <coll hits="3" score="11.670" query="w1819137347">Aurata</coll>
+    <coll hits="2" score="10.870" query="w1819137346">macrocephalus</coll>
+    <coll hits="3" score="9.910" query="w1819137344">auratus</coll>
+  </gramrel>
+</wordsketch>
+</export>

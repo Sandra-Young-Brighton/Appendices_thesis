@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Bunodera</keyword>
+  <gramrel name="modifiers of X" hits="1" score="20.000">
+    <coll hits="1" score="12.190" query="w1775089024">Allocreadium</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="20.000">
+    <coll hits="1" score="13.990" query="w1775098560">Crepidostomum</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="20.000">
+    <coll hits="1" score="13.990" query="w1775080256">Crepidostomum</coll>
+  </gramrel>
+</wordsketch>
+</export>

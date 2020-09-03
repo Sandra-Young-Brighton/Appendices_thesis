@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">palustris</keyword>
+  <gramrel name="modifiers of X" hits="5" score="14.710">
+    <coll hits="2" score="13.190" query="w2067187009">Zannichellia</coll>
+    <coll hits="1" score="12.410" query="w2067187011">Zizania</coll>
+    <coll hits="1" score="12.410" query="w2067187010">Sorex</coll>
+    <coll hits="1" score="10.820" query="w2067187008">Eleocharis</coll>
+  </gramrel>
+</wordsketch>
+</export>

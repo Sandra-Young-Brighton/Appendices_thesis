@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">commersoni</keyword>
+  <gramrel name="modifiers of X" hits="29" score="50.880">
+    <coll hits="26" score="12.940" query="w1151974272">Catostomus</coll>
+    <coll hits="2" score="10.870" query="w1151974273">Catastomus</coll>
+    <coll hits="1" score="10.090" query="w1151974274">Catestamers</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.750">
+    <coll hits="1" score="12.190" query="w1152002624">Perca</coll>
+  </gramrel>
+</wordsketch>
+</export>

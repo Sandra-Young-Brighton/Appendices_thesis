@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Eubothrium</keyword>
+  <gramrel name="nouns modified by X" hits="54" score="52.430">
+    <coll hits="33" score="13.580" query="w1994744704">crassum</coll>
+    <coll hits="20" score="12.950" query="w1994744705">salvelini</coll>
+    <coll hits="1" score="9.210" query="w1994744706">rugosum</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="9" score="8.740">
+    <coll hits="1" score="11.670" query="w1994774021">Byrne</coll>
+    <coll hits="1" score="8.790" query="w1994774018">T</coll>
+    <coll hits="1" score="6.770" query="w1994774017">infection</coll>
+    <coll hits="2" score="6.010" query="w1994774019">salmonid</coll>
+    <coll hits="2" score="4.100" query="w1994774020">trout</coll>
+    <coll hits="2" score="2.750" query="w1994774016">fish</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="1.940">
+    <coll hits="1" score="11.540" query="w1994836929">lucii</coll>
+    <coll hits="1" score="11.540" query="w1994836928">Acanthocephalus</coll>
+  </gramrel>
+</wordsketch>
+</export>

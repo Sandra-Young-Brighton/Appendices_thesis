@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">pulchellus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="40.000">
+    <coll hits="1" score="10.540" query="w2146616065">Anthrenocerus</coll>
+    <coll hits="1" score="8.150" query="w2146616064">Leuciscus</coll>
+  </gramrel>
+</wordsketch>
+</export>

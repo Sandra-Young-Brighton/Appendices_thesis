@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">monodon</keyword>
+  <gramrel name="modifiers of X" hits="4" score="44.440">
+    <coll hits="3" score="13.000" query="w2087423808">Penaeus</coll>
+    <coll hits="1" score="12.680" query="w2087423809">Protrachypene</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="11.110">
+    <coll hits="1" score="12.410" query="w2087447808">ensis</coll>
+  </gramrel>
+</wordsketch>
+</export>

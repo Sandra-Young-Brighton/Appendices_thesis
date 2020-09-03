@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cichlidae</keyword>
+  <gramrel name="modifiers of X" hits="3" score="11.540">
+    <coll hits="3" score="13.000" query="w1960847424">Teleostei</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="3.850">
+    <coll hits="1" score="9.830" query="w1960861376">mossambicus</coll>
+  </gramrel>
+</wordsketch>
+</export>

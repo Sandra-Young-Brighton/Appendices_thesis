@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Aphanius</keyword>
+  <gramrel name="nouns modified by X" hits="9" score="50.000">
+    <coll hits="2" score="12.540" query="w2036968579">hormuzensis</coll>
+    <coll hits="1" score="11.670" query="w2036968583">anatolia</coll>
+    <coll hits="1" score="11.670" query="w2036968582">iberus</coll>
+    <coll hits="1" score="11.670" query="w2036968581">kruppi</coll>
+    <coll hits="1" score="11.670" query="w2036968580">persicus</coll>
+    <coll hits="1" score="10.910" query="w2036968578">fasciatus</coll>
+    <coll hits="1" score="10.750" query="w2036968577">dispar</coll>
+    <coll hits="1" score="10.410" query="w2036968576">furcatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">piscivorous</keyword>
+  <gramrel name="X and/or ..." hits="83" score="14.120">
+    <coll hits="15" score="12.050" query="w1447107668">benthivorous</coll>
+    <coll hits="7" score="11.310" query="w1447107671">non-piscivorous</coll>
+    <coll hits="7" score="10.840" query="w1447107658">Eurasian</coll>
+    <coll hits="5" score="10.490" query="w1447107664">planktivorous</coll>
+    <coll hits="3" score="9.970" query="w1447107665">aggressive</coll>
+    <coll hits="19" score="9.950" query="w1447107660">brown</coll>
+    <coll hits="7" score="8.920" query="w1447107653">trophic</coll>
+    <coll hits="1" score="8.570" query="w1447107670">voracious</coll>
+    <coll hits="1" score="8.550" query="w1447107657">cannibalistic</coll>
+    <coll hits="2" score="8.500" query="w1447107661">non-native</coll>
+    <coll hits="1" score="8.330" query="w1447107654">top</coll>
+    <coll hits="1" score="8.280" query="w1447107669">herbivorous</coll>
+    <coll hits="1" score="8.200" query="w1447107666">zooplanktivorous</coll>
+    <coll hits="1" score="7.950" query="w1447107649">previous</coll>
+    <coll hits="1" score="7.800" query="w1447107663">piscivorous</coll>
+    <coll hits="2" score="7.760" query="w1447107662">European</coll>
+    <coll hits="1" score="7.630" query="w1447107667">cutthroat</coll>
+    <coll hits="2" score="7.500" query="w1447107652">coastal</coll>
+    <coll hits="1" score="7.170" query="w1447107648">northern</coll>
+    <coll hits="1" score="6.980" query="w1447107651">mean</coll>
+    <coll hits="1" score="6.560" query="w1447107656">invertebrate</coll>
+    <coll hits="1" score="6.470" query="w1447107659">yellow</coll>
+    <coll hits="1" score="6.240" query="w1447107650">juvenile</coll>
+    <coll hits="1" score="6.130" query="w1447107655">marine</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="19" score="3.230">
+    <coll hits="1" score="10.600" query="w1447325195">lenght</coll>
+    <coll hits="1" score="9.300" query="w1447325194">d15N</coll>
+    <coll hits="1" score="8.650" query="w1447325196">LCRR</coll>
+    <coll hits="5" score="8.350" query="w1447325186">adult</coll>
+    <coll hits="1" score="6.150" query="w1447325190">end</coll>
+    <coll hits="1" score="6.140" query="w1447325188">mm.</coll>
+    <coll hits="3" score="5.560" query="w1447325192">size</coll>
+    <coll hits="1" score="4.860" query="w1447325191">range</coll>
+    <coll hits="1" score="4.760" query="w1447325185">day</coll>
+    <coll hits="1" score="4.540" query="w1447325189">length</coll>
+    <coll hits="1" score="3.700" query="w1447325184">year</coll>
+    <coll hits="1" score="3.100" query="w1447325193">trout</coll>
+    <coll hits="1" score="1.750" query="w1447325187">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

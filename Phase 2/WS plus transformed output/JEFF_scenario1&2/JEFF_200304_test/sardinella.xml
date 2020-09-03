@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">sardinella</keyword>
+  <gramrel name="modifiers of X" hits="11" score="31.430">
+    <coll hits="11" score="10.270">Coregonus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="17.140">
+    <coll hits="3" score="6.850">Lake</coll>
+    <coll hits="1" score="6.800">locus</coll>
+    <coll hits="1" score="6.790">field</coll>
+    <coll hits="1" score="3.770">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

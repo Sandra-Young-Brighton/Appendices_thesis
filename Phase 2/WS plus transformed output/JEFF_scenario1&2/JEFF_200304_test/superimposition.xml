@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">superimposition</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="24" score="21.240">
+    <coll hits="2" score="10.640">landmark</coll>
+    <coll hits="1" score="10.300">imple</coll>
+    <coll hits="2" score="8.560">spawner</coll>
+    <coll hits="1" score="8.540">taimen</coll>
+    <coll hits="1" score="7.860">series</coll>
+    <coll hits="1" score="7.240">hypothesis</coll>
+    <coll hits="2" score="7.020">relation</coll>
+    <coll hits="8" score="6.160">trout</coll>
+    <coll hits="1" score="6.140">part</coll>
+    <coll hits="1" score="5.700">location</coll>
+    <coll hits="1" score="5.670">female</coll>
+    <coll hits="1" score="4.690">density</coll>
+    <coll hits="1" score="3.250">stream</coll>
+    <coll hits="1" score="3.150">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

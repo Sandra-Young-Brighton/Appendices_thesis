@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Chondrostoma_oligolepis</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="33.330">
+    <coll hits="1" score="7.330">Salmo_trutta</coll>
+  </gramrel>
+</wordsketch>
+</export>

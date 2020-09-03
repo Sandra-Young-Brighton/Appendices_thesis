@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Monogenea</keyword>
+  <gramrel name="modifiers of X" hits="12" score="11.430">
+    <coll hits="5" score="13.000" query="w1773326848">Trematoda</coll>
+    <coll hits="3" score="12.680" query="w1773326850">Gyrodactylidae</coll>
+    <coll hits="4" score="12.410" query="w1773326849">Platyhelminthes</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="17" score="16.190">
+    <coll hits="13" score="13.790" query="w1773370563">Gyrodactylidae</coll>
+    <coll hits="1" score="10.820" query="w1773370564">Monopisthocotylea</coll>
+    <coll hits="1" score="10.820" query="w1773370562">Platyhelminthes</coll>
+    <coll hits="1" score="10.820" query="w1773370561">Digenea</coll>
+    <coll hits="1" score="10.680" query="w1773370560">Annelida</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="18" score="17.140">
+    <coll hits="13" score="13.750" query="w1773275075">Gyrodactylidae</coll>
+    <coll hits="2" score="11.670" query="w1773275073">Digenea</coll>
+    <coll hits="1" score="10.750" query="w1773275076">Monopisthocotylea</coll>
+    <coll hits="1" score="10.750" query="w1773275074">Platyhelminthes</coll>
+    <coll hits="1" score="10.540" query="w1773275072">Annelida</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="2" score="1.900">
+    <coll hits="2" score="13.990" query="w1773421184">truttae</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.950">
+    <coll hits="1" score="13.000" query="w1773416448">Myxozoa</coll>
+  </gramrel>
+</wordsketch>
+</export>

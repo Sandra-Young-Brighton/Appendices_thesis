@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Annelida</keyword>
+  <gramrel name="modifiers of X" hits="3" score="1.410">
+    <coll hits="1" score="11.670" query="w82938944">Nematoda</coll>
+    <coll hits="1" score="11.090" query="w82938945">Mollusca</coll>
+    <coll hits="1" score="10.680" query="w82938946">Monogenea</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="6" score="2.820">
+    <coll hits="3" score="13.410" query="w82959872">Clitellata</coll>
+    <coll hits="1" score="12.190" query="w82959875">Cirripedia</coll>
+    <coll hits="1" score="11.670" query="w82959874">Echinodermata</coll>
+    <coll hits="1" score="11.670" query="w82959873">Acari</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="2.820">
+    <coll hits="3" score="13.410" query="w82905728">Clitellata</coll>
+    <coll hits="1" score="12.190" query="w82905731">Cirripedia</coll>
+    <coll hits="1" score="12.190" query="w82905730">Echinodermata</coll>
+    <coll hits="1" score="11.990" query="w82905729">Arthropoda</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.470">
+    <coll hits="1" score="13.000" query="w82992320">Myxozoa</coll>
+  </gramrel>
+</wordsketch>
+</export>

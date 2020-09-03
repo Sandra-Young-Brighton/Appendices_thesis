@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">aurea</keyword>
+  <gramrel name="modifiers of X" hits="9" score="64.290">
+    <coll hits="8" score="11.340" query="w2006363264">Oreochromis</coll>
+    <coll hits="1" score="10.300" query="w2006363265">Tilapia</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="14.290">
+    <coll hits="2" score="12.680" query="w2006385856">Kinnereth</coll>
+  </gramrel>
+</wordsketch>
+</export>

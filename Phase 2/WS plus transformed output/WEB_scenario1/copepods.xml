@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">copepods</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="56" score="11.570">
+    <coll hits="4" score="11.040">synchronization</coll>
+    <coll hits="2" score="9.830">Arauco</coll>
+    <coll hits="2" score="9.570">coregonid</coll>
+    <coll hits="1" score="9.120">procercoid</coll>
+    <coll hits="1" score="8.980">tapeworm</coll>
+    <coll hits="1" score="8.730">ichthyoplankton</coll>
+    <coll hits="1" score="8.730">Harbour</coll>
+    <coll hits="1" score="8.680">epilimnion</coll>
+    <coll hits="1" score="8.370">container</coll>
+    <coll hits="1" score="8.190">tow</coll>
+    <coll hits="1" score="8.130">one</coll>
+    <coll hits="1" score="8.020">warming</coll>
+    <coll hits="1" score="8.000">Wisconsin</coll>
+    <coll hits="2" score="7.890">shore</coll>
+    <coll hits="1" score="7.800">nauplius</coll>
+    <coll hits="1" score="7.770">cladoceran</coll>
+    <coll hits="2" score="7.720">host</coll>
+    <coll hits="1" score="7.260">copepod</coll>
+    <coll hits="1" score="7.050">feed</coll>
+    <coll hits="2" score="6.980">control</coll>
+    <coll hits="2" score="6.900">June</coll>
+    <coll hits="1" score="6.750">program</coll>
+    <coll hits="1" score="6.640">aquarium</coll>
+    <coll hits="2" score="6.600">response</coll>
+    <coll hits="1" score="6.100">biomass</coll>
+  </gramrel>
+</wordsketch>
+</export>

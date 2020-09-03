@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Carassius_carassius</keyword>
+  <gramrel name="modifiers of X" hits="1" score="3.330">
+    <coll hits="1" score="9.000">specie</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="6.670">
+    <coll hits="2" score="7.810">specie</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="3.330">
+    <coll hits="1" score="6.790">pond</coll>
+  </gramrel>
+</wordsketch>
+</export>

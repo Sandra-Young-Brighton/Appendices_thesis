@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Micropterus_dolomieu</keyword>
+  <gramrel name="modifiers of X" hits="1" score="2.940">
+    <coll hits="1" score="12.190">Lota_lota</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.940">
+    <coll hits="1" score="13.000">Lucius</coll>
+  </gramrel>
+  <gramrel name="... is a X" hits="1" score="2.940">
+    <coll hits="1" score="13.000">predator</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="2.940">
+    <coll hits="1" score="9.950">predator</coll>
+  </gramrel>
+</wordsketch>
+</export>

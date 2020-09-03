@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">caeca</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="14" score="21.540">
+    <coll hits="1" score="11.090" query="w1427952327">chyme</coll>
+    <coll hits="1" score="9.380" query="w1427952320">mykiss</coll>
+    <coll hits="2" score="8.910" query="w1427952326">sunfish</coll>
+    <coll hits="1" score="7.120" query="w1427952321">mean</coll>
+    <coll hits="2" score="5.360" query="w1427952325">perch</coll>
+    <coll hits="1" score="5.160" query="w1427952324">structure</coll>
+    <coll hits="3" score="4.790" query="w1427952322">salmon</coll>
+    <coll hits="3" score="4.690" query="w1427952323">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

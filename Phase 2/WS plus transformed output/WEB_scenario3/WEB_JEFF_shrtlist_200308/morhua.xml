@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">morhua</keyword>
+  <gramrel name="modifiers of X" hits="100" score="55.250">
+    <coll hits="100" score="13.980">Gadus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="1.660">
+    <coll hits="1" score="11.830">Gadidae</coll>
+    <coll hits="1" score="10.350">aeglefinus</coll>
+    <coll hits="1" score="8.070">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="1.100">
+    <coll hits="1" score="13.000">Gadidae</coll>
+    <coll hits="1" score="12.190">flavescens</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="3.310">
+    <coll hits="1" score="12.190">Lofoten</coll>
+    <coll hits="1" score="11.300">Shelf</coll>
+    <coll hits="1" score="8.820">Baltic</coll>
+    <coll hits="1" score="7.000">Gulf</coll>
+    <coll hits="1" score="4.900">rate</coll>
+    <coll hits="1" score="4.650">condition</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="2" score="1.100">
+    <coll hits="2" score="9.870">[number]</coll>
+  </gramrel>
+</wordsketch>
+</export>

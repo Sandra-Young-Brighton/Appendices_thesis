@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hydrilla</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="11.110">
+    <coll hits="1" score="3.770">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

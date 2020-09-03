@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">clarkii</keyword>
+  <gramrel name="modifiers of X" hits="17" score="29.310">
+    <coll hits="5" score="12.860">Procambarus</coll>
+    <coll hits="1" score="9.830">trutta</coll>
+    <coll hits="11" score="8.020">Oncorhynchus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="3.450">
+    <coll hits="1" score="5.980">tributary</coll>
+    <coll hits="1" score="3.560">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

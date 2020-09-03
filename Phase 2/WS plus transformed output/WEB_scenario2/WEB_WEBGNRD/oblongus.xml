@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">oblongus</keyword>
+  <gramrel name="modifiers of X" hits="4" score="66.670">
+    <coll hits="4" score="13.410" query="w2114969728">Erimyzon</coll>
+  </gramrel>
+</wordsketch>
+</export>

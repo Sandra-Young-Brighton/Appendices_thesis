@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Chaoboridae</keyword>
+  <gramrel name="modifiers of X" hits="4" score="26.670">
+    <coll hits="3" score="11.720" query="w2073498496">Diptera</coll>
+    <coll hits="1" score="10.600" query="w2073498497">Oligochaeta</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="6.670">
+    <coll hits="1" score="13.990" query="w2073488896">Ceratopogonidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

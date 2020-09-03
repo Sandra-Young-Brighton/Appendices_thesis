@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Coregonus</keyword>
+  <gramrel name="nouns modified by X" hits="552" score="56.500">
+    <coll hits="215" score="13.160" query="w378009997">lavaretus</coll>
+    <coll hits="86" score="12.100" query="w378009994">albula</coll>
+    <coll hits="71" score="11.860" query="w378009990">clupeaformis</coll>
+    <coll hits="27" score="10.570" query="w378009996">hoyi</coll>
+    <coll hits="26" score="10.520" query="w378010003">artedi</coll>
+    <coll hits="17" score="9.930" query="w378009989">artedii</coll>
+    <coll hits="15" score="9.750" query="w378010000">autumnalis</coll>
+    <coll hits="12" score="9.380" query="w378009985">nasus</coll>
+    <coll hits="8" score="8.860" query="w378010013">wartmanni</coll>
+    <coll hits="6" score="8.460" query="w378010001">Albula</coll>
+    <coll hits="5" score="8.190" query="w378010006">nigripinnis</coll>
+    <coll hits="5" score="8.190" query="w378009988">sardinella</coll>
+    <coll hits="4" score="7.880" query="w378010020">zenithicus</coll>
+    <coll hits="4" score="7.880" query="w378010010">pollan</coll>
+    <coll hits="4" score="7.880" query="w378010005">johannae</coll>
+    <coll hits="4" score="7.880" query="w378009999">oxyrinchus</coll>
+    <coll hits="3" score="7.470" query="w378010021">maraena</coll>
+    <coll hits="3" score="7.470" query="w378010017">reighardi</coll>
+    <coll hits="3" score="7.470" query="w378010015">peled</coll>
+    <coll hits="3" score="7.470" query="w378010009">kiyi</coll>
+    <coll hits="3" score="7.470" query="w378010002">laurettae</coll>
+    <coll hits="2" score="6.880" query="w378010025">trybomi</coll>
+    <coll hits="2" score="6.880" query="w378010019">gutturosus</coll>
+    <coll hits="2" score="6.880" query="w378010018">arenicolus</coll>
+    <coll hits="2" score="6.880" query="w378010016">nelsonii</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="15" score="1.540">
+    <coll hits="3" score="12.190" query="w378412805">lavaretus</coll>
+    <coll hits="3" score="12.190" query="w378412800">Coregonus</coll>
+    <coll hits="5" score="11.890" query="w378412801">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="6" score="0.610">
+    <coll hits="3" score="12.880" query="w378404353">lavaretus</coll>
+    <coll hits="3" score="12.190" query="w378404352">Coregonus</coll>
+  </gramrel>
+</wordsketch>
+</export>

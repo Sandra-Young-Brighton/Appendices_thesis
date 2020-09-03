@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">library</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="14" score="10.530">
+    <coll hits="2" score="11.750" query="w1619535561">rgf</coll>
+    <coll hits="1" score="10.300" query="w1619535562">GAMs</coll>
+    <coll hits="1" score="10.190" query="w1619535560">spleen</coll>
+    <coll hits="1" score="8.680" query="w1619535558">accuracy</coll>
+    <coll hits="2" score="8.430" query="w1619535554">E</coll>
+    <coll hits="1" score="7.740" query="w1619535556">signature</coll>
+    <coll hits="1" score="7.710" query="w1619535559">gut</coll>
+    <coll hits="1" score="7.430" query="w1619535557">literature</coll>
+    <coll hits="2" score="6.700" query="w1619535553">S</coll>
+    <coll hits="1" score="6.180" query="w1619535555">history</coll>
+    <coll hits="1" score="5.010" query="w1619535552">otolith</coll>
+  </gramrel>
+</wordsketch>
+</export>

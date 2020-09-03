@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">schitsuumsh</keyword>
+  <gramrel name="modifiers of X" hits="1" score="100.000">
+    <coll hits="1" score="6.370" query="w2179073088">Cottus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="200.000">
+    <coll hits="1" score="13.000" query="w2179082433">Scorpaeniformes</coll>
+    <coll hits="1" score="13.000" query="w2179082432">Cottidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

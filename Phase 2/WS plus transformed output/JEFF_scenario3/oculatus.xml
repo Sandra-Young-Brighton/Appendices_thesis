@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">oculatus</keyword>
+  <gramrel name="modifiers of X" hits="11" score="64.710">
+    <coll hits="10" score="13.150">Lepisosteus</coll>
+    <coll hits="1" score="11.410">Anura</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.880">
+    <coll hits="1" score="11.300">osseus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.880">
+    <coll hits="1" score="13.990">osseus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="11.760">
+    <coll hits="2" score="13.990">Oxbow</coll>
+  </gramrel>
+</wordsketch>
+</export>

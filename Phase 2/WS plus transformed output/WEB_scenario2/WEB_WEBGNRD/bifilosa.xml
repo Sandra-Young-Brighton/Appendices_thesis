@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">bifilosa</keyword>
+  <gramrel name="modifiers of X" hits="3" score="100.000">
+    <coll hits="3" score="13.410" query="w2168472320">Acartia</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="33.330">
+    <coll hits="1" score="8.470" query="w2168481856">sp</coll>
+  </gramrel>
+</wordsketch>
+</export>

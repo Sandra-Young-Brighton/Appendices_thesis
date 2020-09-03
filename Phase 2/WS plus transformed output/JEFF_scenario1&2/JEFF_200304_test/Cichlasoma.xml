@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cichlasoma</keyword>
+  <gramrel name="nouns modified by X" hits="11" score="73.330">
+    <coll hits="3" score="12.770">urophthalmus</coll>
+    <coll hits="3" score="12.680">facetum</coll>
+    <coll hits="2" score="12.290">nigrofasciatum</coll>
+    <coll hits="2" score="12.290">citrinellum</coll>
+    <coll hits="1" score="11.410">centrarchus</coll>
+  </gramrel>
+</wordsketch>
+</export>

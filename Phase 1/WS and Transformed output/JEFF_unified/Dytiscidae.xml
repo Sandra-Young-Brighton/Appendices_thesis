@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Dytiscidae</keyword>
+  <gramrel name="modifiers of X" hits="1" score="20.000">
+    <coll hits="1" score="10.820">Coleoptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="40.000">
+    <coll hits="1" score="12.680">Erpobdellidae_spp</coll>
+    <coll hits="1" score="6.300">larva</coll>
+  </gramrel>
+</wordsketch>
+</export>

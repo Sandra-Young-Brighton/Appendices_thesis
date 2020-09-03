@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ictalurus</keyword>
+  <gramrel name="nouns modified by X" hits="135" score="75.840">
+    <coll hits="58" score="13.190" query="w842024643">punctatus</coll>
+    <coll hits="41" score="12.900" query="w842024644">mela</coll>
+    <coll hits="23" score="11.820" query="w842024642">nebulosus</coll>
+    <coll hits="10" score="11.090" query="w842024640">furcatus</coll>
+    <coll hits="3" score="9.190" query="w842024641">natalis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.560">
+    <coll hits="1" score="13.990" query="w842015488">Schilbeodes</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="3" score="1.690">
+    <coll hits="1" score="11.410" query="w842080770">omiscomaycus</coll>
+    <coll hits="1" score="11.410" query="w842080769">Percopsis</coll>
+    <coll hits="1" score="11.190" query="w842080768">Percina</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="1.690">
+    <coll hits="3" score="12.880" query="w842091200">Centrarchidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

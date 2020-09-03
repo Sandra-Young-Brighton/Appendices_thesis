@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Myoxocephalus</keyword>
+  <gramrel name="nouns modified by X" hits="71" score="55.910">
+    <coll hits="34" score="13.370">scorpius</coll>
+    <coll hits="27" score="13.110">thompsonii</coll>
+    <coll hits="10" score="11.980">thompsoni</coll>
+  </gramrel>
+</wordsketch>
+</export>

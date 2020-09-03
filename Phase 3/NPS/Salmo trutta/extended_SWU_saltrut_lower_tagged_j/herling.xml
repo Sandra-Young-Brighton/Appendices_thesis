@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">herling</keyword>
+  <gramrel name="modifiers of X" hits="1" score="100.000">
+    <coll hits="1" score="13.990">peal</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="100.000">
+    <coll hits="1" score="13.990">whitling</coll>
+  </gramrel>
+</wordsketch>
+</export>

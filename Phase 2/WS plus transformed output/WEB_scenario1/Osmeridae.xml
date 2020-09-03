@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Osmeridae</keyword>
+  <gramrel name="modifiers of X" hits="2" score="10.530">
+    <coll hits="1" score="13.410">pectoralis</coll>
+    <coll hits="1" score="13.410">Dallia</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="10.530">
+    <coll hits="1" score="13.410">eperlanus</coll>
+    <coll hits="1" score="13.410">Osmerus</coll>
+  </gramrel>
+</wordsketch>
+</export>

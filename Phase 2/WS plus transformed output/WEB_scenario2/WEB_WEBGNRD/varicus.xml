@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">varicus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="66.670">
+    <coll hits="2" score="13.990" query="w1997118208">Derogenes</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="33.330">
+    <coll hits="1" score="13.410" query="w1997128000">communis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="33.330">
+    <coll hits="1" score="13.990" query="w1997107136">communis</coll>
+  </gramrel>
+</wordsketch>
+</export>

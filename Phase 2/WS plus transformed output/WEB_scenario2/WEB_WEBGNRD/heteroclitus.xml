@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">heteroclitus</keyword>
+  <gramrel name="modifiers of X" hits="33" score="91.670">
+    <coll hits="33" score="13.690" query="w1381305920">Fundulus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="2.780">
+    <coll hits="1" score="10.350" query="w1381315328">olivaceus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="5.560">
+    <coll hits="1" score="6.010" query="w1381328577">relation</coll>
+    <coll hits="1" score="3.080" query="w1381328576">water</coll>
+  </gramrel>
+</wordsketch>
+</export>

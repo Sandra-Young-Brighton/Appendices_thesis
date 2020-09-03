@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_untagged</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="1">[lc=&quot;Orange_fin&quot; | lemma_lc=&quot;Orange_fin&quot;]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#589" num="0" label="_">
+    <left>spawning, prickly sculpin develop a distinct</left>
+    <kwic> orange_fin</kwic>
+    <right> margin. spawning takes place under rocks in</right>
+  </line>
+</concordance>
+</export>

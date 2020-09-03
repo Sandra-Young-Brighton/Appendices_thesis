@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">orbignyanus</keyword>
+  <gramrel name="modifiers of X" hits="16" score="34.780">
+    <coll hits="15" score="13.950">Brycon</coll>
+    <coll hits="1" score="10.910">brasiliensis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.170">
+    <coll hits="1" score="13.990">jahu</coll>
+  </gramrel>
+</wordsketch>
+</export>

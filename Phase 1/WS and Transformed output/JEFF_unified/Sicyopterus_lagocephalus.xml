@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sicyopterus_lagocephalus</keyword>
+  <gramrel name="modifiers of X" hits="4" score="7.690">
+    <coll hits="1" score="9.790">Sicydiinae</coll>
+    <coll hits="1" score="9.710">species</coll>
+    <coll hits="2" score="5.310">fish</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="5.770">
+    <coll hits="3" score="7.890">larva</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.920">
+    <coll hits="1" score="12.190">Gobiidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="7.690">
+    <coll hits="1" score="9.480">transfer</coll>
+    <coll hits="1" score="6.880">B</coll>
+    <coll hits="1" score="4.800">condition</coll>
+    <coll hits="1" score="3.780">site</coll>
+  </gramrel>
+</wordsketch>
+</export>

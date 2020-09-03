@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lampetra</keyword>
+  <gramrel name="modifiers of X" hits="3" score="0.660">
+    <coll hits="1" score="12.680" query="w1760915265">arcticus</coll>
+    <coll hits="1" score="12.410" query="w1760915264">marinus</coll>
+    <coll hits="1" score="11.190" query="w1760915266">Lethenteron</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="316" score="69.450">
+    <coll hits="204" score="12.600" query="w1760941184">fluviatilis</coll>
+    <coll hits="68" score="12.490" query="w1760941191">planeri</coll>
+    <coll hits="11" score="10.090" query="w1760941186">tridentata</coll>
+    <coll hits="10" score="9.940" query="w1760941188">appendix</coll>
+    <coll hits="5" score="8.990" query="w1760941190">richardsoni</coll>
+    <coll hits="3" score="8.270" query="w1760941196">ayresii</coll>
+    <coll hits="3" score="8.270" query="w1760941189">ayresi</coll>
+    <coll hits="3" score="8.250" query="w1760941195">lamottenii</coll>
+    <coll hits="2" score="7.680" query="w1760941187">ayersi</coll>
+    <coll hits="2" score="7.010" query="w1760941185">japonica</coll>
+    <coll hits="1" score="6.680" query="w1760941198">macrostoma</coll>
+    <coll hits="1" score="6.680" query="w1760941197">fluviatalis</coll>
+    <coll hits="1" score="6.680" query="w1760941194">camtschatica</coll>
+    <coll hits="1" score="6.680" query="w1760941193">lamottei</coll>
+    <coll hits="1" score="6.680" query="w1760941192">fluviatlis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.220">
+    <coll hits="1" score="9.320" query="w1761076800">Peninsula</coll>
+  </gramrel>
+</wordsketch>
+</export>

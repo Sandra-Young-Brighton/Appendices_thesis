@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">clarkii</keyword>
+  <gramrel name="modifiers of X" hits="19" score="44.190">
+    <coll hits="9" score="13.310">Procambarus</coll>
+    <coll hits="3" score="10.600">Catostomus</coll>
+    <coll hits="1" score="9.320">species</coll>
+    <coll hits="5" score="7.990">Oncorhynchus</coll>
+    <coll hits="1" score="5.870">trout</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="4.650">
+    <coll hits="1" score="6.910">term</coll>
+    <coll hits="1" score="5.560">tributary</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="2.330">
+    <coll hits="1" score="6.510">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

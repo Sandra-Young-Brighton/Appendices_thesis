@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Victoria</keyword>
+  <gramrel name="nouns modified by X" hits="7" score="2.230">
+    <coll hits="4" score="13.540">Victoria</coll>
+    <coll hits="1" score="11.990">Nyanza</coll>
+    <coll hits="1" score="11.990">haplochromine</coll>
+    <coll hits="1" score="11.090">argentea</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="1.910">
+    <coll hits="4" score="13.670">Victoria</coll>
+    <coll hits="2" score="13.000">Tasmania</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="4" score="1.270">modifiers of &quot;%w&quot;</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="15" score="4.780">
+    <coll hits="2" score="11.750">upsurge</coll>
+    <coll hits="1" score="8.810">1950</coll>
+    <coll hits="1" score="8.470">consequence</coll>
+    <coll hits="1" score="7.850">invasion</coll>
+    <coll hits="1" score="7.800">1980</coll>
+    <coll hits="1" score="7.180">century</coll>
+    <coll hits="1" score="7.180">light</coll>
+    <coll hits="1" score="6.840">introduction</coll>
+    <coll hits="4" score="6.360">perch</coll>
+    <coll hits="1" score="5.980">Europe</coll>
+    <coll hits="1" score="5.120">ecosystem</coll>
+  </gramrel>
+</wordsketch>
+</export>

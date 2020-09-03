@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Glossosoma</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="33.330">
+    <coll hits="1" score="10.240" query="w1951655232">Diptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

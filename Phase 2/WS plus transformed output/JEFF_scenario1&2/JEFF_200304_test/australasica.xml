@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">australasica</keyword>
+  <gramrel name="modifiers of X" hits="13" score="68.420">
+    <coll hits="13" score="13.120">Macquaria</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="5.260">
+    <coll hits="1" score="9.710">cormorant</coll>
+  </gramrel>
+</wordsketch>
+</export>

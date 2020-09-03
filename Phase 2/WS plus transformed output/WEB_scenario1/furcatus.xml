@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">furcatus</keyword>
+  <gramrel name="modifiers of X" hits="11" score="47.830">
+    <coll hits="10" score="11.960">Ictalurus</coll>
+    <coll hits="1" score="11.300">Noturus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="8.700">
+    <coll hits="2" score="9.950">punctatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

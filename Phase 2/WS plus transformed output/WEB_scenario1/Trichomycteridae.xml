@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Trichomycteridae</keyword>
+  <gramrel name="modifiers of X" hits="2" score="66.670">
+    <coll hits="1" score="12.410">Siluriformes</coll>
+    <coll hits="1" score="12.190">Actinopterygii</coll>
+  </gramrel>
+</wordsketch>
+</export>

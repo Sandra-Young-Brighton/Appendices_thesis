@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Chelon</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="57.140">
+    <coll hits="4" score="13.990">labrosus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Coregonus</keyword>
+  <gramrel name="nouns modified by X" hits="495" score="50.670">
+    <coll hits="217" score="13.280">lavaretus</coll>
+    <coll hits="86" score="12.240">albula</coll>
+    <coll hits="71" score="11.990">clupeaformis</coll>
+    <coll hits="27" score="10.720">hoyi</coll>
+    <coll hits="26" score="10.670">artedi</coll>
+    <coll hits="17" score="10.080">artedii</coll>
+    <coll hits="12" score="9.540">nasus</coll>
+    <coll hits="5" score="8.350">sardinella</coll>
+    <coll hits="4" score="8.030">zenithicus</coll>
+    <coll hits="4" score="8.030">fontanae</coll>
+    <coll hits="4" score="8.030">oxyrinchus</coll>
+    <coll hits="4" score="7.970">spp</coll>
+    <coll hits="3" score="7.620">maraena</coll>
+    <coll hits="3" score="7.620">peled</coll>
+    <coll hits="3" score="7.620">kiyi</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="15" score="1.540">
+    <coll hits="3" score="12.190">lavaretus</coll>
+    <coll hits="3" score="12.190">Coregonus</coll>
+    <coll hits="5" score="12.070">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="6" score="0.610">
+    <coll hits="3" score="12.880">lavaretus</coll>
+    <coll hits="3" score="12.190">Coregonus</coll>
+  </gramrel>
+</wordsketch>
+</export>

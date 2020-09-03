@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">gariepinus</keyword>
+  <gramrel name="modifiers of X" hits="51" score="70.830">
+    <coll hits="51" score="13.850" query="w1935251712">Clarias</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.390">
+    <coll hits="1" score="11.410" query="w1935261504">Siluriformes</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="5" score="6.940">
+    <coll hits="3" score="12.770" query="w1935217152">mykiss</coll>
+    <coll hits="1" score="12.410" query="w1935217153">docmak</coll>
+    <coll hits="1" score="11.000" query="w1935217154">Siluriformes</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="10" score="13.890">
+    <coll hits="1" score="10.190" query="w1935271364">attention</coll>
+    <coll hits="1" score="9.570" query="w1935271365">India</coll>
+    <coll hits="2" score="8.280" query="w1935271366">Africa</coll>
+    <coll hits="2" score="7.520" query="w1935271367">Dam</coll>
+    <coll hits="1" score="6.270" query="w1935271363">term</coll>
+    <coll hits="1" score="4.880" query="w1935271362">community</coll>
+    <coll hits="1" score="2.890" query="w1935271361">lake</coll>
+    <coll hits="1" score="2.690" query="w1935271360">specie</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="2" score="2.780">
+    <coll hits="1" score="13.410" query="w1935345729">assemblage</coll>
+    <coll hits="1" score="10.600" query="w1935345728">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

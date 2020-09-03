@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">canadense</keyword>
+  <gramrel name="modifiers of X" hits="2" score="22.220">
+    <coll hits="2" score="9.500" query="w1805965696">Stizostedion</coll>
+  </gramrel>
+</wordsketch>
+</export>

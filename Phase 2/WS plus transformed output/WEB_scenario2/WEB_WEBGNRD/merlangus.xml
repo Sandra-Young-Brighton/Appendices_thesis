@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">merlangus</keyword>
+  <gramrel name="modifiers of X" hits="11" score="61.110">
+    <coll hits="10" score="13.930" query="w1973934656">Merlangius</coll>
+    <coll hits="1" score="11.410" query="w1973934657">Odontagatus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="11.110">
+    <coll hits="1" score="12.680" query="w1973956161">poutassou</coll>
+    <coll hits="1" score="11.990" query="w1973956160">Perca</coll>
+  </gramrel>
+</wordsketch>
+</export>

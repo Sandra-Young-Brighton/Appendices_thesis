@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pimephales</keyword>
+  <gramrel name="nouns modified by X" hits="37" score="31.900">
+    <coll hits="23" score="13.590" query="w1151685057">promelas</coll>
+    <coll hits="12" score="12.830" query="w1151685056">notatus</coll>
+    <coll hits="1" score="9.750" query="w1151685059">vigilax</coll>
+    <coll hits="1" score="9.670" query="w1151685058">obtusus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="1.720">
+    <coll hits="1" score="12.190" query="w1151736321">catostomus</coll>
+    <coll hits="1" score="12.190" query="w1151736320">Catostomus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.860">
+    <coll hits="1" score="6.860" query="w1151725248">family</coll>
+  </gramrel>
+</wordsketch>
+</export>

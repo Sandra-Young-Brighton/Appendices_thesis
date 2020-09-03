@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">ayresi</keyword>
+  <gramrel name="modifiers of X" hits="3" score="50.000">
+    <coll hits="3" score="8.370">Lampetra</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="16.670">
+    <coll hits="1" score="3.760">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Astacidae</keyword>
+  <gramrel name="modifiers of X" hits="3" score="50.000">
+    <coll hits="1" score="13.000" query="w2087344706">Cambaridae</coll>
+    <coll hits="1" score="13.000" query="w2087344705">leniusculus</coll>
+    <coll hits="1" score="10.600" query="w2087344704">Pacifastacus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="16.670">
+    <coll hits="1" score="13.990" query="w2087368832">Parastacidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="16.670">
+    <coll hits="1" score="7.700" query="w2087378880">frequency</coll>
+  </gramrel>
+</wordsketch>
+</export>

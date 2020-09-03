@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">argentea</keyword>
+  <gramrel name="modifiers of X" hits="8" score="61.540">
+    <coll hits="7" score="13.900">Rastrineobola</coll>
+    <coll hits="1" score="11.090">Victoria</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="15.380">
+    <coll hits="1" score="9.060">link</coll>
+    <coll hits="1" score="7.640">Victoria</coll>
+  </gramrel>
+</wordsketch>
+</export>

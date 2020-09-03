@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cotidianus</keyword>
+  <gramrel name="modifiers of X" hits="13" score="81.250">
+    <coll hits="12" score="13.720">Gobiomorphus</coll>
+    <coll hits="1" score="11.090">Gobius</coll>
+  </gramrel>
+</wordsketch>
+</export>

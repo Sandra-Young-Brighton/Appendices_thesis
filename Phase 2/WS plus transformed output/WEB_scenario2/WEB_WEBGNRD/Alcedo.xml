@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Alcedo</keyword>
+  <gramrel name="nouns modified by X" hits="15" score="44.120">
+    <coll hits="15" score="13.990" query="w2112159680">atthis</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="1" score="2.940">
+    <coll hits="1" score="13.990" query="w2112172928">kingfisher</coll>
+  </gramrel>
+</wordsketch>
+</export>

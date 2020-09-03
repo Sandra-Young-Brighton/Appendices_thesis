@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">malma</keyword>
+  <gramrel name="modifiers of X" hits="39" score="73.580">
+    <coll hits="39" score="10.460">Salvelinus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="9.430">
+    <coll hits="1" score="8.080">Lakes</coll>
+    <coll hits="1" score="7.970">limit</coll>
+    <coll hits="1" score="5.450">basin</coll>
+    <coll hits="1" score="3.770">River</coll>
+    <coll hits="1" score="3.530">size</coll>
+  </gramrel>
+</wordsketch>
+</export>

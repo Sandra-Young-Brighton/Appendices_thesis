@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">celebesensis</keyword>
+  <gramrel name="modifiers of X" hits="8" score="21.620">
+    <coll hits="8" score="9.120" query="w2034025280">Anguilla</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.700">
+    <coll hits="1" score="13.990" query="w2034015168">borneensis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.700">
+    <coll hits="1" score="4.380" query="w2034034880">system</coll>
+  </gramrel>
+</wordsketch>
+</export>

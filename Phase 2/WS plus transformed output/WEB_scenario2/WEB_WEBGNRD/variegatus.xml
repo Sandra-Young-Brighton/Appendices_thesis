@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">variegatus</keyword>
+  <gramrel name="modifiers of X" hits="4" score="22.220">
+    <coll hits="2" score="13.410" query="w2016112128">Lumbriculus</coll>
+    <coll hits="1" score="12.680" query="w2016112129">Verasper</coll>
+    <coll hits="1" score="12.190" query="w2016112130">Cyprinodon</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.560">
+    <coll hits="1" score="13.410" query="w2016100224">tubifex</coll>
+  </gramrel>
+</wordsketch>
+</export>

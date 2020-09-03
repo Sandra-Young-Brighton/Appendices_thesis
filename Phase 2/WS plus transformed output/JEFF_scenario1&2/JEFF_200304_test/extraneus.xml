@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">extraneus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="50.000">
+    <coll hits="1" score="8.540">Sicyopterus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="50.000">
+    <coll hits="1" score="12.680">Gobiidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="50.000">
+    <coll hits="1" score="12.190">Gobiidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

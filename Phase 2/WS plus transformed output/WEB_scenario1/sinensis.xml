@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">sinensis</keyword>
+  <gramrel name="modifiers of X" hits="5" score="14.290">
+    <coll hits="5" score="13.990">Clonorchis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="5.710">
+    <coll hits="1" score="13.000">Dümmer</coll>
+    <coll hits="1" score="7.930">Sweden</coll>
+  </gramrel>
+</wordsketch>
+</export>

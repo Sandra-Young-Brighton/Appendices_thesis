@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">crispus</keyword>
+  <gramrel name="modifiers of X" hits="4" score="12.500">
+    <coll hits="1" score="12.410" query="w1946751361">Rumex</coll>
+    <coll hits="3" score="10.700" query="w1946751360">Potamogeton</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="12.500">
+    <coll hits="2" score="8.330" query="w1946768386">bank</coll>
+    <coll hits="1" score="6.100" query="w1946768385">order</coll>
+    <coll hits="1" score="5.580" query="w1946768384">spring</coll>
+  </gramrel>
+</wordsketch>
+</export>

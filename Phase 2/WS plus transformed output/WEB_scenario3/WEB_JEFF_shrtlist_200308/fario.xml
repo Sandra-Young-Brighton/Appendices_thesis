@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fario</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="2.300">
+    <coll hits="1" score="13.410">Una</coll>
+    <coll hits="1" score="12.410">Neretva</coll>
+  </gramrel>
+</wordsketch>
+</export>

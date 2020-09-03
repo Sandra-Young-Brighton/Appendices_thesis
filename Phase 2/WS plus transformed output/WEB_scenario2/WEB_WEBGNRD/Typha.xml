@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Typha</keyword>
+  <gramrel name="modifiers of X" hits="1" score="3.850">
+    <coll hits="1" score="11.990" query="w1132447104">Lemna</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="7" score="26.920">
+    <coll hits="5" score="13.510" query="w1132456449">latifolia</coll>
+    <coll hits="1" score="11.990" query="w1132456450">Phragmites</coll>
+    <coll hits="1" score="11.540" query="w1132456448">Elodea</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="7.690">
+    <coll hits="1" score="13.000" query="w1132430657">Phragmites</coll>
+    <coll hits="1" score="12.410" query="w1132430656">Elodea</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="7.690">
+    <coll hits="1" score="11.540" query="w1132480001">Cyperus</coll>
+    <coll hits="1" score="11.540" query="w1132480000">Eleocharis</coll>
+  </gramrel>
+</wordsketch>
+</export>

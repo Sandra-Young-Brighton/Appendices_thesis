@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">elvers</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="40" score="15.380">
+    <coll hits="2" score="10.410">Mosbeux</coll>
+    <coll hits="3" score="9.980">arrival</coll>
+    <coll hits="1" score="9.570">Oxhe</coll>
+    <coll hits="1" score="9.500">Highland</coll>
+    <coll hits="1" score="9.500">Mactaquac</coll>
+    <coll hits="1" score="9.440">campaign</coll>
+    <coll hits="1" score="9.000">rostrata</coll>
+    <coll hits="1" score="8.870">dish</coll>
+    <coll hits="1" score="8.230">microhabitat</coll>
+    <coll hits="1" score="8.230">check</coll>
+    <coll hits="4" score="7.940">estuary</coll>
+    <coll hits="2" score="7.380">coast</coll>
+    <coll hits="1" score="6.870">characteristic</coll>
+    <coll hits="4" score="6.460">eel</coll>
+    <coll hits="1" score="5.970">pattern</coll>
+    <coll hits="4" score="5.800">stream</coll>
+    <coll hits="3" score="5.320">River</coll>
+    <coll hits="1" score="4.910">use</coll>
+    <coll hits="1" score="4.850">stage</coll>
+    <coll hits="2" score="4.770">habitat</coll>
+    <coll hits="1" score="3.760">study</coll>
+    <coll hits="1" score="3.730">area</coll>
+    <coll hits="1" score="3.690">year</coll>
+    <coll hits="1" score="3.070">water</coll>
+  </gramrel>
+</wordsketch>
+</export>

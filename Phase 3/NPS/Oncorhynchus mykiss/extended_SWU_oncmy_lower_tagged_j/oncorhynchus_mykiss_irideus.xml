@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">oncorhynchus_mykiss_irideus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="20.000">
+    <coll hits="1" score="8.010">rainbow_trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Corbicula</keyword>
+  <gramrel name="modifiers of X" hits="1" score="9.090">
+    <coll hits="1" score="11.540">Limnoperna</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="8" score="72.730">
+    <coll hits="8" score="13.990">fluminea</coll>
+  </gramrel>
+</wordsketch>
+</export>

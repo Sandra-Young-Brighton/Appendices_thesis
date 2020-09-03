@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">major</keyword>
+  <gramrel name="X and/or ..." hits="133" score="10.800">
+    <coll hits="4" score="9.830">directional</coll>
+    <coll hits="4" score="9.700">selective</coll>
+    <coll hits="4" score="9.660">public</coll>
+    <coll hits="6" score="9.370">commercial</coll>
+    <coll hits="5" score="9.230">physical</coll>
+    <coll hits="3" score="8.820">geographic</coll>
+    <coll hits="2" score="8.820">minor</coll>
+    <coll hits="4" score="8.540">European</coll>
+    <coll hits="4" score="8.370">invertebrate</coll>
+    <coll hits="2" score="8.260">biotic</coll>
+    <coll hits="2" score="8.220">economic</coll>
+    <coll hits="5" score="8.220">environmental</coll>
+    <coll hits="2" score="8.180">functional</coll>
+    <coll hits="4" score="8.080">ecological</coll>
+    <coll hits="1" score="7.930">iridoviral</coll>
+    <coll hits="1" score="7.930">cyclical</coll>
+    <coll hits="1" score="7.930">contestable</coll>
+    <coll hits="1" score="7.930">vector-born</coll>
+    <coll hits="1" score="7.930">deleterious</coll>
+    <coll hits="1" score="7.920">cytoplasmic</coll>
+    <coll hits="1" score="7.920">lymphoid</coll>
+    <coll hits="1" score="7.920">biogenic</coll>
+    <coll hits="1" score="7.920">stimulating</coll>
+    <coll hits="1" score="7.920">on-going</coll>
+    <coll hits="1" score="7.910">disruptive</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.080">
+    <coll hits="1" score="10.350">administration</coll>
+  </gramrel>
+</wordsketch>
+</export>

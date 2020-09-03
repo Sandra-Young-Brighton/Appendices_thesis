@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">tected</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="13" score="65.000">
+    <coll hits="1" score="10.750">legislation</coll>
+    <coll hits="1" score="10.410">law</coll>
+    <coll hits="2" score="9.730">array</coll>
+    <coll hits="1" score="7.260">December</coll>
+    <coll hits="1" score="6.560">test</coll>
+    <coll hits="1" score="5.930">June</coll>
+    <coll hits="1" score="5.870">class</coll>
+    <coll hits="1" score="5.350">Creek</coll>
+    <coll hits="1" score="5.220">experiment</coll>
+    <coll hits="1" score="5.070">predator</coll>
+    <coll hits="1" score="4.610">system</coll>
+    <coll hits="1" score="3.340">study</coll>
+  </gramrel>
+</wordsketch>
+</export>

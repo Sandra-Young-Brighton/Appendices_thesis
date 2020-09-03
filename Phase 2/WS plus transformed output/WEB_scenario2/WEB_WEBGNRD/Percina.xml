@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Percina</keyword>
+  <gramrel name="modifiers of X" hits="9" score="18.370">
+    <coll hits="2" score="12.290" query="w1807217025">flavescens</coll>
+    <coll hits="1" score="11.540" query="w1807217030">fulvescens</coll>
+    <coll hits="1" score="11.540" query="w1807217028">mordax</coll>
+    <coll hits="1" score="11.000" query="w1807217027">cernuus</coll>
+    <coll hits="1" score="8.600" query="w1807217029">Osmerus</coll>
+    <coll hits="1" score="8.520" query="w1807217026">Micropterus</coll>
+    <coll hits="2" score="6.570" query="w1807217024">Perca</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="16" score="32.650">
+    <coll hits="5" score="12.680" query="w1807278978">maculata</coll>
+    <coll hits="2" score="11.830" query="w1807278984">shumardi</coll>
+    <coll hits="2" score="11.830" query="w1807278981">caprodes</coll>
+    <coll hits="2" score="11.830" query="w1807278980">copelandi</coll>
+    <coll hits="1" score="10.910" query="w1807278983">phoxocephala</coll>
+    <coll hits="1" score="10.910" query="w1807278982">evides</coll>
+    <coll hits="1" score="10.600" query="w1807278979">peltata</coll>
+    <coll hits="1" score="9.530" query="w1807278976">canadensis</coll>
+    <coll hits="1" score="9.120" query="w1807278977">vitreum</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="11" score="22.450">
+    <coll hits="1" score="11.410" query="w1807355978">bairdi</coll>
+    <coll hits="1" score="11.410" query="w1807355977">Cottus</coll>
+    <coll hits="1" score="11.190" query="w1807355975">nebulosus</coll>
+    <coll hits="1" score="11.190" query="w1807355974">Lucius</coll>
+    <coll hits="1" score="11.190" query="w1807355973">vitreus</coll>
+    <coll hits="1" score="11.190" query="w1807355972">Sander</coll>
+    <coll hits="1" score="11.190" query="w1807355971">Ictalurus</coll>
+    <coll hits="1" score="11.190" query="w1807355969">mykiss</coll>
+    <coll hits="1" score="11.090" query="w1807355968">Oncorhynchus</coll>
+    <coll hits="1" score="11.000" query="w1807355976">trutta</coll>
+    <coll hits="1" score="10.820" query="w1807355970">Salmo</coll>
+  </gramrel>
+</wordsketch>
+</export>

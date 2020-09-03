@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Boreogadus</keyword>
+  <gramrel name="nouns modified by X" hits="9" score="69.230">
+    <coll hits="9" score="13.990" query="w2029446528">saida</coll>
+  </gramrel>
+</wordsketch>
+</export>

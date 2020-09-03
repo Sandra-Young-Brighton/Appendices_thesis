@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Baetidae</keyword>
+  <gramrel name="modifiers of X" hits="1" score="5.560">
+    <coll hits="1" score="11.000">Chironomidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="11.110">
+    <coll hits="2" score="11.000">Plecoptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.560">
+    <coll hits="1" score="10.410">Trichoptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

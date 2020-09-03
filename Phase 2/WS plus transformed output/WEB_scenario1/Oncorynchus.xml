@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Oncorynchus</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="57.140">
+    <coll hits="2" score="8.280">kisutch</coll>
+    <coll hits="2" score="6.540">mykiss</coll>
+  </gramrel>
+</wordsketch>
+</export>

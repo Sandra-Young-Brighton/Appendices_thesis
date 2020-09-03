@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">texanus</keyword>
+  <gramrel name="modifiers of X" hits="13" score="72.220">
+    <coll hits="9" score="13.710">Xyrauchen</coll>
+    <coll hits="4" score="10.930">Notropis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="11.110">
+    <coll hits="1" score="13.000">Catostomidae</coll>
+    <coll hits="1" score="11.540">vigilax</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="11.110">
+    <coll hits="1" score="13.410">vigilax</coll>
+    <coll hits="1" score="13.000">Catostomidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="5.560">
+    <coll hits="1" score="5.460">basin</coll>
+  </gramrel>
+</wordsketch>
+</export>

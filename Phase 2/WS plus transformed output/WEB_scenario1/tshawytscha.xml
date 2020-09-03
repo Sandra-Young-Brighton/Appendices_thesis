@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">tshawytscha</keyword>
+  <gramrel name="modifiers of X" hits="161" score="67.930">
+    <coll hits="156" score="11.710">Oncorhynchus</coll>
+    <coll hits="2" score="8.570">Oncorhyncus</coll>
+    <coll hits="1" score="7.660">Oncorhychus</coll>
+    <coll hits="1" score="7.660">Dakota</coll>
+    <coll hits="1" score="7.450">Onchorhynchus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.420">
+    <coll hits="1" score="11.670">coulterii</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="9" score="3.800">
+    <coll hits="1" score="8.490">Northwest</coll>
+    <coll hits="1" score="6.650">Pacific</coll>
+    <coll hits="1" score="6.350">catchment</coll>
+    <coll hits="1" score="6.200">history</coll>
+    <coll hits="2" score="4.760">River</coll>
+    <coll hits="2" score="4.550">river</coll>
+    <coll hits="1" score="3.700">year</coll>
+  </gramrel>
+</wordsketch>
+</export>

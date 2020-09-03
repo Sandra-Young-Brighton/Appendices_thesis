@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Amphipoda</keyword>
+  <gramrel name="modifiers of X" hits="1" score="3.570">
+    <coll hits="1" score="12.190">Odonata</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="6" score="21.430">
+    <coll hits="1" score="11.830">Gastropoda</coll>
+    <coll hits="2" score="11.750">Hemiptera</coll>
+    <coll hits="2" score="11.300">Trichoptera</coll>
+    <coll hits="1" score="11.190">Ephemeroptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="14.290">
+    <coll hits="1" score="12.190">Gastropoda</coll>
+    <coll hits="2" score="11.410">Trichoptera</coll>
+    <coll hits="1" score="10.350">Ephemeroptera</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="7.140">
+    <coll hits="1" score="9.910">invertebrate</coll>
+    <coll hits="1" score="8.750">prey</coll>
+  </gramrel>
+</wordsketch>
+</export>

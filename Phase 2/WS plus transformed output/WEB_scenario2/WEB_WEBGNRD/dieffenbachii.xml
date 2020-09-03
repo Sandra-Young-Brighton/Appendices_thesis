@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">dieffenbachii</keyword>
+  <gramrel name="modifiers of X" hits="15" score="37.500">
+    <coll hits="15" score="10.010" query="w2034064768">Anguilla</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.500">
+    <coll hits="1" score="8.070" query="w2034073856">Zealand</coll>
+  </gramrel>
+</wordsketch>
+</export>

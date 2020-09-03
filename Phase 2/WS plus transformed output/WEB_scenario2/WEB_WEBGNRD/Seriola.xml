@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Seriola</keyword>
+  <gramrel name="nouns modified by X" hits="14" score="60.870">
+    <coll hits="7" score="13.410" query="w1817544834">quinqueradiata</coll>
+    <coll hits="4" score="12.750" query="w1817544833">dumerili</coll>
+    <coll hits="3" score="12.490" query="w1817544832">lalandi</coll>
+  </gramrel>
+</wordsketch>
+</export>

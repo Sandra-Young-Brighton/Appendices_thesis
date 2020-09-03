@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Silurus</keyword>
+  <gramrel name="nouns modified by X" hits="22" score="59.460">
+    <coll hits="11" score="13.330">glanis</coll>
+    <coll hits="8" score="13.090">asotus</coll>
+    <coll hits="1" score="10.470">meridionalis</coll>
+    <coll hits="1" score="10.410">lithophilus</coll>
+    <coll hits="1" score="7.700">Linnaeus</coll>
+  </gramrel>
+</wordsketch>
+</export>

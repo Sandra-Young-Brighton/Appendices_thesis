@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gobiidae</keyword>
+  <gramrel name="modifiers of X" hits="6" score="7.890">
+    <coll hits="2" score="13.000" query="w1822399619">mirabilis</coll>
+    <coll hits="1" score="12.190" query="w1822399618">marmorata</coll>
+    <coll hits="1" score="12.190" query="w1822399617">grunniens</coll>
+    <coll hits="1" score="11.300" query="w1822399620">Mugilogobius</coll>
+    <coll hits="1" score="11.000" query="w1822399616">Osteichthyes</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="2.630">
+    <coll hits="1" score="11.990" query="w1822450880">Gasterosteidae</coll>
+    <coll hits="1" score="11.540" query="w1822450881">rohita</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.320">
+    <coll hits="1" score="13.990" query="w1822390336">Labridae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="9.210">
+    <coll hits="1" score="11.300" query="w1822470147">Perciformes</coll>
+    <coll hits="1" score="11.190" query="w1822470146">edition</coll>
+    <coll hits="4" score="7.560" query="w1822470144">basin</coll>
+    <coll hits="1" score="7.370" query="w1822470145">Basin</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="1.320">
+    <coll hits="1" score="13.000" query="w1822516352">Mugilogobius</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="1.320">
+    <coll hits="1" score="13.990" query="w1822521344">goby</coll>
+  </gramrel>
+</wordsketch>
+</export>

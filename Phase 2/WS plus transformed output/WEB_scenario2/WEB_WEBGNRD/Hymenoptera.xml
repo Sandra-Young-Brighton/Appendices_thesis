@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hymenoptera</keyword>
+  <gramrel name="modifiers of X" hits="10" score="50.000">
+    <coll hits="1" score="11.540" query="w2091041225">Vespidae</coll>
+    <coll hits="1" score="11.540" query="w2091041224">Heteroptera</coll>
+    <coll hits="1" score="11.540" query="w2091041222">Corixidae</coll>
+    <coll hits="1" score="11.410" query="w2091041223">Cicadellidae</coll>
+    <coll hits="1" score="11.300" query="w2091041221">Culicidae</coll>
+    <coll hits="1" score="11.300" query="w2091041220">Simuliidae</coll>
+    <coll hits="1" score="10.910" query="w2091041217">Hirudinea</coll>
+    <coll hits="1" score="10.910" query="w2091041216">Nematoda</coll>
+    <coll hits="1" score="10.750" query="w2091041219">Heptageniidae</coll>
+    <coll hits="1" score="10.040" query="w2091041218">Chironomidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="15.000">
+    <coll hits="1" score="13.000" query="w2091120642">Stenogastrinae</coll>
+    <coll hits="1" score="13.000" query="w2091120641">Isoptera</coll>
+    <coll hits="1" score="10.140" query="w2091120640">Diptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="15.000">
+    <coll hits="1" score="13.000" query="w2091016130">Stenogastrinae</coll>
+    <coll hits="1" score="13.000" query="w2091016129">Isoptera</coll>
+    <coll hits="1" score="10.750" query="w2091016128">Diptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

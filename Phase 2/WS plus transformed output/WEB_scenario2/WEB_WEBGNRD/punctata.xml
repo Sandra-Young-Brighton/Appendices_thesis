@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">punctata</keyword>
+  <gramrel name="modifiers of X" hits="7" score="41.180">
+    <coll hits="3" score="13.260" query="w2085359747">Bdellocephala</coll>
+    <coll hits="1" score="11.990" query="w2085359746">Sillaginodes</coll>
+    <coll hits="1" score="11.990" query="w2085359745">Girella</coll>
+    <coll hits="2" score="10.110" query="w2085359744">Gambusia</coll>
+  </gramrel>
+</wordsketch>
+</export>

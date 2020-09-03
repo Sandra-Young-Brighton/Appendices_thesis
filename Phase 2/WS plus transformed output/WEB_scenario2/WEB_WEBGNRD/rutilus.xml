@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rutilus</keyword>
+  <gramrel name="modifiers of X" hits="267" score="61.520">
+    <coll hits="258" score="13.940" query="w1701223429">Rutilus</coll>
+    <coll hits="2" score="7.890" query="w1701223427">Carpio</coll>
+    <coll hits="2" score="7.890" query="w1701223426">Lucius</coll>
+    <coll hits="2" score="7.880" query="w1701223425">fluviatilis</coll>
+    <coll hits="1" score="6.920" query="w1701223430">Rutilis</coll>
+    <coll hits="1" score="6.890" query="w1701223428">thymallus</coll>
+    <coll hits="1" score="5.110" query="w1701223424">Perca</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="12" score="2.760">
+    <coll hits="2" score="11.300" query="w1701295169">Cyprinidae</coll>
+    <coll hits="2" score="10.440" query="w1701295174">alburnus</coll>
+    <coll hits="2" score="10.240" query="w1701295173">leuciscus</coll>
+    <coll hits="1" score="9.870" query="w1701295170">rerio</coll>
+    <coll hits="1" score="9.710" query="w1701295175">bjoerkna</coll>
+    <coll hits="2" score="9.350" query="w1701295171">brama</coll>
+    <coll hits="1" score="9.060" query="w1701295172">erythrophthalmus</coll>
+    <coll hits="1" score="5.410" query="w1701295168">salar</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="19" score="4.380">
+    <coll hits="4" score="12.240" query="w1701107336">alburnus</coll>
+    <coll hits="3" score="12.060" query="w1701107335">leuciscus</coll>
+    <coll hits="3" score="11.880" query="w1701107330">brama</coll>
+    <coll hits="2" score="11.350" query="w1701107332">cephalus</coll>
+    <coll hits="2" score="11.040" query="w1701107329">Cyprinidae</coll>
+    <coll hits="1" score="10.600" query="w1701107337">bjoerkna</coll>
+    <coll hits="1" score="10.600" query="w1701107333">erythrophthalmus</coll>
+    <coll hits="1" score="10.470" query="w1701107331">lucioperca</coll>
+    <coll hits="1" score="10.410" query="w1701107334">phoxinus</coll>
+    <coll hits="1" score="9.670" query="w1701107328">fluviatilis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="33" score="7.600">
+    <coll hits="2" score="10.710" query="w1701385868">Volvi</coll>
+    <coll hits="2" score="10.640" query="w1701385864">Changes</coll>
+    <coll hits="2" score="10.440" query="w1701385867">2000</coll>
+    <coll hits="2" score="10.110" query="w1701385863">span</coll>
+    <coll hits="9" score="10.090" query="w1701385862">Reservoir</coll>
+    <coll hits="1" score="9.910" query="w1701385869">Sapan</coll>
+    <coll hits="1" score="9.710" query="w1701385870">Sapanca</coll>
+    <coll hits="1" score="9.240" query="w1701385865">percid</coll>
+    <coll hits="1" score="7.610" query="w1701385866">stressor</coll>
+    <coll hits="3" score="7.040" query="w1701385860">resource</coll>
+    <coll hits="2" score="5.850" query="w1701385857">range</coll>
+    <coll hits="1" score="5.830" query="w1701385856">body</coll>
+    <coll hits="4" score="4.880" query="w1701385858">lake</coll>
+    <coll hits="1" score="4.300" query="w1701385861">temperature</coll>
+    <coll hits="1" score="3.770" query="w1701385859">habitat</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="0.460">
+    <coll hits="1" score="11.300" query="w1701563713">fluviatilis</coll>
+    <coll hits="1" score="11.300" query="w1701563712">Perca</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="2" score="0.460">
+    <coll hits="1" score="12.190" query="w1701570689">plant</coll>
+    <coll hits="1" score="11.830" query="w1701570688">food</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fabricii</keyword>
+  <gramrel name="modifiers of X" hits="4" score="100.000">
+    <coll hits="2" score="13.410" query="w2146906049">Lumpenus</coll>
+    <coll hits="1" score="12.680" query="w2146906050">Centroscyllium</coll>
+    <coll hits="1" score="12.680" query="w2146906048">Gonatus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="25.000">
+    <coll hits="1" score="5.420" query="w2146929920">Sea</coll>
+  </gramrel>
+</wordsketch>
+</export>

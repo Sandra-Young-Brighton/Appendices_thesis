@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lake</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1210" score="11.890">
+    <coll hits="61" score="9.820" query="w388524120">charr</coll>
+    <coll hits="19" score="8.900" query="w390364058">planktivore</coll>
+    <coll hits="18" score="8.850" query="w388524115">Brunswick</coll>
+    <coll hits="18" score="8.730" query="w390364094">Norway</coll>
+    <coll hits="22" score="8.710" query="w387964377">America</coll>
+    <coll hits="22" score="8.460" query="w387964375">region</coll>
+    <coll hits="14" score="8.430" query="w390939737">Iceland</coll>
+    <coll hits="16" score="8.250" query="w390364047">Europe</coll>
+    <coll hits="12" score="8.110" query="w390364043">Finland</coll>
+    <coll hits="11" score="8.070" query="w390364033">Sweden</coll>
+    <coll hits="11" score="8.030" query="w389753404">pH</coll>
+    <coll hits="10" score="8.020" query="w389172784">Minnesota</coll>
+    <coll hits="10" score="7.820" query="w388524107">world</coll>
+    <coll hits="11" score="7.800" query="w390364090">Ireland</coll>
+    <coll hits="8" score="7.720" query="w390939732">Quebec</coll>
+    <coll hits="13" score="7.700" query="w387964415">summer</coll>
+    <coll hits="8" score="7.540" query="w389172760">Washington</coll>
+    <coll hits="7" score="7.460" query="w388524100">State</coll>
+    <coll hits="7" score="7.370" query="w389753379">drainage</coll>
+    <coll hits="6" score="7.330" query="w391533792">Lapland</coll>
+    <coll hits="8" score="7.310" query="w389753376">watershed</coll>
+    <coll hits="6" score="7.290" query="w388524155">ANOVA</coll>
+    <coll hits="6" score="7.260" query="w390939753">Republic</coll>
+    <coll hits="7" score="7.260" query="w389753369">Columbia</coll>
+    <coll hits="13" score="7.210" query="w388524096">period</coll>
+  </gramrel>
+</wordsketch>
+</export>

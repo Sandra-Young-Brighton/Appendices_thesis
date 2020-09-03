@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cernuus</keyword>
+  <gramrel name="modifiers of X" hits="56" score="74.670">
+    <coll hits="55" score="13.800">Gymnocephalus</coll>
+    <coll hits="1" score="9.160">streber</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="7" score="9.330">
+    <coll hits="6" score="11.970">cernua</coll>
+    <coll hits="1" score="11.000">Percina</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="12" score="16.000">
+    <coll hits="12" score="13.880">cernua</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="2.670">
+    <coll hits="1" score="9.440">fluviatilis</coll>
+    <coll hits="1" score="9.350">Perca</coll>
+  </gramrel>
+</wordsketch>
+</export>

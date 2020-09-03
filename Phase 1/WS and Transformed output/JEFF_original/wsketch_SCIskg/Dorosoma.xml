@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Dorosoma</keyword>
+  <gramrel name="nouns modified by X" hits="22" score="47.830">
+    <coll hits="17" score="13.720">cepedianum</coll>
+    <coll hits="4" score="12.290">petenense</coll>
+    <coll hits="1" score="10.140">Pimephales</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.170">
+    <coll hits="1" score="13.410">Pimephales</coll>
+  </gramrel>
+</wordsketch>
+</export>

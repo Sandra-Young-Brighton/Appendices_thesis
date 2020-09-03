@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">brownie</keyword>
+  <gramrel name="modifiers of X" hits="2" score="18.180">
+    <coll hits="2" score="9.480">brown_trout</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="18.180">
+    <coll hits="2" score="13.670">loch_leven_trout</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="18.180">
+    <coll hits="2" score="13.670">loch_leven_trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

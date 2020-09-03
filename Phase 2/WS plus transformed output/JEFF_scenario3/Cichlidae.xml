@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cichlidae</keyword>
+  <gramrel name="modifiers of X" hits="3" score="9.090">
+    <coll hits="1" score="11.990">Characidae</coll>
+    <coll hits="1" score="11.990">Perciformes</coll>
+    <coll hits="1" score="10.910">Teleostei</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="9.090">
+    <coll hits="1" score="12.410">Monodactylidae</coll>
+    <coll hits="1" score="12.410">Loricariidae</coll>
+    <coll hits="1" score="12.190">facetum</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="3.030">
+    <coll hits="1" score="13.000">Loricariidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

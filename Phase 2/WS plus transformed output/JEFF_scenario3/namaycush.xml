@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">namaycush</keyword>
+  <gramrel name="modifiers of X" hits="69" score="83.130">
+    <coll hits="69" score="11.230">Salvelinus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="3.610">
+    <coll hits="1" score="10.410">Amer</coll>
+    <coll hits="1" score="9.300">Park</coll>
+    <coll hits="1" score="3.480">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">back</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="37" score="21.390">
+    <coll hits="1" score="9.750" query="w1916505370">Card</coll>
+    <coll hits="1" score="9.750" query="w1916505369">Chenille</coll>
+    <coll hits="1" score="9.750" query="w1916505366">streak</coll>
+    <coll hits="3" score="9.710" query="w1916505360">wall</coll>
+    <coll hits="1" score="9.710" query="w1916505367">stamp</coll>
+    <coll hits="1" score="9.610" query="w1916505368">slit</coll>
+    <coll hits="1" score="9.410" query="w1916505364">arena</coll>
+    <coll hits="2" score="9.310" query="w1916505365">spine</coll>
+    <coll hits="1" score="9.140" query="w1916505359">shade</coll>
+    <coll hits="1" score="9.040" query="w1916505358">silver</coll>
+    <coll hits="1" score="8.870" query="w1916505363">wing</coll>
+    <coll hits="1" score="8.710" query="w1916505350">belly</coll>
+    <coll hits="1" score="8.240" query="w1916505349">ray</coll>
+    <coll hits="2" score="8.040" query="w1916505357">trap</coll>
+    <coll hits="2" score="7.970" query="w1916505344">head</coll>
+    <coll hits="1" score="7.730" query="w1916505351">spot</coll>
+    <coll hits="2" score="7.490" query="w1916505348">fin</coll>
+    <coll hits="1" score="7.400" query="w1916505354">addition</coll>
+    <coll hits="1" score="7.310" query="w1916505352">eye</coll>
+    <coll hits="2" score="7.010" query="w1916505345">side</coll>
+    <coll hits="1" score="6.730" query="w1916505362">aquarium</coll>
+    <coll hits="2" score="6.720" query="w1916505361">tank</coll>
+    <coll hits="1" score="6.090" query="w1916505353">end</coll>
+    <coll hits="1" score="5.820" query="w1916505347">body</coll>
+    <coll hits="1" score="4.640" query="w1916505356">change</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.580">
+    <coll hits="1" score="13.410" query="w1916760512">identification</coll>
+  </gramrel>
+</wordsketch>
+</export>

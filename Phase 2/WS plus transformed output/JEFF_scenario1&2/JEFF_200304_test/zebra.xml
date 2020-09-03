@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">zebra</keyword>
+  <gramrel name="modifiers of X" hits="3" score="2.190">
+    <coll hits="2" score="13.410">Pseudotropheus</coll>
+    <coll hits="1" score="13.000">Metriaclima</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.730">
+    <coll hits="1" score="6.490">America</coll>
+  </gramrel>
+</wordsketch>
+</export>

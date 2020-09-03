@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">acheilognathi</keyword>
+  <gramrel name="modifiers of X" hits="8" score="42.110">
+    <coll hits="8" score="13.990">Bothriocephalus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="10.530">
+    <coll hits="1" score="8.640">host</coll>
+    <coll hits="1" score="4.720">rate</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Parahucho</keyword>
+  <gramrel name="modifiers of X" hits="1" score="2.780">
+    <coll hits="1" score="9.910">Hucho</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="28" score="77.780">
+    <coll hits="27" score="13.480">perryi</coll>
+    <coll hits="1" score="10.040">Salvelinus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.780">
+    <coll hits="1" score="11.540">Salvelinus</coll>
+  </gramrel>
+</wordsketch>
+</export>

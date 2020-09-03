@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Orconectes</keyword>
+  <gramrel name="nouns modified by X" hits="33" score="71.740">
+    <coll hits="8" score="12.640" query="w1967198210">propinquus</coll>
+    <coll hits="7" score="12.410" query="w1967198209">rusticus</coll>
+    <coll hits="5" score="12.030" query="w1967198211">limosus</coll>
+    <coll hits="2" score="10.870" query="w1967198217">causeyi</coll>
+    <coll hits="2" score="10.870" query="w1967198216">virilis</coll>
+    <coll hits="2" score="10.870" query="w1967198215">sloanii</coll>
+    <coll hits="2" score="10.870" query="w1967198214">cristavarius</coll>
+    <coll hits="2" score="10.870" query="w1967198213">sanbornii</coll>
+    <coll hits="2" score="10.820" query="w1967198208">obscurus</coll>
+    <coll hits="1" score="9.910" query="w1967198212">immunis</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Clariidae</keyword>
+  <gramrel name="modifiers of X" hits="2" score="18.180">
+    <coll hits="1" score="11.670" query="w2054487681">Siluriformes</coll>
+    <coll hits="1" score="11.540" query="w2054487680">Teleostei</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="9.090">
+    <coll hits="1" score="11.410" query="w2054505216">Siluriformes</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="9.090">
+    <coll hits="1" score="11.410" query="w2054477824">Siluriformes</coll>
+  </gramrel>
+</wordsketch>
+</export>

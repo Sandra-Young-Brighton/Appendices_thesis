@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">salaris</keyword>
+  <gramrel name="modifiers of X" hits="24" score="25.810">
+    <coll hits="24" score="13.830">Gyrodactylus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="2.150">
+    <coll hits="1" score="8.750">territory</coll>
+    <coll hits="1" score="7.250">gradient</coll>
+  </gramrel>
+</wordsketch>
+</export>

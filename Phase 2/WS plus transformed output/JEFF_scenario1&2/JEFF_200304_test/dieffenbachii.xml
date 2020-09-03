@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">dieffenbachii</keyword>
+  <gramrel name="modifiers of X" hits="26" score="63.410">
+    <coll hits="26" score="12.030">Anguilla</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.440">
+    <coll hits="1" score="3.260">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

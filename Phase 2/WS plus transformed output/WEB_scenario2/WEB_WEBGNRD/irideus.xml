@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">irideus</keyword>
+  <gramrel name="modifiers of X" hits="5" score="20.000">
+    <coll hits="5" score="6.550" query="w1771290688">Salmo</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="4.000">
+    <coll hits="1" score="11.540" query="w1771300864">altivelis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="4.000">
+    <coll hits="1" score="13.990" query="w1771280704">altivelis</coll>
+  </gramrel>
+</wordsketch>
+</export>

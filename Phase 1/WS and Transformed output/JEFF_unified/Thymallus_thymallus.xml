@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Thymallus_thymallus</keyword>
+  <gramrel name="modifiers of X" hits="3" score="4.000">
+    <coll hits="1" score="12.680">Telestes</coll>
+    <coll hits="1" score="10.820">Salmo_trutta</coll>
+    <coll hits="1" score="10.680">Salmo</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="5" score="6.670">
+    <coll hits="2" score="12.410">Tinca_tinca</coll>
+    <coll hits="2" score="11.750">Salmonidae</coll>
+    <coll hits="1" score="8.640">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="2.670">
+    <coll hits="2" score="13.990">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="5.330">
+    <coll hits="1" score="8.690">́</coll>
+    <coll hits="3" score="5.180">river</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="1.330">
+    <coll hits="1" score="6.810">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

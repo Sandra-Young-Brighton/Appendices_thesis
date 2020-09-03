@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Silurus_glanis</keyword>
+  <gramrel name="modifiers of X" hits="4" score="20.000">
+    <coll hits="1" score="12.680">Cobitis_taenia</coll>
+    <coll hits="1" score="12.410">Barbatula_barbatula</coll>
+    <coll hits="1" score="11.990">Tinca_tinca</coll>
+    <coll hits="1" score="9.000">predator</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="10.000">
+    <coll hits="1" score="10.600">resource</coll>
+    <coll hits="1" score="10.090">food</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="5.000">
+    <coll hits="1" score="9.190">native</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Neogobius</keyword>
+  <gramrel name="nouns modified by X" hits="87" score="76.320">
+    <coll hits="83" score="13.940" query="w1899362049">melanostomus</coll>
+    <coll hits="1" score="8.490" query="w1899362051">kessleri</coll>
+    <coll hits="1" score="8.280" query="w1899362050">marmoratus</coll>
+    <coll hits="2" score="6.270" query="w1899362048">fluviatilis</coll>
+  </gramrel>
+</wordsketch>
+</export>

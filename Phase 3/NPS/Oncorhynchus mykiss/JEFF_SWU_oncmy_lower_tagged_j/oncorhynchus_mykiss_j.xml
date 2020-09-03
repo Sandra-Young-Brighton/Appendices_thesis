@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="-j" freq="0">oncorhynchus_mykiss</keyword>
+  <gramrel name="modifiers of X" hits="2" score="6.670">
+    <coll hits="1" score="11.540">steelhead</coll>
+    <coll hits="1" score="10.820">rainbow_trout</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="3.330">
+    <coll hits="1" score="3.050">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

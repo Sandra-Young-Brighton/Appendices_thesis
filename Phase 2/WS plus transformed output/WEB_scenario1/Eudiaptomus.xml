@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Eudiaptomus</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="11" score="27.500">
+    <coll hits="3" score="11.230">Ness</coll>
+    <coll hits="1" score="8.410">south</coll>
+    <coll hits="3" score="7.130">basin</coll>
+    <coll hits="1" score="6.400">animal</coll>
+    <coll hits="1" score="5.730">location</coll>
+    <coll hits="2" score="3.890">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

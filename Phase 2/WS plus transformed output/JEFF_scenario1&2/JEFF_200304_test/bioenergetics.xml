@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">bioenergetics</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="22" score="8.460">
+    <coll hits="1" score="8.750">tilapia</coll>
+    <coll hits="1" score="8.470">juve</coll>
+    <coll hits="1" score="8.100">Trout</coll>
+    <coll hits="1" score="7.920">cod</coll>
+    <coll hits="1" score="7.500">O</coll>
+    <coll hits="1" score="7.050">strategy</coll>
+    <coll hits="2" score="6.570">bass</coll>
+    <coll hits="2" score="5.480">individual</coll>
+    <coll hits="2" score="5.400">growth</coll>
+    <coll hits="1" score="4.980">change</coll>
+    <coll hits="1" score="4.560">species</coll>
+    <coll hits="2" score="4.510">salmon</coll>
+    <coll hits="2" score="4.170">trout</coll>
+    <coll hits="2" score="4.140">specie</coll>
+    <coll hits="2" score="2.960">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

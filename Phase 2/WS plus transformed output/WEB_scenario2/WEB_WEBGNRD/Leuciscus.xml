@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Leuciscus</keyword>
+  <gramrel name="nouns modified by X" hits="113" score="63.840">
+    <coll hits="66" score="13.360" query="w1975901696">cephalus</coll>
+    <coll hits="38" score="12.970" query="w1975901697">leuciscus</coll>
+    <coll hits="5" score="10.240" query="w1975901698">aspius</coll>
+    <coll hits="3" score="9.720" query="w1975901699">idus</coll>
+    <coll hits="1" score="8.150" query="w1975901700">pulchellus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.560">
+    <coll hits="1" score="4.700" query="w1975958592">growth</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">creeks</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="41" score="9.260">
+    <coll hits="1" score="9.610" query="w1270562079">erie</coll>
+    <coll hits="1" score="9.570" query="w1270562078">M3</coll>
+    <coll hits="1" score="9.380" query="w1270562077">flat</coll>
+    <coll hits="1" score="8.980" query="w1270562067">Service</coll>
+    <coll hits="1" score="8.690" query="w1270562071">diversion</coll>
+    <coll hits="1" score="8.650" query="w1270562074">corner</coll>
+    <coll hits="2" score="8.240" query="w1270562072">drainage</coll>
+    <coll hits="1" score="8.220" query="w1270562073">Valley</coll>
+    <coll hits="2" score="7.760" query="w1270562068">mile</coll>
+    <coll hits="1" score="7.750" query="w1270562070">road</coll>
+    <coll hits="2" score="7.350" query="w1270562049">July</coll>
+    <coll hits="2" score="7.340" query="w1270562069">California</coll>
+    <coll hits="1" score="7.020" query="w1270562076">delta</coll>
+    <coll hits="1" score="6.680" query="w1270562066">week</coll>
+    <coll hits="1" score="6.520" query="w1270562051">mouth</coll>
+    <coll hits="2" score="6.490" query="w1270562055">basin</coll>
+    <coll hits="1" score="6.400" query="w1270562075">Dam</coll>
+    <coll hits="1" score="6.080" query="w1270562057">end</coll>
+    <coll hits="1" score="6.000" query="w1270562050">side</coll>
+    <coll hits="1" score="5.430" query="w1270562065">sea</coll>
+    <coll hits="1" score="5.400" query="w1270562053">survey</coll>
+    <coll hits="1" score="5.210" query="w1270562052">region</coll>
+    <coll hits="1" score="5.090" query="w1270562059">ecosystem</coll>
+    <coll hits="1" score="5.070" query="w1270562064">density</coll>
+    <coll hits="2" score="4.720" query="w1270562063">area</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="2" score="0.450">
+    <coll hits="1" score="13.410" query="w1270847873">report</coll>
+    <coll hits="1" score="13.410" query="w1270847872">steelhead</coll>
+  </gramrel>
+</wordsketch>
+</export>

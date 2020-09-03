@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Haliplidae</keyword>
+  <gramrel name="modifiers of X" hits="2" score="22.220">
+    <coll hits="1" score="13.410" query="w2110848257">Gyrinidae</coll>
+    <coll hits="1" score="10.410" query="w2110848256">Coleoptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="22.220">
+    <coll hits="1" score="13.000" query="w2110866945">Helophoridae</coll>
+    <coll hits="1" score="13.000" query="w2110866944">Curculionidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="22.220">
+    <coll hits="1" score="13.000" query="w2110830593">Helophoridae</coll>
+    <coll hits="1" score="13.000" query="w2110830592">Curculionidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

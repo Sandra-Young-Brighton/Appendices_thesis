@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">setae</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="94" score="22.540">
+    <coll hits="12" score="11.860" query="w2093455442">pale</coll>
+    <coll hits="9" score="11.410" query="w2093455446">scape</coll>
+    <coll hits="9" score="11.370" query="w2093455438">ridge</coll>
+    <coll hits="6" score="10.650" query="w2093455449">epandrium</coll>
+    <coll hits="4" score="10.370" query="w2093455454">callus</coll>
+    <coll hits="4" score="10.350" query="w2093455445">coxa</coll>
+    <coll hits="4" score="10.190" query="w2093455453">scutum</coll>
+    <coll hits="4" score="10.000" query="w2093455448">tergite</coll>
+    <coll hits="5" score="9.890" query="w2093455424">segment</coll>
+    <coll hits="3" score="9.710" query="w2093455437">dark</coll>
+    <coll hits="2" score="9.410" query="w2093455455">forecoxa</coll>
+    <coll hits="2" score="9.390" query="w2093455450">femur</coll>
+    <coll hits="2" score="9.060" query="w2093455447">gonocoxite</coll>
+    <coll hits="2" score="9.050" query="w2093455436">antenna</coll>
+    <coll hits="2" score="8.930" query="w2093455435">corner</coll>
+    <coll hits="3" score="8.450" query="w2093455425">base</coll>
+    <coll hits="1" score="8.430" query="w2093455452">gena</coll>
+    <coll hits="3" score="8.400" query="w2093455433">edge</coll>
+    <coll hits="1" score="8.350" query="w2093455444">flagellum</coll>
+    <coll hits="1" score="8.350" query="w2093455443">thorax</coll>
+    <coll hits="1" score="8.350" query="w2093455441">fore</coll>
+    <coll hits="1" score="8.330" query="w2093455451">frons</coll>
+    <coll hits="1" score="8.240" query="w2093455431">pit</coll>
+    <coll hits="2" score="8.200" query="w2093455439">patch</coll>
+    <coll hits="1" score="8.190" query="w2093455440">lobe</coll>
+  </gramrel>
+</wordsketch>
+</export>

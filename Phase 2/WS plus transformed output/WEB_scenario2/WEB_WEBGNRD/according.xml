@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">according</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="612" score="86.440">
+    <coll hits="13" score="8.870" query="w269788149">report</coll>
+    <coll hits="7" score="8.490" query="w269788123">formula</coll>
+    <coll hits="18" score="8.470" query="w269246113">datum</coll>
+    <coll hits="7" score="8.340" query="w270368651">criterion</coll>
+    <coll hits="6" score="8.310" query="w271924621">Kieser</coll>
+    <coll hits="6" score="8.290" query="w270904572">Law</coll>
+    <coll hits="6" score="8.150" query="w270368666">procedure</coll>
+    <coll hits="9" score="7.970" query="w269246106">result</coll>
+    <coll hits="6" score="7.970" query="w269246127">index</coll>
+    <coll hits="5" score="7.960" query="w270368665">guideline</coll>
+    <coll hits="5" score="7.950" query="w270904570">scheme</coll>
+    <coll hits="5" score="7.740" query="w269788137">hypothesis</coll>
+    <coll hits="4" score="7.720" query="w271420156">Ziuganov</coll>
+    <coll hits="4" score="7.690" query="w270904530">schedule</coll>
+    <coll hits="7" score="7.680" query="w269788114">content</coll>
+    <coll hits="4" score="7.640" query="w269788113">protocol</coll>
+    <coll hits="4" score="7.570" query="w271420099">Directive</coll>
+    <coll hits="17" score="7.540" query="w269246082">study</coll>
+    <coll hits="6" score="7.440" query="w269246100">method</coll>
+    <coll hits="3" score="7.310" query="w271924636">Schallie</coll>
+    <coll hits="3" score="7.310" query="w271420151">Elie</coll>
+    <coll hits="3" score="7.310" query="w270904559">Ziegler</coll>
+    <coll hits="3" score="7.310" query="w270368691">Pennak</coll>
+    <coll hits="3" score="7.310" query="w270368675">memo</coll>
+    <coll hits="4" score="7.300" query="w269246115">shape</coll>
+  </gramrel>
+</wordsketch>
+</export>

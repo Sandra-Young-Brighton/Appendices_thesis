@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">kokanee</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="12.820">
+    <coll hits="2" score="12.410">McDonald</coll>
+    <coll hits="1" score="12.410">olig</coll>
+    <coll hits="1" score="9.040">trawl</coll>
+    <coll hits="1" score="3.480">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

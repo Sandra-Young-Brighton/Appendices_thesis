@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">truncatus</keyword>
+  <gramrel name="modifiers of X" hits="8" score="53.330">
+    <coll hits="4" score="13.410" query="w2067740161">Tursiops</coll>
+    <coll hits="4" score="13.300" query="w2067740160">Bulinus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">brevipinnis</keyword>
+  <gramrel name="modifiers of X" hits="6" score="75.000">
+    <coll hits="1" score="12.190" query="w1922033857">postvectis</coll>
+    <coll hits="5" score="11.280" query="w1922033856">Galaxias</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="12.500">
+    <coll hits="1" score="12.190" query="w1922059584">fosteri</coll>
+  </gramrel>
+</wordsketch>
+</export>

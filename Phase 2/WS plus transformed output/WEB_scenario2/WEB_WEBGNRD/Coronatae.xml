@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Coronatae</keyword>
+  <gramrel name="modifiers of X" hits="3" score="300.000">
+    <coll hits="1" score="13.000" query="w2145875330">Scyphozoa</coll>
+    <coll hits="1" score="13.000" query="w2145875329">periphylla</coll>
+    <coll hits="1" score="13.000" query="w2145875328">Periphylla</coll>
+  </gramrel>
+</wordsketch>
+</export>

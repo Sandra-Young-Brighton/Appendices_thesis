@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">transmontanus</keyword>
+  <gramrel name="modifiers of X" hits="20" score="60.610">
+    <coll hits="20" score="12.730" query="w1764400128">Acipenser</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="6.060">
+    <coll hits="1" score="12.410" query="w1764413441">Hiodon</coll>
+    <coll hits="1" score="11.990" query="w1764413440">Perca</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="3.030">
+    <coll hits="1" score="4.650" query="w1764433664">condition</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Aquaria</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="57" score="9.780">
+    <coll hits="2" score="9.970" query="w1534477347">pet</coll>
+    <coll hits="2" score="9.910" query="w1534477326">candidate</coll>
+    <coll hits="2" score="9.230" query="w1534477348">block</coll>
+    <coll hits="1" score="9.140" query="w1534477352">sandbed</coll>
+    <coll hits="1" score="9.020" query="w1534477345">nitrite</coll>
+    <coll hits="1" score="8.960" query="w1534477349">partition</coll>
+    <coll hits="1" score="8.960" query="w1534477341">aeration</coll>
+    <coll hits="1" score="8.870" query="w1534477351">restaurant</coll>
+    <coll hits="1" score="8.410" query="w1534477336">l</coll>
+    <coll hits="1" score="8.330" query="w1534477330">Station</coll>
+    <coll hits="1" score="8.300" query="w1534477350">pump</coll>
+    <coll hits="2" score="7.810" query="w1534477333">series</coll>
+    <coll hits="1" score="7.810" query="w1534477328">access</coll>
+    <coll hits="4" score="7.650" query="w1534477319">C</coll>
+    <coll hits="1" score="7.520" query="w1534477346">Zealand</coll>
+    <coll hits="1" score="7.500" query="w1534477339">rock</coll>
+    <coll hits="2" score="7.310" query="w1534477314">University</coll>
+    <coll hits="1" score="7.220" query="w1534477324">g</coll>
+    <coll hits="4" score="7.150" query="w1534477344">concentration</coll>
+    <coll hits="1" score="7.140" query="w1534477343">sand</coll>
+    <coll hits="1" score="7.130" query="w1534477332">release</coll>
+    <coll hits="2" score="7.120" query="w1534477337">substrate</coll>
+    <coll hits="1" score="6.940" query="w1534477342">redd</coll>
+    <coll hits="1" score="6.810" query="w1534477325">laboratory</coll>
+    <coll hits="1" score="6.810" query="w1534477322">world</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="3" score="0.510">
+    <coll hits="1" score="13.000" query="w1534863234">sheeting</coll>
+    <coll hits="1" score="13.000" query="w1534863232">plastic</coll>
+    <coll hits="1" score="12.410" query="w1534863233">apparatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

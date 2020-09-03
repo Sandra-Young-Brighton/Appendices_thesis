@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Vimba</keyword>
+  <gramrel name="modifiers of X" hits="2" score="6.250">
+    <coll hits="1" score="13.410">vimba</coll>
+    <coll hits="1" score="10.750">Vimba</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="17" score="53.130">
+    <coll hits="16" score="13.910">vimba</coll>
+    <coll hits="1" score="10.750">Vimba</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="6.250">
+    <coll hits="1" score="13.410">Kaunas</coll>
+    <coll hits="1" score="6.020">Europe</coll>
+  </gramrel>
+</wordsketch>
+</export>

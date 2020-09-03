@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">pseudoharengus</keyword>
+  <gramrel name="modifiers of X" hits="62" score="87.320">
+    <coll hits="59" score="13.190" query="w832693248">Alosa</coll>
+    <coll hits="1" score="9.020" query="w832693251">Alsoa</coll>
+    <coll hits="1" score="9.020" query="w832693249">Clupeidae</coll>
+    <coll hits="1" score="9.000" query="w832693250">mordax</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="4.230">
+    <coll hits="3" score="13.990" query="w832680512">hoyi</coll>
+  </gramrel>
+</wordsketch>
+</export>

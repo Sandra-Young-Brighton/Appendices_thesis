@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Penaeus</keyword>
+  <gramrel name="nouns modified by X" hits="8" score="36.360">
+    <coll hits="3" score="13.120" query="w1729973760">esculentus</coll>
+    <coll hits="3" score="13.000" query="w1729973761">monodon</coll>
+    <coll hits="1" score="11.410" query="w1729973762">merguiensis</coll>
+    <coll hits="1" score="11.300" query="w1729973763">ensis</coll>
+  </gramrel>
+</wordsketch>
+</export>

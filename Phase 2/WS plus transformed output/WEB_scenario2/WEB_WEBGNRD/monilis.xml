@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">monilis</keyword>
+  <gramrel name="modifiers of X" hits="2" score="200.000">
+    <coll hits="1" score="13.410" query="w2189877505">Ablabesmyia</coll>
+    <coll hits="1" score="10.470" query="w2189877504">Chironomidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

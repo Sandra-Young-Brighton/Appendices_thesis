@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Rutilus</keyword>
+  <gramrel name="nouns modified by X" hits="203" score="79.300">
+    <coll hits="199" score="13.940">rutilus</coll>
+    <coll hits="1" score="7.320">rubilio</coll>
+    <coll hits="1" score="7.320">panosi</coll>
+    <coll hits="1" score="7.320">rurilus</coll>
+    <coll hits="1" score="7.290">Salmo</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="0.780">
+    <coll hits="1" score="12.680">fluviatilis</coll>
+    <coll hits="1" score="12.680">Perca</coll>
+  </gramrel>
+</wordsketch>
+</export>

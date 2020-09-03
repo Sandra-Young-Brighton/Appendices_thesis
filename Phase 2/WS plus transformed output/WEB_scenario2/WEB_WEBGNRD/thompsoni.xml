@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">thompsoni</keyword>
+  <gramrel name="modifiers of X" hits="12" score="85.710">
+    <coll hits="10" score="11.700" query="w1993838016">Myoxocephalus</coll>
+    <coll hits="2" score="10.680" query="w1993838017">Sebastes</coll>
+  </gramrel>
+</wordsketch>
+</export>

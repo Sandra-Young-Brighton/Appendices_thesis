@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Chironomidae</keyword>
+  <gramrel name="modifiers of X" hits="4" score="3.640">
+    <coll hits="1" score="12.190">Ostracoda</coll>
+    <coll hits="1" score="11.410">Cladocera</coll>
+    <coll hits="1" score="11.090">Diptera</coll>
+    <coll hits="1" score="11.000">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="6" score="5.450">
+    <coll hits="2" score="12.190">Odonata</coll>
+    <coll hits="1" score="11.990">Mollusca</coll>
+    <coll hits="1" score="11.670">Simuliidae</coll>
+    <coll hits="1" score="11.090">Diptera</coll>
+    <coll hits="1" score="10.350">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="10" score="9.090">
+    <coll hits="3" score="12.330">Odonata</coll>
+    <coll hits="2" score="12.190">Simuliidae</coll>
+    <coll hits="4" score="12.090">Ephemeroptera</coll>
+    <coll hits="1" score="10.140">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.910">
+    <coll hits="1" score="8.350">indicator</coll>
+  </gramrel>
+</wordsketch>
+</export>

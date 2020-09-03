@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Chironomidae</keyword>
+  <gramrel name="modifiers of X" hits="8" score="1.660">
+    <coll hits="2" score="12.190" query="w729604356">Aeshnidae</coll>
+    <coll hits="1" score="11.410" query="w729604354">Odonata</coll>
+    <coll hits="1" score="11.410" query="w729604352">Amphipoda</coll>
+    <coll hits="2" score="11.350" query="w729604355">Oligochaeta</coll>
+    <coll hits="2" score="10.950" query="w729604353">Diptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="21" score="4.350">
+    <coll hits="4" score="11.450" query="w729647617">Diptera</coll>
+    <coll hits="2" score="11.300" query="w729647616">Amphipoda</coll>
+    <coll hits="2" score="10.790" query="w729647618">Trichoptera</coll>
+    <coll hits="1" score="10.540" query="w729647621">Baetidae</coll>
+    <coll hits="1" score="10.540" query="w729647620">Blepharoceridae</coll>
+    <coll hits="1" score="10.470" query="w729647626">monilis</coll>
+    <coll hits="1" score="10.470" query="w729647622">Culicidae</coll>
+    <coll hits="1" score="10.410" query="w729647619">Oligochaeta</coll>
+    <coll hits="1" score="10.350" query="w729647624">Homoptera</coll>
+    <coll hits="1" score="10.040" query="w729647623">Hymenoptera</coll>
+    <coll hits="6" score="9.170" query="w729647625">indet</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="24" score="4.970">
+    <coll hits="7" score="12.720" query="w729515648">Amphipoda</coll>
+    <coll hits="5" score="12.270" query="w729515653">Oligochaeta</coll>
+    <coll hits="3" score="11.830" query="w729515654">Simuliidae</coll>
+    <coll hits="2" score="11.040" query="w729515651">Trichoptera</coll>
+    <coll hits="2" score="10.680" query="w729515650">Diptera</coll>
+    <coll hits="1" score="10.350" query="w729515656">Baetidae</coll>
+    <coll hits="1" score="10.350" query="w729515655">Blepharoceridae</coll>
+    <coll hits="1" score="10.300" query="w729515657">Culicidae</coll>
+    <coll hits="1" score="10.090" query="w729515652">Cladocera</coll>
+    <coll hits="1" score="10.040" query="w729515649">Coleoptera</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="14" score="2.900">
+    <coll hits="1" score="10.910" query="w729743562">Balaton</coll>
+    <coll hits="1" score="9.640" query="w729743561">profundal</coll>
+    <coll hits="1" score="9.610" query="w729743560">Thames</coll>
+    <coll hits="1" score="9.090" query="w729743553">whole</coll>
+    <coll hits="1" score="8.730" query="w729743558">mud</coll>
+    <coll hits="1" score="7.290" query="w729743559">England</coll>
+    <coll hits="2" score="7.200" query="w729743557">month</coll>
+    <coll hits="1" score="6.230" query="w729743552">taxon</coll>
+    <coll hits="3" score="5.400" query="w729743555">stream</coll>
+    <coll hits="1" score="4.390" query="w729743556">level</coll>
+    <coll hits="1" score="2.880" query="w729743554">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

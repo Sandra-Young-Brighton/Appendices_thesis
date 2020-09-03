@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Linnaeus</keyword>
+  <gramrel name="modifiers of X" hits="136" score="68.000">
+    <coll hits="15" score="11.580">Lucius</coll>
+    <coll hits="14" score="11.440">trutta</coll>
+    <coll hits="7" score="10.580">fluviatilis</coll>
+    <coll hits="13" score="10.320">Esox</coll>
+    <coll hits="5" score="10.160">aculeatus</coll>
+    <coll hits="4" score="9.870">marinus</coll>
+    <coll hits="4" score="9.580">Petromyzon</coll>
+    <coll hits="3" score="9.450">gibbosus</coll>
+    <coll hits="3" score="9.440">Cyprinus</coll>
+    <coll hits="3" score="9.310">salar</coll>
+    <coll hits="6" score="9.260">perch</coll>
+    <coll hits="4" score="9.080">Gasterosteus</coll>
+    <coll hits="7" score="9.060">Perca</coll>
+    <coll hits="2" score="8.870">gobio</coll>
+    <coll hits="17" score="8.440">Salmo</coll>
+    <coll hits="2" score="8.430">stickleback</coll>
+    <coll hits="1" score="7.900">Phalaris</coll>
+    <coll hits="1" score="7.900">Pcrcn</coll>
+    <coll hits="1" score="7.900">aurata</coll>
+    <coll hits="1" score="7.900">arundinacea</coll>
+    <coll hits="1" score="7.900">niloticus</coll>
+    <coll hits="1" score="7.900">asotus</coll>
+    <coll hits="1" score="7.900">heteroclitus</coll>
+    <coll hits="1" score="7.900">barbatula</coll>
+    <coll hits="1" score="7.890">cephalus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="3.000">
+    <coll hits="1" score="11.830">affinis</coll>
+    <coll hits="1" score="11.830">gobio</coll>
+    <coll hits="2" score="11.610">Linnaeus</coll>
+    <coll hits="1" score="11.410">leuciscus</coll>
+    <coll hits="1" score="9.950">mykiss</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="1.000">
+    <coll hits="1" score="6.580">fish</coll>
+    <coll hits="1" score="6.500">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

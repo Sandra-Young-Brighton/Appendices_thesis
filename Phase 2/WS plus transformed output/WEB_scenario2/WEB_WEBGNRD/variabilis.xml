@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">variabilis</keyword>
+  <gramrel name="modifiers of X" hits="3" score="11.540">
+    <coll hits="1" score="13.000" query="w2007679552">Solenosmilia</coll>
+    <coll hits="1" score="10.470" query="w2007679553">Anthrenocerus</coll>
+    <coll hits="1" score="10.040" query="w2007679554">Nanexila</coll>
+  </gramrel>
+</wordsketch>
+</export>

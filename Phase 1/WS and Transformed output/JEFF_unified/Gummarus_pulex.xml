@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gummarus_pulex</keyword>
+  <gramrel name="verbs with X as object" hits="1" score="50.000">
+    <coll hits="1" score="7.450">feed</coll>
+  </gramrel>
+</wordsketch>
+</export>

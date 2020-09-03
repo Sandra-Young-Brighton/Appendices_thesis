@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Etheostoma</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="1.750">
+    <coll hits="1" score="12.190">Percidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.750">
+    <coll hits="1" score="12.680">Percidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="5.260">
+    <coll hits="1" score="12.410">spectabile</coll>
+    <coll hits="1" score="12.410">flabellare</coll>
+    <coll hits="1" score="9.500">description</coll>
+  </gramrel>
+</wordsketch>
+</export>

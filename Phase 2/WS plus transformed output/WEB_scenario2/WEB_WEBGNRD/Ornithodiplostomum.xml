@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ornithodiplostomum</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="75.000">
+    <coll hits="2" score="13.670" query="w2071019008">ptychocheilus</coll>
+    <coll hits="1" score="13.000" query="w2071019009">ptychochelius</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="25.000">
+    <coll hits="1" score="13.990" query="w2071009408">Uvulifer</coll>
+  </gramrel>
+</wordsketch>
+</export>

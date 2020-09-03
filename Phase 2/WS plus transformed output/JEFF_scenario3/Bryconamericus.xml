@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Bryconamericus</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="44.440">
+    <coll hits="1" score="12.680">iheringii</coll>
+    <coll hits="1" score="12.680">iheringi</coll>
+    <coll hits="2" score="12.290">stramineus</coll>
+  </gramrel>
+</wordsketch>
+</export>

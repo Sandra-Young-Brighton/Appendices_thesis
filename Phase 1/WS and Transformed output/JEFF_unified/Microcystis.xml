@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Microcystis</keyword>
+  <gramrel name="X and/or ..." hits="1" score="20.000">
+    <coll hits="1" score="13.990">Anabaena</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="20.000">
+    <coll hits="1" score="8.960">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

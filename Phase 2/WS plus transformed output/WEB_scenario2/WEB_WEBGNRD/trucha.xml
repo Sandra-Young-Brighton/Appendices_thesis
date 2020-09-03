@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">trucha</keyword>
+  <gramrel name="modifiers of X" hits="8" score="47.060">
+    <coll hits="8" score="13.670" query="w2077031424">Percichthys</coll>
+  </gramrel>
+</wordsketch>
+</export>

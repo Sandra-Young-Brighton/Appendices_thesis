@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Acanthocybium</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="57.140">
+    <coll hits="4" score="13.990" query="w2068383360">solandri</coll>
+  </gramrel>
+</wordsketch>
+</export>

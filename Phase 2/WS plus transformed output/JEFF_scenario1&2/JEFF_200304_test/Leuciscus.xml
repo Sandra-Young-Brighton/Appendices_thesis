@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Leuciscus</keyword>
+  <gramrel name="nouns modified by X" hits="72" score="60.000">
+    <coll hits="37" score="13.150">cephalus</coll>
+    <coll hits="26" score="13.060">leuciscus</coll>
+    <coll hits="5" score="11.040">pyrenaicus</coll>
+    <coll hits="3" score="10.350">idus</coll>
+    <coll hits="1" score="8.810">leusciscus</coll>
+  </gramrel>
+</wordsketch>
+</export>

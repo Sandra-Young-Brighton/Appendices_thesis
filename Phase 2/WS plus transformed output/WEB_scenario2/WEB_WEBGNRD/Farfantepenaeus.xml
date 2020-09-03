@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Farfantepenaeus</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="44.440">
+    <coll hits="2" score="13.410" query="w2087458625">duorarum</coll>
+    <coll hits="2" score="13.410" query="w2087458624">aztecus</coll>
+  </gramrel>
+</wordsketch>
+</export>

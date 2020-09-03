@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hybopsis</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="22.220">
+    <coll hits="1" score="13.410" query="w2024233409">biguttata</coll>
+    <coll hits="1" score="13.000" query="w2024233408">micropogon</coll>
+  </gramrel>
+</wordsketch>
+</export>

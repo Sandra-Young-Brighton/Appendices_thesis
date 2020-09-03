@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">nyererei</keyword>
+  <gramrel name="modifiers of X" hits="11" score="44.000">
+    <coll hits="5" score="13.320">Pundamilia</coll>
+    <coll hits="3" score="12.680">Haplochromis</coll>
+    <coll hits="1" score="11.410">Haplochrornis</coll>
+    <coll hits="1" score="11.410">Haplochrumis</coll>
+    <coll hits="1" score="11.410">Victoria</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="4.000">
+    <coll hits="1" score="7.430">station</coll>
+  </gramrel>
+</wordsketch>
+</export>

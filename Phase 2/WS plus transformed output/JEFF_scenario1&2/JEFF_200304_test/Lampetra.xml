@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lampetra</keyword>
+  <gramrel name="nouns modified by X" hits="74" score="66.070">
+    <coll hits="24" score="12.970">planeri</coll>
+    <coll hits="17" score="12.570">tridentata</coll>
+    <coll hits="25" score="11.150">fluviatilis</coll>
+    <coll hits="2" score="9.750">richardsoni</coll>
+    <coll hits="2" score="9.690">spp</coll>
+    <coll hits="1" score="8.760">aepyptera</coll>
+    <coll hits="1" score="8.760">camtschatica</coll>
+    <coll hits="1" score="8.760">ayresi</coll>
+    <coll hits="1" score="8.650">reissneri</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.890">
+    <coll hits="1" score="9.160">Oregon</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">barbus</keyword>
+  <gramrel name="modifiers of X" hits="62" score="59.050">
+    <coll hits="59" score="13.610">Barbus</coll>
+    <coll hits="1" score="9.020">Barhus</coll>
+    <coll hits="1" score="9.020">bipunctatus</coll>
+    <coll hits="1" score="8.960">brama</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="7" score="6.670">
+    <coll hits="1" score="11.410">nasus</coll>
+    <coll hits="1" score="11.000">cephalus</coll>
+    <coll hits="5" score="10.210">fish</coll>
+  </gramrel>
+  <gramrel name="X is a ..." hits="1" score="0.950">
+    <coll hits="1" score="10.540">fish</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="12" score="11.430">
+    <coll hits="1" score="11.300">Prokeš</coll>
+    <coll hits="1" score="10.820">Ourthe</coll>
+    <coll hits="2" score="10.240">UK</coll>
+    <coll hits="1" score="9.870">Ouse</coll>
+    <coll hits="1" score="6.900">Europe</coll>
+    <coll hits="1" score="5.250">range</coll>
+    <coll hits="1" score="4.950">age</coll>
+    <coll hits="2" score="4.580">river</coll>
+    <coll hits="1" score="3.760">River</coll>
+    <coll hits="1" score="3.720">habitat</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="1.900">
+    <coll hits="1" score="6.580">fish</coll>
+    <coll hits="1" score="6.500">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

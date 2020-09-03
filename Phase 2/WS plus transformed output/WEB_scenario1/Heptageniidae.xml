@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Heptageniidae</keyword>
+  <gramrel name="modifiers of X" hits="1" score="4.170">
+    <coll hits="1" score="13.990">Siphlonuridae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="12.500">
+    <coll hits="1" score="11.300">Hymenoptera</coll>
+    <coll hits="2" score="10.950">Plecoptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

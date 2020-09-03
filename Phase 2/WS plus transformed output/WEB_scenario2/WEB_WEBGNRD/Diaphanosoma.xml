@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Diaphanosoma</keyword>
+  <gramrel name="modifiers of X" hits="2" score="25.000">
+    <coll hits="1" score="11.410" query="w1948355585">Ceriodaphnia</coll>
+    <coll hits="1" score="8.850" query="w1948355584">Daphnia</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="6" score="75.000">
+    <coll hits="3" score="13.260" query="w1948372801">brachyurum</coll>
+    <coll hits="1" score="11.990" query="w1948372802">excisum</coll>
+    <coll hits="1" score="11.830" query="w1948372803">cuculata</coll>
+    <coll hits="1" score="11.410" query="w1948372800">Bosmina</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="25.000">
+    <coll hits="2" score="13.190" query="w1948346368">Bosmina</coll>
+  </gramrel>
+</wordsketch>
+</export>

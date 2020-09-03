@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">niloticus</keyword>
+  <gramrel name="modifiers of X" hits="69" score="44.810">
+    <coll hits="30" score="13.060" query="w1834468225">Lates</coll>
+    <coll hits="35" score="12.790" query="w1834468224">Oreochromis</coll>
+    <coll hits="2" score="9.570" query="w1834468226">Tilapia</coll>
+    <coll hits="1" score="8.870" query="w1834468228">Heterotis</coll>
+    <coll hits="1" score="8.870" query="w1834468227">Oriochromis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="1.950">
+    <coll hits="1" score="12.410" query="w1834514816">Osteichthyes</coll>
+    <coll hits="1" score="10.680" query="w1834514818">aureus</coll>
+    <coll hits="1" score="8.330" query="w1834514817">macrochirus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="3.250">
+    <coll hits="1" score="11.990" query="w1834541444">Kyoga</coll>
+    <coll hits="1" score="10.190" query="w1834541443">Froese</coll>
+    <coll hits="1" score="6.770" query="w1834541441">point</coll>
+    <coll hits="1" score="6.630" query="w1834541442">States</coll>
+    <coll hits="1" score="5.510" query="w1834541440">resource</coll>
+  </gramrel>
+</wordsketch>
+</export>

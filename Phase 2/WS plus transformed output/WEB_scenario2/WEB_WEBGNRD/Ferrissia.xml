@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ferrissia</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="60.000">
+    <coll hits="1" score="13.000" query="w2168102850">rivularis</coll>
+    <coll hits="1" score="13.000" query="w2168102849">Aeshna</coll>
+    <coll hits="1" score="13.000" query="w2168102848">tasmanica</coll>
+  </gramrel>
+</wordsketch>
+</export>

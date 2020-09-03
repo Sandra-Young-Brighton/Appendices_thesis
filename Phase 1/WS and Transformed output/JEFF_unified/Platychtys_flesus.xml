@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Platychtys_flesus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="50.000">
+    <coll hits="1" score="11.300">Anguilla_anguilla</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="50.000">
+    <coll hits="1" score="12.680">Liza_ramada</coll>
+  </gramrel>
+</wordsketch>
+</export>

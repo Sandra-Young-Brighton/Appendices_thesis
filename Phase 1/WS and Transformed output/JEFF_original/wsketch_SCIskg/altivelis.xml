@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">altivelis</keyword>
+  <gramrel name="modifiers of X" hits="16" score="53.330">
+    <coll hits="14" score="13.900">Plecoglossus</coll>
+    <coll hits="2" score="5.430">fish</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="13.330">
+    <coll hits="3" score="13.580">Ikeda</coll>
+    <coll hits="1" score="8.380">Japan</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="6.670">
+    <coll hits="1" score="6.580">fish</coll>
+    <coll hits="1" score="6.500">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

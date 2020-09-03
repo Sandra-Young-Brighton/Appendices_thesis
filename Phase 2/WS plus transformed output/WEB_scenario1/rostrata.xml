@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rostrata</keyword>
+  <gramrel name="modifiers of X" hits="116" score="62.700">
+    <coll hits="116" score="12.750">Anguilla</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="3.240">
+    <coll hits="1" score="10.190">lifespan</coll>
+    <coll hits="1" score="8.050">Iceland</coll>
+    <coll hits="1" score="5.970">tributary</coll>
+    <coll hits="1" score="5.420">freshwater</coll>
+    <coll hits="1" score="4.880">range</coll>
+    <coll hits="1" score="3.750">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

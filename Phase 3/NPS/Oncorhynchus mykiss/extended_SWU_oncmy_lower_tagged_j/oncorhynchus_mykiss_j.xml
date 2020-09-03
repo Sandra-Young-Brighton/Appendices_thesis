@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="-j" freq="0">oncorhynchus_mykiss</keyword>
+  <gramrel name="modifiers of X" hits="9" score="9.570">
+    <coll hits="2" score="11.910">rainbow_trout</coll>
+    <coll hits="4" score="11.040">steelhead</coll>
+    <coll hits="1" score="9.790">salmo_trutta</coll>
+    <coll hits="1" score="8.760">rainbow_trout</coll>
+    <coll hits="1" score="8.050">brown_trout</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="3.190">
+    <coll hits="1" score="12.410">salmo_salar</coll>
+    <coll hits="1" score="10.090">salvelinus_fontinalis</coll>
+    <coll hits="1" score="7.820">oncorhynchus_mykiss</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="7" score="7.450">
+    <coll hits="1" score="10.910">redband_trout</coll>
+    <coll hits="1" score="10.190">preferred</coll>
+    <coll hits="2" score="8.560">negative</coll>
+    <coll hits="1" score="6.520">s.</coll>
+    <coll hits="1" score="6.350">juvenile</coll>
+    <coll hits="1" score="4.930">Atlantic</coll>
+  </gramrel>
+  <gramrel name="... is a X" hits="1" score="1.060">
+    <coll hits="1" score="13.410">rainbow_trout</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.060">
+    <coll hits="1" score="6.110">watershed</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="1.060">
+    <coll hits="1" score="9.210">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

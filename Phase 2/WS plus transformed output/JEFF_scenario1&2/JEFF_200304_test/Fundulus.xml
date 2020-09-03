@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Fundulus</keyword>
+  <gramrel name="nouns modified by X" hits="42" score="50.000">
+    <coll hits="15" score="12.770">notatus</coll>
+    <coll hits="11" score="12.730">olivaceus</coll>
+    <coll hits="9" score="12.490">heteroclitus</coll>
+    <coll hits="2" score="10.540">sciadicus</coll>
+    <coll hits="2" score="10.540">zebrinus</coll>
+    <coll hits="1" score="9.570">diaphanus</coll>
+    <coll hits="1" score="9.380">Pimephales</coll>
+    <coll hits="1" score="7.620">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="1.190">
+    <coll hits="1" score="13.410">Micropterus</coll>
+  </gramrel>
+</wordsketch>
+</export>

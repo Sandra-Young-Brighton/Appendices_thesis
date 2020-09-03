@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Galaxias_maculatus</keyword>
+  <gramrel name="modifiers of X" hits="5" score="13.160">
+    <coll hits="2" score="9.790">minnow</coll>
+    <coll hits="3" score="5.890">fish</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.630">
+    <coll hits="1" score="13.990">Galaxias_platei</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="5.260">
+    <coll hits="1" score="5.660">stage</coll>
+    <coll hits="1" score="5.270">Lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

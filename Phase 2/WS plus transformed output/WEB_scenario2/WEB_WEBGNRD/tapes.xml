@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">tapes</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="25.000">
+    <coll hits="1" score="11.990" query="w1829828806">TVG</coll>
+    <coll hits="1" score="11.000" query="w1829828805">thalweg</coll>
+    <coll hits="1" score="10.410" query="w1829828804">subject</coll>
+    <coll hits="1" score="10.300" query="w1829828803">camera</coll>
+    <coll hits="1" score="7.310" query="w1829828800">date</coll>
+    <coll hits="1" score="6.090" query="w1829828802">bottom</coll>
+    <coll hits="1" score="5.920" query="w1829828801">vegetation</coll>
+  </gramrel>
+</wordsketch>
+</export>

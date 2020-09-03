@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">marxianus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="200.000">
+    <coll hits="1" score="13.410" query="w2152226689">Kluyveromyces</coll>
+    <coll hits="1" score="13.410" query="w2152226688">utilis</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">consumption</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="525" score="40.260">
+    <coll hits="22" score="10.230">territory</coll>
+    <coll hits="31" score="8.900">predator</coll>
+    <coll hits="8" score="8.820">YOY</coll>
+    <coll hits="24" score="8.790">prey</coll>
+    <coll hits="10" score="8.650">bluegill</coll>
+    <coll hits="7" score="8.320">pikeminnow</coll>
+    <coll hits="11" score="8.250">invertebrate</coll>
+    <coll hits="5" score="8.220">croaker</coll>
+    <coll hits="7" score="8.210">walleye</coll>
+    <coll hits="4" score="7.920">mysid</coll>
+    <coll hits="4" score="7.800">Daphnia</coll>
+    <coll hits="9" score="7.780">bass</coll>
+    <coll hits="4" score="7.730">nauplius</coll>
+    <coll hits="11" score="7.690">egg</coll>
+    <coll hits="4" score="7.630">D</coll>
+    <coll hits="16" score="7.560">species</coll>
+    <coll hits="3" score="7.390">LCRR</coll>
+    <coll hits="3" score="7.360">ammocoete</coll>
+    <coll hits="8" score="7.340">group</coll>
+    <coll hits="4" score="7.340">bird</coll>
+    <coll hits="4" score="7.290">item</coll>
+    <coll hits="3" score="7.290">piscivore</coll>
+    <coll hits="7" score="7.230">salmonid</coll>
+    <coll hits="3" score="7.180">vertebrate</coll>
+    <coll hits="3" score="7.110">whale</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">japonicus</keyword>
+  <gramrel name="modifiers of X" hits="23" score="67.650">
+    <coll hits="6" score="12.720" query="w1418268928">Lateolabrax</coll>
+    <coll hits="7" score="12.560" query="w1418268932">Scomber</coll>
+    <coll hits="3" score="11.450" query="w1418268930">Trachurus</coll>
+    <coll hits="2" score="11.350" query="w1418268934">Marsupenaeus</coll>
+    <coll hits="3" score="10.800" query="w1418268931">Engraulis</coll>
+    <coll hits="1" score="10.410" query="w1418268933">niphonius</coll>
+    <coll hits="1" score="10.350" query="w1418268929">pacificus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.940">
+    <coll hits="1" score="13.000" query="w1418258624">symmetricus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="8.820">
+    <coll hits="1" score="10.410" query="w1418343938">Kuroshio</coll>
+    <coll hits="1" score="7.390" query="w1418343937">Ocean</coll>
+    <coll hits="1" score="5.890" query="w1418343936">Bay</coll>
+  </gramrel>
+</wordsketch>
+</export>

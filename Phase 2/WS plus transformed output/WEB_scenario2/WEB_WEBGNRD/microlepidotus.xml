@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">microlepidotus</keyword>
+  <gramrel name="modifiers of X" hits="5" score="71.430">
+    <coll hits="4" score="12.910" query="w1561119040">Odontesthes</coll>
+    <coll hits="1" score="12.410" query="w1561119041">Orthodon</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">mordax</keyword>
+  <gramrel name="modifiers of X" hits="22" score="100.000">
+    <coll hits="16" score="13.140">Osmerus</coll>
+    <coll hits="4" score="12.240">Engraulis</coll>
+    <coll hits="2" score="11.410">Osmeridae</coll>
+  </gramrel>
+</wordsketch>
+</export>

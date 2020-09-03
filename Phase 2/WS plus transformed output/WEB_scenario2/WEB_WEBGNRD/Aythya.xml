@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Aythya</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="55.560">
+    <coll hits="2" score="12.830" query="w1946028673">fuligula</coll>
+    <coll hits="2" score="12.830" query="w1946028672">ferina</coll>
+    <coll hits="1" score="12.410" query="w1946028674">marila</coll>
+  </gramrel>
+</wordsketch>
+</export>

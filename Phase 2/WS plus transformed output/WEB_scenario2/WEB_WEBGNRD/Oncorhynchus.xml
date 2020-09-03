@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Oncorhynchus</keyword>
+  <gramrel name="nouns modified by X" hits="1377" score="71.940">
+    <coll hits="663" score="13.340" query="w124196544">mykiss</coll>
+    <coll hits="196" score="11.980" query="w124196545">kisutch</coll>
+    <coll hits="182" score="11.890" query="w124196546">nerka</coll>
+    <coll hits="156" score="11.690" query="w124196548">tshawytscha</coll>
+    <coll hits="57" score="10.340" query="w124196549">keta</coll>
+    <coll hits="52" score="10.210" query="w124196552">gorbuscha</coll>
+    <coll hits="31" score="9.480" query="w124196551">clarki</coll>
+    <coll hits="11" score="8.010" query="w124196550">clarkii</coll>
+    <coll hits="10" score="7.880" query="w124196556">aguabonita</coll>
+    <coll hits="6" score="7.150" query="w124196553">rhodurus</coll>
+    <coll hits="3" score="6.150" query="w124196558">gilae</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="5" score="0.260">
+    <coll hits="4" score="10.810" query="w124426112">[number]</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">striata</keyword>
+  <gramrel name="modifiers of X" hits="11" score="78.570">
+    <coll hits="8" score="13.750" query="w1819656448">Centropristis</coll>
+    <coll hits="1" score="11.300" query="w1819656450">catla</coll>
+    <coll hits="1" score="11.090" query="w1819656451">Catla</coll>
+    <coll hits="1" score="10.820" query="w1819656449">Channa</coll>
+  </gramrel>
+</wordsketch>
+</export>

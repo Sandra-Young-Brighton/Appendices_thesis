@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">isopods</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="9" score="12.330">
+    <coll hits="1" score="9.090">background</coll>
+    <coll hits="1" score="8.850">image</coll>
+    <coll hits="2" score="6.790">tank</coll>
+    <coll hits="1" score="6.330">class</coll>
+    <coll hits="2" score="4.780">habitat</coll>
+    <coll hits="1" score="4.370">perch</coll>
+    <coll hits="1" score="4.160">site</coll>
+  </gramrel>
+</wordsketch>
+</export>

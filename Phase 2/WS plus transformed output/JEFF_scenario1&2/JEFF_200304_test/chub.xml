@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">chub</keyword>
+  <gramrel name="modifiers of X" hits="1" score="0.070">
+    <coll hits="1" score="11.410">Gila</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.070">
+    <coll hits="1" score="12.680">torgalensis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="130" score="9.470">
+    <coll hits="3" score="9.500">Spree</coll>
+    <coll hits="3" score="9.390">YRS</coll>
+    <coll hits="2" score="8.860">Canyon</coll>
+    <coll hits="3" score="8.400">mark</coll>
+    <coll hits="1" score="7.970">Potomac</coll>
+    <coll hits="1" score="7.950">Che</coll>
+    <coll hits="1" score="7.940">Cheoah</coll>
+    <coll hits="1" score="7.940">Walker</coll>
+    <coll hits="4" score="7.910">patch</coll>
+    <coll hits="1" score="7.900">Riley</coll>
+    <coll hits="1" score="7.890">seg</coll>
+    <coll hits="1" score="7.890">exhib</coll>
+    <coll hits="1" score="7.880">Watershed</coll>
+    <coll hits="1" score="7.850">Meuse</coll>
+    <coll hits="1" score="7.800">sub-basin</coll>
+    <coll hits="1" score="7.750">Age</coll>
+    <coll hits="6" score="7.740">Creek</coll>
+    <coll hits="1" score="7.710">Trent</coll>
+    <coll hits="1" score="7.710">bedrock</coll>
+    <coll hits="1" score="7.670">Wyoming</coll>
+    <coll hits="1" score="7.630">SSRB</coll>
+    <coll hits="1" score="7.630">radius</coll>
+    <coll hits="1" score="7.610">shoal</coll>
+    <coll hits="1" score="7.610">issue</coll>
+    <coll hits="1" score="7.570">tailwater</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.070">
+    <coll hits="1" score="10.750">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

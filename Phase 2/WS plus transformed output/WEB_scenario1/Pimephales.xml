@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pimephales</keyword>
+  <gramrel name="nouns modified by X" hits="36" score="31.030">
+    <coll hits="23" score="13.610">promelas</coll>
+    <coll hits="12" score="12.850">notatus</coll>
+    <coll hits="1" score="9.790">vigilax</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="1.720">
+    <coll hits="1" score="12.190">catostomus</coll>
+    <coll hits="1" score="12.190">Catostomus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.860">
+    <coll hits="1" score="6.860">family</coll>
+  </gramrel>
+</wordsketch>
+</export>

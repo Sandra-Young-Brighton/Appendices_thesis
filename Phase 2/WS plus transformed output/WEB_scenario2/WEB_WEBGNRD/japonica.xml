@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">japonica</keyword>
+  <gramrel name="modifiers of X" hits="191" score="57.190">
+    <coll hits="181" score="13.150" query="w1417800896">Anguilla</coll>
+    <coll hits="2" score="8.310" query="w1417800900">Zostera</coll>
+    <coll hits="2" score="8.190" query="w1417800899">Engraulis</coll>
+    <coll hits="1" score="7.410" query="w1417800903">Evynnis</coll>
+    <coll hits="1" score="7.410" query="w1417800897">Cipangopaludina</coll>
+    <coll hits="1" score="7.400" query="w1417800901">Sillago</coll>
+    <coll hits="1" score="7.370" query="w1417800902">Eriocheir</coll>
+    <coll hits="2" score="7.010" query="w1417800898">Lampetra</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.300">
+    <coll hits="1" score="10.040" query="w1417859840">sapidissima</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="0.600">
+    <coll hits="1" score="13.410" query="w1417781697">rostrata</coll>
+    <coll hits="1" score="13.410" query="w1417781696">sapidissima</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="34" score="10.180">
+    <coll hits="6" score="10.770" query="w1417872460">Coast</coll>
+    <coll hits="1" score="9.830" query="w1417872466">Cause</coll>
+    <coll hits="1" score="9.530" query="w1417872464">VI</coll>
+    <coll hits="1" score="8.690" query="w1417872465">Taiwan</coll>
+    <coll hits="1" score="8.600" query="w1417872463">Current</coll>
+    <coll hits="1" score="8.470" query="w1417872458">contrast</coll>
+    <coll hits="1" score="8.460" query="w1417872462">captivity</coll>
+    <coll hits="4" score="7.370" query="w1417872448">freshwater</coll>
+    <coll hits="1" score="7.180" query="w1417872461">Ocean</coll>
+    <coll hits="2" score="6.810" query="w1417872454">Bay</coll>
+    <coll hits="1" score="6.400" query="w1417872456">coast</coll>
+    <coll hits="7" score="6.350" query="w1417872452">river</coll>
+    <coll hits="1" score="6.130" query="w1417872455">reach</coll>
+    <coll hits="1" score="5.920" query="w1417872457">content</coll>
+    <coll hits="1" score="5.410" query="w1417872449">survey</coll>
+    <coll hits="1" score="4.640" query="w1417872459">change</coll>
+    <coll hits="1" score="4.140" query="w1417872453">site</coll>
+    <coll hits="1" score="3.740" query="w1417872451">River</coll>
+    <coll hits="1" score="3.070" query="w1417872450">water</coll>
+  </gramrel>
+</wordsketch>
+</export>

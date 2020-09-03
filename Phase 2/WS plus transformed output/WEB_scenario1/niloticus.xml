@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">niloticus</keyword>
+  <gramrel name="modifiers of X" hits="68" score="44.160">
+    <coll hits="30" score="13.090">Lates</coll>
+    <coll hits="35" score="13.070">Oreochromis</coll>
+    <coll hits="2" score="9.660">Tilapia</coll>
+    <coll hits="1" score="8.890">Heterotis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.650">
+    <coll hits="1" score="8.350">macrochirus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="3.250">
+    <coll hits="1" score="11.990">Kyoga</coll>
+    <coll hits="1" score="10.190">Froese</coll>
+    <coll hits="1" score="6.770">point</coll>
+    <coll hits="1" score="6.630">States</coll>
+    <coll hits="1" score="5.510">resource</coll>
+  </gramrel>
+</wordsketch>
+</export>

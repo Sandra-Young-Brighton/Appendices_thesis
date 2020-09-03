@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Catonotus</keyword>
+  <gramrel name="X has part..." hits="2" score="66.670">
+    <coll hits="1" score="13.410">flabellare</coll>
+    <coll hits="1" score="13.410">Etheostoma</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="33.330">
+    <coll hits="1" score="13.000">sub</coll>
+  </gramrel>
+</wordsketch>
+</export>

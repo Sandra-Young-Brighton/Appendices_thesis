@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hypophthalmus</keyword>
+  <gramrel name="nouns modified by X" hits="20" score="66.670">
+    <coll hits="15" score="13.770" query="w1990789313">oremaculatus</coll>
+    <coll hits="4" score="12.350" query="w1990789312">edentatus</coll>
+    <coll hits="1" score="10.540" query="w1990789314">Nani</coll>
+  </gramrel>
+</wordsketch>
+</export>

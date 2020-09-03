@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Anabarhynchus</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="5.880">
+    <coll hits="1" score="12.410" query="w2159146176">ruficornis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="11.760">
+    <coll hits="1" score="13.410" query="w2159129089">Platycarenum</coll>
+    <coll hits="1" score="13.410" query="w2159129088">Nanexila</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="17.650">
+    <coll hits="2" score="13.000" query="w2159165889">Therevidae</coll>
+    <coll hits="1" score="11.830" query="w2159165888">Diptera</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="3" score="17.650">
+    <coll hits="1" score="13.000" query="w2159198209">fauna</coll>
+    <coll hits="1" score="12.680" query="w2159198210">Zealand</coll>
+    <coll hits="1" score="12.410" query="w2159198208">New</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="5.880">
+    <coll hits="1" score="6.030" query="w2159155456">presence</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Stizostedion</keyword>
+  <gramrel name="nouns modified by X" hits="64" score="71.910">
+    <coll hits="44" score="13.330">lucioperca</coll>
+    <coll hits="16" score="12.600">vitreum</coll>
+    <coll hits="2" score="9.930">canadense</coll>
+    <coll hits="1" score="8.980">volgensis</coll>
+    <coll hits="1" score="6.170">larva</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="1.120">
+    <coll hits="1" score="6.510">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Squalius</keyword>
+  <gramrel name="modifiers of X" hits="6" score="12.770">
+    <coll hits="2" score="13.000">calderoni</coll>
+    <coll hits="1" score="12.190">bocagei</coll>
+    <coll hits="1" score="10.350">trutta</coll>
+    <coll hits="1" score="10.190">Cobitis</coll>
+    <coll hits="1" score="4.270">Salmo</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="25" score="53.190">
+    <coll hits="9" score="13.080">carolitertii</coll>
+    <coll hits="13" score="11.830">cephalus</coll>
+    <coll hits="2" score="11.240">pyrenaicus</coll>
+    <coll hits="1" score="10.240">alburnoides</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="2.130">
+    <coll hits="1" score="7.510">Cyprinidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">ephippia</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="20.830">
+    <coll hits="2" score="13.000" query="w2128162371">cm3</coll>
+    <coll hits="1" score="7.420" query="w2128162369">A</coll>
+    <coll hits="1" score="6.330" query="w2128162370">sediment</coll>
+    <coll hits="1" score="4.900" query="w2128162368">group</coll>
+  </gramrel>
+</wordsketch>
+</export>

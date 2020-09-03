@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">carassius</keyword>
+  <gramrel name="modifiers of X" hits="22" score="78.570">
+    <coll hits="20" score="12.630">Carassius</coll>
+    <coll hits="1" score="10.470">ballerus</coll>
+    <coll hits="1" score="10.470">bjoerkna</coll>
+  </gramrel>
+</wordsketch>
+</export>

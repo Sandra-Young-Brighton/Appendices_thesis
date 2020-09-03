@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Heptageniidae</keyword>
+  <gramrel name="nouns modified by X" hits="9" score="37.500">
+    <coll hits="1" score="11.670" query="w1908319618">Ephemeridae</coll>
+    <coll hits="1" score="11.540" query="w1908319616">Leptophlebiidae</coll>
+    <coll hits="1" score="10.750" query="w1908319617">Hymenoptera</coll>
+    <coll hits="6" score="9.230" query="w1908319619">indet</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="8.330">
+    <coll hits="1" score="13.410" query="w1908303105">Ephemeridae</coll>
+    <coll hits="1" score="13.410" query="w1908303104">Leptophlebiidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

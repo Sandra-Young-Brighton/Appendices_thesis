@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Mesocyclops</keyword>
+  <gramrel name="nouns modified by X" hits="11" score="45.830">
+    <coll hits="5" score="13.320" query="w1819734528">edax</coll>
+    <coll hits="3" score="12.770" query="w1819734529">aspericornis</coll>
+    <coll hits="2" score="12.290" query="w1819734530">thermocyclopoides</coll>
+    <coll hits="1" score="11.410" query="w1819734531">longisetus</coll>
+  </gramrel>
+</wordsketch>
+</export>

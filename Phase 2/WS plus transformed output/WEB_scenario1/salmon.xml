@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">salmon</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="926" score="8.550">
+    <coll hits="50" score="8.930">River</coll>
+    <coll hits="22" score="8.910">Ontario</coll>
+    <coll hits="11" score="8.270">SRKW</coll>
+    <coll hits="35" score="8.270">river</coll>
+    <coll hits="10" score="8.190">Washington</coll>
+    <coll hits="9" score="8.190">Northwest</coll>
+    <coll hits="17" score="8.110">stage</coll>
+    <coll hits="9" score="7.970">Gulf</coll>
+    <coll hits="12" score="7.920">basin</coll>
+    <coll hits="7" score="7.910">Signaldalselva</coll>
+    <coll hits="8" score="7.860">Sound</coll>
+    <coll hits="6" score="7.700">Oahe</coll>
+    <coll hits="8" score="7.680">hatchery</coll>
+    <coll hits="8" score="7.610">ocean</coll>
+    <coll hits="7" score="7.560">Columbia</coll>
+    <coll hits="6" score="7.450">origin</coll>
+    <coll hits="5" score="7.450">Drammenselva</coll>
+    <coll hits="17" score="7.420">stream</coll>
+    <coll hits="5" score="7.370">Strait</coll>
+    <coll hits="8" score="7.280">Sea</coll>
+    <coll hits="12" score="7.270">diet</coll>
+    <coll hits="8" score="7.260">Creek</coll>
+    <coll hits="6" score="7.210">class</coll>
+    <coll hits="6" score="7.180">watershed</coll>
+    <coll hits="11" score="7.170">system</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="10" score="0.090">
+    <coll hits="6" score="11.300">[number]</coll>
+  </gramrel>
+</wordsketch>
+</export>

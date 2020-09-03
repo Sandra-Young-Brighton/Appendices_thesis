@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">argenteus</keyword>
+  <gramrel name="modifiers of X" hits="5" score="62.500">
+    <coll hits="2" score="12.830" query="w1970174465">Pampus</coll>
+    <coll hits="3" score="10.560" query="w1970174464">Galaxias</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="12.500">
+    <coll hits="1" score="10.240" query="w1970191808">injection</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">aiensis</keyword>
+  <gramrel name="modifiers of X" hits="3" score="11.540">
+    <coll hits="3" score="10.090">Sicyopterus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="3.850">
+    <coll hits="1" score="3.590">river</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="3.850">
+    <coll hits="1" score="12.680">Gobioidei</coll>
+  </gramrel>
+</wordsketch>
+</export>

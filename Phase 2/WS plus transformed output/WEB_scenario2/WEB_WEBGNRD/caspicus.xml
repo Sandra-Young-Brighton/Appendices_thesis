@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">caspicus</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="16.670">
+    <coll hits="2" score="8.620" query="w2031423553">wetland</coll>
+    <coll hits="2" score="6.410" query="w2031423552">Sea</coll>
+  </gramrel>
+</wordsketch>
+</export>

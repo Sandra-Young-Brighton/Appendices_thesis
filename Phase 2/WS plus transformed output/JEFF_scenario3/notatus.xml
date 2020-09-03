@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">notatus</keyword>
+  <gramrel name="modifiers of X" hits="28" score="28.570">
+    <coll hits="15" score="12.770">Fundulus</coll>
+    <coll hits="11" score="12.570">Pimephales</coll>
+    <coll hits="2" score="11.090">Porichthys</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="4.080">
+    <coll hits="3" score="13.770">olivaceus</coll>
+    <coll hits="1" score="12.680">nigrum</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="2.040">
+    <coll hits="1" score="8.890">habi</coll>
+    <coll hits="1" score="5.820">distance</coll>
+  </gramrel>
+</wordsketch>
+</export>

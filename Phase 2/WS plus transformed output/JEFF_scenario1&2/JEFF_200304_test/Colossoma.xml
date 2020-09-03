@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Colossoma</keyword>
+  <gramrel name="nouns modified by X" hits="6" score="85.710">
+    <coll hits="5" score="13.860">macropomum</coll>
+    <coll hits="1" score="12.190">macroporum</coll>
+  </gramrel>
+</wordsketch>
+</export>

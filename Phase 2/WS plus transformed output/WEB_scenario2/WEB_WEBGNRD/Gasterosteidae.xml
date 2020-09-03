@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gasterosteidae</keyword>
+  <gramrel name="modifiers of X" hits="6" score="13.040">
+    <coll hits="2" score="12.410" query="w400617600">aculeatus</coll>
+    <coll hits="1" score="12.190" query="w400617604">Eleginus</coll>
+    <coll hits="1" score="11.990" query="w400617603">gracilis</coll>
+    <coll hits="1" score="11.990" query="w400617602">Gobiidae</coll>
+    <coll hits="1" score="11.830" query="w400617601">Percidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="8.700">
+    <coll hits="3" score="12.580" query="w400666432">Cottidae</coll>
+    <coll hits="1" score="12.190" query="w400666433">Poeciliidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

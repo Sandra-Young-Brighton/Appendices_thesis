@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Teleostei</keyword>
+  <gramrel name="modifiers of X" hits="6" score="5.610">
+    <coll hits="2" score="13.000">gigas</coll>
+    <coll hits="1" score="11.990">Catostomidae</coll>
+    <coll hits="1" score="11.830">Poeciliidae</coll>
+    <coll hits="1" score="11.300">Cyprinidae</coll>
+    <coll hits="1" score="11.190">Percidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="14" score="13.080">
+    <coll hits="5" score="12.510">Cyprinidae</coll>
+    <coll hits="2" score="11.830">Osteoglossidae</coll>
+    <coll hits="1" score="11.090">Chrenuchidae</coll>
+    <coll hits="1" score="11.090">Anguillidae</coll>
+    <coll hits="1" score="11.090">Cobitidae</coll>
+    <coll hits="1" score="11.090">Cottidae</coll>
+    <coll hits="1" score="10.910">Cichlidae</coll>
+    <coll hits="1" score="10.820">Characidae</coll>
+    <coll hits="1" score="10.820">Gobiidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="13" score="12.150">
+    <coll hits="5" score="12.860">Cyprinidae</coll>
+    <coll hits="2" score="11.910">Osteoglossidae</coll>
+    <coll hits="1" score="11.190">Chrenuchidae</coll>
+    <coll hits="1" score="11.190">Anguillidae</coll>
+    <coll hits="1" score="11.190">Cobitidae</coll>
+    <coll hits="1" score="11.000">Cichlidae</coll>
+    <coll hits="1" score="10.910">Characidae</coll>
+    <coll hits="1" score="10.750">Gobiidae</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="1.870">
+    <coll hits="1" score="12.410">vitreus</coll>
+    <coll hits="1" score="12.410">Sander</coll>
+  </gramrel>
+</wordsketch>
+</export>

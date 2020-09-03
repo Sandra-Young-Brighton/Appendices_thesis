@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">bonariensis</keyword>
+  <gramrel name="modifiers of X" hits="10" score="111.110">
+    <coll hits="7" score="13.340" query="w1569261633">Odontesthes</coll>
+    <coll hits="2" score="12.410" query="w1569261634">Basilichthys</coll>
+    <coll hits="1" score="11.540" query="w1569261632">gairdneri</coll>
+  </gramrel>
+</wordsketch>
+</export>

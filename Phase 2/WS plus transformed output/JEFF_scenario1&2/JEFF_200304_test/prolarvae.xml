@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">prolarvae</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="15" score="24.190">
+    <coll hits="5" score="8.020">larva</coll>
+    <coll hits="3" score="7.950">freshwater</coll>
+    <coll hits="1" score="7.380">phase</coll>
+    <coll hits="1" score="7.090">h</coll>
+    <coll hits="1" score="6.420">sea</coll>
+    <coll hits="1" score="6.230">tank</coll>
+    <coll hits="3" score="5.930">water</coll>
+  </gramrel>
+</wordsketch>
+</export>

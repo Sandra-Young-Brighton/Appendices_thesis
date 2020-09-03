@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">dark</keyword>
+  <gramrel name="X and/or ..." hits="104" score="17.360">
+    <coll hits="12" score="11.020" query="w300120594">vertical</coll>
+    <coll hits="7" score="10.930" query="w300120610">hind</coll>
+    <coll hits="6" score="10.700" query="w300120606">medial</coll>
+    <coll hits="4" score="9.880" query="w300120583">blue</coll>
+    <coll hits="3" score="9.690" query="w300120590">colored</coll>
+    <coll hits="3" score="9.430" query="w300120588">median</coll>
+    <coll hits="13" score="9.360" query="w300120592">brown</coll>
+    <coll hits="3" score="9.340" query="w300120578">posterior</coll>
+    <coll hits="2" score="9.270" query="w300120580">unproductive</coll>
+    <coll hits="2" score="9.260" query="w300120589">dull</coll>
+    <coll hits="2" score="9.240" query="w300120620">quadrate</coll>
+    <coll hits="4" score="9.210" query="w300120597">lateral</coll>
+    <coll hits="2" score="8.940" query="w300120607">grey</coll>
+    <coll hits="3" score="8.790" query="w300120595">light</coll>
+    <coll hits="2" score="8.760" query="w300120599">pale</coll>
+    <coll hits="3" score="8.580" query="w300120577">red</coll>
+    <coll hits="1" score="8.280" query="w300120622">maze-like</coll>
+    <coll hits="1" score="8.280" query="w300120621">saddle-like</coll>
+    <coll hits="1" score="8.280" query="w300120618">squiggly</coll>
+    <coll hits="1" score="8.280" query="w300120616">steely</coll>
+    <coll hits="1" score="8.280" query="w300120614">wavy</coll>
+    <coll hits="1" score="8.280" query="w300120612">wedge-shaped</coll>
+    <coll hits="1" score="8.280" query="w300120608">secluded</coll>
+    <coll hits="1" score="8.270" query="w300120623">gas-lled</coll>
+    <coll hits="1" score="8.270" query="w300120615">olive-green</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="24" score="4.010">
+    <coll hits="1" score="10.350" query="w300488003">venter</coll>
+    <coll hits="4" score="9.730" query="w300488010">colour</coll>
+    <coll hits="3" score="9.650" query="w300488012">back</coll>
+    <coll hits="1" score="9.610" query="w300488015">scutum</coll>
+    <coll hits="1" score="9.570" query="w300488011">remainder</coll>
+    <coll hits="2" score="9.120" query="w300488001">membrane</coll>
+    <coll hits="1" score="9.090" query="w300488014">papilla</coll>
+    <coll hits="1" score="8.930" query="w300488013">pigmentation</coll>
+    <coll hits="2" score="8.860" query="w300488002">spot</coll>
+    <coll hits="1" score="8.490" query="w300488000">annulus</coll>
+    <coll hits="1" score="8.080" query="w300488008">color</coll>
+    <coll hits="1" score="7.850" query="w300488009">strain</coll>
+    <coll hits="1" score="7.830" query="w300488005">mark</coll>
+    <coll hits="1" score="7.420" query="w300488006">maturity</coll>
+    <coll hits="1" score="5.640" query="w300488007">female</coll>
+    <coll hits="2" score="4.730" query="w300488004">area</coll>
+  </gramrel>
+</wordsketch>
+</export>

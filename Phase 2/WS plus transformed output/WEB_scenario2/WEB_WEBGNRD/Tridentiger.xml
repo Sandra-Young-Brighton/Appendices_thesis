@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Tridentiger</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="50.000">
+    <coll hits="2" score="13.410" query="w2056346497">trigonocephalus</coll>
+    <coll hits="2" score="13.410" query="w2056346496">bifasciatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

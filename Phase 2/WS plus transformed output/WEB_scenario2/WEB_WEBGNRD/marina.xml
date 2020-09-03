@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">marina</keyword>
+  <gramrel name="modifiers of X" hits="16" score="47.060">
+    <coll hits="12" score="13.630" query="w1946175169">Zostera</coll>
+    <coll hits="2" score="11.410" query="w1946175168">Najas</coll>
+    <coll hits="1" score="10.910" query="w1946175171">Arenicola</coll>
+    <coll hits="1" score="10.910" query="w1946175170">Rhinella</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="2.940">
+    <coll hits="1" score="13.410" query="w1946208512">testudinum</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.940">
+    <coll hits="1" score="13.990" query="w1946164416">testudinum</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="2.940">
+    <coll hits="1" score="13.410" query="w1946219456">Ulva</coll>
+  </gramrel>
+</wordsketch>
+</export>

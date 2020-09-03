@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">streber</keyword>
+  <gramrel name="modifiers of X" hits="2" score="66.670">
+    <coll hits="1" score="13.410" query="w2103949249">zingel</coll>
+    <coll hits="1" score="13.000" query="w2103949248">Zingel</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="33.330">
+    <coll hits="1" score="9.140" query="w2103966720">cernuus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="33.330">
+    <coll hits="1" score="13.410" query="w2103938688">cernuus</coll>
+  </gramrel>
+</wordsketch>
+</export>

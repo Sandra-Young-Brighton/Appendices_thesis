@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">chrysops</keyword>
+  <gramrel name="modifiers of X" hits="16" score="69.570">
+    <coll hits="16" score="12.570">Morone</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="13.040">
+    <coll hits="1" score="11.830">Perca</coll>
+    <coll hits="2" score="10.160">saxatilis</coll>
+  </gramrel>
+</wordsketch>
+</export>

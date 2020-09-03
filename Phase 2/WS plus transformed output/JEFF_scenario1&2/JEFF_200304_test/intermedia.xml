@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">intermedia</keyword>
+  <gramrel name="modifiers of X" hits="5" score="71.430">
+    <coll hits="3" score="13.260">Moenkhausia</coll>
+    <coll hits="1" score="12.410">schubarti</coll>
+    <coll hits="1" score="11.000">Gila</coll>
+  </gramrel>
+</wordsketch>
+</export>

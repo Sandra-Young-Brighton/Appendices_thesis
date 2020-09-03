@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cryptocotyle</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="60.000">
+    <coll hits="2" score="13.670" query="w2070101568">lingua</coll>
+    <coll hits="1" score="13.000" query="w2070101569">concavum</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="20.000">
+    <coll hits="1" score="13.410" query="w2070091776">Haplorchis</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="20.000">
+    <coll hits="1" score="12.680" query="w2070118528">Heterophyidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

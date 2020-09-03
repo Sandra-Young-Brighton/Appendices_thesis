@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">amarus</keyword>
+  <gramrel name="modifiers of X" hits="9" score="31.030">
+    <coll hits="9" score="12.680">Rhodeus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="3.450">
+    <coll hits="1" score="9.090">brama</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="3.450">
+    <coll hits="1" score="12.680">brama</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="6.900">
+    <coll hits="1" score="12.190">Grande</coll>
+    <coll hits="1" score="3.590">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

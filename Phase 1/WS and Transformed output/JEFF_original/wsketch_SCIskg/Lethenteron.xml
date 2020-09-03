@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lethenteron</keyword>
+  <gramrel name="nouns modified by X" hits="10" score="62.500">
+    <coll hits="6" score="13.500">reissneri</coll>
+    <coll hits="2" score="12.410">camtschaticum</coll>
+    <coll hits="1" score="11.540">alaskense</coll>
+    <coll hits="1" score="6.350">larva</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lepidoptera</keyword>
+  <gramrel name="modifiers of X" hits="4" score="44.440">
+    <coll hits="1" score="12.680">Tetrix_ornata</coll>
+    <coll hits="1" score="12.680">Lepidoptera</coll>
+    <coll hits="1" score="10.090">Trichoptera</coll>
+    <coll hits="1" score="10.040">Ephemeroptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="11.110">
+    <coll hits="1" score="10.600">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="11.110">nouns modified by &quot;%w&quot;</coll>
+  </gramrel>
+</wordsketch>
+</export>

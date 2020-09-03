@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fuliginosus</keyword>
+  <gramrel name="modifiers of X" hits="4" score="19.050">
+    <coll hits="4" score="13.990">Hephaestus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="9.520">
+    <coll hits="1" score="6.630">catchment</coll>
+    <coll hits="1" score="5.920">channel</coll>
+  </gramrel>
+</wordsketch>
+</export>

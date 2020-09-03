@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Catostomus</keyword>
+  <gramrel name="nouns modified by X" hits="79" score="51.970">
+    <coll hits="26" score="12.940" query="w1151835329">commersoni</coll>
+    <coll hits="18" score="12.570" query="w1151835334">catostomus</coll>
+    <coll hits="11" score="11.930" query="w1151835332">commersonii</coll>
+    <coll hits="7" score="11.330" query="w1151835336">macrocheilus</coll>
+    <coll hits="5" score="10.890" query="w1151835333">columbianus</coll>
+    <coll hits="3" score="10.210" query="w1151835339">platyrhynchus</coll>
+    <coll hits="2" score="9.660" query="w1151835338">discobolus</coll>
+    <coll hits="2" score="9.660" query="w1151835331">snyderi</coll>
+    <coll hits="1" score="8.680" query="w1151835340">marcocheilus</coll>
+    <coll hits="1" score="8.680" query="w1151835337">latipinnis</coll>
+    <coll hits="1" score="8.620" query="w1151835330">Cottus</coll>
+    <coll hits="1" score="8.590" query="w1151835335">Esocidae</coll>
+    <coll hits="1" score="8.590" query="w1151835328">Perca</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="5" score="3.290">
+    <coll hits="1" score="12.190" query="w1151959620">Couesius</coll>
+    <coll hits="1" score="12.190" query="w1151959619">plumbeus</coll>
+    <coll hits="1" score="12.190" query="w1151959618">Pimephales</coll>
+    <coll hits="1" score="12.190" query="w1151959617">hudsonius</coll>
+    <coll hits="1" score="12.190" query="w1151959616">Notropis</coll>
+  </gramrel>
+</wordsketch>
+</export>

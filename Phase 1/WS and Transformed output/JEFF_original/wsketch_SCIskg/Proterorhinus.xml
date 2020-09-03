@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Proterorhinus</keyword>
+  <gramrel name="nouns modified by X" hits="11" score="78.570">
+    <coll hits="7" score="13.480">semilunaris</coll>
+    <coll hits="3" score="10.650">marmoratus</coll>
+    <coll hits="1" score="8.270">melanostomus</coll>
+  </gramrel>
+</wordsketch>
+</export>

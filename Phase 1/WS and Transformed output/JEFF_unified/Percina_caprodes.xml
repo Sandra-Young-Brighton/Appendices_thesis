@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Percina_caprodes</keyword>
+  <gramrel name="modifiers of X" hits="1" score="9.090">
+    <coll hits="1" score="7.630">perch</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="18.180">
+    <coll hits="1" score="13.000">Percina_sciera</coll>
+    <coll hits="1" score="11.990">Lepomis_cyanellus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="18.180">
+    <coll hits="1" score="6.830">fish</coll>
+    <coll hits="1" score="6.800">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

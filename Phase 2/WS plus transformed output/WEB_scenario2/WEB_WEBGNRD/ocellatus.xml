@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">ocellatus</keyword>
+  <gramrel name="modifiers of X" hits="15" score="88.240">
+    <coll hits="12" score="13.830" query="w1843255936">Sciaenops</coll>
+    <coll hits="1" score="11.000" query="w1843255939">chuatsi</coll>
+    <coll hits="1" score="10.820" query="w1843255937">Symphodus</coll>
+    <coll hits="1" score="10.680" query="w1843255938">Rhodeus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.880">
+    <coll hits="1" score="13.410" query="w1843295360">roissali</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.880">
+    <coll hits="1" score="13.990" query="w1843245376">roissali</coll>
+  </gramrel>
+</wordsketch>
+</export>

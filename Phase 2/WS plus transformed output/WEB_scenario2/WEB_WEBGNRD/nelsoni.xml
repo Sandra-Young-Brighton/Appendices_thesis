@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">nelsoni</keyword>
+  <gramrel name="modifiers of X" hits="2" score="50.000">
+    <coll hits="1" score="10.910" query="w1985413504">mykiss</coll>
+    <coll hits="1" score="4.240" query="w1985413505">Salmo</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="25.000">
+    <coll hits="1" score="13.000" query="w1985430720">penshinensis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="25.000">
+    <coll hits="1" score="13.990" query="w1985402752">penshinensis</coll>
+  </gramrel>
+</wordsketch>
+</export>

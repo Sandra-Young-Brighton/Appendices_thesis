@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">taxa</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="132" score="14.180">
+    <coll hits="4" score="9.260" query="w164725662">cisco</coll>
+    <coll hits="2" score="8.910" query="w165304144">Platyhelminthe</coll>
+    <coll hits="2" score="8.730" query="w165304152">Triglochin</coll>
+    <coll hits="2" score="8.680" query="w165304134">Z</coll>
+    <coll hits="2" score="8.400" query="w165304147">zander</coll>
+    <coll hits="2" score="8.230" query="w165304145">Myriophyllum</coll>
+    <coll hits="5" score="8.000" query="w164725668">content</coll>
+    <coll hits="1" score="7.940" query="w165304149">subregion</coll>
+    <coll hits="1" score="7.930" query="w165304151">guts41</coll>
+    <coll hits="1" score="7.900" query="w164725664">CR</coll>
+    <coll hits="1" score="7.880" query="w165304139">Ni</coll>
+    <coll hits="1" score="7.830" query="w165304148">stereomicroscope</coll>
+    <coll hits="1" score="7.830" query="w165304146">zooplankter</coll>
+    <coll hits="1" score="7.830" query="w164725682">designation</coll>
+    <coll hits="1" score="7.790" query="w165304138">Cottus</coll>
+    <coll hits="1" score="7.780" query="w165304140">guild</coll>
+    <coll hits="1" score="7.760" query="w164725688">rank</coll>
+    <coll hits="1" score="7.680" query="w164725691">haul</coll>
+    <coll hits="1" score="7.670" query="w165304135">dose</coll>
+    <coll hits="2" score="7.660" query="w164725693">category</coll>
+    <coll hits="1" score="7.590" query="w165304142">Eleocharis</coll>
+    <coll hits="2" score="7.560" query="w165304128">gradient</coll>
+    <coll hits="1" score="7.560" query="w164725690">sum</coll>
+    <coll hits="1" score="7.500" query="w165304137">List</coll>
+    <coll hits="1" score="7.450" query="w164725685">YOY</coll>
+  </gramrel>
+</wordsketch>
+</export>

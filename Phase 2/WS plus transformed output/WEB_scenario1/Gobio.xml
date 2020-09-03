@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gobio</keyword>
+  <gramrel name="nouns modified by X" hits="30" score="57.690">
+    <coll hits="30" score="12.680">gobio</coll>
+  </gramrel>
+</wordsketch>
+</export>

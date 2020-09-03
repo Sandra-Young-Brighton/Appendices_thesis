@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">reed</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="3.010">
+    <coll hits="1" score="12.190">Mu</coll>
+    <coll hits="1" score="6.790">invertebrate</coll>
+    <coll hits="1" score="6.550">roach</coll>
+    <coll hits="1" score="6.200">treatment</coll>
+  </gramrel>
+</wordsketch>
+</export>

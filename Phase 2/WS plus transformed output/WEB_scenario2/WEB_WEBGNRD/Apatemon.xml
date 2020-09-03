@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Apatemon</keyword>
+  <gramrel name="nouns modified by X" hits="8" score="50.000">
+    <coll hits="8" score="13.670" query="w1994449152">gracilis</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="6.250">
+    <coll hits="1" score="13.410" query="w1994462784">consequence</coll>
+  </gramrel>
+</wordsketch>
+</export>

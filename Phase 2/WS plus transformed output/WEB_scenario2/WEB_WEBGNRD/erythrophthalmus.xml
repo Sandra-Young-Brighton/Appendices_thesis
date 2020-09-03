@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">erythrophthalmus</keyword>
+  <gramrel name="modifiers of X" hits="49" score="73.130">
+    <coll hits="47" score="13.830" query="w1941447169">Scardinius</coll>
+    <coll hits="1" score="9.350" query="w1941447170">Scardiniu</coll>
+    <coll hits="1" score="9.060" query="w1941447168">rutilus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="4.480">
+    <coll hits="1" score="10.350" query="w1941476353">aspius</coll>
+    <coll hits="2" score="6.430" query="w1941476352">fluviatilis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="5.970">
+    <coll hits="1" score="12.410" query="w1941420417">aspius</coll>
+    <coll hits="3" score="11.940" query="w1941420416">fluviatilis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="2.990">
+    <coll hits="2" score="7.010" query="w1941503872">Europe</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="2" score="2.990">
+    <coll hits="1" score="12.190" query="w1941520449">plant</coll>
+    <coll hits="1" score="11.830" query="w1941520448">food</coll>
+  </gramrel>
+</wordsketch>
+</export>

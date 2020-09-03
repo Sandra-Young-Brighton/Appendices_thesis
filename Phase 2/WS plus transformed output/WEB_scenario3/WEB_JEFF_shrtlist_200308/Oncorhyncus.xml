@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Oncorhyncus</keyword>
+  <gramrel name="nouns modified by X" hits="11" score="78.570">
+    <coll hits="3" score="8.820">kisutch</coll>
+    <coll hits="2" score="8.570">tshawytscha</coll>
+    <coll hits="5" score="7.850">mykiss</coll>
+    <coll hits="1" score="7.350">nerka</coll>
+  </gramrel>
+</wordsketch>
+</export>

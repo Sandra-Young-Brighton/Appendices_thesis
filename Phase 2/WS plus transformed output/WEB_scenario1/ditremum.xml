@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">ditremum</keyword>
+  <gramrel name="modifiers of X" hits="4" score="30.770">
+    <coll hits="4" score="13.990">Diphyllobothrium</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="7.690">
+    <coll hits="1" score="11.090">Char</coll>
+  </gramrel>
+</wordsketch>
+</export>

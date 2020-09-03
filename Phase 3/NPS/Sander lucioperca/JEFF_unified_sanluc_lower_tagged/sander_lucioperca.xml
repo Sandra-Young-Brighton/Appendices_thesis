@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_sanluc_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">sander_lucioperca</keyword>
+  <gramrel name="modifiers of X" hits="7" score="20.590">
+    <coll hits="7" score="13.340">pikeperch</coll>
+  </gramrel>
+</wordsketch>
+</export>

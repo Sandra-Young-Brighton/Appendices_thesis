@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">maxima</keyword>
+  <gramrel name="modifiers of X" hits="20" score="48.780">
+    <coll hits="15" score="13.770" query="w1753842497">Psetta</coll>
+    <coll hits="2" score="11.470" query="w1753842498">Glyceria</coll>
+    <coll hits="1" score="10.540" query="w1753842500">flavidus</coll>
+    <coll hits="1" score="10.470" query="w1753842496">lacustris</coll>
+    <coll hits="1" score="10.410" query="w1753842499">Aulorhynchus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="4.880">
+    <coll hits="1" score="8.980" query="w1753891457">australis</coll>
+    <coll hits="1" score="5.430" query="w1753891456">salar</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.440">
+    <coll hits="1" score="13.990" query="w1753832128">australis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="14.630">
+    <coll hits="1" score="5.010" query="w1753913345">salmonid</coll>
+    <coll hits="4" score="4.690" query="w1753913344">specie</coll>
+    <coll hits="1" score="3.210" query="w1753913346">salmon</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="4" score="9.760">
+    <coll hits="2" score="12.090" query="w1753949505">fluviatilis</coll>
+    <coll hits="2" score="12.090" query="w1753949504">Perca</coll>
+  </gramrel>
+</wordsketch>
+</export>

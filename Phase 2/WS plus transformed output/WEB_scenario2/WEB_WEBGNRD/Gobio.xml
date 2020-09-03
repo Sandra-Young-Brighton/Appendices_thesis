@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gobio</keyword>
+  <gramrel name="nouns modified by X" hits="34" score="65.380">
+    <coll hits="30" score="12.620" query="w1703066048">gobio</coll>
+    <coll hits="3" score="11.340" query="w1703066049">lozanoi</coll>
+    <coll hits="1" score="9.640" query="w1703066050">uranoscopus</coll>
+  </gramrel>
+</wordsketch>
+</export>

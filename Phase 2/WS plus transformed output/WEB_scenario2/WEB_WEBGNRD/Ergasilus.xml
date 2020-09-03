@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ergasilus</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="50.000">
+    <coll hits="3" score="13.990" query="w2098462272">sieboldi</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="33.330">
+    <coll hits="1" score="13.000" query="w2098477121">Piscicola</coll>
+    <coll hits="1" score="13.000" query="w2098477120">geometra</coll>
+  </gramrel>
+</wordsketch>
+</export>

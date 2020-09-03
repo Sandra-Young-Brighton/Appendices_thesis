@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Metynnis</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="75.000">
+    <coll hits="3" score="10.720">maculatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

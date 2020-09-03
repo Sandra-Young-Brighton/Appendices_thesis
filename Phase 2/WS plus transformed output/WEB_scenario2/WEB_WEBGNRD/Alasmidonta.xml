@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Alasmidonta</keyword>
+  <gramrel name="nouns modified by X" hits="7" score="87.500">
+    <coll hits="5" score="13.320" query="w1687188161">heterodon</coll>
+    <coll hits="1" score="11.990" query="w1687188162">varicosa</coll>
+    <coll hits="1" score="11.540" query="w1687188160">robusta</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="12.500">
+    <coll hits="1" score="13.990" query="w1687216320">Bivalvia</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Mustela</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="71.430">
+    <coll hits="5" score="13.860">vison</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="28.570">
+    <coll hits="1" score="11.990">Lucius</coll>
+    <coll hits="1" score="11.990">Esox</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">sicculus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="33.330">
+    <coll hits="1" score="13.410">La.</coll>
+    <coll hits="1" score="13.410">Labidesthes</coll>
+  </gramrel>
+</wordsketch>
+</export>

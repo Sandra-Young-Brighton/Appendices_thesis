@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Anguilla_japonica</keyword>
+  <gramrel name="modifiers of X" hits="26" score="59.090">
+    <coll hits="25" score="11.690">eel</coll>
+    <coll hits="1" score="9.060">species</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="13.640">
+    <coll hits="4" score="8.400">freshwater</coll>
+    <coll hits="2" score="7.670">recruitment</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="2.270">
+    <coll hits="1" score="6.810">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

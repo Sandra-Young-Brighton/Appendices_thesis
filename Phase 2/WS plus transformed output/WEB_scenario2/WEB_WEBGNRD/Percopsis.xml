@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Percopsis</keyword>
+  <gramrel name="nouns modified by X" hits="18" score="56.250">
+    <coll hits="16" score="13.870" query="w1898902657">omiscomaycus</coll>
+    <coll hits="1" score="10.750" query="w1898902658">transmontana</coll>
+    <coll hits="1" score="10.540" query="w1898902656">Cottus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="9" score="28.130">
+    <coll hits="1" score="11.410" query="w1898930439">nebulosus</coll>
+    <coll hits="1" score="11.410" query="w1898930438">Lucius</coll>
+    <coll hits="1" score="11.410" query="w1898930437">vitreus</coll>
+    <coll hits="1" score="11.410" query="w1898930436">Sander</coll>
+    <coll hits="1" score="11.410" query="w1898930435">Ictalurus</coll>
+    <coll hits="1" score="11.410" query="w1898930433">mykiss</coll>
+    <coll hits="1" score="11.300" query="w1898930432">Oncorhynchus</coll>
+    <coll hits="1" score="11.190" query="w1898930440">trutta</coll>
+    <coll hits="1" score="11.000" query="w1898930434">Salmo</coll>
+  </gramrel>
+</wordsketch>
+</export>

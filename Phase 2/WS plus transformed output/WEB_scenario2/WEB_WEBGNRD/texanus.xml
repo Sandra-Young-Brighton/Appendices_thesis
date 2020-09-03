@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">texanus</keyword>
+  <gramrel name="modifiers of X" hits="5" score="55.560">
+    <coll hits="3" score="13.580" query="w1981976641">Xyrauchen</coll>
+    <coll hits="2" score="10.240" query="w1981976640">Notropis</coll>
+  </gramrel>
+</wordsketch>
+</export>

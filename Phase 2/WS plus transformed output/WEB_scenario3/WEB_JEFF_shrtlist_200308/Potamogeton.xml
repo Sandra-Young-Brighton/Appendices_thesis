@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Potamogeton</keyword>
+  <gramrel name="modifiers of X" hits="1" score="0.620">
+    <coll hits="1" score="13.000">Egeria</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="11" score="6.830">
+    <coll hits="4" score="13.090">perfoliatus</coll>
+    <coll hits="2" score="12.290">Sagittaria</coll>
+    <coll hits="1" score="11.410">natans</coll>
+    <coll hits="1" score="11.410">illinoensis</coll>
+    <coll hits="1" score="11.410">Polygonum</coll>
+    <coll hits="1" score="11.300">Ceratophyllum</coll>
+    <coll hits="1" score="11.090">Myriophyllum</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="3.730">
+    <coll hits="2" score="13.000">Sagittaria</coll>
+    <coll hits="2" score="12.190">Myriophyllum</coll>
+    <coll hits="1" score="11.990">Ceratophyllum</coll>
+    <coll hits="1" score="11.990">Polygonum</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="1.240">
+    <coll hits="1" score="13.000">Alnus</coll>
+    <coll hits="1" score="9.090">stem</coll>
+  </gramrel>
+</wordsketch>
+</export>

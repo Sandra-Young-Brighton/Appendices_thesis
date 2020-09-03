@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Phyllodistomum</keyword>
+  <gramrel name="nouns modified by X" hits="12" score="66.670">
+    <coll hits="7" score="13.340" query="w1994665730">conostomum</coll>
+    <coll hits="3" score="12.680" query="w1994665731">umblae</coll>
+    <coll hits="1" score="11.300" query="w1994665728">folium</coll>
+    <coll hits="1" score="10.820" query="w1994665729">farionis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.560">
+    <coll hits="1" score="13.990" query="w1994656192">Gorgodera</coll>
+  </gramrel>
+</wordsketch>
+</export>

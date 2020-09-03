@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">salmo_gairdneri</keyword>
+  <gramrel name="modifiers of X" hits="10" score="17.540">
+    <coll hits="7" score="12.250">rainbow_trout</coll>
+    <coll hits="2" score="11.300">rainbow_trout</coll>
+    <coll hits="1" score="11.090">steelhead_trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

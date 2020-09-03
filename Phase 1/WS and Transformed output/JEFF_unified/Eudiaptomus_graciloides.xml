@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Eudiaptomus_graciloides</keyword>
+  <gramrel name="X is a type of..." hits="2" score="100.000">
+    <coll hits="1" score="10.090">food</coll>
+    <coll hits="1" score="6.800">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

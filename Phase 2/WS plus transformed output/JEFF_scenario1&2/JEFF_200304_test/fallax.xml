@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fallax</keyword>
+  <gramrel name="modifiers of X" hits="5" score="41.670">
+    <coll hits="1" score="12.410">Allosa</coll>
+    <coll hits="4" score="11.170">Alosa</coll>
+  </gramrel>
+</wordsketch>
+</export>

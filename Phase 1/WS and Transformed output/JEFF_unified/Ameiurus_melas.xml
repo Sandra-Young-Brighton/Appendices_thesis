@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ameiurus_melas</keyword>
+  <gramrel name="modifiers of X" hits="3" score="10.000">
+    <coll hits="3" score="11.190">bullhead</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="6.670">
+    <coll hits="1" score="12.410">Carassius_auratus</coll>
+    <coll hits="1" score="11.000">Lepomis_macrochirus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="6.670">
+    <coll hits="1" score="10.350">Portugal</coll>
+    <coll hits="1" score="3.730">habitat</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="-j" freq="0">sea_trout</keyword>
+  <gramrel name="modifiers of X" hits="3" score="0.570">
+    <coll hits="1" score="12.680">salmon_trout</coll>
+    <coll hits="1" score="8.160">brown_trout</coll>
+    <coll hits="1" score="6.900">trout</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="11" score="2.100">
+    <coll hits="1" score="10.600">sea_trout</coll>
+    <coll hits="1" score="10.410">brown_trout</coll>
+    <coll hits="9" score="10.280">salmo_trutta</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="21" score="4.020">
+    <coll hits="1" score="10.540">rainbow-trout</coll>
+    <coll hits="1" score="10.540">sewin</coll>
+    <coll hits="1" score="9.610">only</coll>
+    <coll hits="1" score="8.680">life-history</coll>
+    <coll hits="2" score="8.600">brown_trout</coll>
+    <coll hits="3" score="8.030">s.</coll>
+    <coll hits="1" score="7.830">trout</coll>
+    <coll hits="1" score="7.420">[number]</coll>
+    <coll hits="1" score="7.380">commercial</coll>
+    <coll hits="1" score="7.190">total</coll>
+    <coll hits="1" score="7.080">European</coll>
+    <coll hits="1" score="7.030">red</coll>
+    <coll hits="1" score="6.840">small</coll>
+    <coll hits="1" score="6.620">other</coll>
+    <coll hits="2" score="5.890">Atlantic</coll>
+    <coll hits="1" score="5.710">arctic</coll>
+    <coll hits="1" score="5.400">marine</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="47" score="8.990">
+    <coll hits="1" score="9.410">cothi</coll>
+    <coll hits="1" score="9.410">wich</coll>
+    <coll hits="1" score="9.380">lothian</coll>
+    <coll hits="1" score="9.350">riddon</coll>
+    <coll hits="1" score="9.350">ulla</coll>
+    <coll hits="1" score="9.190">erriff</coll>
+    <coll hits="2" score="9.170">peninsula</coll>
+    <coll hits="2" score="8.940">example</coll>
+    <coll hits="1" score="8.850">transmitter</coll>
+    <coll hits="1" score="8.760">Uk</coll>
+    <coll hits="1" score="8.750">reintroduction</coll>
+    <coll hits="1" score="8.710">thame</coll>
+    <coll hits="1" score="8.230">majority</coll>
+    <coll hits="1" score="8.150">rhine</coll>
+    <coll hits="4" score="8.120">coast</coll>
+    <coll hits="1" score="8.020">spawn</coll>
+    <coll hits="1" score="7.930">cage</coll>
+    <coll hits="1" score="7.320">scotland</coll>
+    <coll hits="2" score="7.210">catchment</coll>
+    <coll hits="2" score="7.210">ireland</coll>
+    <coll hits="1" score="6.980">redd</coll>
+    <coll hits="1" score="6.830">country</coll>
+    <coll hits="1" score="6.830">September</coll>
+    <coll hits="2" score="6.310">part</coll>
+    <coll hits="3" score="6.300">day</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="0.380">
+    <coll hits="1" score="13.000">kelt</coll>
+    <coll hits="1" score="11.540">brown_trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

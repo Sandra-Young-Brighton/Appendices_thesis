@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Esox_lucius</keyword>
+  <gramrel name="modifiers of X" hits="6" score="2.170">
+    <coll hits="1" score="12.190">Stizostedion_lucioperca</coll>
+    <coll hits="1" score="11.830">Esocidae</coll>
+    <coll hits="1" score="11.670">Tinca_tinca</coll>
+    <coll hits="1" score="11.090">Rutilus_rutilus</coll>
+    <coll hits="1" score="10.820">Anguilla_anguilla</coll>
+    <coll hits="1" score="8.960">predator</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="15" score="5.420">
+    <coll hits="14" score="12.280">Linnaeus</coll>
+    <coll hits="1" score="10.820">Blicca_bjoerkna</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="7" score="2.530">
+    <coll hits="1" score="11.990">Aspius_aspius</coll>
+    <coll hits="1" score="11.830">Stizostedion_lucioperca</coll>
+    <coll hits="1" score="11.670">Sander_lucioperca</coll>
+    <coll hits="1" score="11.670">Blicca_bjoerkna</coll>
+    <coll hits="2" score="11.410">Linnaeus</coll>
+    <coll hits="1" score="10.350">minnow</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="10" score="3.610">
+    <coll hits="1" score="11.410">Lontra_canadensis</coll>
+    <coll hits="1" score="11.410">Mustela_vison</coll>
+    <coll hits="1" score="11.410">Ardea_cinera</coll>
+    <coll hits="1" score="9.610">predator</coll>
+    <coll hits="4" score="8.790">fish</coll>
+    <coll hits="2" score="7.760">specie</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="1.810">
+    <coll hits="1" score="10.540">Baltic</coll>
+    <coll hits="1" score="7.790">absence</coll>
+    <coll hits="1" score="5.260">Lake</coll>
+    <coll hits="1" score="4.960">age</coll>
+    <coll hits="1" score="3.260">population</coll>
+  </gramrel>
+  <gramrel name="... is a X" hits="1" score="0.360">
+    <coll hits="1" score="12.190">species</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.360">
+    <coll hits="1" score="8.960">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

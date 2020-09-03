@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fossor</keyword>
+  <gramrel name="modifiers of X" hits="6" score="40.000">
+    <coll hits="6" score="13.880">Ichthyomyzon</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="6.670">
+    <coll hits="1" score="7.040">marinus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="6.670">
+    <coll hits="1" score="13.410">marinus</coll>
+  </gramrel>
+</wordsketch>
+</export>

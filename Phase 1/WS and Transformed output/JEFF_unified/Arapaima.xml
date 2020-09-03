@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Arapaima</keyword>
+  <gramrel name="X and/or ..." hits="1" score="8.330">
+    <coll hits="1" score="13.000">Heterotis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="33.330">
+    <coll hits="3" score="11.260">Reserve</coll>
+    <coll hits="1" score="9.710">Brazil</coll>
+  </gramrel>
+</wordsketch>
+</export>

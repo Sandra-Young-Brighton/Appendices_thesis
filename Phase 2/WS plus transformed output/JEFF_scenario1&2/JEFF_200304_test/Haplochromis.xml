@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Haplochromis</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="36.360">
+    <coll hits="3" score="12.680">nyererei</coll>
+    <coll hits="1" score="12.410">burtoni</coll>
+  </gramrel>
+</wordsketch>
+</export>

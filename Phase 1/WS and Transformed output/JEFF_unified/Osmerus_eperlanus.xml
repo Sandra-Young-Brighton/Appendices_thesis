@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Osmerus_eperlanus</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="4.350">
+    <coll hits="1" score="6.310">larva</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="13.040">
+    <coll hits="1" score="13.000">Podiceps_cristatus</coll>
+    <coll hits="1" score="4.360">water</coll>
+    <coll hits="1" score="3.920">area</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="8.700">
+    <coll hits="1" score="6.830">fish</coll>
+    <coll hits="1" score="6.800">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">castaneus</keyword>
+  <gramrel name="modifiers of X" hits="6" score="60.000">
+    <coll hits="2" score="13.000" query="w2012842560">appendix</coll>
+    <coll hits="4" score="12.470" query="w2012842561">Ichthyomyzon</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="10.000">
+    <coll hits="1" score="10.000" query="w2012876992">Manitoba</coll>
+  </gramrel>
+</wordsketch>
+</export>

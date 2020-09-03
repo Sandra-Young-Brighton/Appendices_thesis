@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">alpinus</keyword>
+  <gramrel name="modifiers of X" hits="489" score="78.870">
+    <coll hits="485" score="13.500">Salvelinus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="5" score="0.810">
+    <coll hits="2" score="12.290">Linneaus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="20" score="3.230">
+    <coll hits="10" score="11.120">trutta</coll>
+    <coll hits="3" score="7.570">trout</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="26" score="4.190">
+    <coll hits="4" score="11.710">Thingvallavatn</coll>
+    <coll hits="2" score="11.040">Ericht</coll>
+    <coll hits="4" score="10.910">Britain</coll>
+    <coll hits="2" score="10.790">Fjellfrøsvatn</coll>
+    <coll hits="2" score="7.830">Europe</coll>
+    <coll hits="3" score="5.060">lake</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="5" score="0.810">
+    <coll hits="2" score="7.490">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

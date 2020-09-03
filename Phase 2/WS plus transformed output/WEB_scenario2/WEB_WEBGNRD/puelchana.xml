@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">puelchana</keyword>
+  <gramrel name="modifiers of X" hits="3" score="150.000">
+    <coll hits="1" score="12.680" query="w2087114049">denselamellosa</coll>
+    <coll hits="2" score="11.910" query="w2087114048">Ostrea</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="100.000">
+    <coll hits="1" score="12.680" query="w2087139393">denselamellosa</coll>
+    <coll hits="1" score="11.670" query="w2087139392">chilensis</coll>
+  </gramrel>
+</wordsketch>
+</export>

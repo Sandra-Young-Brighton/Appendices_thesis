@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">renicola</keyword>
+  <gramrel name="modifiers of X" hits="3" score="42.860">
+    <coll hits="3" score="12.260" query="w2015046464">Sphaerospora</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="14.290">
+    <coll hits="1" score="5.750" query="w2015056896">experiment</coll>
+  </gramrel>
+</wordsketch>
+</export>

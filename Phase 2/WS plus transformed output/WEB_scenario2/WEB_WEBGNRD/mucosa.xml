@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">mucosa</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="14" score="24.560">
+    <coll hits="1" score="10.820" query="w1925068938">cat</coll>
+    <coll hits="1" score="10.600" query="w1925068939">TECO</coll>
+    <coll hits="1" score="10.040" query="w1925068933">fibre</coll>
+    <coll hits="1" score="9.440" query="w1925068937">esophagus</coll>
+    <coll hits="1" score="9.020" query="w1925068934">frog</coll>
+    <coll hits="1" score="9.000" query="w1925068936">ingredient</coll>
+    <coll hits="2" score="8.740" query="w1925068935">intestine</coll>
+    <coll hits="1" score="8.640" query="w1925068932">flounder</coll>
+    <coll hits="2" score="8.620" query="w1925068930">vertebrate</coll>
+    <coll hits="1" score="7.720" query="w1925068929">determination</coll>
+    <coll hits="1" score="6.360" query="w1925068931">cell</coll>
+    <coll hits="1" score="3.210" query="w1925068928">salmon</coll>
+  </gramrel>
+</wordsketch>
+</export>

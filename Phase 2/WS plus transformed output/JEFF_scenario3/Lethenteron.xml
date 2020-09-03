@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lethenteron</keyword>
+  <gramrel name="nouns modified by X" hits="9" score="56.250">
+    <coll hits="6" score="13.580">reissneri</coll>
+    <coll hits="2" score="12.540">camtschaticum</coll>
+    <coll hits="1" score="11.670">alaskense</coll>
+  </gramrel>
+</wordsketch>
+</export>

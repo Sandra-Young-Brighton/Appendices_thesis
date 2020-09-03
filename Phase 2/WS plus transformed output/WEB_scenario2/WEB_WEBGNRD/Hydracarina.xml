@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hydracarina</keyword>
+  <gramrel name="modifiers of X" hits="2" score="12.500">
+    <coll hits="1" score="12.680" query="w1706505792">lacustris</coll>
+    <coll hits="1" score="11.670" query="w1706505793">Ostracoda</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="25.000">
+    <coll hits="2" score="12.830" query="w1706522049">Megaloptera</coll>
+    <coll hits="1" score="12.190" query="w1706522050">Tabanidae</coll>
+    <coll hits="1" score="11.670" query="w1706522048">Hirudinea</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="12.500">
+    <coll hits="1" score="12.410" query="w1706489473">Tabanidae</coll>
+    <coll hits="1" score="12.410" query="w1706489472">Hirudinea</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="12.500">
+    <coll hits="1" score="13.410" query="w1706553857">Calanoida</coll>
+    <coll hits="1" score="13.410" query="w1706553856">Cyclopoida</coll>
+  </gramrel>
+</wordsketch>
+</export>

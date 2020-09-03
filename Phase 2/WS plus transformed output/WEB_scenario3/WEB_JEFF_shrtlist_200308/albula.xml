@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">albula</keyword>
+  <gramrel name="modifiers of X" hits="86" score="64.660">
+    <coll hits="86" score="12.240">Coregonus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="1.500">
+    <coll hits="1" score="10.540">williamsoni</coll>
+    <coll hits="1" score="9.790">eperlanus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.750">
+    <coll hits="1" score="13.990">eperlanus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="1.500">
+    <coll hits="1" score="8.680">watercourse</coll>
+    <coll hits="1" score="6.760">L</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">asprella</keyword>
+  <gramrel name="modifiers of X" hits="8" score="26.670">
+    <coll hits="8" score="13.990">Crystallaria</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="6.670">
+    <coll hits="1" score="10.090">fork</coll>
+    <coll hits="1" score="4.630">system</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="3.330">
+    <coll hits="1" score="13.410">lie-in-wait</coll>
+  </gramrel>
+</wordsketch>
+</export>

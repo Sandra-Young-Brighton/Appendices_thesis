@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_saltrut_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="-j" freq="0">brook_trout</keyword>
+  <gramrel name="modifiers of X" hits="2" score="0.340">
+    <coll hits="1" score="13.410">salvelinus_namaycush</coll>
+    <coll hits="1" score="7.860">trout</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.170">
+    <coll hits="1" score="9.910">trout</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="72" score="12.240">
+    <coll hits="5" score="10.790">allopatric</coll>
+    <coll hits="6" score="10.470">trout</coll>
+    <coll hits="11" score="10.110">brown_trout</coll>
+    <coll hits="6" score="9.940">northern</coll>
+    <coll hits="2" score="9.040">non</coll>
+    <coll hits="1" score="8.810">spring-to-fall</coll>
+    <coll hits="1" score="8.810">westslope</coll>
+    <coll hits="1" score="8.810">bull</coll>
+    <coll hits="5" score="8.800">large</coll>
+    <coll hits="1" score="8.790">select</coll>
+    <coll hits="3" score="8.770">other</coll>
+    <coll hits="1" score="8.730">required</coll>
+    <coll hits="1" score="8.650">selected</coll>
+    <coll hits="1" score="8.640">reactive</coll>
+    <coll hits="1" score="8.570">macroinvertebrate</coll>
+    <coll hits="1" score="8.540">hybrid</coll>
+    <coll hits="1" score="8.470">brook_trout</coll>
+    <coll hits="2" score="8.460">brook_trout</coll>
+    <coll hits="1" score="8.460">due</coll>
+    <coll hits="1" score="8.380">young</coll>
+    <coll hits="1" score="8.310">inland</coll>
+    <coll hits="4" score="8.270">s.</coll>
+    <coll hits="1" score="8.130">lake_trout</coll>
+    <coll hits="1" score="8.130">such</coll>
+    <coll hits="1" score="7.880">potential</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="54" score="9.180">
+    <coll hits="1" score="9.210">ka</coll>
+    <coll hits="1" score="9.210">headland</coll>
+    <coll hits="1" score="9.160">subreache</coll>
+    <coll hits="1" score="9.060">artifi</coll>
+    <coll hits="1" score="8.730">close</coll>
+    <coll hits="1" score="8.590">rain</coll>
+    <coll hits="1" score="8.520">outcome</coll>
+    <coll hits="1" score="8.230">Oregon</coll>
+    <coll hits="2" score="8.080">brook</coll>
+    <coll hits="6" score="7.760">creek</coll>
+    <coll hits="1" score="7.720">tem</coll>
+    <coll hits="1" score="7.710">fork</coll>
+    <coll hits="1" score="7.440">world</coll>
+    <coll hits="1" score="7.420">run</coll>
+    <coll hits="3" score="7.220">winter</coll>
+    <coll hits="3" score="6.820">pool</coll>
+    <coll hits="1" score="6.790">drainage</coll>
+    <coll hits="1" score="6.550">bay</coll>
+    <coll hits="1" score="6.140">freshwater</coll>
+    <coll hits="2" score="5.940">basin</coll>
+    <coll hits="1" score="5.900">ecosystem</coll>
+    <coll hits="1" score="5.770">class</coll>
+    <coll hits="6" score="5.620">lake</coll>
+    <coll hits="1" score="5.450">tributary</coll>
+    <coll hits="1" score="5.350">factor</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="0.170">
+    <coll hits="1" score="13.410">brook_trout</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.170">
+    <coll hits="1" score="11.300">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

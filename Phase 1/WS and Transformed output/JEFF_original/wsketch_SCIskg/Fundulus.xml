@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Fundulus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="1.190">
+    <coll hits="1" score="4.440">fish</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="43" score="51.190">
+    <coll hits="15" score="12.710">notatus</coll>
+    <coll hits="11" score="12.700">olivaceus</coll>
+    <coll hits="9" score="12.460">heteroclitus</coll>
+    <coll hits="2" score="10.510">sciadicus</coll>
+    <coll hits="2" score="10.470">zebrinus</coll>
+    <coll hits="1" score="9.530">diaphanus</coll>
+    <coll hits="1" score="9.350">Pimephales</coll>
+    <coll hits="1" score="7.510">Linnaeus</coll>
+    <coll hits="1" score="4.580">specie</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="1.190">
+    <coll hits="1" score="11.670">Micropterus</coll>
+  </gramrel>
+</wordsketch>
+</export>

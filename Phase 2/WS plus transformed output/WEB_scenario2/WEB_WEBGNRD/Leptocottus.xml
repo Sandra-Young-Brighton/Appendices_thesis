@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Leptocottus</keyword>
+  <gramrel name="nouns modified by X" hits="6" score="54.550">
+    <coll hits="5" score="13.510" query="w1764500288">armatus</coll>
+    <coll hits="1" score="11.670" query="w1764500289">Pleuronectidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

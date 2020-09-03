@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Acipenser</keyword>
+  <gramrel name="nouns modified by X" hits="54" score="40.000">
+    <coll hits="21" score="13.160">sturio</coll>
+    <coll hits="20" score="13.110">transmontanus</coll>
+    <coll hits="7" score="11.870">fulvescens</coll>
+    <coll hits="3" score="10.750">ruthenus</coll>
+    <coll hits="1" score="9.210">gueldenstaedtii</coll>
+    <coll hits="1" score="9.210">baerii</coll>
+    <coll hits="1" score="9.140">Umatilla</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.740">
+    <coll hits="1" score="11.670">excavation</coll>
+  </gramrel>
+</wordsketch>
+</export>

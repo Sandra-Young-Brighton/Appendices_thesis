@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">index</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="248" score="23.330">
+    <coll hits="17" score="10.890" query="w421761027">integrity</coll>
+    <coll hits="7" score="9.740" query="w421761066">fullness</coll>
+    <coll hits="4" score="8.770" query="w421761026">similarity</coll>
+    <coll hits="6" score="8.420" query="w421761028">selection</coll>
+    <coll hits="17" score="8.330" query="w421180750">abundance</coll>
+    <coll hits="5" score="8.330" query="w421180744">importance</coll>
+    <coll hits="4" score="8.310" query="w421761040">performance</coll>
+    <coll hits="3" score="8.220" query="w421761056">elver</coll>
+    <coll hits="2" score="8.030" query="w421761075">Fil</coll>
+    <coll hits="2" score="8.030" query="w421761073">prior</coll>
+    <coll hits="2" score="8.020" query="w421761055">Importance</coll>
+    <coll hits="2" score="7.990" query="w421761058">dispersion</coll>
+    <coll hits="2" score="7.910" query="w421180795">grouping</coll>
+    <coll hits="2" score="7.890" query="w421761050">suitability</coll>
+    <coll hits="3" score="7.580" query="w421180754">comparison</coll>
+    <coll hits="2" score="7.540" query="w421180777">potential</coll>
+    <coll hits="2" score="7.340" query="w421180792">degree</coll>
+    <coll hits="3" score="7.330" query="w421180796">catch</coll>
+    <coll hits="2" score="7.310" query="w421761044">locus</coll>
+    <coll hits="2" score="7.290" query="w421180757">index</coll>
+    <coll hits="3" score="7.250" query="w421180799">recruitment</coll>
+    <coll hits="2" score="7.220" query="w421180759">Basin</coll>
+    <coll hits="2" score="7.180" query="w421180766">space</coll>
+    <coll hits="5" score="7.150" query="w421180764">structure</coll>
+    <coll hits="2" score="7.130" query="w421180751">shape</coll>
+  </gramrel>
+</wordsketch>
+</export>

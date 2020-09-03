@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">punctatus</keyword>
+  <gramrel name="modifiers of X" hits="64" score="62.750">
+    <coll hits="58" score="13.770">Ictalurus</coll>
+    <coll hits="3" score="10.490">Channa</coll>
+    <coll hits="2" score="9.950">furcatus</coll>
+    <coll hits="1" score="8.980">vittatus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="1.960">
+    <coll hits="1" score="13.000">Morone</coll>
+    <coll hits="1" score="6.430">Lucius</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="2.940">
+    <coll hits="1" score="13.000">rerio</coll>
+    <coll hits="1" score="13.000">Morone</coll>
+    <coll hits="1" score="11.670">Lucius</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.980">
+    <coll hits="1" score="7.100">Reservoir</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.980">
+    <coll hits="1" score="11.830">Centrarchidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

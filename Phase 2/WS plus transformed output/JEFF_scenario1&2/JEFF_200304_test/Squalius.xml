@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Squalius</keyword>
+  <gramrel name="nouns modified by X" hits="27" score="57.450">
+    <coll hits="12" score="12.120">cephalus</coll>
+    <coll hits="4" score="12.040">aradensis</coll>
+    <coll hits="4" score="12.040">carolitertii</coll>
+    <coll hits="2" score="11.040">torgalensis</coll>
+    <coll hits="1" score="10.190">peloponnensis</coll>
+    <coll hits="1" score="10.190">alburnoides</coll>
+    <coll hits="1" score="10.190">Barbus</coll>
+    <coll hits="1" score="9.950">pyrenaicus</coll>
+    <coll hits="1" score="7.100">rutilus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.130">
+    <coll hits="1" score="13.990">Barbus</coll>
+  </gramrel>
+</wordsketch>
+</export>

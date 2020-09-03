@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">steelhead</keyword>
+  <gramrel name="modifiers of X" hits="10" score="0.550">
+    <coll hits="2" score="12.290">steelhead_trout</coll>
+    <coll hits="1" score="11.190">redband</coll>
+    <coll hits="1" score="11.000">rainbow</coll>
+    <coll hits="2" score="10.020">steelhead</coll>
+    <coll hits="2" score="8.910">rainbow_trout</coll>
+    <coll hits="2" score="8.130">trout</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="53" score="2.930">
+    <coll hits="13" score="12.430">rainbow_trout</coll>
+    <coll hits="8" score="11.950">rainbow_trout</coll>
+    <coll hits="8" score="11.640">rainbow_trout</coll>
+    <coll hits="4" score="11.040">oncorhynchus_mykiss</coll>
+    <coll hits="10" score="10.710">oncorhynchus_mykiss</coll>
+    <coll hits="2" score="10.160">kamloops_trout</coll>
+    <coll hits="2" score="10.020">rainbow</coll>
+    <coll hits="2" score="10.020">steelhead</coll>
+    <coll hits="4" score="9.530">trout</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="36" score="1.990">
+    <coll hits="16" score="11.230">trout</coll>
+    <coll hits="5" score="10.750">oncorhynchus_mykiss</coll>
+    <coll hits="2" score="10.680">kamloops_trout</coll>
+    <coll hits="2" score="10.470">rainbow</coll>
+    <coll hits="2" score="10.090">steelhead</coll>
+    <coll hits="2" score="9.830">rainbow_trout</coll>
+    <coll hits="5" score="9.720">rainbow_trout</coll>
+    <coll hits="1" score="8.460">brown_trout</coll>
+    <coll hits="1" score="7.310">brown_trout</coll>
+  </gramrel>
+  <gramrel name="X is a ..." hits="2" score="0.110">
+    <coll hits="2" score="13.990">rainbow_trout</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="0.060">&quot;%w&quot; is the generic of...</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="151" score="8.360">
+    <coll hits="4" score="9.150">Washington</coll>
+    <coll hits="17" score="8.980">creek</coll>
+    <coll hits="2" score="8.740">summer-run</coll>
+    <coll hits="2" score="8.470">headwaters</coll>
+    <coll hits="7" score="8.440">tributary</coll>
+    <coll hits="4" score="8.390">mg</coll>
+    <coll hits="7" score="7.760">basin</coll>
+    <coll hits="1" score="7.750">stable-flow</coll>
+    <coll hits="1" score="7.720">l960</coll>
+    <coll hits="1" score="7.680">raceway</coll>
+    <coll hits="1" score="7.630">tern</coll>
+    <coll hits="1" score="7.610">shapovalov</coll>
+    <coll hits="1" score="7.590">placement</coll>
+    <coll hits="2" score="7.560">drainage</coll>
+    <coll hits="1" score="7.450">Winooski</coll>
+    <coll hits="1" score="7.340">subspecies</coll>
+    <coll hits="2" score="7.300">mile</coll>
+    <coll hits="1" score="7.240">benefit</coll>
+    <coll hits="1" score="7.230">mainstem</coll>
+    <coll hits="1" score="7.230">peninsula</coll>
+    <coll hits="1" score="7.230">strait</coll>
+    <coll hits="1" score="7.210">microhabitat</coll>
+    <coll hits="1" score="7.200">February</coll>
+    <coll hits="1" score="7.130">valley</coll>
+    <coll hits="1" score="7.110">middle</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="15" score="0.830">
+    <coll hits="3" score="12.190">rainbow_trout</coll>
+    <coll hits="2" score="11.830">rainbow</coll>
+    <coll hits="2" score="11.610">rainbow_trout</coll>
+    <coll hits="1" score="11.000">steelhead_trout</coll>
+    <coll hits="1" score="11.000">steelhead</coll>
+    <coll hits="1" score="11.000">smolt</coll>
+    <coll hits="1" score="11.000">resident</coll>
+    <coll hits="1" score="11.000">adult</coll>
+    <coll hits="1" score="10.820">brown_trout</coll>
+    <coll hits="2" score="10.000">trout</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="4" score="0.220">
+    <coll hits="1" score="12.680">sagehen</coll>
+    <coll hits="1" score="12.680">california</coll>
+    <coll hits="1" score="12.680">creek</coll>
+    <coll hits="1" score="12.410">male</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="2" score="0.110">
+    <coll hits="1" score="13.000">creek</coll>
+    <coll hits="1" score="13.000">oncorhynchus</coll>
+  </gramrel>
+</wordsketch>
+</export>

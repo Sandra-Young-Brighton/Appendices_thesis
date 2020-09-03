@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cynoscion</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="25.000">
+    <coll hits="5" score="13.990">regalis</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="5.000">
+    <coll hits="1" score="10.680">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

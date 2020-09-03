@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">gonionotus</keyword>
+  <gramrel name="modifiers of X" hits="4" score="100.000">
+    <coll hits="2" score="13.410" query="w1919835969">Barbonymus</coll>
+    <coll hits="2" score="13.000" query="w1919835968">Puntius</coll>
+  </gramrel>
+</wordsketch>
+</export>

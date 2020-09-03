@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Engraulis</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="83.330">
+    <coll hits="1" score="12.410">encrasicolus</coll>
+    <coll hits="4" score="12.240">mordax</coll>
+  </gramrel>
+</wordsketch>
+</export>

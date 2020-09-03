@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">barbatulus</keyword>
+  <gramrel name="modifiers of X" hits="6" score="50.000">
+    <coll hits="4" score="13.670">Noemacheilus</coll>
+    <coll hits="2" score="12.830">phoxinus</coll>
+  </gramrel>
+</wordsketch>
+</export>

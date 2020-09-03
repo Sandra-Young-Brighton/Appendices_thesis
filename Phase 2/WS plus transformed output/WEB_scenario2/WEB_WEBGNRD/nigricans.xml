@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">nigricans</keyword>
+  <gramrel name="modifiers of X" hits="5" score="71.430">
+    <coll hits="3" score="13.580" query="w2113914176">Hypentelium</coll>
+    <coll hits="1" score="12.410" query="w2113914178">sucetta</coll>
+    <coll hits="1" score="11.300" query="w2113914177">Erimyzon</coll>
+  </gramrel>
+</wordsketch>
+</export>

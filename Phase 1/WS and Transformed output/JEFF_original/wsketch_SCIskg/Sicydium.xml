@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sicydium</keyword>
+  <gramrel name="nouns modified by X" hits="26" score="76.470">
+    <coll hits="16" score="13.570">punctatum</coll>
+    <coll hits="4" score="12.090">antillarum</coll>
+    <coll hits="3" score="11.580">Perugia</coll>
+    <coll hits="1" score="10.190">plumieri</coll>
+    <coll hits="2" score="7.290">larva</coll>
+  </gramrel>
+</wordsketch>
+</export>

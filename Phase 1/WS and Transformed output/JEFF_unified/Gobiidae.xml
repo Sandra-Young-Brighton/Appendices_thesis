@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gobiidae</keyword>
+  <gramrel name="modifiers of X" hits="4" score="4.880">
+    <coll hits="1" score="12.680">Sicyopterus_extraneus</coll>
+    <coll hits="1" score="12.680">Gobiusculus_flavescens</coll>
+    <coll hits="1" score="11.410">Perciformes</coll>
+    <coll hits="1" score="10.820">Teleostei</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="3.660">
+    <coll hits="2" score="13.190">Neogobius_melanostomus</coll>
+    <coll hits="1" score="11.830">Percidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.220">
+    <coll hits="1" score="13.410">Neogobius_melanostomus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="7.320">
+    <coll hits="1" score="11.190">Indo</coll>
+    <coll hits="3" score="9.420">Island</coll>
+    <coll hits="1" score="8.180">account</coll>
+    <coll hits="1" score="7.110">Basin</coll>
+  </gramrel>
+</wordsketch>
+</export>

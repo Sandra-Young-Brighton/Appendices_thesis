@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Zoology</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="1.820">
+    <coll hits="1" score="11.000" query="w119406018">Arbor</coll>
+    <coll hits="5" score="8.820" query="w119406016">University</coll>
+    <coll hits="1" score="8.380" query="w119406017">assistance</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">minutes</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="59" score="24.790">
+    <coll hits="23" score="11.560" query="w1178092874">electrofishing</coll>
+    <coll hits="4" score="10.890" query="w1178092887">talk</coll>
+    <coll hits="4" score="9.820" query="w1178092881">start</coll>
+    <coll hits="3" score="9.280" query="w1178092883">fertilization</coll>
+    <coll hits="2" score="9.210" query="w1178092880">meeting</coll>
+    <coll hits="1" score="8.930" query="w1178092882">gallon</coll>
+    <coll hits="1" score="8.850" query="w1178092885">drawdown</coll>
+    <coll hits="1" score="8.820" query="w1178092888">electric-fishing</coll>
+    <coll hits="1" score="8.790" query="w1178092884">dilution</coll>
+    <coll hits="1" score="8.570" query="w1178092876">haul</coll>
+    <coll hits="1" score="8.230" query="w1178092873">incubation</coll>
+    <coll hits="1" score="7.910" query="w1178092886">attack</coll>
+    <coll hits="1" score="7.630" query="w1178092877">swimming</coll>
+    <coll hits="1" score="7.370" query="w1178092871">evidence</coll>
+    <coll hits="1" score="7.210" query="w1178092878">speed</coll>
+    <coll hits="1" score="6.990" query="w1178092868">date</coll>
+    <coll hits="1" score="6.180" query="w1178092875">effort</coll>
+    <coll hits="1" score="6.160" query="w1178092865">life</coll>
+    <coll hits="3" score="5.860" query="w1178092872">temperature</coll>
+    <coll hits="1" score="5.810" query="w1178092870">treatment</coll>
+    <coll hits="2" score="5.710" query="w1178092864">day</coll>
+    <coll hits="1" score="5.140" query="w1178092879">concentration</coll>
+    <coll hits="1" score="4.640" query="w1178092867">prey</coll>
+    <coll hits="1" score="4.360" query="w1178092869">level</coll>
+    <coll hits="1" score="3.920" query="w1178092866">time</coll>
+  </gramrel>
+</wordsketch>
+</export>

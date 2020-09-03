@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Menidia</keyword>
+  <gramrel name="nouns modified by X" hits="14" score="82.350">
+    <coll hits="9" score="13.640">menidia</coll>
+    <coll hits="5" score="13.000">beryllina</coll>
+  </gramrel>
+</wordsketch>
+</export>

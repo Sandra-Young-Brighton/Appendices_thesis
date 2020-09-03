@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Craterocephalus</keyword>
+  <gramrel name="modifiers of X" hits="3" score="3.800">
+    <coll hits="1" score="13.000">pseudospinosus</coll>
+    <coll hits="1" score="12.680">lineolata</coll>
+    <coll hits="1" score="12.410">Oxyeleotris</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="15" score="18.990">
+    <coll hits="2" score="11.910">stercusmuscarum</coll>
+    <coll hits="1" score="11.000">kailolae</coll>
+    <coll hits="1" score="11.000">gloveri</coll>
+    <coll hits="1" score="11.000">honoriae</coll>
+    <coll hits="1" score="11.000">eyersii</coll>
+    <coll hits="1" score="11.000">marjoriae</coll>
+    <coll hits="1" score="11.000">laisapi</coll>
+    <coll hits="1" score="10.410">stramineus</coll>
+    <coll hits="6" score="9.350">fluviatilis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.270">
+    <coll hits="1" score="8.710">reference</coll>
+  </gramrel>
+</wordsketch>
+</export>

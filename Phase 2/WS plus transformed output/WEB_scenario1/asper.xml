@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">asper</keyword>
+  <gramrel name="modifiers of X" hits="39" score="65.000">
+    <coll hits="39" score="11.830">Cottus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.670">
+    <coll hits="1" score="6.980">aculeatus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.670">
+    <coll hits="1" score="3.760">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

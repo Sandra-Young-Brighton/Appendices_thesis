@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">peelii</keyword>
+  <gramrel name="modifiers of X" hits="7" score="43.750">
+    <coll hits="6" score="13.580" query="w1921509824">Maccullochella</coll>
+    <coll hits="1" score="11.990" query="w1921509825">Macchullochella</coll>
+  </gramrel>
+</wordsketch>
+</export>

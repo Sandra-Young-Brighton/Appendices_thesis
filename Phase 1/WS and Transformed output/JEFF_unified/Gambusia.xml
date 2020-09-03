@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gambusia</keyword>
+  <gramrel name="nouns modified by X" hits="19" score="22.350">
+    <coll hits="2" score="11.540">Daphnia</coll>
+    <coll hits="2" score="11.000">fish</coll>
+    <coll hits="1" score="9.480">male</coll>
+    <coll hits="4" score="9.280">species</coll>
+    <coll hits="10" score="7.730">specie</coll>
+  </gramrel>
+  <gramrel name="verbs with X as object" hits="1" score="1.180">
+    <coll hits="1" score="7.450">feed</coll>
+  </gramrel>
+  <gramrel name="verbs with X as subject" hits="1" score="1.180">
+    <coll hits="1" score="7.760">feed</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.180">
+    <coll hits="1" score="10.470">male</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="4.710">
+    <coll hits="1" score="10.540">relative</coll>
+    <coll hits="1" score="8.280">Zealand</coll>
+    <coll hits="1" score="7.150">States</coll>
+    <coll hits="1" score="5.220">prey</coll>
+  </gramrel>
+</wordsketch>
+</export>

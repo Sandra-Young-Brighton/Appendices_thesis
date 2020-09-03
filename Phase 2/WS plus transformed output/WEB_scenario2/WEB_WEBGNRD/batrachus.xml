@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">batrachus</keyword>
+  <gramrel name="modifiers of X" hits="7" score="116.670">
+    <coll hits="1" score="11.990" query="w2082062914">Claris</coll>
+    <coll hits="1" score="11.990" query="w2082062913">cirrhosus</coll>
+    <coll hits="5" score="11.210" query="w2082062912">Clarias</coll>
+  </gramrel>
+</wordsketch>
+</export>

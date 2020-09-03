@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">stellata</keyword>
+  <gramrel name="modifiers of X" hits="1" score="33.330">
+    <coll hits="1" score="12.190" query="w2095456064">Gavia</coll>
+  </gramrel>
+</wordsketch>
+</export>

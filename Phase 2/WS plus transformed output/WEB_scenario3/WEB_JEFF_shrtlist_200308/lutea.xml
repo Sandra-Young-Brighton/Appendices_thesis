@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lutea</keyword>
+  <gramrel name="modifiers of X" hits="10" score="40.000">
+    <coll hits="10" score="13.930">Nuphar</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="16.000">
+    <coll hits="1" score="11.990">elasmobranch</coll>
+    <coll hits="1" score="10.680">instance</coll>
+    <coll hits="1" score="8.820">ovary</coll>
+    <coll hits="1" score="5.330">stickleback</coll>
+  </gramrel>
+</wordsketch>
+</export>

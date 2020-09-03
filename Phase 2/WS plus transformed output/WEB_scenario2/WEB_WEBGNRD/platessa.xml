@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">platessa</keyword>
+  <gramrel name="modifiers of X" hits="23" score="41.820">
+    <coll hits="22" score="13.700" query="w1973997184">Pleuronectes</coll>
+    <coll hits="1" score="10.410" query="w1973997185">Plueronectes</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.820">
+    <coll hits="1" score="11.670" query="w1974018432">limanda</coll>
+  </gramrel>
+</wordsketch>
+</export>

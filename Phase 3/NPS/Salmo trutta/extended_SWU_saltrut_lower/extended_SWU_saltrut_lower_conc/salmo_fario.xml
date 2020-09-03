@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_untagged</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="7">[lc=&quot;salmo_fario&quot; | lemma_lc=&quot;salmo_fario&quot;]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#349" num="0" label="_">
+    <left>two other brown_trout species in 1758.</left>
+    <kwic> salmo_fario</kwic>
+    <right> was used for riverine forms. salmo_lacustris</right>
+  </line>
+  <line refs="doc#349" num="1" label="_">
+    <left>sic] trout, and which i have since found to be the</left>
+    <kwic> salmo_fario</kwic>
+    <right>, the veritable trout of izaak walton. &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#349" num="2" label="_">
+    <left>marston, r.b. (summer 1985). &quot;brown_trout (</left>
+    <kwic>salmo_fario</kwic>
+    <right>)&quot; (pdf). the american fly fisher. manchester,</right>
+  </line>
+  <line refs="doc#350" num="3" label="_">
+    <left>two other brown_trout species in 1758.</left>
+    <kwic> salmo_fario</kwic>
+    <right> was used for riverine forms. salmo_lacustris</right>
+  </line>
+  <line refs="doc#350" num="4" label="_">
+    <left>sic] trout, and which i have since found to be the</left>
+    <kwic> salmo_fario</kwic>
+    <right>, the veritable trout of izaak walton. &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#350" num="5" label="_">
+    <left>marston, r.b. (summer 1985). &quot;brown_trout (</left>
+    <kwic>salmo_fario</kwic>
+    <right>)&quot; (pdf). the american fly fisher. manchester,</right>
+  </line>
+  <line refs="doc#457" num="6" label="_">
+    <left>tables. &lt;/p&gt; &lt;p&gt; synonyms and other names:</left>
+    <kwic> salmo_fario</kwic>
+    <right>, s. lacustris; von behr trout,</right>
+  </line>
+</concordance>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fuligula</keyword>
+  <gramrel name="modifiers of X" hits="4" score="66.670">
+    <coll hits="2" score="13.000" query="w2095251201">Aythia</coll>
+    <coll hits="2" score="12.830" query="w2095251200">Aythya</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">masquinongy</keyword>
+  <gramrel name="modifiers of X" hits="18" score="48.650">
+    <coll hits="18" score="13.470" query="w1613474688">Esox</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="10.810">
+    <coll hits="1" score="11.670" query="w1613486595">Umbridae</coll>
+    <coll hits="1" score="11.000" query="w1613486592">Lucius</coll>
+    <coll hits="1" score="10.820" query="w1613486593">Cyprinidae</coll>
+    <coll hits="1" score="8.540" query="w1613486594">harengus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="5.410">
+    <coll hits="2" score="13.410" query="w1613524544">Esocidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

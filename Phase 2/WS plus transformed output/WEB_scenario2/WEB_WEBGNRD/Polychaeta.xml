@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Polychaeta</keyword>
+  <gramrel name="modifiers of X" hits="2" score="15.380">
+    <coll hits="1" score="11.830" query="w2122605761">Bivalvia</coll>
+    <coll hits="1" score="11.190" query="w2122605760">Mollusca</coll>
+  </gramrel>
+</wordsketch>
+</export>

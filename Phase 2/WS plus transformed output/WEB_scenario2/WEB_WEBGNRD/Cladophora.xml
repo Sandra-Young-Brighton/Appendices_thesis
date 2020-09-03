@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cladophora</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="4.550">
+    <coll hits="1" score="13.990" query="w2004031232">glomerata</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="9.090">
+    <coll hits="1" score="7.260" query="w2004040193">century</coll>
+    <coll hits="1" score="3.750" query="w2004040192">area</coll>
+  </gramrel>
+</wordsketch>
+</export>

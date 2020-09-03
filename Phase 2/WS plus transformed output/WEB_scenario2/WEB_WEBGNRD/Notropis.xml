@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Notropis</keyword>
+  <gramrel name="nouns modified by X" hits="49" score="33.330">
+    <coll hits="11" score="12.550" query="w1151496448">hudsonius</coll>
+    <coll hits="7" score="11.990" query="w1151496455">volucellus</coll>
+    <coll hits="5" score="11.540" query="w1151496456">stramineus</coll>
+    <coll hits="4" score="11.140" query="w1151496453">heterodon</coll>
+    <coll hits="3" score="10.880" query="w1151496461">buccatus</coll>
+    <coll hits="2" score="10.320" query="w1151496462">buchanani</coll>
+    <coll hits="2" score="10.320" query="w1151496459">rubellus</coll>
+    <coll hits="2" score="10.320" query="w1151496457">blennius</coll>
+    <coll hits="2" score="10.320" query="w1151496450">dorsalis</coll>
+    <coll hits="2" score="10.270" query="w1151496463">chalybaeus</coll>
+    <coll hits="2" score="10.240" query="w1151496454">texanus</coll>
+    <coll hits="1" score="9.350" query="w1151496465">amblops</coll>
+    <coll hits="1" score="9.350" query="w1151496464">photogenis</coll>
+    <coll hits="1" score="9.350" query="w1151496458">nubilus</coll>
+    <coll hits="1" score="9.350" query="w1151496452">heterolepis</coll>
+    <coll hits="1" score="9.350" query="w1151496451">anogenus</coll>
+    <coll hits="1" score="9.270" query="w1151496460">emiliae</coll>
+    <coll hits="1" score="9.120" query="w1151496449">cornutus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="1.360">
+    <coll hits="1" score="12.190" query="w1151655809">catostomus</coll>
+    <coll hits="1" score="12.190" query="w1151655808">Catostomus</coll>
+  </gramrel>
+</wordsketch>
+</export>

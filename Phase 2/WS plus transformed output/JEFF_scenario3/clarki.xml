@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">clarki</keyword>
+  <gramrel name="modifiers of X" hits="15" score="25.000">
+    <coll hits="2" score="11.300">Onchorhynchus</coll>
+    <coll hits="12" score="9.270">Oncorhynchus</coll>
+    <coll hits="1" score="4.490">Salmo</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.670">
+    <coll hits="1" score="13.990">radiotelemeter</coll>
+  </gramrel>
+</wordsketch>
+</export>

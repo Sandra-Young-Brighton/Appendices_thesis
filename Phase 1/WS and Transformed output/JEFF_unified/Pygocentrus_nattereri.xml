@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pygocentrus_nattereri</keyword>
+  <gramrel name="modifiers of X" hits="1" score="25.000">
+    <coll hits="1" score="9.000">specie</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="25.000">
+    <coll hits="1" score="13.990">Serrasalmus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="25.000">
+    <coll hits="1" score="5.460">basin</coll>
+  </gramrel>
+</wordsketch>
+</export>

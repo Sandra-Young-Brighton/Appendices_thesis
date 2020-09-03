@@ -1,0 +1,4172 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_untagged</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="832">[lc=&quot;brook_trout&quot; | lemma_lc=&quot;brook_trout&quot;]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#10" num="0" label="_">
+    <left>, lake_trout salvelinus_namaycush,</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis and atlantic salmon</right>
+  </line>
+  <line refs="doc#10" num="1" label="_">
+    <left>. for 3 weeks. the survival rates of lake_trout,</left>
+    <kwic> brook_trout</kwic>
+    <right> and atlantic salmon were 80%, 50% and 100%</right>
+  </line>
+  <line refs="doc#10" num="2" label="_">
+    <left>direct and gradual transfer, whereas those in</left>
+    <kwic> brook_trout</kwic>
+    <right> showed a transient increase following direct</right>
+  </line>
+  <line refs="doc#10" num="3" label="_">
+    <left>retains some degree of euryhalinity and that</left>
+    <kwic> brook_trout</kwic>
+    <right> possesses intermediate euryhalinity between</right>
+  </line>
+  <line refs="doc#10" num="4" label="_">
+    <left>gill na+/k+-atpase activity of lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> increased in seawater, whereas that of</right>
+  </line>
+  <line refs="doc#10" num="5" label="_">
+    <left>this pattern did not change in lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> but lamellar mrcs disappeared in atlantic</right>
+  </line>
+  <line refs="doc#10" num="6" label="_">
+    <left>. however, our results in lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> suggest that lamellar mrcs could be also</right>
+  </line>
+  <line refs="doc#10" num="7" label="_">
+    <left>restricted to cold freshwater lakes, and</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis largely</right>
+  </line>
+  <line refs="doc#10" num="8" label="_">
+    <left>selected three salmonid species, lake_trout,</left>
+    <kwic> brook_trout</kwic>
+    <right> and atlantic salmon, which were expected to</right>
+  </line>
+  <line refs="doc#10" num="9" label="_">
+    <left>lake_trout (salvelinus_namaycush walbaum),</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis mitchill) and</right>
+  </line>
+  <line refs="doc#10" num="10" label="_">
+    <left>state fish hatchery (salisbury, vt, usa) and</left>
+    <kwic> brook_trout</kwic>
+    <right> were a non-anadromous form obtained from the</right>
+  </line>
+  <line refs="doc#10" num="11" label="_">
+    <left>remaining lake_trout and 50% of the remaining</left>
+    <kwic> brook_trout</kwic>
+    <right> died during the following 6 days, while no</right>
+  </line>
+  <line refs="doc#10" num="12" label="_">
+    <left>-atpase activity (g–i) in lake_trout (a,d,g),</left>
+    <kwic> brook_trout</kwic>
+    <right> (b,e,h) and atlantic salmon (c,f,i) following</right>
+  </line>
+  <line refs="doc#10" num="13" label="_">
+    <left>high after 7 days (fig. 1a). the three ions in</left>
+    <kwic> brook_trout</kwic>
+    <right> also increased significantly at 24 h, but</right>
+  </line>
+  <line refs="doc#10" num="14" label="_">
+    <left>reached 643± 123 ng ml–1 at 7 days (fig. 1d). in</left>
+    <kwic> brook_trout</kwic>
+    <right> and atlantic salmon, plasma cortisol</right>
+  </line>
+  <line refs="doc#10" num="15" label="_">
+    <left>gill na+/k+-atpase activity in lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> was relatively low (below 2 μmol adp mg–1</right>
+  </line>
+  <line refs="doc#10" num="16" label="_">
+    <left>tukey–kramer test) but slightly increased in</left>
+    <kwic> brook_trout</kwic>
+    <right> (2.0±0.2 at day 0; 3.0±0.2 at day 7)</right>
+  </line>
+  <line refs="doc#10" num="17" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; no mortalities were observed in</left>
+    <kwic> brook_trout</kwic>
+    <right> and atlantic salmon throughout the gradual</right>
+  </line>
+  <line refs="doc#10" num="18" label="_">
+    <left>changes were observed in the three ions in</left>
+    <kwic> brook_trout</kwic>
+    <right> and atlantic salmon, excepting cl– of atlantic</right>
+  </line>
+  <line refs="doc#10" num="19" label="_">
+    <left>changes in plasma cortisol were observed in</left>
+    <kwic> brook_trout</kwic>
+    <right> (fig. 2e). plasma cortisol in atlantic salmon</right>
+  </line>
+  <line refs="doc#10" num="20" label="_">
+    <left>gill na+/k+-atpase activity in lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> increased in accordance with external</right>
+  </line>
+  <line refs="doc#10" num="21" label="_">
+    <left>only the upper band was visible in samples form</left>
+    <kwic> brook_trout</kwic>
+    <right> acclimated to 30 p.p.t., whereas</right>
+  </line>
+  <line refs="doc#10" num="22" label="_">
+    <left>invisible in samples from the lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> kept in 0 p.p.t. (fig. 3b). significant</right>
+  </line>
+  <line refs="doc#10" num="23" label="_">
+    <left>p.t.- and 30 p.p.t.-acclimated lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right>, and not observed in samples from atlantic</right>
+  </line>
+  <line refs="doc#10" num="24" label="_">
+    <left>-atpase activity (g–i) in lake_trout (a,d,g),</left>
+    <kwic> brook_trout</kwic>
+    <right> (b,e,h) and atlantic salmon (c,f,i) following</right>
+  </line>
+  <line refs="doc#10" num="25" label="_">
+    <left>was different from that of lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right>: mrcs were still distributed on the primary</right>
+  </line>
+  <line refs="doc#10" num="26" label="_">
+    <left>and secondary lamellae in lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> (fig. 5c,d,g,h), but mrcs were found primarily</right>
+  </line>
+  <line refs="doc#10" num="27" label="_">
+    <left>direct and gradual transfer, whereas those in</left>
+    <kwic> brook_trout</kwic>
+    <right> showed a transient increase following direct</right>
+  </line>
+  <line refs="doc#10" num="28" label="_">
+    <left>survival in seawater. although 50% of</left>
+    <kwic> brook_trout</kwic>
+    <right> died following direct transfer to seawater,</right>
+  </line>
+  <line refs="doc#10" num="29" label="_">
+    <left>and their plasma ion responses suggest that</left>
+    <kwic> brook_trout</kwic>
+    <right> possess intermediate euryhalinity between</right>
+  </line>
+  <line refs="doc#10" num="30" label="_">
+    <left>(b) from the gills of lake_trout,</left>
+    <kwic> brook_trout</kwic>
+    <right> and atlantic salmon kept in 0 p.p.t. (fw) and</right>
+  </line>
+  <line refs="doc#10" num="31" label="_">
+    <left>(b) from the gills of lake_trout,</left>
+    <kwic> brook_trout</kwic>
+    <right> and atlantic salmon kept in 0 p.p.t. (fw) and</right>
+  </line>
+  <line refs="doc#10" num="32" label="_">
+    <left>ions and cortisol were much higher than in</left>
+    <kwic> brook_trout</kwic>
+    <right> or atlantic salmon after exposure to 30 p.p.t.,</right>
+  </line>
+  <line refs="doc#10" num="33" label="_">
+    <left>size and number to levels similar to that seen in</left>
+    <kwic> brook_trout</kwic>
+    <right>. this indicates that the limited capacity of</right>
+  </line>
+  <line refs="doc#10" num="34" label="_">
+    <left>gill na+/k+-atpase activity of lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> increased following direct and gradual</right>
+  </line>
+  <line refs="doc#10" num="35" label="_">
+    <left>of salmon smolts compared to lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right>. in all three species, western blotting with</right>
+  </line>
+  <line refs="doc#10" num="36" label="_">
+    <left>in the gills of lake_trout (a–d),</left>
+    <kwic> brook_trout</kwic>
+    <right> (e–h) and atlantic salmon (i–l) kept in 0 p.p.t.</right>
+  </line>
+  <line refs="doc#10" num="37" label="_">
+    <left>the band intensity increased in lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> during seawater acclimation and was already</right>
+  </line>
+  <line refs="doc#10" num="38" label="_">
+    <left>during seawater acclimation of lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right>, and already upregulated in salmon smolts in</right>
+  </line>
+  <line refs="doc#10" num="39" label="_">
+    <left>(a,b) and size (c,d) in the gills of lake_trout,</left>
+    <kwic> brook_trout</kwic>
+    <right> and atlantic salmon kept in 0 p.p.t. (fw) and</right>
+  </line>
+  <line refs="doc#10" num="40" label="_">
+    <left>pattern of mrcs between lake_trout/</left>
+    <kwic>brook_trout</kwic>
+    <right> and atlantic salmon: na+/k+-atpase- and</right>
+  </line>
+  <line refs="doc#10" num="41" label="_">
+    <left>, the pattern did not change in lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> but lamellar mrcs disappeared in atlantic</right>
+  </line>
+  <line refs="doc#10" num="42" label="_">
+    <left>mrcs were still found in lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> acclimated to seawater. these lamellar mrcs</right>
+  </line>
+  <line refs="doc#10" num="43" label="_">
+    <left>in seawater-acclimated lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right>. demonstrating apical localization of cftr in</right>
+  </line>
+  <line refs="doc#10" num="44" label="_">
+    <left>in seawater does not occur in lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> but in atlantic salmon. however, the genus</right>
+  </line>
+  <line refs="doc#10" num="45" label="_">
+    <left>salvelinus, which includes lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right>, is regarded as a primitive salmonid group and</right>
+  </line>
+  <line refs="doc#10" num="46" label="_">
+    <left>naiman, r. j. (1984a). osmoregulation in the</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis – i. diel,</right>
+  </line>
+  <line refs="doc#10" num="47" label="_">
+    <left>naiman, r. j. (1984b). osmoregulation in the</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis – ii. effects of size,</right>
+  </line>
+  <line refs="doc#22" num="48" label="_">
+    <left>brown_trout 6 salvelinus_fontinalis eastern</left>
+    <kwic> brook_trout</kwic>
+    <right> 7 salvelinus_malma dolly varden trout 8</right>
+  </line>
+  <line refs="doc#25" num="49" label="_">
+    <left>to decisionmakers and society atlantic salmon</left>
+    <kwic> brook_trout</kwic>
+    <right> mating systems in fishes atlantic cod 2015</right>
+  </line>
+  <line refs="doc#25" num="50" label="_">
+    <left>nature&quot;, is natural selection truly the norm?</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis)</right>
+  </line>
+  <line refs="doc#25" num="51" label="_">
+    <left>) country-to-country transfers (1868-1990)</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) key condition for</right>
+  </line>
+  <line refs="doc#25" num="52" label="_">
+    <left>country-to-country transfers (1868-1990)</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) data sources: lever</right>
+  </line>
+  <line refs="doc#25" num="53" label="_">
+    <left>papers) 11. chinook salmon 12. european eel 14.</left>
+    <kwic> brook_trout</kwic>
+    <right> (3771 papers) 13. guppy (3803 papers) (4799</right>
+  </line>
+  <line refs="doc#31" num="54" label="_">
+    <left>largemouth bass, micropterus salmoides</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis yellow perch, perca</right>
+  </line>
+  <line refs="doc#31" num="55" label="_">
+    <left>and ponds of the basin above iron gate dam.</left>
+    <kwic> brook_trout</kwic>
+    <right>, brown_trout, and non-native strains of</right>
+  </line>
+  <line refs="doc#31" num="56" label="_">
+    <left>delta smelt, hypomesus transpacificus</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis brown_trout,</right>
+  </line>
+  <line refs="doc#40" num="57" label="_">
+    <left>salmonidae rainbow trout brown_trout</left>
+    <kwic> brook_trout</kwic>
+    <right> gasterosteidae brook stickleback cottidae</right>
+  </line>
+  <line refs="doc#40" num="58" label="_">
+    <left>white sucker salmonidae brown_trout</left>
+    <kwic> brook_trout</kwic>
+    <right> gasterosteidae brook stickleback scientific</right>
+  </line>
+  <line refs="doc#40" num="59" label="_">
+    <left>salmonidae rainbow trout brown_trout</left>
+    <kwic> brook_trout</kwic>
+    <right> gasterosteidae brook stickleback cottidae</right>
+  </line>
+  <line refs="doc#40" num="60" label="_">
+    <left>white sucker salmonidae brown_trout</left>
+    <kwic> brook_trout</kwic>
+    <right> gasterosteidae brook stickleback cottidae</right>
+  </line>
+  <line refs="doc#40" num="61" label="_">
+    <left>central mudminnow salmonidae brown_trout</left>
+    <kwic> brook_trout</kwic>
+    <right> centrarchidae green sunfish bluegill</right>
+  </line>
+  <line refs="doc#40" num="62" label="_">
+    <left>white sucker salmonidae brown_trout</left>
+    <kwic> brook_trout</kwic>
+    <right> gasterosteidae brook stickleback</right>
+  </line>
+  <line refs="doc#47" num="63" label="_">
+    <left>yellow perch from 4-10 inches in length. five</left>
+    <kwic> brook_trout</kwic>
+    <right> from 8-9 inches, and two brown_trout, 24 and 25</right>
+  </line>
+  <line refs="doc#47" num="64" label="_">
+    <left>) by weight black crappie 1 0.0 0.5 0.0 9-9 9.5</left>
+    <kwic> brook_trout</kwic>
+    <right> 5 0.3 1.3 0.1 8-9 8.9 bluegill 29 1.5 5.4 0.2 4-10</right>
+  </line>
+  <line refs="doc#47" num="65" label="_">
+    <left>is given in parenthesis. species black crappie</left>
+    <kwic> brook_trout</kwic>
+    <right> ii iii 8.15 (2) 9.4 (3) age iv v 9.7 (1) vi vii viii</right>
+  </line>
+  <line refs="doc#55" num="66" label="_">
+    <left>through lacustrine food webs supporting</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) and other salmonid</right>
+  </line>
+  <line refs="doc#55" num="67" label="_">
+    <left>through lacustrine food webs supporting</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) and other salmonid</right>
+  </line>
+  <line refs="doc#55" num="68" label="_">
+    <left>lakes in new brunswick, canada, supporting</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) using measures of</right>
+  </line>
+  <line refs="doc#55" num="69" label="_">
+    <left>webs, mercury, trophic magnification slope,</left>
+    <kwic> brook_trout</kwic>
+    <right> introduction the biomagnification of</right>
+  </line>
+  <line refs="doc#55" num="70" label="_">
+    <left>environmental science | www.frontiersin.org</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) are common across</right>
+  </line>
+  <line refs="doc#55" num="71" label="_">
+    <left>of this element through food webs supporting</left>
+    <kwic> brook_trout</kwic>
+    <right> has not been examined. diets for this species</right>
+  </line>
+  <line refs="doc#55" num="72" label="_">
+    <left>). in streams in new brunswick (nb), canada,</left>
+    <kwic> brook_trout</kwic>
+    <right> rely heavily on allochthonous carbon sources</right>
+  </line>
+  <line refs="doc#55" num="73" label="_">
+    <left>the biological factors that predict thg in</left>
+    <kwic> brook_trout</kwic>
+    <right> in new brunswick lakes, (2) quantify the</right>
+  </line>
+  <line refs="doc#55" num="74" label="_">
+    <left>of hg through lakes supporting</left>
+    <kwic> brook_trout</kwic>
+    <right>, and (3) compare results from these lakes to</right>
+  </line>
+  <line refs="doc#55" num="75" label="_">
+    <left>tms in five lakes in new brunswick that contain</left>
+    <kwic> brook_trout</kwic>
+    <right> as a top predator. we then combined these</right>
+  </line>
+  <line refs="doc#55" num="76" label="_">
+    <left>. methods study sites five lakes containing</left>
+    <kwic> brook_trout</kwic>
+    <right> were chosen to represent systems across the</right>
+  </line>
+  <line refs="doc#55" num="77" label="_">
+    <left>. moose and tahoe lakes contained allopatric</left>
+    <kwic> brook_trout</kwic>
+    <right> populations while a, bathurst, and nictau</right>
+  </line>
+  <line refs="doc#55" num="78" label="_">
+    <left>while a, bathurst, and nictau lakes contained</left>
+    <kwic> brook_trout</kwic>
+    <right> populations living sympatrically with 8, 7,</right>
+  </line>
+  <line refs="doc#55" num="79" label="_">
+    <left>zooplankton samples until used for analysis.</left>
+    <kwic> brook_trout</kwic>
+    <right>, banded killifish (fundulus diaphanus),</right>
+  </line>
+  <line refs="doc#55" num="80" label="_">
+    <left>a given lake. for lakes with species other than</left>
+    <kwic> brook_trout</kwic>
+    <right>, sampling was done to collect fishes that</right>
+  </line>
+  <line refs="doc#55" num="81" label="_">
+    <left>size of 8 was targeted. target sample size for</left>
+    <kwic> brook_trout</kwic>
+    <right> was 20, though this was not achieved in all lakes</right>
+  </line>
+  <line refs="doc#55" num="82" label="_">
+    <left>proxy for mehg; bloom, 1992). otoliths from the</left>
+    <kwic> brook_trout</kwic>
+    <right> were removed and used for aging as described in</right>
+  </line>
+  <line refs="doc#55" num="83" label="_">
+    <left>(2008). trophic position (tp) of individual</left>
+    <kwic> brook_trout</kwic>
+    <right> was calculated after adjusting their δ15 n to</right>
+  </line>
+  <line refs="doc#55" num="84" label="_">
+    <left>4h as in post (2002). among-lake differences in</left>
+    <kwic> brook_trout</kwic>
+    <right> thg (log10 , dw), proportion littoral carbon (</right>
+  </line>
+  <line refs="doc#55" num="85" label="_">
+    <left>were run to examine whether individual</left>
+    <kwic> brook_trout</kwic>
+    <right> log thg concentrations were related to their</right>
+  </line>
+  <line refs="doc#55" num="86" label="_">
+    <left>relationships between all individual</left>
+    <kwic> brook_trout</kwic>
+    <right> log thg (dw) and their proportion of littoral</right>
+  </line>
+  <line refs="doc#55" num="87" label="_">
+    <left>biomagnification was also quantified for each</left>
+    <kwic> brook_trout</kwic>
+    <right> food web. log10 concentrations of hg in fish (</right>
+  </line>
+  <line refs="doc#55" num="88" label="_">
+    <left>to 98% (barry hanson, 2004). mean % moisture of</left>
+    <kwic> brook_trout</kwic>
+    <right> muscle ranged from 77 to 81% across lakes.</right>
+  </line>
+  <line refs="doc#55" num="89" label="_">
+    <left>among salmonid species data for the</left>
+    <kwic> brook_trout</kwic>
+    <right> in new brunswick were combined with data for</right>
+  </line>
+  <line refs="doc#55" num="90" label="_">
+    <left>. comparisons of mercury concentrations among</left>
+    <kwic> brook_trout</kwic>
+    <right> and food webs in new brunswick condition factor</right>
+  </line>
+  <line refs="doc#55" num="91" label="_">
+    <left>food webs in new brunswick condition factor of</left>
+    <kwic> brook_trout</kwic>
+    <right> was calculated as follows: k = [weight (g)/</right>
+  </line>
+  <line refs="doc#55" num="92" label="_">
+    <left>whole tissues (post et al., 2007). c:n ratios of</left>
+    <kwic> brook_trout</kwic>
+    <right> muscle (3.26 to 3.44) did not warrant lipid</right>
+  </line>
+  <line refs="doc#55" num="93" label="_">
+    <left>of the δ13 c data. dietary reliance of</left>
+    <kwic> brook_trout</kwic>
+    <right> on littoral vs. pelagic carbon was determined</right>
+  </line>
+  <line refs="doc#55" num="94" label="_">
+    <left>in diverse systems end members.</left>
+    <kwic> brook_trout</kwic>
+    <right> are known to shift food sources in the presence</right>
+  </line>
+  <line refs="doc#55" num="95" label="_">
+    <left>); for example, in the presence of white sucker,</left>
+    <kwic> brook_trout</kwic>
+    <right> consumed a lower proportion of zoobenthos (</right>
+  </line>
+  <line refs="doc#55" num="96" label="_">
+    <left>and magnan, 1992). in the current study,</left>
+    <kwic> brook_trout</kwic>
+    <right> from lakes with no other fish species (moose and</right>
+  </line>
+  <line refs="doc#55" num="97" label="_">
+    <left>fish community; the exception was a lake with</left>
+    <kwic> brook_trout</kwic>
+    <right> that relied mostly (86%) on littoral carbon,</right>
+  </line>
+  <line refs="doc#55" num="98" label="_">
+    <left>means ranging from 0.82 to 3.83; as such,</left>
+    <kwic> brook_trout</kwic>
+    <right> δ15 n values were adjusted to baseline values as</right>
+  </line>
+  <line refs="doc#55" num="99" label="_">
+    <left>values as described in the methods. the tp of</left>
+    <kwic> brook_trout</kwic>
+    <right> differed significantly among lakes (anova, p &lt;</right>
+  </line>
+  <line refs="doc#55" num="100" label="_">
+    <left>was 3.76 (moose lake) and 3.48 (tahoe lake) in</left>
+    <kwic> brook_trout</kwic>
+    <right> only lakes, and 3.20, 3.50, and 3.82 in bathurst</right>
+  </line>
+  <line refs="doc#55" num="101" label="_">
+    <left>zanden et al., 1999). a study including more</left>
+    <kwic> brook_trout</kwic>
+    <right> lakes than was examined herein is warranted to</right>
+  </line>
+  <line refs="doc#55" num="102" label="_">
+    <left>test for outliers, a lake (top predator,</left>
+    <kwic> brook_trout</kwic>
+    <right>) was removed from the analysis and age data were</right>
+  </line>
+  <line refs="doc#55" num="103" label="_">
+    <left>diverse food webs tms values obtained for the</left>
+    <kwic> brook_trout</kwic>
+    <right> lakes in new brunswick were combined with a</right>
+  </line>
+  <line refs="doc#55" num="104" label="_">
+    <left>and discussion food web structure of the</left>
+    <kwic> brook_trout</kwic>
+    <right> lakes brook_trout from the new brunswick lakes</right>
+  </line>
+  <line refs="doc#55" num="105" label="_">
+    <left>food web structure of the brook_trout lakes</left>
+    <kwic> brook_trout</kwic>
+    <right> from the new brunswick lakes ranged in their</right>
+  </line>
+  <line refs="doc#55" num="106" label="_">
+    <left>(tp), δ13 c, and proportion littoral c of</left>
+    <kwic> brook_trout</kwic>
+    <right> collected from lakes in new brunswick, canada (</right>
+  </line>
+  <line refs="doc#55" num="107" label="_">
+    <left>c). a bathurst moose nictau tahoe 13 22 20 15 20</left>
+    <kwic> brook_trout</kwic>
+    <right> n 1.2 ± 0.77a 0.33 ± 0.15b 0.43 ± 0.24b 0.46 ± 0.36b</right>
+  </line>
+  <line refs="doc#55" num="108" label="_">
+    <left>carbon sources. mercury concentrations in</left>
+    <kwic> brook_trout</kwic>
+    <right> and other fishes in the current study, thg</right>
+  </line>
+  <line refs="doc#55" num="109" label="_">
+    <left>in the current study, thg concentrations in</left>
+    <kwic> brook_trout</kwic>
+    <right> varied by a factor of 3–4 across lakes, despite</right>
+  </line>
+  <line refs="doc#55" num="110" label="_">
+    <left>the fish being of a similar age (table 2).</left>
+    <kwic> brook_trout</kwic>
+    <right> from a lake had significantly higher log thg</right>
+  </line>
+  <line refs="doc#55" num="111" label="_">
+    <left>in fish size. total hg concentrations in</left>
+    <kwic> brook_trout</kwic>
+    <right> vary across systems in northeastern north</right>
+  </line>
+  <line refs="doc#55" num="112" label="_">
+    <left>and rivers (kamman et al., 2005). the thg in</left>
+    <kwic> brook_trout</kwic>
+    <right> filets from this large (&gt;1100 fish) dataset</right>
+  </line>
+  <line refs="doc#55" num="113" label="_">
+    <left>, 2007). in the new brunswick lakes, log thg of</left>
+    <kwic> brook_trout</kwic>
+    <right> was positively predicted by their tp within</right>
+  </line>
+  <line refs="doc#55" num="114" label="_">
+    <left>1). similarly, the best predictors of log thg in</left>
+    <kwic> brook_trout</kwic>
+    <right> muscle across all of the new brunswick lakes</right>
+  </line>
+  <line refs="doc#55" num="115" label="_">
+    <left>; vander zanden and rasmussen, 1996). log thg of</left>
+    <kwic> brook_trout</kwic>
+    <right> was predicted by their source of energy (as</right>
+  </line>
+  <line refs="doc#55" num="116" label="_">
+    <left>position (see methods for calculations) in</left>
+    <kwic> brook_trout</kwic>
+    <right> from five lakes in new brunswick, canada.</right>
+  </line>
+  <line refs="doc#55" num="117" label="_">
+    <left>lakes reflected the spatial patterns found for</left>
+    <kwic> brook_trout</kwic>
+    <right> and the macroinvertebrates. the mean thg for</right>
+  </line>
+  <line refs="doc#55" num="118" label="_">
+    <left>, and smaller in surface area than the other</left>
+    <kwic> brook_trout</kwic>
+    <right> lakes. higher hg concentrations in fishes have</right>
+  </line>
+  <line refs="doc#55" num="119" label="_">
+    <left>) with high mehg concentrations, the thg of</left>
+    <kwic> brook_trout</kwic>
+    <right> were similar (mean of 0.46 μg/g dw) to those for</right>
+  </line>
+  <line refs="doc#55" num="120" label="_">
+    <left>pca using data for arctic char, lake_trout, and</left>
+    <kwic> brook_trout</kwic>
+    <right> lakes (n = 23) had components that were</right>
+  </line>
+  <line refs="doc#55" num="121" label="_">
+    <left>and principal components as shown in table 6.</left>
+    <kwic> brook_trout</kwic>
+    <right> data are from the current study whereas arctic</right>
+  </line>
+  <line refs="doc#55" num="122" label="_">
+    <left>from the new brunswick lakes supporting</left>
+    <kwic> brook_trout</kwic>
+    <right> with existing data on food webs supporting</right>
+  </line>
+  <line refs="doc#55" num="123" label="_">
+    <left>physical and chemical characteristics of</left>
+    <kwic> brook_trout</kwic>
+    <right> (bt; this study; see table 1 for water chemistry</right>
+  </line>
+  <line refs="doc#55" num="124" label="_">
+    <left>. in summary, results from this study on</left>
+    <kwic> brook_trout</kwic>
+    <right> in new brunswick lakes support the paradigms</right>
+  </line>
+  <line refs="doc#55" num="125" label="_">
+    <left>and scaled total phosphorous (mg/l) of lakes.</left>
+    <kwic> brook_trout</kwic>
+    <right> data are from the current study whereas yellow</right>
+  </line>
+  <line refs="doc#55" num="126" label="_">
+    <left>through lacustrine food webs supporting</left>
+    <kwic> brook_trout</kwic>
+    <right>. in addition, there was some–albeit weak–</right>
+  </line>
+  <line refs="doc#55" num="127" label="_">
+    <left>, j. b. (2009). shifts in the trophic ecology of</left>
+    <kwic> brook_trout</kwic>
+    <right> resulting from interactions with yellow perch</right>
+  </line>
+  <line refs="doc#55" num="128" label="_">
+    <left>. biotic and abiotic determinants of the diet of</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis, in lakes of the</right>
+  </line>
+  <line refs="doc#55" num="129" label="_">
+    <left>, g. j. (1982). resource partitioning between</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus-fontinalis mitchill) and creek</right>
+  </line>
+  <line refs="doc#55" num="130" label="_">
+    <left>bioaccumulation on lake food webs supporting</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis). m.sc. thesis,</right>
+  </line>
+  <line refs="doc#55" num="131" label="_">
+    <left>between 2 distantly related species,</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) and white sucker (</right>
+  </line>
+  <line refs="doc#60" num="132" label="_">
+    <left>salmon salvelinus_fontinalis brook char,</left>
+    <kwic> brook_trout</kwic>
+    <right> tinca tinca tench a basin-wide assessment the</right>
+  </line>
+  <line refs="doc#66" num="133" label="_">
+    <left>, we hypothesized that reproductively mature</left>
+    <kwic> brook_trout</kwic>
+    <right> of one or both sexes would be attractive to other</right>
+  </line>
+  <line refs="doc#66" num="134" label="_">
+    <left>both sexes would be attractive to other mature</left>
+    <kwic> brook_trout</kwic>
+    <right>, and that this attraction might be developed</right>
+  </line>
+  <line refs="doc#66" num="135" label="_">
+    <left>might be developed into a tool for the capture of</left>
+    <kwic> brook_trout</kwic>
+    <right>. ... &lt;/p&gt; &lt;p&gt; ... sorensen et al. (1995) and</right>
+  </line>
+  <line refs="doc#66" num="136" label="_">
+    <left>et al. (1996) also noted that subdominant</left>
+    <kwic> brook_trout</kwic>
+    <right> and brown_trout salmo_trutta frequently</right>
+  </line>
+  <line refs="doc#66" num="137" label="_">
+    <left>, we expected catches of sexually mature female</left>
+    <kwic> brook_trout</kwic>
+    <right> to be disproportionately high in the traps</right>
+  </line>
+  <line refs="doc#66" num="138" label="_">
+    <left>little spawning gravel in which few female</left>
+    <kwic> brook_trout</kwic>
+    <right> were detected, and the 2000 test was terminated</right>
+  </line>
+  <line refs="doc#66" num="139" label="_">
+    <left>control of invasions of species such as</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis are expensive, labor</right>
+  </line>
+  <line refs="doc#66" num="140" label="_">
+    <left>attrac-tion could be exploited to capture</left>
+    <kwic> brook_trout</kwic>
+    <right>. we con-ducted two tests as brook_trout</right>
+  </line>
+  <line refs="doc#66" num="141" label="_">
+    <left>brook_trout. we con-ducted two tests as</left>
+    <kwic> brook_trout</kwic>
+    <right> spawning began in 1999 and 2000 in two streams in</right>
+  </line>
+  <line refs="doc#66" num="142" label="_">
+    <left>hoop nets seeded with sexually mature male</left>
+    <kwic> brook_trout</kwic>
+    <right>, sexually mature female brook_trout, or no</right>
+  </line>
+  <line refs="doc#66" num="143" label="_">
+    <left>male brook_trout, sexually mature female</left>
+    <kwic> brook_trout</kwic>
+    <right>, or no fish. catches of sex-ually mature fish in</right>
+  </line>
+  <line refs="doc#66" num="144" label="_">
+    <left>0.001); traps seeded with sexually mature male</left>
+    <kwic> brook_trout</kwic>
+    <right> resulted in a disproportionately high number</right>
+  </line>
+  <line refs="doc#66" num="145" label="_">
+    <left>may be useful for sampling or manipulating</left>
+    <kwic> brook_trout</kwic>
+    <right> and perhaps other salmonid populations.</right>
+  </line>
+  <line refs="doc#66" num="146" label="_">
+    <left>united states (behnke 1992). for example,</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis have successfully</right>
+  </line>
+  <line refs="doc#66" num="147" label="_">
+    <left>to streams, biologists often attempt to remove</left>
+    <kwic> brook_trout</kwic>
+    <right> by applying toxi-cants, such as rotenone or</right>
+  </line>
+  <line refs="doc#66" num="148" label="_">
+    <left>of its potential to control populations of</left>
+    <kwic> brook_trout</kwic>
+    <right>. in a laboratory study, sveinsson and hara (</right>
+  </line>
+  <line refs="doc#66" num="149" label="_">
+    <left>young et al. (2003) found that captures of adult</left>
+    <kwic> brook_trout</kwic>
+    <right> in hoop nets seeded with mature males were</right>
+  </line>
+  <line refs="doc#66" num="150" label="_">
+    <left>or those that lacked a seed fish. ... &lt;/p&gt; &lt;p&gt; the</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis, a native of eastern</right>
+  </line>
+  <line refs="doc#66" num="151" label="_">
+    <left>there. current methods for controlling</left>
+    <kwic> brook_trout</kwic>
+    <right> are usually time-consuming and expensive and</right>
+  </line>
+  <line refs="doc#66" num="152" label="_">
+    <left>control using hoop nets to capture fish during</left>
+    <kwic> brook_trout</kwic>
+    <right> spawning in the fall. we seeded nets with four</right>
+  </line>
+  <line refs="doc#66" num="153" label="_">
+    <left>nets with four different combinations of</left>
+    <kwic> brook_trout</kwic>
+    <right> (a single male, three males, a male–female pair</right>
+  </line>
+  <line refs="doc#66" num="154" label="_">
+    <left>. nets with a male–female pair captured 30% more</left>
+    <kwic> brook_trout</kwic>
+    <right> than the next best treatment; the differences</right>
+  </line>
+  <line refs="doc#66" num="155" label="_">
+    <left>nets captured five times as many mature male</left>
+    <kwic> brook_trout</kwic>
+    <right> as mature females. although we were unable to</right>
+  </line>
+  <line refs="doc#66" num="156" label="_">
+    <left>in removing up to 34% of the estimated number of</left>
+    <kwic> brook_trout</kwic>
+    <right> in the study stream, even though we did not</right>
+  </line>
+  <line refs="doc#66" num="157" label="_">
+    <left>. hence, hoop netting may be helpful in reducing</left>
+    <kwic> brook_trout</kwic>
+    <right> numbers if alternative methods of removal are</right>
+  </line>
+  <line refs="doc#66" num="158" label="_">
+    <left>ovulation in rainbow trout (salmo gairdneri),</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), and yellow perch (</right>
+  </line>
+  <line refs="doc#66" num="159" label="_">
+    <left>(pgs) by several tissue components of</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) ovaries was</right>
+  </line>
+  <line refs="doc#66" num="160" label="_">
+    <left>tissue and coelomic fluid from ovulating</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) were measured using</right>
+  </line>
+  <line refs="doc#68" num="161" label="_">
+    <left>found in previous studies on brown_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> (fechney, 1988; kelly-quinn and bracken, 1990</right>
+  </line>
+  <line refs="doc#68" num="162" label="_">
+    <left>, salmo_trutta, and the introduced</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis, were studied</right>
+  </line>
+  <line refs="doc#68" num="163" label="_">
+    <left>the same feeding habits. however, in sympatry,</left>
+    <kwic> brook_trout</kwic>
+    <right> consumed higher proportion of terrestrial</right>
+  </line>
+  <line refs="doc#68" num="164" label="_">
+    <left>conditions. the dietary shift observed for</left>
+    <kwic> brook_trout</kwic>
+    <right>, but not for brown_trout, suggests that</right>
+  </line>
+  <line refs="doc#68" num="165" label="_">
+    <left>in the studied sympatric locality, leading the</left>
+    <kwic> brook_trout</kwic>
+    <right> to change its feeding habits to reduce</right>
+  </line>
+  <line refs="doc#71" num="166" label="_">
+    <left>1966;hafeez and quay 1970), especially in</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus contact christine may [email</right>
+  </line>
+  <line refs="doc#71" num="167" label="_">
+    <left>in artificial stream channels with wild</left>
+    <kwic> brook_trout</kwic>
+    <right> tested for the potential of color matching by</right>
+  </line>
+  <line refs="doc#71" num="168" label="_">
+    <left>, were used in three separate tests. several</left>
+    <kwic> brook_trout</kwic>
+    <right> and rainbow trout occupied the test area</right>
+  </line>
+  <line refs="doc#71" num="169" label="_">
+    <left>, but the use of shade was the highest. the</left>
+    <kwic> brook_trout</kwic>
+    <right> was intermediate in both these aspects. all</right>
+  </line>
+  <line refs="doc#71" num="170" label="_">
+    <left>for any particular site, whereas the</left>
+    <kwic> brook_trout</kwic>
+    <right> and brown_trout showed a preference for a</right>
+  </line>
+  <line refs="doc#73" num="171" label="_">
+    <left>k. d. &amp; white, r. j. (1981). competition between</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus &lt;/p&gt; &lt;p&gt; fontinalis) and</right>
+  </line>
+  <line refs="doc#76" num="172" label="_">
+    <left>of survival under extreme conditions, the</left>
+    <kwic> brook_trout</kwic>
+    <right> is the hardiest fish of the three. all three</right>
+  </line>
+  <line refs="doc#76" num="173" label="_">
+    <left>in this respect. under all other conditions the</left>
+    <kwic> brook_trout</kwic>
+    <right> exhibited the greatest resistance in terms of</right>
+  </line>
+  <line refs="doc#79" num="174" label="_">
+    <left>variation during the incubation of</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) on duration of</right>
+  </line>
+  <line refs="doc#79" num="175" label="_">
+    <left>of deformities, and alevin length at hatching.</left>
+    <kwic> brook_trout</kwic>
+    <right> eggs were incubated in five</right>
+  </line>
+  <line refs="doc#81" num="176" label="_">
+    <left>behavior of goldfish carassius auratus and</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis. in the laboratory, 24</right>
+  </line>
+  <line refs="doc#81" num="177" label="_">
+    <left>field study, nearly half of male and female</left>
+    <kwic> brook_trout</kwic>
+    <right> collected by dc electroshocking on their</right>
+  </line>
+  <line refs="doc#81" num="178" label="_">
+    <left>hatchery rainbow trout (salmo gairdneri) and</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) were</right>
+  </line>
+  <line refs="doc#81" num="179" label="_">
+    <left>study was to assess internal injuries of wild</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis that were captured</right>
+  </line>
+  <line refs="doc#81" num="180" label="_">
+    <left>and autopsies to assess the injury rale of 579</left>
+    <kwic> brook_trout</kwic>
+    <right> (95-237 mm total length, tl) captured by</right>
+  </line>
+  <line refs="doc#81" num="181" label="_">
+    <left>- rhages and 91 spinal injuries. injury rates of</left>
+    <kwic> brook_trout</kwic>
+    <right> captured by electrofishin g were not</right>
+  </line>
+  <line refs="doc#81" num="182" label="_">
+    <left>the dorsal and anal fins. we also examined 89</left>
+    <kwic> brook_trout</kwic>
+    <right> (87-225 mm tl) captured by angling. less than 7%</right>
+  </line>
+  <line refs="doc#81" num="183" label="_">
+    <left>can be substantial, even for relatively small</left>
+    <kwic> brook_trout</kwic>
+    <right> in low-alkalinit y waters. the relation of</right>
+  </line>
+  <line refs="doc#82" num="184" label="_">
+    <left>, with cutthroat selecting the former and</left>
+    <kwic> brook_trout</kwic>
+    <right> the latter. these differences were</right>
+  </line>
+  <line refs="doc#82" num="185" label="_">
+    <left>rates, time of feeding, and prey choice of</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) were studied in</right>
+  </line>
+  <line refs="doc#82" num="186" label="_">
+    <left>primary determinants of trout diet.key words:</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis; stream,</right>
+  </line>
+  <line refs="doc#82" num="187" label="_">
+    <left>rates, time of feeding, and prey choice of</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) were studied in</right>
+  </line>
+  <line refs="doc#82" num="188" label="_">
+    <left>primary determinants of trout diet.key words:</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis; stream,</right>
+  </line>
+  <line refs="doc#87" num="189" label="_">
+    <left>between each pair of species (rainbow trout and</left>
+    <kwic> brook_trout</kwic>
+    <right>, rainbow trout and atlantic salmon, and</right>
+  </line>
+  <line refs="doc#87" num="190" label="_">
+    <left>, rainbow trout and atlantic salmon, and</left>
+    <kwic> brook_trout</kwic>
+    <right> and atlantic salmon) based on samplings done in</right>
+  </line>
+  <line refs="doc#87" num="191" label="_">
+    <left>these rivers, atlantic salmon salmo_salar and</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis, implies a risk of</right>
+  </line>
+  <line refs="doc#87" num="192" label="_">
+    <left>size revealed that niche overlap between</left>
+    <kwic> brook_trout</kwic>
+    <right> and atlantic salmon significantly increased</right>
+  </line>
+  <line refs="doc#87" num="193" label="_">
+    <left>season, as compared with atlantic salmon and</left>
+    <kwic> brook_trout</kwic>
+    <right>. it thus appears that even at an early stage of</right>
+  </line>
+  <line refs="doc#87" num="194" label="_">
+    <left>the impact of two exotic salmonid species (</left>
+    <kwic>brook_trout</kwic>
+    <right>, salvelinus_fontinalis and rainbow trout,</right>
+  </line>
+  <line refs="doc#87" num="195" label="_">
+    <left>and apparent survival were hardly affected by</left>
+    <kwic> brook_trout</kwic>
+    <right>. these results support the idea that rainbow</right>
+  </line>
+  <line refs="doc#90" num="196" label="_">
+    <left>integrative transponder (pit)-tagged</left>
+    <kwic> brook_trout</kwic>
+    <right> in a lake michigan tributary receiving a salmon</right>
+  </line>
+  <line refs="doc#90" num="197" label="_">
+    <left>arrival of salmon, an estimated 52% of resident</left>
+    <kwic> brook_trout</kwic>
+    <right> moved &gt;200 m, while no such movements were</right>
+  </line>
+  <line refs="doc#90" num="198" label="_">
+    <left>the nonsalmon stream. after 3–4 days, however,</left>
+    <kwic> brook_trout</kwic>
+    <right> movement patterns became similar in the two</right>
+  </line>
+  <line refs="doc#90" num="199" label="_">
+    <left>two streams, suggesting that salmon effects on</left>
+    <kwic> brook_trout</kwic>
+    <right> movements were short-lived. movements in the</right>
+  </line>
+  <line refs="doc#90" num="200" label="_">
+    <left>upstream in direction, with 50% of the tagged</left>
+    <kwic> brook_trout</kwic>
+    <right> travelling from below to above the stationary</right>
+  </line>
+  <line refs="doc#90" num="201" label="_">
+    <left>the onset of fall coincided with low levels of</left>
+    <kwic> brook_trout</kwic>
+    <right> movement at both sites, likely due to</right>
+  </line>
+  <line refs="doc#90" num="202" label="_">
+    <left>due to relocation for spawning. increased</left>
+    <kwic> brook_trout</kwic>
+    <right> movements coincident with the arrival of</right>
+  </line>
+  <line refs="doc#90" num="203" label="_">
+    <left>salmon spawners can substantially increase</left>
+    <kwic> brook_trout</kwic>
+    <right> movement, but in our study, these effects were</right>
+  </line>
+  <line refs="doc#90" num="204" label="_">
+    <left>, slimy sculpin cottus cognatus, and</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis) to investigate</right>
+  </line>
+  <line refs="doc#90" num="205" label="_">
+    <left>with muscle tissue for atlantic salmon and</left>
+    <kwic> brook_trout</kwic>
+    <right> for δ13c (r = 0.96 and 0.94, respectively) and</right>
+  </line>
+  <line refs="doc#91" num="206" label="_">
+    <left>, by sockeye salmon (oncorhynchus_nerka),</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), chinook salmon (</right>
+  </line>
+  <line refs="doc#92" num="207" label="_">
+    <left>during the second year of a population of female</left>
+    <kwic> brook_trout</kwic>
+    <right>. it was found that fish recruited for</right>
+  </line>
+  <line refs="doc#92" num="208" label="_">
+    <left>rate, colouration, and sexual maturation in</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis during pre- and</right>
+  </line>
+  <line refs="doc#92" num="209" label="_">
+    <left>somatic growth in both male and female</left>
+    <kwic> brook_trout</kwic>
+    <right>, and also increased resistance to fungal</right>
+  </line>
+  <line refs="doc#92" num="210" label="_">
+    <left>of estrogen and vitellogenin in</left>
+    <kwic> brook_trout</kwic>
+    <right> have been investigated. oocyte development</right>
+  </line>
+  <line refs="doc#93" num="211" label="_">
+    <left>lake cutthroat trout and ibantek reservoir</left>
+    <kwic> brook_trout</kwic>
+    <right>, was also noted in our earlier</right>
+  </line>
+  <line refs="doc#93" num="212" label="_">
+    <left>blood chemistry disturbances in wild</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis, brown_trout</right>
+  </line>
+  <line refs="doc#93" num="213" label="_">
+    <left>(rainbow trout oncorhynchus_mykiss and</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis) and five other genera</right>
+  </line>
+  <line refs="doc#114" num="214" label="_">
+    <left>(gadus morhua, gadidae) and 10 populations of</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis, salmonidae), we</right>
+  </line>
+  <line refs="doc#116" num="215" label="_">
+    <left>have been associated with the decline of</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) throughout their</right>
+  </line>
+  <line refs="doc#116" num="216" label="_">
+    <left>. we observed the behavior of wild, adult</left>
+    <kwic> brook_trout</kwic>
+    <right> and brown_trout (alone and in combination)</right>
+  </line>
+  <line refs="doc#116" num="217" label="_">
+    <left>the segregation patterns of wild, adult</left>
+    <kwic> brook_trout</kwic>
+    <right> and brown_trout and 2) whether interactions</right>
+  </line>
+  <line refs="doc#116" num="218" label="_">
+    <left>brown_trout and 2) whether interactions among</left>
+    <kwic> brook_trout</kwic>
+    <right> and brown_trout influence the distribution of</right>
+  </line>
+  <line refs="doc#116" num="219" label="_">
+    <left>and brown_trout influence the distribution of</left>
+    <kwic> brook_trout</kwic>
+    <right> in acidified waters. after manipulating</right>
+  </line>
+  <line refs="doc#116" num="220" label="_">
+    <left>by moving to more neutral conditions (62 % of</left>
+    <kwic> brook_trout</kwic>
+    <right> and 68 % of brown_trout). indwelling</right>
+  </line>
+  <line refs="doc#116" num="221" label="_">
+    <left>and 68 % of brown_trout). indwelling</left>
+    <kwic> brook_trout</kwic>
+    <right> spent less time in acidic conditions during the</right>
+  </line>
+  <line refs="doc#116" num="222" label="_">
+    <left>acidification mediates the segregation of</left>
+    <kwic> brook_trout</kwic>
+    <right> and brown_trout in streams. &lt;/p&gt; &lt;p&gt; despite</right>
+  </line>
+  <line refs="doc#116" num="223" label="_">
+    <left>and spatial overlap of native sub-adult</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), non-native</right>
+  </line>
+  <line refs="doc#116" num="224" label="_">
+    <left>actively from june through september. most</left>
+    <kwic> brook_trout</kwic>
+    <right> (96%) and landlocked salmon (72%) displayed</right>
+  </line>
+  <line refs="doc#116" num="225" label="_">
+    <left>). spatial overlap of smallmouth bass and</left>
+    <kwic> brook_trout</kwic>
+    <right> in the summer is unlikely because brook_trout</right>
+  </line>
+  <line refs="doc#116" num="226" label="_">
+    <left>brook_trout in the summer is unlikely because</left>
+    <kwic> brook_trout</kwic>
+    <right> presumably move to thermal rehgia during this</right>
+  </line>
+  <line refs="doc#116" num="227" label="_">
+    <left>. however, interspecific competition between</left>
+    <kwic> brook_trout</kwic>
+    <right> and landlocked salmon may occur since they</right>
+  </line>
+  <line refs="doc#119" num="228" label="_">
+    <left>atlantic salmon, &lt;/p&gt; &lt;p&gt; salmo_salar, and</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis, that move either</right>
+  </line>
+  <line refs="doc#119" num="229" label="_">
+    <left>species in the stream are atlantic salmon,</left>
+    <kwic> brook_trout</kwic>
+    <right>, blacknose dace &lt;/p&gt; &lt;p&gt; rhinichthys</right>
+  </line>
+  <line refs="doc#119" num="230" label="_">
+    <left>(salmo_salar) parr and smolt, and anadromous</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis). in 1980,</right>
+  </line>
+  <line refs="doc#121" num="231" label="_">
+    <left>clarki brown_trout, salmo_trutta</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis silversides,</right>
+  </line>
+  <line refs="doc#121" num="232" label="_">
+    <left>13. relationship between cmax and turbidity in</left>
+    <kwic> brook_trout</kwic>
+    <right> coastal cutthroat trout. (salvalinus</right>
+  </line>
+  <line refs="doc#121" num="233" label="_">
+    <left>of turbidity on prey consumption and growth in</left>
+    <kwic> brook_trout</kwic>
+    <right> and implications for bioenergetics modeling.</right>
+  </line>
+  <line refs="doc#122" num="234" label="_">
+    <left>- &lt;/p&gt; &lt;p&gt; ern margins of the native range of</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus &lt;/p&gt; &lt;p&gt; fontinalis. canadian</right>
+  </line>
+  <line refs="doc#131" num="235" label="_">
+    <left>in the blood, pineal organ, and retina of the</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvlinus fontinalis mitcheu). &lt;/li&gt; &lt;li&gt; (</right>
+  </line>
+  <line refs="doc#131" num="236" label="_">
+    <left>feeding and actively furaging juvenile</left>
+    <kwic> brook_trout</kwic>
+    <right> (sa/velinus fontinalis). &lt;/li&gt; &lt;li&gt; (1969).</right>
+  </line>
+  <line refs="doc#131" num="237" label="_">
+    <left>indicators of sublethal effi:cts of copper on</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis. &lt;/li&gt; &lt;li&gt; (1986).</right>
+  </line>
+  <line refs="doc#138" num="238" label="_">
+    <left>with redd-site selection and spawning by</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinusfontinalis and brown_trout</right>
+  </line>
+  <line refs="doc#138" num="239" label="_">
+    <left>saturation), and stream gradient (0.2-2.3%).</left>
+    <kwic> brook_trout</kwic>
+    <right> spawned exclusively in areas of groundwater</right>
+  </line>
+  <line refs="doc#138" num="240" label="_">
+    <left>and without groundwater seepage. spawning by</left>
+    <kwic> brook_trout</kwic>
+    <right> usually began by the second week of october, by</right>
+  </line>
+  <line refs="doc#138" num="241" label="_">
+    <left>week of october, by brown_trout a week later.</left>
+    <kwic> brook_trout</kwic>
+    <right> spawning periods lasted 3-5 weeks, those of</right>
+  </line>
+  <line refs="doc#138" num="242" label="_">
+    <left>, although interspecific reuse of</left>
+    <kwic> brook_trout</kwic>
+    <right> redds by smaller brown_trout did occur,</right>
+  </line>
+  <line refs="doc#138" num="243" label="_">
+    <left>were significantly (p &lt; 0.001) slower at</left>
+    <kwic> brook_trout</kwic>
+    <right> (17.6 cm/second) than at brown_trout redds (46</right>
+  </line>
+  <line refs="doc#138" num="244" label="_">
+    <left>). average geometric mean sediment size of</left>
+    <kwic> brook_trout</kwic>
+    <right> redds was significantly smaller than that of</right>
+  </line>
+  <line refs="doc#138" num="245" label="_">
+    <left>, but less well sorted. redd-site preference by</left>
+    <kwic> brook_trout</kwic>
+    <right> for areas of groundwater seepage and by</right>
+  </line>
+  <line refs="doc#138" num="246" label="_">
+    <left>(18.0-54.5 cm fork length) than of mature</left>
+    <kwic> brook_trout</kwic>
+    <right> (8.4-29.0 cm) was probably a factor in the</right>
+  </line>
+  <line refs="doc#138" num="247" label="_">
+    <left>with redd-site selection and spawning by</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis and brown_trout</right>
+  </line>
+  <line refs="doc#138" num="248" label="_">
+    <left>saturation), and stream gradient (0.2–2.3%).</left>
+    <kwic> brook_trout</kwic>
+    <right> spawned exclusively in areas of groundwater</right>
+  </line>
+  <line refs="doc#138" num="249" label="_">
+    <left>and without groundwater seepage. spawning by</left>
+    <kwic> brook_trout</kwic>
+    <right> usually began by the second week of october, by</right>
+  </line>
+  <line refs="doc#138" num="250" label="_">
+    <left>week of october, by brown_trout a week later.</left>
+    <kwic> brook_trout</kwic>
+    <right> spawning periods lasted 3–5 weeks, those of</right>
+  </line>
+  <line refs="doc#138" num="251" label="_">
+    <left>, although interspecific reuse of</left>
+    <kwic> brook_trout</kwic>
+    <right> redds by smaller brown_trout did occur,</right>
+  </line>
+  <line refs="doc#138" num="252" label="_">
+    <left>were significantly (p &lt; 0.001) slower at</left>
+    <kwic> brook_trout</kwic>
+    <right> (17.6 cm/second) than at brown_trout redds (46</right>
+  </line>
+  <line refs="doc#138" num="253" label="_">
+    <left>). average geometric mean sediment size of</left>
+    <kwic> brook_trout</kwic>
+    <right> redds was significantly smaller than that of</right>
+  </line>
+  <line refs="doc#138" num="254" label="_">
+    <left>, but less well sorted. redd-site preference by</left>
+    <kwic> brook_trout</kwic>
+    <right> for areas of groundwater seepage and by</right>
+  </line>
+  <line refs="doc#138" num="255" label="_">
+    <left>(18.0–54.5 cm fork length) than of mature</left>
+    <kwic> brook_trout</kwic>
+    <right> (8.4–29.0 cm) was probably a factor in the</right>
+  </line>
+  <line refs="doc#143" num="256" label="_">
+    <left>and distribution of swimming speeds of 15-cm</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinusfontinalis) obtained by the two</right>
+  </line>
+  <line refs="doc#145" num="257" label="_">
+    <left>between respiration rate of juvenile</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), water temperature</right>
+  </line>
+  <line refs="doc#145" num="258" label="_">
+    <left>and water temperature on the cost of swimming in</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis). can. j. fish. aquat</right>
+  </line>
+  <line refs="doc#154" num="259" label="_">
+    <left>sockeye salmon chinook salmon arctic charr</left>
+    <kwic> brook_trout</kwic>
+    <right> dolly varden atlantic salmon brown_trout</right>
+  </line>
+  <line refs="doc#154" num="260" label="_">
+    <left>on the southern margins of the native range of</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis. canadian journal of</right>
+  </line>
+  <line refs="doc#172" num="261" label="_">
+    <left>, steelhead, kamloops trout, cutthroat trout,</left>
+    <kwic> brook_trout</kwic>
+    <right> and arctic grayling, said method comprising:</right>
+  </line>
+  <line refs="doc#172" num="262" label="_">
+    <left>trout), the cutthroat trout (s. clarki), and</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis). &lt;/p&gt; &lt;p&gt; the target</right>
+  </line>
+  <line refs="doc#172" num="263" label="_">
+    <left>trout, kamloops trout, cutthroat trout, and</left>
+    <kwic> brook_trout</kwic>
+    <right> were treated with various concentrations of 2,</right>
+  </line>
+  <line refs="doc#172" num="264" label="_">
+    <left>kokanee, kamloops trout, cutthroat trout, and</left>
+    <kwic> brook_trout</kwic>
+    <right> were treated with various concentrations of 2,</right>
+  </line>
+  <line refs="doc#172" num="265" label="_">
+    <left>. &lt;/p&gt; &lt;p&gt; between 0.3 and greater than 6 mg/l for</left>
+    <kwic> brook_trout</kwic>
+    <right> at 15 c. &lt;/p&gt; &lt;p&gt; according to our data using</right>
+  </line>
+  <line refs="doc#172" num="266" label="_">
+    <left>c. &lt;/p&gt; &lt;p&gt; between 2 and greater than 6 mg/l for</left>
+    <kwic> brook_trout</kwic>
+    <right> at 15 c. &lt;/p&gt; &lt;p&gt; according to our data using</right>
+  </line>
+  <line refs="doc#172" num="267" label="_">
+    <left>at 15 c. &lt;/p&gt; &lt;p&gt; between 10 and 30 μg/l for</left>
+    <kwic> brook_trout</kwic>
+    <right> at 15 c. &lt;/p&gt; &lt;p&gt; between 10 and greater than 30 μg</right>
+  </line>
+  <line refs="doc#172" num="268" label="_">
+    <left>at 15 c., &lt;/p&gt; &lt;p&gt; between 13 and 30 μg/l for</left>
+    <kwic> brook_trout</kwic>
+    <right> at 15 c. &lt;/p&gt; &lt;p&gt; between 13 and greater than 30 μg</right>
+  </line>
+  <line refs="doc#178" num="269" label="_">
+    <left>, b. a., and r. f carline. 1994. injury to</left>
+    <kwic> brook_trout</kwic>
+    <right> by backpack electrofishing. north american</right>
+  </line>
+  <line refs="doc#189" num="270" label="_">
+    <left>brown_trout 8 salvelinus_fontinalis eastern</left>
+    <kwic> brook_trout</kwic>
+    <right> 9 salvelinus_malma dolly varden trout 10</right>
+  </line>
+  <line refs="doc#199" num="271" label="_">
+    <left>to vhsv under natural conditions, including</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis (rasmussen, 1965),</right>
+  </line>
+  <line refs="doc#200" num="272" label="_">
+    <left>training enhances survival of</left>
+    <kwic> brook_trout</kwic>
+    <right>: evidence from laboratory and</right>
+  </line>
+  <line refs="doc#209" num="273" label="_">
+    <left>are an important prey fish for lake_trout,</left>
+    <kwic> brook_trout</kwic>
+    <right>, and northern pike. in addition, they are</right>
+  </line>
+  <line refs="doc#209" num="274" label="_">
+    <left>walleye, northern pike, burbot, lake_trout,</left>
+    <kwic> brook_trout</kwic>
+    <right>, sauger, yellow perch, and freshwater drum.</right>
+  </line>
+  <line refs="doc#218" num="275" label="_">
+    <left>the case in sanguinicola fontinalis-infected</left>
+    <kwic> brook_trout</kwic>
+    <right> (s. fontinalis) in pennsylvania, usa (hoffman</right>
+  </line>
+  <line refs="doc#218" num="276" label="_">
+    <left>rainbow, cut-throat (salmo clarki) and</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) after their snail</right>
+  </line>
+  <line refs="doc#224" num="277" label="_">
+    <left>, and makes it more susceptible to predation by</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis, the parasite's</right>
+  </line>
+  <line refs="doc#224" num="278" label="_">
+    <left>regularly quantified predation by individual</left>
+    <kwic> brook_trout</kwic>
+    <right> fry on known numbers of infected and control</right>
+  </line>
+  <line refs="doc#224" num="279" label="_">
+    <left>in an intensively fished population of</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) at a small subarctic</right>
+  </line>
+  <line refs="doc#234" num="280" label="_">
+    <left>costs of reproduction within populations of</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis. oikos, 70, 12–20.</right>
+  </line>
+  <line refs="doc#234" num="281" label="_">
+    <left>, e.l. (1966) maturation and fecundity of</left>
+    <kwic> brook_trout</kwic>
+    <right> from infertile streams. journal of the</right>
+  </line>
+  <line refs="doc#238" num="282" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; gowan, c. &amp; k.d. fausch. 1996b. mobile</left>
+    <kwic> brook_trout</kwic>
+    <right> in twohigh-elevation colorado streams:</right>
+  </line>
+  <line refs="doc#238" num="283" label="_">
+    <left>behavior and use of cover by young-of-the-year</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus fonrinalis. can. j. fish. aquat.</right>
+  </line>
+  <line refs="doc#238" num="284" label="_">
+    <left>, s.c., k.d. fausch &amp; c. gowan. 1992. movement of</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) in four small</right>
+  </line>
+  <line refs="doc#239" num="285" label="_">
+    <left>resting levels of various blood parameters in</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis). can. j. fish. aquat</right>
+  </line>
+  <line refs="doc#239" num="286" label="_">
+    <left>, m. and d. pelletier. 1991. adaptation of the</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis, to direct transfer</right>
+  </line>
+  <line refs="doc#239" num="287" label="_">
+    <left>. 1986. seasonal changes in the physiology of</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis (mitchill), in a</right>
+  </line>
+  <line refs="doc#239" num="288" label="_">
+    <left>r.g. danzmann 1996. conservation genetics of</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinusfontinalis): population</right>
+  </line>
+  <line refs="doc#239" num="289" label="_">
+    <left>of anadromous and nonanadromous</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) and atlantic salmon</right>
+  </line>
+  <line refs="doc#239" num="290" label="_">
+    <left>white, h.c. 1940. life history of sea-running</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) of moser river. j.</right>
+  </line>
+  <line refs="doc#239" num="291" label="_">
+    <left>of anadromous and freshwater populations of</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis (mitchill)). j. fish</right>
+  </line>
+  <line refs="doc#246" num="292" label="_">
+    <left>mediated avoidance behavior in wild</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis: the response to</right>
+  </line>
+  <line refs="doc#253" num="293" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; gowan, c. &amp; k.d. fausch. 1996b. mobile</left>
+    <kwic> brook_trout</kwic>
+    <right> in two-high-elevation colorado streams:</right>
+  </line>
+  <line refs="doc#253" num="294" label="_">
+    <left>behavior and use of cover by young-of-the-year</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis. can. j. fish. aquat.</right>
+  </line>
+  <line refs="doc#253" num="295" label="_">
+    <left>, s.c., k.d. fausch &amp; c. gowan. 1992. movement of</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) in four small</right>
+  </line>
+  <line refs="doc#261" num="296" label="_">
+    <left>bass salvelinus_fontinalis negative</left>
+    <kwic> brook_trout</kwic>
+    <right> oncorhynchus_aguabonita negative golden</right>
+  </line>
+  <line refs="doc#261" num="297" label="_">
+    <left>negative north american</left>
+    <kwic> brook_trout</kwic>
+    <right> thymallus_thymallus negative grayling</right>
+  </line>
+  <line refs="doc#284" num="298" label="_">
+    <left>3.7 million metric tons during 2010. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) have a distribution</right>
+  </line>
+  <line refs="doc#284" num="299" label="_">
+    <left>through artificial propagation. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> are raised in large quantities by state</right>
+  </line>
+  <line refs="doc#284" num="300" label="_">
+    <left>trade as a food fish. under culture conditions,</left>
+    <kwic> brook_trout</kwic>
+    <right> should be maintained at a temperature of about</right>
+  </line>
+  <line refs="doc#284" num="301" label="_">
+    <left>levels should remain above 5.0 ppm. generally</left>
+    <kwic> brook_trout</kwic>
+    <right> spawn before brown_trout. the distribution of</right>
+  </line>
+  <line refs="doc#284" num="302" label="_">
+    <left>are essentially the same as those for</left>
+    <kwic> brook_trout</kwic>
+    <right>. the two frequently coexist, with brown_trout</right>
+  </line>
+  <line refs="doc#284" num="303" label="_">
+    <left>spawning habitat is essentially the same as for</left>
+    <kwic> brook_trout</kwic>
+    <right>, namely, shallow gravelly headwaters. &lt;/p&gt;</right>
+  </line>
+  <line refs="doc#284" num="304" label="_">
+    <left>much more tolerant of warmer temperatures than</left>
+    <kwic> brook_trout</kwic>
+    <right>. they are capable of surviving in waters as high</right>
+  </line>
+  <line refs="doc#289" num="305" label="_">
+    <left>species anglers may be more familiar with:</left>
+    <kwic> brook_trout</kwic>
+    <right>, lake_trout, bull trout, and dolly varden.</right>
+  </line>
+  <line refs="doc#297" num="306" label="_">
+    <left>contribution to the diet of s. salar parr and</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis ranged between 16·3</right>
+  </line>
+  <line refs="doc#297" num="307" label="_">
+    <left>, lake_trout salvelinus_namaycush, and</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis) maintained at two</right>
+  </line>
+  <line refs="doc#297" num="308" label="_">
+    <left>broodstocks except the captive lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right>. logistic regression analysis demonstrated</right>
+  </line>
+  <line refs="doc#297" num="309" label="_">
+    <left>(walbaum), atlantic salmon, salmo_salar l.,</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis (mitchill), and</right>
+  </line>
+  <line refs="doc#300" num="310" label="_">
+    <left>for chum salmon and chinook salmon, while</left>
+    <kwic> brook_trout</kwic>
+    <right>, brown_trout, atlantic salmon, and coho</right>
+  </line>
+  <line refs="doc#301" num="311" label="_">
+    <left>non-native salmonids such as rainbow and</left>
+    <kwic> brook_trout</kwic>
+    <right>.these species are a potential threat to the</right>
+  </line>
+  <line refs="doc#303" num="312" label="_">
+    <left>. it contains a wild fishery for quality-sized</left>
+    <kwic> brook_trout</kwic>
+    <right> and is one of maine's 12 endemic landlocked</right>
+  </line>
+  <line refs="doc#303" num="313" label="_">
+    <left>1) and supports an important sport fishery for</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis). brook_trout are a</right>
+  </line>
+  <line refs="doc#303" num="314" label="_">
+    <left>for brook_trout (salvelinus_fontinalis).</left>
+    <kwic> brook_trout</kwic>
+    <right> are a native fish to the drainage. a stocking</right>
+  </line>
+  <line refs="doc#303" num="315" label="_">
+    <left>mountain pond, somerset county. the pond's</left>
+    <kwic> brook_trout</kwic>
+    <right> fishery has been monitored by periodic gill net</right>
+  </line>
+  <line refs="doc#303" num="316" label="_">
+    <left>of 23 to 42 feet of water and collected 9 smelts.</left>
+    <kwic> brook_trout</kwic>
+    <right> were also targeted to examine their stomach</right>
+  </line>
+  <line refs="doc#303" num="317" label="_">
+    <left>mid-september and early october, however only</left>
+    <kwic> brook_trout</kwic>
+    <right> and non-target species were captured. after</right>
+  </line>
+  <line refs="doc#303" num="318" label="_">
+    <left>with radio tags. other fish caught included</left>
+    <kwic> brook_trout</kwic>
+    <right>, rainbow smelt, redbreast sunfish, white</right>
+  </line>
+  <line refs="doc#303" num="319" label="_">
+    <left>on this same date, smelt found in the contents of</left>
+    <kwic> brook_trout</kwic>
+    <right> stomachs ranged from 2.4 to 5.4 inches in length</right>
+  </line>
+  <line refs="doc#303" num="320" label="_">
+    <left>for chr thermocline &lt; 4 ppm do - too low for chr</left>
+    <kwic> brook_trout</kwic>
+    <right>: while not the targeted species of this project</right>
+  </line>
+  <line refs="doc#303" num="321" label="_">
+    <left>targeted species of this project, a number of</left>
+    <kwic> brook_trout</kwic>
+    <right> were collected as bycatch from bald mountain</right>
+  </line>
+  <line refs="doc#303" num="322" label="_">
+    <left>a mean condition factor of 0.970. in 2015, 169</left>
+    <kwic> brook_trout</kwic>
+    <right> were handled in efforts to capture charr.</right>
+  </line>
+  <line refs="doc#303" num="323" label="_">
+    <left>concern within the pond. samples of 20</left>
+    <kwic> brook_trout</kwic>
+    <right> and 46 smelts were collected for if&amp;w's</right>
+  </line>
+  <line refs="doc#312" num="324" label="_">
+    <left>in atnsjø may be analogous to that of juvenile</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) and slimy sculpin (</right>
+  </line>
+  <line refs="doc#314" num="325" label="_">
+    <left>fisherman seek to catch each season. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; brown_trout &lt;/p&gt; &lt;p&gt; rainbow trout</right>
+  </line>
+  <line refs="doc#320" num="326" label="_">
+    <left>&lt;p&gt; o'connor, j.f. &amp; g. power. 1973. homing of</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) in matamek lake,</right>
+  </line>
+  <line refs="doc#328" num="327" label="_">
+    <left>mediated avoidance behaviour in wild</left>
+    <kwic> brook_trout</kwic>
+    <right>: the response to familiar and unfamiliar</right>
+  </line>
+  <line refs="doc#330" num="328" label="_">
+    <left>, k. d. &amp; r. j. white, 1981. competition between</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) and brown_trout (</right>
+  </line>
+  <line refs="doc#338" num="329" label="_">
+    <left>pe) 30 cm sterlet (acipenser ruthenus) (j) 30 cm</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) (si) 25 cm carp (</right>
+  </line>
+  <line refs="doc#339" num="330" label="_">
+    <left>rainbow trout which had displaced the native</left>
+    <kwic> brook_trout</kwic>
+    <right>, before relocating the indigenous species</right>
+  </line>
+  <line refs="doc#342" num="331" label="_">
+    <left>activity rates for actively foraging juvenile</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis). can. j. fish. aquat</right>
+  </line>
+  <line refs="doc#342" num="332" label="_">
+    <left>, j.b. 2009. shifts in the trophic ecology of</left>
+    <kwic> brook_trout</kwic>
+    <right> resulting from interactions with yellow perch</right>
+  </line>
+  <line refs="doc#344" num="333" label="_">
+    <left>to: anglersmail@ti-media.com &lt;/p&gt; &lt;p&gt; the</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) is a species of</right>
+  </line>
+  <line refs="doc#344" num="334" label="_">
+    <left>of its range, it is also known as the eastern</left>
+    <kwic> brook_trout</kwic>
+    <right>, speckled trout, brook charr, squaretail, or</right>
+  </line>
+  <line refs="doc#344" num="335" label="_">
+    <left>as coaster trout or, simply, as coasters. the</left>
+    <kwic> brook_trout</kwic>
+    <right> is the state fish of nine u.s. states: michigan,</right>
+  </line>
+  <line refs="doc#344" num="336" label="_">
+    <left>fish of nova scotia in canada. &lt;/p&gt; &lt;p&gt; the</left>
+    <kwic> brook_trout</kwic>
+    <right> was first scientifically described as salmo</right>
+  </line>
+  <line refs="doc#344" num="337" label="_">
+    <left>. though commonly called a trout, the</left>
+    <kwic> brook_trout</kwic>
+    <right> is thus actually one of the chars, which in north</right>
+  </line>
+  <line refs="doc#344" num="338" label="_">
+    <left>recognized systematic substructure in the</left>
+    <kwic> brook_trout</kwic>
+    <right>, but two subspecies have been proposed. on the</right>
+  </line>
+  <line refs="doc#344" num="339" label="_">
+    <left>robert j. behnke as a highly specialized form of</left>
+    <kwic> brook_trout</kwic>
+    <right>.[6] &lt;/p&gt; &lt;p&gt; robert j. behnke describes three</right>
+  </line>
+  <line refs="doc#344" num="340" label="_">
+    <left>behnke describes three ecological forms of the</left>
+    <kwic> brook_trout</kwic>
+    <right>.[7] a large lake form evolved in the larger</right>
+  </line>
+  <line refs="doc#344" num="341" label="_">
+    <left>splake is an intrageneric hybrid between the</left>
+    <kwic> brook_trout</kwic>
+    <right> and lake_trout (s. namaycush). although</right>
+  </line>
+  <line refs="doc#344" num="342" label="_">
+    <left>in substantial numbers for stocking into</left>
+    <kwic> brook_trout</kwic>
+    <right> or lake_trout habitats.[10] although they are</right>
+  </line>
+  <line refs="doc#344" num="343" label="_">
+    <left>occurs. splake grow more quickly than</left>
+    <kwic> brook_trout</kwic>
+    <right> and become piscivorous sooner and are more</right>
+  </line>
+  <line refs="doc#344" num="344" label="_">
+    <left>and are more tolerant of competitors than</left>
+    <kwic> brook_trout</kwic>
+    <right>.[11] &lt;/p&gt; &lt;p&gt; the tiger trout is an</right>
+  </line>
+  <line refs="doc#344" num="345" label="_">
+    <left>trout is an intergeneric hybrid between the</left>
+    <kwic> brook_trout</kwic>
+    <right> and the eurasian brown_trout (salmo_trutta).</right>
+  </line>
+  <line refs="doc#344" num="346" label="_">
+    <left>char is an intrageneric hybrid between the</left>
+    <kwic> brook_trout</kwic>
+    <right> and the arctic char (s. alpinus).[13] &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#344" num="347" label="_">
+    <left>the arctic char (s. alpinus).[13] &lt;/p&gt; &lt;p&gt; the</left>
+    <kwic> brook_trout</kwic>
+    <right> has a dark green to brown color, with a</right>
+  </line>
+  <line refs="doc#344" num="348" label="_">
+    <left>needed] &lt;/p&gt; &lt;p&gt; typical lengths of the</left>
+    <kwic> brook_trout</kwic>
+    <right> vary from 25 to 65 cm (9.8 to 25.6 in), and weights</right>
+  </line>
+  <line refs="doc#344" num="349" label="_">
+    <left>is 86 cm (34 in) and maximum weight 6.6 kg (15 lb).</left>
+    <kwic> brook_trout</kwic>
+    <right> can reach at least seven years of age, with</right>
+  </line>
+  <line refs="doc#344" num="350" label="_">
+    <left>] &lt;/p&gt; &lt;p&gt; u.s. native and introduced ranges of</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis)[15] &lt;/p&gt; &lt;p&gt; native</right>
+  </line>
+  <line refs="doc#344" num="351" label="_">
+    <left>)[15] &lt;/p&gt; &lt;p&gt; native appalachian</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; brook_trout are native to a wide area of</right>
+  </line>
+  <line refs="doc#344" num="352" label="_">
+    <left>&lt;p&gt; native appalachian brook_trout &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> are native to a wide area of eastern north</right>
+  </line>
+  <line refs="doc#344" num="353" label="_">
+    <left>of brown and rainbow trout. as early as 1850, the</left>
+    <kwic> brook_trout's</kwic>
+    <right> range started to extend west from its native</right>
+  </line>
+  <line refs="doc#344" num="354" label="_">
+    <left>its native range through introductions. the</left>
+    <kwic> brook_trout</kwic>
+    <right> was eventually introduced into suitable</right>
+  </line>
+  <line refs="doc#344" num="355" label="_">
+    <left>europe, south america, and oceania resulted in</left>
+    <kwic> brook_trout</kwic>
+    <right> introductions throughout europe,[13] in</right>
+  </line>
+  <line refs="doc#344" num="356" label="_">
+    <left>wild, self-sustaining populations of</left>
+    <kwic> brook_trout</kwic>
+    <right> in non-native waters. &lt;/p&gt; &lt;p&gt; the brook_trout</right>
+  </line>
+  <line refs="doc#344" num="357" label="_">
+    <left>brook_trout in non-native waters. &lt;/p&gt; &lt;p&gt; the</left>
+    <kwic> brook_trout</kwic>
+    <right> inhabits large and small lakes, rivers,</right>
+  </line>
+  <line refs="doc#344" num="358" label="_">
+    <left>such as acid rain. the typical ph range of</left>
+    <kwic> brook_trout</kwic>
+    <right> waters is 5.0 to 7.5, with ph extremes of 3.5 to</right>
+  </line>
+  <line refs="doc#344" num="359" label="_">
+    <left>and low flow rates are stressful on</left>
+    <kwic> brook_trout</kwic>
+    <right> populations–especially larger fish.[20]</right>
+  </line>
+  <line refs="doc#344" num="360" label="_">
+    <left>.[20] &lt;/p&gt; &lt;p&gt; a potamodromous population of</left>
+    <kwic> brook_trout</kwic>
+    <right> native to lake superior, which migrate into</right>
+  </line>
+  <line refs="doc#344" num="361" label="_">
+    <left>tend to be larger than most other populations of</left>
+    <kwic> brook_trout</kwic>
+    <right>, often reaching 6 to 7 lb (2.7 to 3.2 kg) in size.[</right>
+  </line>
+  <line refs="doc#344" num="362" label="_">
+    <left>north america, semianadromous or sea-run</left>
+    <kwic> brook_trout</kwic>
+    <right>, commonly called &quot;salters&quot;, ranged from</right>
+  </line>
+  <line refs="doc#344" num="363" label="_">
+    <left>returning to fresh water, they assume typical</left>
+    <kwic> brook_trout</kwic>
+    <right> color and markings.[22] &lt;/p&gt; &lt;p&gt; the female</right>
+  </line>
+  <line refs="doc#344" num="364" label="_">
+    <left>in 95 to 100 days.[citation needed] &lt;/p&gt; &lt;p&gt; the</left>
+    <kwic> brook_trout</kwic>
+    <right> is a popular game fish with anglers,</right>
+  </line>
+  <line refs="doc#344" num="365" label="_">
+    <left>a trout&quot;, 1854 - depicts fishermen catching a</left>
+    <kwic> brook_trout</kwic>
+    <right> near south haven church in a mill pond on carmans</right>
+  </line>
+  <line refs="doc#344" num="366" label="_">
+    <left>angler, caught a large (about 14.5 lb (6.6 kg))</left>
+    <kwic> brook_trout</kwic>
+    <right> at the location in 1823 (or 1827).[25] &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#344" num="367" label="_">
+    <left>(1883) and rainbow trout (1875), the</left>
+    <kwic> brook_trout</kwic>
+    <right> attracted the most attention of anglers from</right>
+  </line>
+  <line refs="doc#344" num="368" label="_">
+    <left>(1873) produced guides to the best-known</left>
+    <kwic> brook_trout</kwic>
+    <right> waters in america.[27] as brook_trout</right>
+  </line>
+  <line refs="doc#344" num="369" label="_">
+    <left>brook_trout waters in america.[27] as</left>
+    <kwic> brook_trout</kwic>
+    <right> populations declined in the mid-19th century</right>
+  </line>
+  <line refs="doc#344" num="370" label="_">
+    <left>and the rangeley lakes region in maine to pursue</left>
+    <kwic> brook_trout</kwic>
+    <right>.[27] in july, 1916 on the nipigon river in</right>
+  </line>
+  <line refs="doc#344" num="371" label="_">
+    <left>, john w. cook, caught a 14.5 lb (6.6 kg)</left>
+    <kwic> brook_trout</kwic>
+    <right> which stands as the world record.[28] &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#344" num="372" label="_">
+    <left>quality standards sufficient to protect the</left>
+    <kwic> brook_trout</kwic>
+    <right>. revenues derived from the sale of fishing</right>
+  </line>
+  <line refs="doc#344" num="373" label="_">
+    <left>restore many sections of creeks and streams to</left>
+    <kwic> brook_trout</kwic>
+    <right> habitat.[29] &lt;/p&gt; &lt;p&gt; the current world</right>
+  </line>
+  <line refs="doc#344" num="374" label="_">
+    <left>.[29] &lt;/p&gt; &lt;p&gt; the current world angling record</left>
+    <kwic> brook_trout</kwic>
+    <right> was caught by dr. w. j. cook on the nipigon river,</right>
+  </line>
+  <line refs="doc#344" num="375" label="_">
+    <left>bush without refrigeration.[30] a 29 in (74 cm)</left>
+    <kwic> brook_trout</kwic>
+    <right>, caught in october 2006 in manitoba, is not</right>
+  </line>
+  <line refs="doc#344" num="376" label="_">
+    <left>, and it currently stands as the record</left>
+    <kwic> brook_trout</kwic>
+    <right> for manitoba.[32] &lt;/p&gt; &lt;p&gt; brook_trout are</right>
+  </line>
+  <line refs="doc#344" num="377" label="_">
+    <left>record brook_trout for manitoba.[32] &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> are also commercially raised in large numbers</right>
+  </line>
+  <line refs="doc#344" num="378" label="_">
+    <left>a variety of aquatic and insect life forms, the</left>
+    <kwic> brook_trout</kwic>
+    <right> is also used for scientific experimentation in</right>
+  </line>
+  <line refs="doc#344" num="379" label="_">
+    <left>waters.[citation needed] &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> are also raised commercially and sold to</right>
+  </line>
+  <line refs="doc#344" num="380" label="_">
+    <left>or pond and buy the fish that they catch. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> are not commonly raised on a commercial scale</right>
+  </line>
+  <line refs="doc#344" num="381" label="_">
+    <left>not grow as fast as other types of fish. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> raised commercially are often kept in large</right>
+  </line>
+  <line refs="doc#344" num="382" label="_">
+    <left>is often sourced from soy beans.[35] &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> populations depend on cold, clear,</right>
+  </line>
+  <line refs="doc#344" num="383" label="_">
+    <left>. as early as the late 19th century, native</left>
+    <kwic> brook_trout</kwic>
+    <right> in north america became extirpated from many</right>
+  </line>
+  <line refs="doc#344" num="384" label="_">
+    <left>or silted up often became too warm to hold native</left>
+    <kwic> brook_trout</kwic>
+    <right>, and were colonized by transplanted</right>
+  </line>
+  <line refs="doc#344" num="385" label="_">
+    <left>not native to north america, has replaced the</left>
+    <kwic> brook_trout</kwic>
+    <right> in much of the brook_trout's native water.</right>
+  </line>
+  <line refs="doc#344" num="386" label="_">
+    <left>, has replaced the brook_trout in much of the</left>
+    <kwic> brook_trout's</kwic>
+    <right> native water. brook_trout populations, if</right>
+  </line>
+  <line refs="doc#344" num="387" label="_">
+    <left>in much of the brook_trout's native water.</left>
+    <kwic> brook_trout</kwic>
+    <right> populations, if already stressed by</right>
+  </line>
+  <line refs="doc#344" num="388" label="_">
+    <left>species. many lacustrine populations of</left>
+    <kwic> brook_trout</kwic>
+    <right> have been extirpated by the introduction of</right>
+  </line>
+  <line refs="doc#344" num="389" label="_">
+    <left>a significant factor in the disappearance of</left>
+    <kwic> brook_trout</kwic>
+    <right> from their native habitats. in the u.s., acid</right>
+  </line>
+  <line refs="doc#344" num="390" label="_">
+    <left>has resulted in ph levels too low to sustain</left>
+    <kwic> brook_trout</kwic>
+    <right> in all but the highest headwaters of some</right>
+  </line>
+  <line refs="doc#344" num="391" label="_">
+    <left>of some appalachian streams and creeks.[37]</left>
+    <kwic> brook_trout</kwic>
+    <right> populations across large parts of eastern</right>
+  </line>
+  <line refs="doc#344" num="392" label="_">
+    <left>of the range, efforts are underway to restore</left>
+    <kwic> brook_trout</kwic>
+    <right> to those waters that once held native</right>
+  </line>
+  <line refs="doc#344" num="393" label="_">
+    <left>no longer be recovered sufficiently to sustain</left>
+    <kwic> brook_trout</kwic>
+    <right> populations.[citation needed] &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#344" num="394" label="_">
+    <left>such as the southern appalachian</left>
+    <kwic> brook_trout</kwic>
+    <right> foundation,[39] the eastern brook_trout</right>
+  </line>
+  <line refs="doc#344" num="395" label="_">
+    <left>brook_trout foundation,[39] the eastern</left>
+    <kwic> brook_trout</kwic>
+    <right> joint venture,[40] and state, provincial, and</right>
+  </line>
+  <line refs="doc#344" num="396" label="_">
+    <left>to undertake projects that restore native</left>
+    <kwic> brook_trout</kwic>
+    <right> habitat and populations.[citation needed]</right>
+  </line>
+  <line refs="doc#344" num="397" label="_">
+    <left>.[citation needed] &lt;/p&gt; &lt;p&gt; although</left>
+    <kwic> brook_trout</kwic>
+    <right> populations are under stress in their native</right>
+  </line>
+  <line refs="doc#344" num="398" label="_">
+    <left>] in the northern rocky mountains, non-native</left>
+    <kwic> brook_trout</kwic>
+    <right> are considered a significant contributor to</right>
+  </line>
+  <line refs="doc#344" num="399" label="_">
+    <left>clarki) in headwater streams.[44] non-native</left>
+    <kwic> brook_trout</kwic>
+    <right> populations have been subject to eradication</right>
+  </line>
+  <line refs="doc#344" num="400" label="_">
+    <left>may take an unlimited number of non-native</left>
+    <kwic> brook_trout</kwic>
+    <right> in some drainages. in the lamar river drainage,</right>
+  </line>
+  <line refs="doc#344" num="401" label="_">
+    <left>drainage, a mandatory kill regulation for any</left>
+    <kwic> brook_trout</kwic>
+    <right> caught is in effect.[47] in europe, introduced</right>
+  </line>
+  <line refs="doc#344" num="402" label="_">
+    <left>caught is in effect.[47] in europe, introduced</left>
+    <kwic> brook_trout</kwic>
+    <right>, once established, have had negative impacts</right>
+  </line>
+  <line refs="doc#344" num="403" label="_">
+    <left>).[13] &lt;/p&gt; &lt;p&gt; ^ behnke, robert j. (2002). &quot;</left>
+    <kwic>brook_trout</kwic>
+    <right> salvelinus_fontinalis&quot;. trout and salmon of</right>
+  </line>
+  <line refs="doc#344" num="404" label="_">
+    <left>0-7432-2220-2. &lt;/p&gt; &lt;p&gt; ^ a b behnke, robert j. &quot;</left>
+    <kwic>brook_trout</kwic>
+    <right>&quot;. about trout-the best of robert j. behnke from</right>
+  </line>
+  <line refs="doc#344" num="405" label="_">
+    <left>influence of water temperature on</left>
+    <kwic> brook_trout</kwic>
+    <right> growth rates in the field&quot;. freshwater biology</right>
+  </line>
+  <line refs="doc#344" num="406" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; ^ karas, nick (2002). &quot;expansion of the</left>
+    <kwic> brook_trout's</kwic>
+    <right> range within the united states&quot;. brook_trout:</right>
+  </line>
+  <line refs="doc#344" num="407" label="_">
+    <left>range within the united states&quot;.</left>
+    <kwic> brook_trout</kwic>
+    <right>: a thorough look at north america's great</right>
+  </line>
+  <line refs="doc#344" num="408" label="_">
+    <left>k. h. (june 2010). &quot;size-dependent survival of</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis in summer: effects of</right>
+  </line>
+  <line refs="doc#344" num="409" label="_">
+    <left>a b karas, nick (2002). &quot;salters and coasters&quot;.</left>
+    <kwic> brook_trout</kwic>
+    <right>: a thorough look at north america's great</right>
+  </line>
+  <line refs="doc#344" num="410" label="_">
+    <left>s. (mar 1999). &quot;the cost of peripheral males in a</left>
+    <kwic> brook_trout</kwic>
+    <right> mating system&quot;. animal behaviour. 57 (3): 537–</right>
+  </line>
+  <line refs="doc#344" num="411" label="_">
+    <left>2002). &quot;daniel webster and his &quot;devil trout&quot;&quot;.</left>
+    <kwic> brook_trout</kwic>
+    <right>: a thorough look at north america's great</right>
+  </line>
+  <line refs="doc#344" num="412" label="_">
+    <left>. &quot;dr. john william cook and his &quot;devil trout&quot;&quot;.</left>
+    <kwic> brook_trout</kwic>
+    <right>: a thorough look at north america's great</right>
+  </line>
+  <line refs="doc#344" num="413" label="_">
+    <left>&amp; company, inc. &lt;/p&gt; &lt;p&gt; karas, nick (2002).</left>
+    <kwic> brook_trout</kwic>
+    <right>: a thorough look at north america's great</right>
+  </line>
+  <line refs="doc#344" num="414" label="_">
+    <left>, mortimer (1938). a syllabus of angling for the</left>
+    <kwic> brook_trout</kwic>
+    <right>: an ideal reference book for trips to lake and</right>
+  </line>
+  <line refs="doc#344" num="415" label="_">
+    <left>(winter 1981). &quot;daniel webster and the great</left>
+    <kwic> brook_trout</kwic>
+    <right>&quot; (pdf). the american fly fisher. american</right>
+  </line>
+  <line refs="doc#349" num="416" label="_">
+    <left>ocean. of the seven species introduced, only</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis, and brown_trout</right>
+  </line>
+  <line refs="doc#349" num="417" label="_">
+    <left>example is the tiger trout, a hybrid with the</left>
+    <kwic> brook_trout</kwic>
+    <right>. &lt;/p&gt; &lt;p&gt; field studies have demonstrated that</right>
+  </line>
+  <line refs="doc#350" num="418" label="_">
+    <left>ocean. of the seven species introduced, only</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis, and brown_trout</right>
+  </line>
+  <line refs="doc#350" num="419" label="_">
+    <left>example is the tiger trout, a hybrid with the</left>
+    <kwic> brook_trout</kwic>
+    <right>. &lt;/p&gt; &lt;p&gt; diet &lt;/p&gt; &lt;p&gt; field studies have</right>
+  </line>
+  <line refs="doc#350" num="420" label="_">
+    <left>fishery, with observed species including</left>
+    <kwic> brook_trout</kwic>
+    <right>, rainbow trout, brown_trout, and brown</right>
+  </line>
+  <line refs="doc#350" num="421" label="_">
+    <left>fishery, with observed species including</left>
+    <kwic> brook_trout</kwic>
+    <right>, brown_trout, and smallmouth bass. &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#350" num="422" label="_">
+    <left>–coho salmon (oncorhynchus_kisutch),</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), arctic char (</right>
+  </line>
+  <line refs="doc#350" num="423" label="_">
+    <left>fishery, with observed species including</left>
+    <kwic> brook_trout</kwic>
+    <right>, rainbow trout, brown_trout, smallmouth bass</right>
+  </line>
+  <line refs="doc#380" num="424" label="_">
+    <left>salmon (salmo_salar linneaus, 1758) and</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis (mitchill, 1814))</right>
+  </line>
+  <line refs="doc#380" num="425" label="_">
+    <left>intraspecific comparisons (collected for</left>
+    <kwic> brook_trout</kwic>
+    <right> only) in only one of the three time periods</right>
+  </line>
+  <line refs="doc#380" num="426" label="_">
+    <left>the intraspecific comparisons (0.12 – 0.38) in</left>
+    <kwic> brook_trout</kwic>
+    <right> involved samples from different streams (</right>
+  </line>
+  <line refs="doc#380" num="427" label="_">
+    <left>of bonneville cutthroat trout and nonnative</left>
+    <kwic> brook_trout</kwic>
+    <right> in beaver creek, idaho. n. am. j. fish. manage.</right>
+  </line>
+  <line refs="doc#380" num="428" label="_">
+    <left>between coexisting atlantic salmon and</left>
+    <kwic> brook_trout</kwic>
+    <right> in the sainte-marguerite river ecosystem,</right>
+  </line>
+  <line refs="doc#388" num="429" label="_">
+    <left>game fish brown_trout landlocked salmon</left>
+    <kwic> brook_trout</kwic>
+    <right> togue arctic charr splake lake whitefish</right>
+  </line>
+  <line refs="doc#388" num="430" label="_">
+    <left>name: salmo_trutta common name: eastern</left>
+    <kwic> brook_trout</kwic>
+    <right> other names: squaretail, brookie, speckled</right>
+  </line>
+  <line refs="doc#388" num="431" label="_">
+    <left>. the statewide average length of 3-year-old</left>
+    <kwic> brook_trout</kwic>
+    <right> in maine lakes is 13.3 inches. however,</right>
+  </line>
+  <line refs="doc#388" num="432" label="_">
+    <left>: color is variable, depending on habitat.</left>
+    <kwic> brook_trout</kwic>
+    <right> can be distinguished from other members of the</right>
+  </line>
+  <line refs="doc#388" num="433" label="_">
+    <left>grayish brown. they are closely related to the</left>
+    <kwic> brook_trout</kwic>
+    <right>, but lack the bright coloration and can be</right>
+  </line>
+  <line refs="doc#388" num="434" label="_">
+    <left>have been caught. identification: splake and</left>
+    <kwic> brook_trout</kwic>
+    <right> have very similar coloration patterns, making</right>
+  </line>
+  <line refs="doc#388" num="435" label="_">
+    <left>passed down from its lake_trout parent; while</left>
+    <kwic> brook_trout</kwic>
+    <right> tend to have no fork or &quot;square&quot; tails. common</right>
+  </line>
+  <line refs="doc#402" num="436" label="_">
+    <left>salmoides), northern pike (esox lucius),</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), rainbow trout (</right>
+  </line>
+  <line refs="doc#409" num="437" label="_">
+    <left>being released into the lake every year from a</left>
+    <kwic> brook_trout</kwic>
+    <right> (s. fontinalis) in-lake farm established on</right>
+  </line>
+  <line refs="doc#412" num="438" label="_">
+    <left>grayling atlantic salmon broad whitefish</left>
+    <kwic> brook_trout</kwic>
+    <right> brown_trout carp channel catfish chinook</right>
+  </line>
+  <line refs="doc#412" num="439" label="_">
+    <left>the pond supports populations of brown_trout,</left>
+    <kwic> brook_trout</kwic>
+    <right>, and american eel. the intake is proposed to be</right>
+  </line>
+  <line refs="doc#412" num="440" label="_">
+    <left>the fish swimming mode is found from table 1.</left>
+    <kwic> brook_trout</kwic>
+    <right> and brown_trout are listed as subcarangiform</right>
+  </line>
+  <line refs="doc#418" num="441" label="_">
+    <left>webs allan j.d. (1981) determinants of diet of</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) in mountain stream.</right>
+  </line>
+  <line refs="doc#418" num="442" label="_">
+    <left>lahontan cutthroat trout and nonnative</left>
+    <kwic> brook_trout</kwic>
+    <right>: implications for species interactions.</right>
+  </line>
+  <line refs="doc#418" num="443" label="_">
+    <left>w.a. &amp; rhodes h.a. (1989) food selection by</left>
+    <kwic> brook_trout</kwic>
+    <right> in a subalpine stream. hydrobiologia, 178, 225</right>
+  </line>
+  <line refs="doc#433" num="444" label="_">
+    <left>) s 8-12 8-11 4-6 weeks pre-spawn</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) s 8-12 &lt;11 4-6 weeks</right>
+  </line>
+  <line refs="doc#436" num="445" label="_">
+    <left>trout oncorhynchus_mykiss (walbaum) and</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis (mitchill) have</right>
+  </line>
+  <line refs="doc#438" num="446" label="_">
+    <left>places as it can out-compete local species like</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis). &lt;/p&gt; &lt;p&gt; sea_trout</right>
+  </line>
+  <line refs="doc#439" num="447" label="_">
+    <left>trout), the cutthroat trout (s. clarki), and</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis). &lt;/p&gt; &lt;p&gt; the target</right>
+  </line>
+  <line refs="doc#439" num="448" label="_">
+    <left>trout, kamloops trout, cutthroat trout, and</left>
+    <kwic> brook_trout</kwic>
+    <right> were treated with various concentrations of 2,</right>
+  </line>
+  <line refs="doc#439" num="449" label="_">
+    <left>kokanee, kamloops trout, cutthroat trout, and</left>
+    <kwic> brook_trout</kwic>
+    <right> were treated with various concentrations of 2,</right>
+  </line>
+  <line refs="doc#439" num="450" label="_">
+    <left>. &lt;/p&gt; &lt;p&gt; between 0.3 and greater than 6 mg/l for</left>
+    <kwic> brook_trout</kwic>
+    <right> at 15 c. &lt;/p&gt; &lt;p&gt; according to our data using</right>
+  </line>
+  <line refs="doc#439" num="451" label="_">
+    <left>c. &lt;/p&gt; &lt;p&gt; between 2 and greater than 6 mg/l for</left>
+    <kwic> brook_trout</kwic>
+    <right> at 15 c. &lt;/p&gt; &lt;p&gt; according to our data using</right>
+  </line>
+  <line refs="doc#439" num="452" label="_">
+    <left>at 15 c. &lt;/p&gt; &lt;p&gt; between 10 and 30 μg/l for</left>
+    <kwic> brook_trout</kwic>
+    <right> at 15 c. &lt;/p&gt; &lt;p&gt; between 10 and greater than 30 μg</right>
+  </line>
+  <line refs="doc#439" num="453" label="_">
+    <left>at 15 c., &lt;/p&gt; &lt;p&gt; between 13 and 30 μg/l for</left>
+    <kwic> brook_trout</kwic>
+    <right> at 15 c. &lt;/p&gt; &lt;p&gt; between 13 and greater than 30 μg</right>
+  </line>
+  <line refs="doc#439" num="454" label="_">
+    <left>, steelhead, kamloops trout, cutthroat trout,</left>
+    <kwic> brook_trout</kwic>
+    <right> and arctic grayling, said method comprising:</right>
+  </line>
+  <line refs="doc#441" num="455" label="_">
+    <left>al., 2001). slimy sculpins avoided areas where</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis (mitchill) were big</right>
+  </line>
+  <line refs="doc#442" num="456" label="_">
+    <left>behaviour and use of cover by youngof-the-year</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis. canadian journal of</right>
+  </line>
+  <line refs="doc#449" num="457" label="_">
+    <left>. tributary date rainbow trout brown_trout</left>
+    <kwic> brook_trout</kwic>
+    <right> duck brook 8/26 56.3 ± 7.4 n = 88 66.8 ± 8.6 n=8 ---</right>
+  </line>
+  <line refs="doc#449" num="458" label="_">
+    <left>– rbt = rainbow trout bnt = brown_trout bkt =</left>
+    <kwic> brook_trout</kwic>
+    <right> lls = landlocked atlantic salmon class – size/</right>
+  </line>
+  <line refs="doc#450" num="459" label="_">
+    <left>sampled with the majority of those being</left>
+    <kwic> brook_trout</kwic>
+    <right> (49 %) (figure 5). figure 6 illustrates the</right>
+  </line>
+  <line refs="doc#450" num="460" label="_">
+    <left>– rbt = rainbow trout bnt = brown_trout bkt =</left>
+    <kwic> brook_trout</kwic>
+    <right> lls = landlocked atlantic salmon class – size/</right>
+  </line>
+  <line refs="doc#452" num="461" label="_">
+    <left>radiosus (miller and pister 1971), wild</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis (boucher 2003), and</right>
+  </line>
+  <line refs="doc#456" num="462" label="_">
+    <left>salmonids, atlantic salmon salmo_salar and</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus fontinatlis, within eastern</right>
+  </line>
+  <line refs="doc#456" num="463" label="_">
+    <left>competitive interactions between rainbow and</left>
+    <kwic> brook_trout</kwic>
+    <right>. rainbow trout drive nongame fishes such as</right>
+  </line>
+  <line refs="doc#456" num="464" label="_">
+    <left>competitive dominance of rainbow trout over</left>
+    <kwic> brook_trout</kwic>
+    <right> in southern appalachian streams:</right>
+  </line>
+  <line refs="doc#457" num="465" label="_">
+    <left>looking at the effects of brown_trout on</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis including nyman (1970</right>
+  </line>
+  <line refs="doc#457" num="466" label="_">
+    <left>adult brown_trout displaced adult native</left>
+    <kwic> brook_trout</kwic>
+    <right> from the best habitats in a michigan stream, and</right>
+  </line>
+  <line refs="doc#457" num="467" label="_">
+    <left>stream, and in the northeast in general.</left>
+    <kwic> brook_trout</kwic>
+    <right> are also more susceptible to angling and</right>
+  </line>
+  <line refs="doc#457" num="468" label="_">
+    <left>angling and predation. conversely, juvenile</left>
+    <kwic> brook_trout</kwic>
+    <right> are dominant over juvenile brown_trout of the</right>
+  </line>
+  <line refs="doc#457" num="469" label="_">
+    <left>models to examine the distribution of brown and</left>
+    <kwic> brook_trout</kwic>
+    <right> in pennsylvania streams, and found that</right>
+  </line>
+  <line refs="doc#457" num="470" label="_">
+    <left>, and found that predicted occurrence of</left>
+    <kwic> brook_trout</kwic>
+    <right> was lower in the presence of brown_trout across</right>
+  </line>
+  <line refs="doc#457" num="471" label="_">
+    <left>that stocking intensity of brown_trout into</left>
+    <kwic> brook_trout</kwic>
+    <right> habitat was a major factor in brook_trout</right>
+  </line>
+  <line refs="doc#457" num="472" label="_">
+    <left>into brook_trout habitat was a major factor in</left>
+    <kwic> brook_trout</kwic>
+    <right> abundance, moreso than habitat differences or</right>
+  </line>
+  <line refs="doc#457" num="473" label="_">
+    <left>. wilzbach. 1992. interactions between native</left>
+    <kwic> brook_trout</kwic>
+    <right> and hatchery brown_trout: effects on habitat</right>
+  </line>
+  <line refs="doc#457" num="474" label="_">
+    <left>.d., and r.j. white. 1981. competition between</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) and brown_trout (</right>
+  </line>
+  <line refs="doc#457" num="475" label="_">
+    <left>. competition among juveniles of coho salmon,</left>
+    <kwic> brook_trout</kwic>
+    <right>, and brown_trout in a laboratory stream, and</right>
+  </line>
+  <line refs="doc#457" num="476" label="_">
+    <left>interactions between sympatric brown and</left>
+    <kwic> brook_trout</kwic>
+    <right> may contribute to species replacement.</right>
+  </line>
+  <line refs="doc#457" num="477" label="_">
+    <left>k.m. clifford. 2013. broad-scale patterns of</left>
+    <kwic> brook_trout</kwic>
+    <right> responses to introduced brown_trout in new</right>
+  </line>
+  <line refs="doc#457" num="478" label="_">
+    <left>of brown_trout (salmo_trutta) l., and</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) (mitchill), in a</right>
+  </line>
+  <line refs="doc#457" num="479" label="_">
+    <left>interactions between brown_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> using two-species occupancy models.</right>
+  </line>
+  <line refs="doc#457" num="480" label="_">
+    <left>). &lt;/p&gt; &lt;p&gt; waters, t.f. 1983. replacement of</left>
+    <kwic> brook_trout</kwic>
+    <right> by brown_trout over 15 years in a minnesota</right>
+  </line>
+  <line refs="doc#460" num="481" label="_">
+    <left>host american eel (anguilla rostrata),</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), lake_trout (s.</right>
+  </line>
+  <line refs="doc#470" num="482" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; term &lt;/p&gt; &lt;p&gt; trout &amp; salmon family</left>
+    <kwic> brook_trout</kwic>
+    <right> species fresh/marine native/introduced &lt;/p&gt;</right>
+  </line>
+  <line refs="doc#470" num="483" label="_">
+    <left>&lt;p&gt; definition &lt;/p&gt; &lt;p&gt; salmon &amp; trout family</left>
+    <kwic> brook_trout</kwic>
+    <right> salmonidae salvelinus_fontinalis</right>
+  </line>
+  <line refs="doc#470" num="484" label="_">
+    <left>&lt;p&gt; definition &lt;/p&gt; &lt;p&gt; salmon &amp; trout family</left>
+    <kwic> brook_trout</kwic>
+    <right> salmonidae salvelinus_fontinalis</right>
+  </line>
+  <line refs="doc#472" num="485" label="_">
+    <left>) &lt;/p&gt; &lt;p&gt; brown_trout (salmo_trutta) &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) &lt;/p&gt; &lt;p&gt; lake_trout</right>
+  </line>
+  <line refs="doc#473" num="486" label="_">
+    <left>, square-tail, speckled ttrout, eastern</left>
+    <kwic> brook_trout</kwic>
+    <right>, sea_trout, redspotted trout, mud trout,</right>
+  </line>
+  <line refs="doc#481" num="487" label="_">
+    <left>and offer a good variety of fish : rainbows,</left>
+    <kwic> brook_trout</kwic>
+    <right>, kokanee, laketrout, burbot. ice fishing</right>
+  </line>
+  <line refs="doc#482" num="488" label="_">
+    <left>and offer a good variety of fish : rainbows,</left>
+    <kwic> brook_trout</kwic>
+    <right>, kokanee, laketrout, burbot. ice fishing</right>
+  </line>
+  <line refs="doc#487" num="489" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; predation/competition with native</left>
+    <kwic> brook_trout</kwic>
+    <right> and rainbow trout has become a management</right>
+  </line>
+  <line refs="doc#487" num="490" label="_">
+    <left>, eradication programs initiated &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; native char in eastern u.s., some &quot;</right>
+  </line>
+  <line refs="doc#487" num="491" label="_">
+    <left>char in eastern u.s., some &quot;salters&quot; &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; best suited to pristine streams</right>
+  </line>
+  <line refs="doc#487" num="492" label="_">
+    <left>exhibiting high do, abundant drift &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; typical redd construction and fall</right>
+  </line>
+  <line refs="doc#487" num="493" label="_">
+    <left>several weeks in gravel absorbing yolk &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; the most easily caught trout, often</right>
+  </line>
+  <line refs="doc#487" num="494" label="_">
+    <left>subjected to intense fishing pressure &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; the most easily caught trout, often</right>
+  </line>
+  <line refs="doc#491" num="495" label="_">
+    <left>) fishes landlocked salmon lake_trout (togue)</left>
+    <kwic> brook_trout</kwic>
+    <right> lake whitefish round whitefish rainbow smelt</right>
+  </line>
+  <line refs="doc#491" num="496" label="_">
+    <left>fishery: landlocked salmon, lake_trout,</left>
+    <kwic> brook_trout</kwic>
+    <right> fish river lake, western most lake in the fish</right>
+  </line>
+  <line refs="doc#491" num="497" label="_">
+    <left>lake in the fish river chain of lakes, supports a</left>
+    <kwic> brook_trout</kwic>
+    <right>,lake_trout and landlocked salmon fishery of</right>
+  </line>
+  <line refs="doc#491" num="498" label="_">
+    <left>supplemented with hatchery salmon. excellent</left>
+    <kwic> brook_trout</kwic>
+    <right> spawning and nursery area is available in both</right>
+  </line>
+  <line refs="doc#491" num="499" label="_">
+    <left>the main forage base for landlocked salmon,</left>
+    <kwic> brook_trout</kwic>
+    <right> and lake_trout .. fish river lake is located</right>
+  </line>
+  <line refs="doc#492" num="500" label="_">
+    <left>) &lt;/p&gt; &lt;p&gt; : &quot;the</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), sometimes called</right>
+  </line>
+  <line refs="doc#492" num="501" label="_">
+    <left>), sometimes called the eastern</left>
+    <kwic> brook_trout</kwic>
+    <right>, is a species of fish in the salmon family of</right>
+  </line>
+  <line refs="doc#493" num="502" label="_">
+    <left>whitefish atlantic salmon ** brown_trout **</left>
+    <kwic> brook_trout</kwic>
+    <right> lake_trout coregonus_artedi</right>
+  </line>
+  <line refs="doc#501" num="503" label="_">
+    <left>freshwater predators of forage fish &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; black crappie &lt;/p&gt; &lt;p&gt; macquarie perch</right>
+  </line>
+  <line refs="doc#510" num="504" label="_">
+    <left>, nw coast. &lt;/p&gt; &lt;p&gt; salvelinus_fontinalis,</left>
+    <kwic> brook_trout</kwic>
+    <right>*. widespread, streams and lakes in mountains</right>
+  </line>
+  <line refs="doc#519" num="505" label="_">
+    <left>) and benfey (1996) recorded that the ctm for</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus fontainalis, a closely related</right>
+  </line>
+  <line refs="doc#519" num="506" label="_">
+    <left>, b.a. and carline, r.f. 1994. injury to wild</left>
+    <kwic> brook_trout</kwic>
+    <right> by backpack electrofishing. north am. j. fish.</right>
+  </line>
+  <line refs="doc#522" num="507" label="_">
+    <left>through lacustrine food webs supporting</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) and other salmonid</right>
+  </line>
+  <line refs="doc#522" num="508" label="_">
+    <left>lakes in new brunswick, canada, supporting</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) using measures of</right>
+  </line>
+  <line refs="doc#522" num="509" label="_">
+    <left>greatest risk from hg contamination. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) are common across</right>
+  </line>
+  <line refs="doc#522" num="510" label="_">
+    <left>of this element through food webs supporting</left>
+    <kwic> brook_trout</kwic>
+    <right> has not been examined. diets for this species</right>
+  </line>
+  <line refs="doc#522" num="511" label="_">
+    <left>). in streams in new brunswick (nb), canada,</left>
+    <kwic> brook_trout</kwic>
+    <right> rely heavily on allochthonous carbon sources</right>
+  </line>
+  <line refs="doc#522" num="512" label="_">
+    <left>the biological factors that predict thg in</left>
+    <kwic> brook_trout</kwic>
+    <right> in new brunswick lakes, (2) quantify the</right>
+  </line>
+  <line refs="doc#522" num="513" label="_">
+    <left>of hg through lakes supporting</left>
+    <kwic> brook_trout</kwic>
+    <right>, and (3) compare results from these lakes to</right>
+  </line>
+  <line refs="doc#522" num="514" label="_">
+    <left>tms in five lakes in new brunswick that contain</left>
+    <kwic> brook_trout</kwic>
+    <right> as a top predator. we then combined these</right>
+  </line>
+  <line refs="doc#522" num="515" label="_">
+    <left>&lt;p&gt; study sites &lt;/p&gt; &lt;p&gt; five lakes containing</left>
+    <kwic> brook_trout</kwic>
+    <right> were chosen to represent systems across the</right>
+  </line>
+  <line refs="doc#522" num="516" label="_">
+    <left>. moose and tahoe lakes contained allopatric</left>
+    <kwic> brook_trout</kwic>
+    <right> populations while a, bathurst, and nictau</right>
+  </line>
+  <line refs="doc#522" num="517" label="_">
+    <left>while a, bathurst, and nictau lakes contained</left>
+    <kwic> brook_trout</kwic>
+    <right> populations living sympatrically with 8, 7,</right>
+  </line>
+  <line refs="doc#522" num="518" label="_">
+    <left>samples until used for analysis. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right>, banded killifish (fundulus diaphanus),</right>
+  </line>
+  <line refs="doc#522" num="519" label="_">
+    <left>a given lake. for lakes with species other than</left>
+    <kwic> brook_trout</kwic>
+    <right>, sampling was done to collect fishes that</right>
+  </line>
+  <line refs="doc#522" num="520" label="_">
+    <left>size of 8 was targeted. target sample size for</left>
+    <kwic> brook_trout</kwic>
+    <right> was 20, though this was not achieved in all lakes</right>
+  </line>
+  <line refs="doc#522" num="521" label="_">
+    <left>proxy for mehg; bloom, 1992). otoliths from the</left>
+    <kwic> brook_trout</kwic>
+    <right> were removed and used for aging as described in</right>
+  </line>
+  <line refs="doc#522" num="522" label="_">
+    <left>to 98% (barry hanson, 2004). mean % moisture of</left>
+    <kwic> brook_trout</kwic>
+    <right> muscle ranged from 77 to 81% across lakes. &lt;/p&gt;</right>
+  </line>
+  <line refs="doc#522" num="523" label="_">
+    <left>comparisons of mercury concentrations among</left>
+    <kwic> brook_trout</kwic>
+    <right> and food webs in new brunswick &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#522" num="524" label="_">
+    <left>in new brunswick &lt;/p&gt; &lt;p&gt; condition factor of</left>
+    <kwic> brook_trout</kwic>
+    <right> was calculated as follows: k = [weight (g)/</right>
+  </line>
+  <line refs="doc#522" num="525" label="_">
+    <left>whole tissues (post et al., 2007). c:n ratios of</left>
+    <kwic> brook_trout</kwic>
+    <right> muscle (3.26 to 3.44) did not warrant lipid</right>
+  </line>
+  <line refs="doc#522" num="526" label="_">
+    <left>of the δ13c data. dietary reliance of</left>
+    <kwic> brook_trout</kwic>
+    <right> on littoral vs. pelagic carbon was determined</right>
+  </line>
+  <line refs="doc#522" num="527" label="_">
+    <left>(2008). trophic position (tp) of individual</left>
+    <kwic> brook_trout</kwic>
+    <right> was calculated after adjusting their δ15n to</right>
+  </line>
+  <line refs="doc#522" num="528" label="_">
+    <left>(2002). &lt;/p&gt; &lt;p&gt; among-lake differences in</left>
+    <kwic> brook_trout</kwic>
+    <right> thg (log10, dw), proportion littoral carbon (</right>
+  </line>
+  <line refs="doc#522" num="529" label="_">
+    <left>were run to examine whether individual</left>
+    <kwic> brook_trout</kwic>
+    <right> log thg concentrations were related to their</right>
+  </line>
+  <line refs="doc#522" num="530" label="_">
+    <left>relationships between all individual</left>
+    <kwic> brook_trout</kwic>
+    <right> log thg (dw) and their proportion of littoral</right>
+  </line>
+  <line refs="doc#522" num="531" label="_">
+    <left>biomagnification was also quantified for each</left>
+    <kwic> brook_trout</kwic>
+    <right> food web. log10 concentrations of hg in fish (</right>
+  </line>
+  <line refs="doc#522" num="532" label="_">
+    <left>among salmonid species &lt;/p&gt; &lt;p&gt; data for the</left>
+    <kwic> brook_trout</kwic>
+    <right> in new brunswick were combined with data for</right>
+  </line>
+  <line refs="doc#522" num="533" label="_">
+    <left>test for outliers, a lake (top predator,</left>
+    <kwic> brook_trout</kwic>
+    <right>) was removed from the analysis and age data were</right>
+  </line>
+  <line refs="doc#522" num="534" label="_">
+    <left>food webs &lt;/p&gt; &lt;p&gt; tms values obtained for the</left>
+    <kwic> brook_trout</kwic>
+    <right> lakes in new brunswick were combined with a</right>
+  </line>
+  <line refs="doc#522" num="535" label="_">
+    <left>discussion &lt;/p&gt; &lt;p&gt; food web structure of the</left>
+    <kwic> brook_trout</kwic>
+    <right> lakes &lt;/p&gt; &lt;p&gt; brook_trout from the new</right>
+  </line>
+  <line refs="doc#522" num="536" label="_">
+    <left>web structure of the brook_trout lakes &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> from the new brunswick lakes ranged in their</right>
+  </line>
+  <line refs="doc#522" num="537" label="_">
+    <left>of the isotope mixing space of the end members.</left>
+    <kwic> brook_trout</kwic>
+    <right> are known to shift food sources in the presence</right>
+  </line>
+  <line refs="doc#522" num="538" label="_">
+    <left>); for example, in the presence of white sucker,</left>
+    <kwic> brook_trout</kwic>
+    <right> consumed a lower proportion of zoobenthos (</right>
+  </line>
+  <line refs="doc#522" num="539" label="_">
+    <left>and magnan, 1992). in the current study,</left>
+    <kwic> brook_trout</kwic>
+    <right> from lakes with no other fish species (moose and</right>
+  </line>
+  <line refs="doc#522" num="540" label="_">
+    <left>fish community; the exception was a lake with</left>
+    <kwic> brook_trout</kwic>
+    <right> that relied mostly (86%) on littoral carbon,</right>
+  </line>
+  <line refs="doc#522" num="541" label="_">
+    <left>(tp), δ13c, and proportion littoral c of</left>
+    <kwic> brook_trout</kwic>
+    <right> collected from lakes in new brunswick, canada (</right>
+  </line>
+  <line refs="doc#522" num="542" label="_">
+    <left>means ranging from 0.82 to 3.83; as such,</left>
+    <kwic> brook_trout</kwic>
+    <right> δ15n values were adjusted to baseline values as</right>
+  </line>
+  <line refs="doc#522" num="543" label="_">
+    <left>values as described in the methods. the tp of</left>
+    <kwic> brook_trout</kwic>
+    <right> differed significantly among lakes (anova, p &lt;</right>
+  </line>
+  <line refs="doc#522" num="544" label="_">
+    <left>was 3.76 (moose lake) and 3.48 (tahoe lake) in</left>
+    <kwic> brook_trout</kwic>
+    <right> only lakes, and 3.20, 3.50, and 3.82 in bathurst</right>
+  </line>
+  <line refs="doc#522" num="545" label="_">
+    <left>zanden et al., 1999). a study including more</left>
+    <kwic> brook_trout</kwic>
+    <right> lakes than was examined herein is warranted to</right>
+  </line>
+  <line refs="doc#522" num="546" label="_">
+    <left>, canada. &lt;/p&gt; &lt;p&gt; mercury concentrations in</left>
+    <kwic> brook_trout</kwic>
+    <right> and other fishes &lt;/p&gt; &lt;p&gt; in the current study,</right>
+  </line>
+  <line refs="doc#522" num="547" label="_">
+    <left>&lt;p&gt; in the current study, thg concentrations in</left>
+    <kwic> brook_trout</kwic>
+    <right> varied by a factor of 3–4 across lakes, despite</right>
+  </line>
+  <line refs="doc#522" num="548" label="_">
+    <left>the fish being of a similar age (table 2).</left>
+    <kwic> brook_trout</kwic>
+    <right> from a lake had significantly higher log thg</right>
+  </line>
+  <line refs="doc#522" num="549" label="_">
+    <left>in fish size. total hg concentrations in</left>
+    <kwic> brook_trout</kwic>
+    <right> vary across systems in northeastern north</right>
+  </line>
+  <line refs="doc#522" num="550" label="_">
+    <left>and rivers (kamman et al., 2005). the thg in</left>
+    <kwic> brook_trout</kwic>
+    <right> filets from this large (&gt;1100 fish) dataset</right>
+  </line>
+  <line refs="doc#522" num="551" label="_">
+    <left>). &lt;/p&gt; &lt;p&gt; in the new brunswick lakes, log thg of</left>
+    <kwic> brook_trout</kwic>
+    <right> was positively predicted by their tp within</right>
+  </line>
+  <line refs="doc#522" num="552" label="_">
+    <left>1). similarly, the best predictors of log thg in</left>
+    <kwic> brook_trout</kwic>
+    <right> muscle across all of the new brunswick lakes</right>
+  </line>
+  <line refs="doc#522" num="553" label="_">
+    <left>position (see methods for calculations) in</left>
+    <kwic> brook_trout</kwic>
+    <right> from five lakes in new brunswick, canada.</right>
+  </line>
+  <line refs="doc#522" num="554" label="_">
+    <left>tp, p = 0.013, radj2= 0.24). &lt;/p&gt; &lt;p&gt; log thg of</left>
+    <kwic> brook_trout</kwic>
+    <right> was predicted by their source of energy (as</right>
+  </line>
+  <line refs="doc#522" num="555" label="_">
+    <left>lakes reflected the spatial patterns found for</left>
+    <kwic> brook_trout</kwic>
+    <right> and the macroinvertebrates. the mean thg for</right>
+  </line>
+  <line refs="doc#522" num="556" label="_">
+    <left>, and smaller in surface area than the other</left>
+    <kwic> brook_trout</kwic>
+    <right> lakes. higher hg concentrations in fishes have</right>
+  </line>
+  <line refs="doc#522" num="557" label="_">
+    <left>) with high mehg concentrations, the thg of</left>
+    <kwic> brook_trout</kwic>
+    <right> were similar (mean of 0.46 μg/g dw) to those for</right>
+  </line>
+  <line refs="doc#522" num="558" label="_">
+    <left>pca using data for arctic char, lake_trout, and</left>
+    <kwic> brook_trout</kwic>
+    <right> lakes (n = 23) had components that were</right>
+  </line>
+  <line refs="doc#522" num="559" label="_">
+    <left>physical and chemical characteristics of</left>
+    <kwic> brook_trout</kwic>
+    <right> (bt; this study; see table 1 for water chemistry</right>
+  </line>
+  <line refs="doc#522" num="560" label="_">
+    <left>and principal components as shown in table 6.</left>
+    <kwic> brook_trout</kwic>
+    <right> data are from the current study whereas arctic</right>
+  </line>
+  <line refs="doc#522" num="561" label="_">
+    <left>in each of the food webs supporting</left>
+    <kwic> brook_trout</kwic>
+    <right> in new brunswick and the tms values ranged from</right>
+  </line>
+  <line refs="doc#522" num="562" label="_">
+    <left>from the new brunswick lakes supporting</left>
+    <kwic> brook_trout</kwic>
+    <right> with existing data on food webs supporting</right>
+  </line>
+  <line refs="doc#522" num="563" label="_">
+    <left>and scaled total phosphorous (mg/l) of lakes.</left>
+    <kwic> brook_trout</kwic>
+    <right> data are from the current study whereas yellow</right>
+  </line>
+  <line refs="doc#522" num="564" label="_">
+    <left>. &lt;/p&gt; &lt;p&gt; in summary, results from this study on</left>
+    <kwic> brook_trout</kwic>
+    <right> in new brunswick lakes support the paradigms</right>
+  </line>
+  <line refs="doc#522" num="565" label="_">
+    <left>through lacustrine food webs supporting</left>
+    <kwic> brook_trout</kwic>
+    <right>. in addition, there was some–albeit weak–</right>
+  </line>
+  <line refs="doc#522" num="566" label="_">
+    <left>, j. b. (2009). shifts in the trophic ecology of</left>
+    <kwic> brook_trout</kwic>
+    <right> resulting from interactions with yellow perch</right>
+  </line>
+  <line refs="doc#522" num="567" label="_">
+    <left>bioaccumulation on lake food webs supporting</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis). m.sc. thesis,</right>
+  </line>
+  <line refs="doc#522" num="568" label="_">
+    <left>. biotic and abiotic determinants of the diet of</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis, in lakes of the</right>
+  </line>
+  <line refs="doc#522" num="569" label="_">
+    <left>, g. j. (1982). resource partitioning between</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus-fontinalis mitchill) and creek</right>
+  </line>
+  <line refs="doc#522" num="570" label="_">
+    <left>between 2 distantly related species,</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) and white sucker (</right>
+  </line>
+  <line refs="doc#522" num="571" label="_">
+    <left>webs, mercury, trophic magnification slope,</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; citation: finley mld, kidd ka, curry ra</right>
+  </line>
+  <line refs="doc#522" num="572" label="_">
+    <left>through lacustrine food webs supporting</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) and other salmonid</right>
+  </line>
+  <line refs="doc#526" num="573" label="_">
+    <left>chinook salmon atlantic salmon brown_trout</left>
+    <kwic> brook_trout</kwic>
+    <right> lake_trout redfin pickerel northern pike</right>
+  </line>
+  <line refs="doc#531" num="574" label="_">
+    <left>from rainbow trout oncorhynchus_mykiss,</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis, and lake_trout s.</right>
+  </line>
+  <line refs="doc#546" num="575" label="_">
+    <left>char (salvelinus_alpinus), north american</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), grayling (</right>
+  </line>
+  <line refs="doc#546" num="576" label="_">
+    <left>char (salvelinus_alpinus), north american</left>
+    <kwic> brook_trout</kwic>
+    <right> (s. fontinalis), grayling (</right>
+  </line>
+  <line refs="doc#546" num="577" label="_">
+    <left>char (salvelinus_alpinus), north american</left>
+    <kwic> brook_trout</kwic>
+    <right> (s. fontinalis), grayling (</right>
+  </line>
+  <line refs="doc#546" num="578" label="_">
+    <left>char (salvelinus_alpinus), north american</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), grayling (</right>
+  </line>
+  <line refs="doc#546" num="579" label="_">
+    <left>trout (oncorhynchus_mykiss)- american</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis)- salmon (</right>
+  </line>
+  <line refs="doc#546" num="580" label="_">
+    <left>char (salvelinus_alpinus), north american</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), grayling (</right>
+  </line>
+  <line refs="doc#553" num="581" label="_">
+    <left>affected up to 60% of maturing eggr in natural</left>
+    <kwic> brook_trout</kwic>
+    <right> populations. it is generally agreed that</right>
+  </line>
+  <line refs="doc#553" num="582" label="_">
+    <left>e. l. cooper. 1966. maturation and fecundity of</left>
+    <kwic> brook_trout</kwic>
+    <right> from infertile streams. j. fish. res. board can</right>
+  </line>
+  <line refs="doc#557" num="583" label="_">
+    <left>yellow perch (perca flavescens), eastern</left>
+    <kwic> brook_trout</kwic>
+    <right> salvenlinus fontinalis), and largemouth bass</right>
+  </line>
+  <line refs="doc#572" num="584" label="_">
+    <left>chub, common shiner, stonecat and introduced</left>
+    <kwic> brook_trout</kwic>
+    <right>. exotic carp, green sunfish, rainbow trout and</right>
+  </line>
+  <line refs="doc#581" num="585" label="_">
+    <left>bass limit is 6, both species combined &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; brook_trout limit is 25 &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#581" num="586" label="_">
+    <left>species combined &lt;/p&gt; &lt;p&gt; brook_trout &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> limit is 25 &lt;/p&gt; &lt;p&gt; harvest allowed during any</right>
+  </line>
+  <line refs="doc#581" num="587" label="_">
+    <left>listed, they must be followed when fishing for</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; bull trout &lt;/p&gt; &lt;p&gt; bull trout limit is 0</right>
+  </line>
+  <line refs="doc#581" num="588" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; does not include bull trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> which are listed separately &lt;/p&gt; &lt;p&gt; whitefish</right>
+  </line>
+  <line refs="doc#582" num="589" label="_">
+    <left>combined &lt;/p&gt; &lt;p&gt; none under 12 inches &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; brook_trout limit is 25 &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#582" num="590" label="_">
+    <left>under 12 inches &lt;/p&gt; &lt;p&gt; brook_trout &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> limit is 25 &lt;/p&gt; &lt;p&gt; harvest allowed during any</right>
+  </line>
+  <line refs="doc#582" num="591" label="_">
+    <left>listed, they must be followed when fishing for</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; bull trout &lt;/p&gt; &lt;p&gt; bull trout limit is 0</right>
+  </line>
+  <line refs="doc#582" num="592" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; does not include bull trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> which are listed separately &lt;/p&gt; &lt;p&gt; whitefish</right>
+  </line>
+  <line refs="doc#582" num="593" label="_">
+    <left>combined &lt;/p&gt; &lt;p&gt; none under 12 inches &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; brook_trout limit is 25 &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#582" num="594" label="_">
+    <left>under 12 inches &lt;/p&gt; &lt;p&gt; brook_trout &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> limit is 25 &lt;/p&gt; &lt;p&gt; harvest allowed during any</right>
+  </line>
+  <line refs="doc#582" num="595" label="_">
+    <left>listed, they must be followed when fishing for</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; bull trout &lt;/p&gt; &lt;p&gt; bull trout limit is 0</right>
+  </line>
+  <line refs="doc#582" num="596" label="_">
+    <left>trout &lt;/p&gt; &lt;p&gt; does not include bull trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> which are listed separately &lt;/p&gt; &lt;p&gt; walleye</right>
+  </line>
+  <line refs="doc#606" num="597" label="_">
+    <left>juvenile atlantic salmon reduces predation by</left>
+    <kwic> brook_trout</kwic>
+    <right>. can. j. zool. 52, 67-69. tinbergen, n.,</right>
+  </line>
+  <line refs="doc#609" num="598" label="_">
+    <left>salrno trutta but not in the presence of native</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis despite a lack of</right>
+  </line>
+  <line refs="doc#611" num="599" label="_">
+    <left>carassius auratus (l.) (4); s. alpinus (6);</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis (mitchill) (3);</right>
+  </line>
+  <line refs="doc#611" num="600" label="_">
+    <left>rainbow trout (oncorhynchus_mykiss) and</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis). aquaculture 184,</right>
+  </line>
+  <line refs="doc#611" num="601" label="_">
+    <left>, c. (1993). responses of hatchery-reared</left>
+    <kwic> brook_trout</kwic>
+    <right>, lake_trout, and splake to transport stress.</right>
+  </line>
+  <line refs="doc#623" num="602" label="_">
+    <left>largemouth bass, micropterus salmoides</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis yellow perch, perca</right>
+  </line>
+  <line refs="doc#623" num="603" label="_">
+    <left>and ponds of the basin above iron gate dam.</left>
+    <kwic> brook_trout</kwic>
+    <right>, brown_trout, and non-native strains of</right>
+  </line>
+  <line refs="doc#623" num="604" label="_">
+    <left>delta smelt, hypomesus transpacificus</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis brown_trout,</right>
+  </line>
+  <line refs="doc#632" num="605" label="_">
+    <left>chars). distinguished from the arctic char and</left>
+    <kwic> brook_trout</kwic>
+    <right> by the head, which is stouter, more 'dog-like'</right>
+  </line>
+  <line refs="doc#643" num="606" label="_">
+    <left>20 fish species, among which are brook lamprey,</left>
+    <kwic> brook_trout</kwic>
+    <right> and bull heads. &lt;/p&gt; &lt;p&gt; [...] related river</right>
+  </line>
+  <line refs="doc#664" num="607" label="_">
+    <left>in 1922. the introduction of brown, rainbow and</left>
+    <kwic> brook_trout</kwic>
+    <right> into its original ranges essentially</right>
+  </line>
+  <line refs="doc#664" num="608" label="_">
+    <left>anywhere both species are present. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) were widely stocked</right>
+  </line>
+  <line refs="doc#664" num="609" label="_">
+    <left>beginning in 1890. preferring cooler water,</left>
+    <kwic> brook_trout</kwic>
+    <right> were easily displaced by introduced brown and</right>
+  </line>
+  <line refs="doc#664" num="610" label="_">
+    <left>lower reaches of the major river systems. today</left>
+    <kwic> brook_trout</kwic>
+    <right> exist in the upper firehole river above kepler</right>
+  </line>
+  <line refs="doc#664" num="611" label="_">
+    <left>falls. they also occur in many lakes and ponds.</left>
+    <kwic> brook_trout</kwic>
+    <right> are found in the middle creek drainage of the</right>
+  </line>
+  <line refs="doc#671" num="612" label="_">
+    <left>the &quot;swim up&quot; fry stages of atlantic salmon,</left>
+    <kwic> brook_trout</kwic>
+    <right>, brown_trout, and lake_trout from</right>
+  </line>
+  <line refs="doc#676" num="613" label="_">
+    <left>winter habitat utilization by stream resident</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) and brown_trout (</right>
+  </line>
+  <line refs="doc#677" num="614" label="_">
+    <left>lateral line in obstacle entrainment by</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis). journal of the</right>
+  </line>
+  <line refs="doc#683" num="615" label="_">
+    <left>introduced trout and native charr &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right>, an invasive species, is frequently</right>
+  </line>
+  <line refs="doc#683" num="616" label="_">
+    <left>, i am studying the changes in distribution of</left>
+    <kwic> brook_trout</kwic>
+    <right>, white-spotted charr, and their hybrids. my</right>
+  </line>
+  <line refs="doc#687" num="617" label="_">
+    <left>oncorhynchus_clarkii x oncorhynchus_mykiss</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis brown_trout</right>
+  </line>
+  <line refs="doc#687" num="618" label="_">
+    <left>factor that ranged from 0.8°c (rainbow and</left>
+    <kwic> brook_trout</kwic>
+    <right>, all warmwater fish) to 4.4°c (cutthroat trout</right>
+  </line>
+  <line refs="doc#687" num="619" label="_">
+    <left>name salmon and trout family – salmonidae</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis brown_trout</right>
+  </line>
+  <line refs="doc#696" num="620" label="_">
+    <left>(n=661, 87%), mountain whitefish (n=68, 5%),</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis (n=21, 2%),</right>
+  </line>
+  <line refs="doc#696" num="621" label="_">
+    <left>(n=415, 87%), mountain whitefish (n=23, 5%),</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis (n=2, &lt;1%), sculpin</right>
+  </line>
+  <line refs="doc#697" num="622" label="_">
+    <left>i think the author misspoke when they said that</left>
+    <kwic> brook_trout</kwic>
+    <right> were not native to michigan...as i understood</right>
+  </line>
+  <line refs="doc#697" num="623" label="_">
+    <left>spring fed lake and stocked it with grayling and</left>
+    <kwic> brook_trout</kwic>
+    <right>. a pay to fish private lake. not really my kind of</right>
+  </line>
+  <line refs="doc#699" num="624" label="_">
+    <left>round whitefish atlantic salmon brown_trout</left>
+    <kwic> brook_trout</kwic>
+    <right> lake_trout 12 coregonus_artedi 9</right>
+  </line>
+  <line refs="doc#704" num="625" label="_">
+    <left>rainbow trout (oncorhynchus_mykiss) and</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis). an adult sea</right>
+  </line>
+  <line refs="doc#706" num="626" label="_">
+    <left>round whitefish atlantic salmon brown_trout</left>
+    <kwic> brook_trout</kwic>
+    <right> lake_trout 14 arctic grayling (ep)</right>
+  </line>
+  <line refs="doc#716" num="627" label="_">
+    <left>m. fario grayling thymallus_thymallus</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis cottidae bullhead</right>
+  </line>
+  <line refs="doc#719" num="628" label="_">
+    <left>periodically with salmonids, including</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), cutthroat trout (</right>
+  </line>
+  <line refs="doc#719" num="629" label="_">
+    <left>), and rainbow trout (o. mykiss).</left>
+    <kwic> brook_trout</kwic>
+    <right> were observed in cora lake and both dry bed lakes</right>
+  </line>
+  <line refs="doc#719" num="630" label="_">
+    <left>into mountain lakes has also been observed for</left>
+    <kwic> brook_trout</kwic>
+    <right> (reimers 1979), rainbow trout (donald and</right>
+  </line>
+  <line refs="doc#719" num="631" label="_">
+    <left>. 1981. food interrelationships of coexisting</left>
+    <kwic> brook_trout</kwic>
+    <right>, brown_trout and yearling rainbow trout in</right>
+  </line>
+  <line refs="doc#719" num="632" label="_">
+    <left>. reimers, n. 1979. a history of a stunted</left>
+    <kwic> brook_trout</kwic>
+    <right> population in an alpine lake: a lifespan of 24</right>
+  </line>
+  <line refs="doc#721" num="633" label="_">
+    <left>salmon (federally endangered) and eastern</left>
+    <kwic> brook_trout</kwic>
+    <right>. identification of high priority</right>
+  </line>
+  <line refs="doc#721" num="634" label="_">
+    <left>salmon and native eastern</left>
+    <kwic> brook_trout</kwic>
+    <right>, specific sites have been prioritized for</right>
+  </line>
+  <line refs="doc#721" num="635" label="_">
+    <left>hindering movement of resident native</left>
+    <kwic> brook_trout</kwic>
+    <right> and blocking atlantic salmon parr from</right>
+  </line>
+  <line refs="doc#721" num="636" label="_">
+    <left>of endangered atlantic salmon and eastern</left>
+    <kwic> brook_trout</kwic>
+    <right>, 2. provide a more consistent process for</right>
+  </line>
+  <line refs="doc#721" num="637" label="_">
+    <left>the endangered species act (esa) and eastern</left>
+    <kwic> brook_trout</kwic>
+    <right>, a native species identified in steep decline</right>
+  </line>
+  <line refs="doc#721" num="638" label="_">
+    <left>decline throughout its range by the eastern</left>
+    <kwic> brook_trout</kwic>
+    <right> joint venture. figure 4. salmonid yoy residing</right>
+  </line>
+  <line refs="doc#721" num="639" label="_">
+    <left>with strategies proposed by the eastern</left>
+    <kwic> brook_trout</kwic>
+    <right> joint venture (williams et al. 2007) where</right>
+  </line>
+  <line refs="doc#721" num="640" label="_">
+    <left>of native salmonids. figure 7. eastern</left>
+    <kwic> brook_trout</kwic>
+    <right> conservation success index for maine. [17]</right>
+  </line>
+  <line refs="doc#721" num="641" label="_">
+    <left>. a review of status and threats for the eastern</left>
+    <kwic> brook_trout</kwic>
+    <right> joint venture (williams et al. 2007)</right>
+  </line>
+  <line refs="doc#721" num="642" label="_">
+    <left>identifies a similar list of primary threats to</left>
+    <kwic> brook_trout</kwic>
+    <right>: i.e. beavers, land management practices,</right>
+  </line>
+  <line refs="doc#721" num="643" label="_">
+    <left>cold-water fishes, including</left>
+    <kwic> brook_trout</kwic>
+    <right> and atlantic salmon. a second major depression</right>
+  </line>
+  <line refs="doc#721" num="644" label="_">
+    <left>ph value where fish were observed was 4.7.</left>
+    <kwic> brook_trout</kwic>
+    <right> appear to be least sensitive [32] to ph as they</right>
+  </line>
+  <line refs="doc#721" num="645" label="_">
+    <left>and inorganic aluminum on mortality of</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) in the catskill</right>
+  </line>
+  <line refs="doc#721" num="646" label="_">
+    <left>salmon commission. bonney, f. r. 2006. maine</left>
+    <kwic> brook_trout</kwic>
+    <right>: biology, conservation, management. maine</right>
+  </line>
+  <line refs="doc#721" num="647" label="_">
+    <left>. webb, j. r., b. j. cosby, et al. 2004. &quot;are</left>
+    <kwic> brook_trout</kwic>
+    <right> streams in western virginia and shenandoah</right>
+  </line>
+  <line refs="doc#722" num="648" label="_">
+    <left>co. d.s.c.s. winn and springfield, me. fishes</left>
+    <kwic> brook_trout</kwic>
+    <right> (squaretail) white perch yellow perch</right>
+  </line>
+  <line refs="doc#724" num="649" label="_">
+    <left>caddisfly larvae live on this log in a small</left>
+    <kwic> brook_trout</kwic>
+    <right> stream. &lt;/p&gt; &lt;p&gt; stillborn: in fly fishing, a</right>
+  </line>
+  <line refs="doc#725" num="650" label="_">
+    <left>of anadromous and non anadromous adult</left>
+    <kwic> brook_trout</kwic>
+    <right> and their progeny in the tabusintac river, new</right>
+  </line>
+  <line refs="doc#731" num="651" label="_">
+    <left>as &quot;sparctic trout&quot; or &quot;spar&quot;, a cross between</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis and arctic char), &quot;</right>
+  </line>
+  <line refs="doc#731" num="652" label="_">
+    <left>and arctic char), and &quot;splake&quot; (male</left>
+    <kwic> brook_trout</kwic>
+    <right> and female lake_trout). mixing of non-native</right>
+  </line>
+  <line refs="doc#733" num="653" label="_">
+    <left>&quot;threatened&quot;.[citation needed] introduced</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) outcompete them for</right>
+  </line>
+  <line refs="doc#752" num="654" label="_">
+    <left>and wild (morris et al. 2006) species of fish.</left>
+    <kwic> brook_trout</kwic>
+    <right> s. fontinalis, and grayling thymallus</right>
+  </line>
+  <line refs="doc#754" num="655" label="_">
+    <left>, and c. w. parke. 1991. fecundity and egg size of</left>
+    <kwic> brook_trout</kwic>
+    <right> and brown_trout brood stocks in heated,</right>
+  </line>
+  <line refs="doc#783" num="656" label="_">
+    <left>bass, yellow perch, carp, brown_trout,</left>
+    <kwic> brook_trout</kwic>
+    <right> and rainbow trout. &lt;/p&gt; &lt;p&gt; the lake is located</right>
+  </line>
+  <line refs="doc#791" num="657" label="_">
+    <left>), brook stickleback (culaea inconstans),</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), brown bullhead (</right>
+  </line>
+  <line refs="doc#791" num="658" label="_">
+    <left>grand river and chagrin river drainage basins:</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis). pub 5061 (r1116)</right>
+  </line>
+  <line refs="doc#791" num="659" label="_">
+    <left>grand river and chagrin river drainage basins:</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis). (5) the following</right>
+  </line>
+  <line refs="doc#795" num="660" label="_">
+    <left>.a. 2009. the use of hoop nets seeded with mature</left>
+    <kwic> brook_trout</kwic>
+    <right> to capture conspecifics. north american</right>
+  </line>
+  <line refs="doc#802" num="661" label="_">
+    <left>uplands, protecting floodplains, with native</left>
+    <kwic> brook_trout</kwic>
+    <right> (brook charr) and wetlands and riparian areas,</right>
+  </line>
+  <line refs="doc#804" num="662" label="_">
+    <left>since. they are hoping to re-establish native</left>
+    <kwic> brook_trout</kwic>
+    <right> in at least some of the 2100-mile river system.[</right>
+  </line>
+  <line refs="doc#811" num="663" label="_">
+    <left>until eggs are laid, fertilized, and buried &quot;</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) &quot; cuttthroat (salmo</right>
+  </line>
+  <line refs="doc#813" num="664" label="_">
+    <left>populations. these include american</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) to thornton</right>
+  </line>
+  <line refs="doc#852" num="665" label="_">
+    <left>of anadromous and nonanadromous adult</left>
+    <kwic> brook_trout</kwic>
+    <right> and their progeny in the tabusintac river, new</right>
+  </line>
+  <line refs="doc#852" num="666" label="_">
+    <left>(2006) marine feeding patterns of anadromous</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) inhabiting an</right>
+  </line>
+  <line refs="doc#860" num="667" label="_">
+    <left>.-p. &amp; r. j. gibson, 1989. feeding strategies of</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis, and juvenile</right>
+  </line>
+  <line refs="doc#862" num="668" label="_">
+    <left>between coexisting atlantic salmon and</left>
+    <kwic> brook_trout</kwic>
+    <right> in the sainte-marguerite river ecosystem,</right>
+  </line>
+  <line refs="doc#898" num="669" label="_">
+    <left>(white-spotted char) &lt;/p&gt; &lt;p&gt; fontinalis (</left>
+    <kwic>brook_trout</kwic>
+    <right>) &lt;/p&gt; &lt;p&gt; mykiss (rainbow trout) &lt;/p&gt; &lt;p&gt; masou</right>
+  </line>
+  <line refs="doc#898" num="670" label="_">
+    <left>&lt;p&gt; x &lt;/p&gt; &lt;p&gt; x &lt;/p&gt; &lt;p&gt; o &lt;/p&gt; &lt;p&gt; fontinalis (</left>
+    <kwic>brook_trout</kwic>
+    <right>) &lt;/p&gt; &lt;p&gt; o &lt;/p&gt; &lt;p&gt; - &lt;/p&gt; &lt;p&gt; x &lt;/p&gt; &lt;p&gt; o &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#898" num="671" label="_">
+    <left>water are called rainbow trout. arctic char and</left>
+    <kwic> brook_trout</kwic>
+    <right> are part of the char family. trout are an</right>
+  </line>
+  <line refs="doc#899" num="672" label="_">
+    <left>(white-spotted char) &lt;/p&gt; &lt;p&gt; fontinalis (</left>
+    <kwic>brook_trout</kwic>
+    <right>) &lt;/p&gt; &lt;p&gt; mykiss (rainbow trout) &lt;/p&gt; &lt;p&gt; masou</right>
+  </line>
+  <line refs="doc#899" num="673" label="_">
+    <left>&lt;p&gt; x &lt;/p&gt; &lt;p&gt; x &lt;/p&gt; &lt;p&gt; o &lt;/p&gt; &lt;p&gt; fontinalis (</left>
+    <kwic>brook_trout</kwic>
+    <right>) &lt;/p&gt; &lt;p&gt; o &lt;/p&gt; &lt;p&gt; - &lt;/p&gt; &lt;p&gt; x &lt;/p&gt; &lt;p&gt; o &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#904" num="674" label="_">
+    <left>) rainbow trout (salmo gairdneri)</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) sea_trout (</right>
+  </line>
+  <line refs="doc#911" num="675" label="_">
+    <left>has been associated with declines in native</left>
+    <kwic> brook_trout</kwic>
+    <right> in the eastern u.s. and frog species in the west.</right>
+  </line>
+  <line refs="doc#912" num="676" label="_">
+    <left>place in habitats that can not support native</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus fontinalus) and salmon. many</right>
+  </line>
+  <line refs="doc#912" num="677" label="_">
+    <left>winter habitat utilization by stream resident</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) and brown_trout (</right>
+  </line>
+  <line refs="doc#913" num="678" label="_">
+    <left>char (salvelinus_alpinus), north american</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), grayling (</right>
+  </line>
+  <line refs="doc#913" num="679" label="_">
+    <left>char (salvelinus_alpinus), north american</left>
+    <kwic> brook_trout</kwic>
+    <right> (s. fontinalis), grayling (</right>
+  </line>
+  <line refs="doc#913" num="680" label="_">
+    <left>char (salvelinus_alpinus), north american</left>
+    <kwic> brook_trout</kwic>
+    <right> (s. fontinalis), grayling (</right>
+  </line>
+  <line refs="doc#913" num="681" label="_">
+    <left>/nákazy.] &lt;/p&gt; &lt;p&gt; en salvelinus_fontinalis,</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; sk salvelinus_fontinalis, sivoň</right>
+  </line>
+  <line refs="doc#913" num="682" label="_">
+    <left>char (salvelinus_alpinus), north american</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), grayling (</right>
+  </line>
+  <line refs="doc#913" num="683" label="_">
+    <left>trout (oncorhynchus_mykiss)- american</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis)- salmon (</right>
+  </line>
+  <line refs="doc#914" num="684" label="_">
+    <left>dans l'ensemble des quatre espèces. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; salvelinus &lt;/p&gt; &lt;p&gt; taxonomic terms (</right>
+  </line>
+  <line refs="doc#914" num="685" label="_">
+    <left>preferred prey of the sea lamprey. &lt;/p&gt; &lt;p&gt; en</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), white sucker (</right>
+  </line>
+  <line refs="doc#914" num="686" label="_">
+    <left>and behaviour of young-of-the-year (yoy)</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) swimming in their</right>
+  </line>
+  <line refs="doc#914" num="687" label="_">
+    <left>domestic, and wild × domestic hybrid strains of</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) were stocked in a 0.</right>
+  </line>
+  <line refs="doc#914" num="688" label="_">
+    <left>char (salvelinus_alpinus), north american</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), grayling (</right>
+  </line>
+  <line refs="doc#914" num="689" label="_">
+    <left>bioassays indicated that the 96-h ph-lc50 for</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) was 3.80–4.09,</right>
+  </line>
+  <line refs="doc#914" num="690" label="_">
+    <left>areas and thus may be important habitat for</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis). &lt;/p&gt; &lt;p&gt; en our</right>
+  </line>
+  <line refs="doc#914" num="691" label="_">
+    <left>), arctic char (salvelinus_alpinus), and</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) in lakes. &lt;/p&gt; &lt;p&gt; en</right>
+  </line>
+  <line refs="doc#914" num="692" label="_">
+    <left>and increased mortality of ratio-tagged</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis). &lt;/p&gt; &lt;p&gt; en in</right>
+  </line>
+  <line refs="doc#914" num="693" label="_">
+    <left>, largemouth bass, micropterus salmoides,</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis, and yellow perch,</right>
+  </line>
+  <line refs="doc#915" num="694" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; the effect of these physical changes on</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) densities,</right>
+  </line>
+  <line refs="doc#915" num="695" label="_">
+    <left>lake was experimentally stocked with 1000</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) in 1985. &lt;/p&gt; &lt;p&gt; by</right>
+  </line>
+  <line refs="doc#918" num="696" label="_">
+    <left>arctic char (salvelinus_alpinus) and</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) in europe, and also</right>
+  </line>
+  <line refs="doc#918" num="697" label="_">
+    <left>records of e. crassum in arctic char and</left>
+    <kwic> brook_trout</kwic>
+    <right>, and those of e. salvelini in fish of the genus</right>
+  </line>
+  <line refs="doc#918" num="698" label="_">
+    <left>2000; loch doyne, scotland, september 2002. 7.</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis (mitchill)) –</right>
+  </line>
+  <line refs="doc#918" num="699" label="_">
+    <left>char (salvelinus_alpinus) (fig. 1g) and</left>
+    <kwic> brook_trout</kwic>
+    <right> (s. fontinalis) (fig. 1h). eubothrium in</right>
+  </line>
+  <line refs="doc#919" num="700" label="_">
+    <left>pw brook stickleback culaea inconstans bsb</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis eb rainbow smelt</right>
+  </line>
+  <line refs="doc#919" num="701" label="_">
+    <left>, 2015 wp bl balkwill lake limnetic stickleback</left>
+    <kwic> brook_trout</kwic>
+    <right> (anadromous) brown_trout (anadromous)</right>
+  </line>
+  <line refs="doc#920" num="702" label="_">
+    <left>sweka, john a. spatial and temporal dynamics in</left>
+    <kwic> brook_trout</kwic>
+    <right> density: implications for population</right>
+  </line>
+  <line refs="doc#920" num="703" label="_">
+    <left>interactions between brown_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> using two-species occupancy models. trans am</right>
+  </line>
+  <line refs="doc#920" num="704" label="_">
+    <left>bull trout, salvelinus_confluentus, and</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis in an oregon stream</right>
+  </line>
+  <line refs="doc#920" num="705" label="_">
+    <left>woody debris addition on stream habitat and</left>
+    <kwic> brook_trout</kwic>
+    <right> populations. j fish wildl manag 1(2):146-51.</right>
+  </line>
+  <line refs="doc#920" num="706" label="_">
+    <left>b, rowan j. 2009. genetic characterization of</left>
+    <kwic> brook_trout</kwic>
+    <right> populations in nash stream, new hampshire.</right>
+  </line>
+  <line refs="doc#920" num="707" label="_">
+    <left>of terrestrial invertebrates to yearly</left>
+    <kwic> brook_trout</kwic>
+    <right> prey consumption and growth. trans am fish soc</right>
+  </line>
+  <line refs="doc#920" num="708" label="_">
+    <left>and competition between bull trout and</left>
+    <kwic> brook_trout</kwic>
+    <right>: a test of the elevation refuge hypothesis.</right>
+  </line>
+  <line refs="doc#920" num="709" label="_">
+    <left>jw, mohler jw. 2006. dietary calcein marking of</left>
+    <kwic> brook_trout</kwic>
+    <right>, atlantic salmon, yellow perch, and coho</right>
+  </line>
+  <line refs="doc#920" num="710" label="_">
+    <left>woody debris addition on stream habitat and</left>
+    <kwic> brook_trout</kwic>
+    <right> populations in appalachian streams.</right>
+  </line>
+  <line refs="doc#920" num="711" label="_">
+    <left>, fletcher jw. 2002. predation by captive wild</left>
+    <kwic> brook_trout</kwic>
+    <right> on calcein-marked versus nonmarked atlantic</right>
+  </line>
+  <line refs="doc#922" num="712" label="_">
+    <left>number of predatious fish, such as lake_trout,</left>
+    <kwic> brook_trout</kwic>
+    <right>, salmon, speckled trout, northern pike, and</right>
+  </line>
+  <line refs="doc#922" num="713" label="_">
+    <left>by the slimy sculpin are invariably good</left>
+    <kwic> brook_trout</kwic>
+    <right> waters. &lt;/p&gt; &lt;p&gt; remarks &lt;/p&gt; &lt;p&gt; the use of the</right>
+  </line>
+  <line refs="doc#922" num="714" label="_">
+    <left>a favorite bait under the name &quot;cockatouch&quot; for</left>
+    <kwic> brook_trout</kwic>
+    <right> in the nipigon canada waters. many of the trout</right>
+  </line>
+  <line refs="doc#922" num="715" label="_">
+    <left>is a common associate of both lake_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> and forms part of the food supply of both.</right>
+  </line>
+  <line refs="doc#922" num="716" label="_">
+    <left>and only rare instances of predation on young</left>
+    <kwic> brook_trout</kwic>
+    <right>. &lt;/p&gt; &lt;p&gt; common names &lt;/p&gt; &lt;p&gt; slimy sculpin,</right>
+  </line>
+  <line refs="doc#922" num="717" label="_">
+    <left>may 30 eyed eggs and small sculpins were found in</left>
+    <kwic> brook_trout</kwic>
+    <right> stomachs. and on july 3, young-of-the-year (15</right>
+  </line>
+  <line refs="doc#922" num="718" label="_">
+    <left>mottled sculpin was most often associated with</left>
+    <kwic> brook_trout</kwic>
+    <right> and found in areas with shaded source waters</right>
+  </line>
+  <line refs="doc#922" num="719" label="_">
+    <left>they are not considered to be destructive of</left>
+    <kwic> brook_trout</kwic>
+    <right> eggs, actually sculpins are known to form a part</right>
+  </line>
+  <line refs="doc#922" num="720" label="_">
+    <left>are known to form a part of the diet of large</left>
+    <kwic> brook_trout</kwic>
+    <right>. &lt;/p&gt; &lt;p&gt; common names &lt;/p&gt; &lt;p&gt; mottled sculpin</right>
+  </line>
+  <line refs="doc#929" num="721" label="_">
+    <left>–coho salmon (oncorhynchus_kisutch),</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis), arctic char (</right>
+  </line>
+  <line refs="doc#931" num="722" label="_">
+    <left>severe stream degradation, and most native</left>
+    <kwic> brook_trout</kwic>
+    <right> and sculpin were extirpated during this time.</right>
+  </line>
+  <line refs="doc#931" num="723" label="_">
+    <left>from improved land use, are now favorable for</left>
+    <kwic> brook_trout</kwic>
+    <right> and sculpin reintroduction. reintroduced</right>
+  </line>
+  <line refs="doc#931" num="724" label="_">
+    <left>and sculpin reintroduction. reintroduced</left>
+    <kwic> brook_trout</kwic>
+    <right> have become established in many southeast</right>
+  </line>
+  <line refs="doc#931" num="725" label="_">
+    <left>minnesota streams; one data set showed that</left>
+    <kwic> brook_trout</kwic>
+    <right> were found in 138 of 259 stream reaches. some of</right>
+  </line>
+  <line refs="doc#931" num="726" label="_">
+    <left>were voluntarily recolonized by migrating</left>
+    <kwic> brook_trout</kwic>
+    <right> from previously-stocked streams. sculpin,</right>
+  </line>
+  <line refs="doc#931" num="727" label="_">
+    <left>, have weaker dispersal capabilities than</left>
+    <kwic> brook_trout</kwic>
+    <right> and are less likely to recolonize areas on their</right>
+  </line>
+  <line refs="doc#931" num="728" label="_">
+    <left>brown_trout and sculpin (but not between</left>
+    <kwic> brook_trout</kwic>
+    <right> and sculpin, zimmerman and vondracek 2003a,b)</right>
+  </line>
+  <line refs="doc#934" num="729" label="_">
+    <left>salmon brown_trout lake_trout (togue)</left>
+    <kwic> brook_trout</kwic>
+    <right> rainbow smelt smallmouth bass largemouth bass</right>
+  </line>
+  <line refs="doc#934" num="730" label="_">
+    <left>fisheries: landlocked salmon, trout,</left>
+    <kwic> brook_trout</kwic>
+    <right>, white perch, smallmouth largemouth bass,</right>
+  </line>
+  <line refs="doc#934" num="731" label="_">
+    <left>of splake will be made in 1993. splake, a</left>
+    <kwic> brook_trout</kwic>
+    <right> and lake_trout hybrid, have provided good</right>
+  </line>
+  <line refs="doc#934" num="732" label="_">
+    <left>good returns to anglers in several maine lakes.</left>
+    <kwic> brook_trout</kwic>
+    <right> and brown_trout are occasionally caught in</right>
+  </line>
+  <line refs="doc#942" num="733" label="_">
+    <left>blueback herring brook stickleback</left>
+    <kwic> brook_trout</kwic>
+    <right> brown bullhead brown_trout burbot central</right>
+  </line>
+  <line refs="doc#942" num="734" label="_">
+    <left>lamprey rgeon shortnose stugeon striped bass</left>
+    <kwic> brook_trout</kwic>
+    <right> brown bullhead brown_trout burbot lake</right>
+  </line>
+  <line refs="doc#942" num="735" label="_">
+    <left>lamprey rgeon shortnose stugeon striped bass</left>
+    <kwic> brook_trout</kwic>
+    <right> brown bullhead brown_trout burbot lake</right>
+  </line>
+  <line refs="doc#942" num="736" label="_">
+    <left>lamprey rgeon shortnose stugeon striped bass</left>
+    <kwic> brook_trout</kwic>
+    <right> brown bullhead brown_trout burbot lake</right>
+  </line>
+  <line refs="doc#942" num="737" label="_">
+    <left>lamprey rgeon shortnose stugeon striped bass</left>
+    <kwic> brook_trout</kwic>
+    <right> brown bullhead brown_trout burbot lake</right>
+  </line>
+  <line refs="doc#942" num="738" label="_">
+    <left>lamprey rgeon shortnose stugeon striped bass</left>
+    <kwic> brook_trout</kwic>
+    <right> brown bullhead brown_trout burbot lake</right>
+  </line>
+  <line refs="doc#943" num="739" label="_">
+    <left>fish that eat slimy sculpin are lake_trout,</left>
+    <kwic> brook_trout</kwic>
+    <right>, salmon, northern pike, and burbot that are</right>
+  </line>
+  <line refs="doc#952" num="740" label="_">
+    <left>alewife american eel atlantic salmon bloater</left>
+    <kwic> brook_trout</kwic>
+    <right> brown_trout burbot chain pickerel chinook</right>
+  </line>
+  <line refs="doc#952" num="741" label="_">
+    <left>splake (1968-1976), kokanee (1968-1972), and</left>
+    <kwic> brook_trout</kwic>
+    <right> (1980-1981). here we review the fish community</right>
+  </line>
+  <line refs="doc#953" num="742" label="_">
+    <left>united states also stocked 326,000 and 106,000</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) in 1980 and 1981,</right>
+  </line>
+  <line refs="doc#959" num="743" label="_">
+    <left>wounds. splake, a fast-growing hybrid between</left>
+    <kwic> brook_trout</kwic>
+    <right> and lake_trout was developed specifically in</right>
+  </line>
+  <line refs="doc#962" num="744" label="_">
+    <left>salmo_salar parr and smolt, and anadromous</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis.-from authors &lt;/p&gt;</right>
+  </line>
+  <line refs="doc#962" num="745" label="_">
+    <left>salmo_salar parr and smolt, and anadromous</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis.-from authors&quot;, &lt;/p&gt;</right>
+  </line>
+  <line refs="doc#962" num="746" label="_">
+    <left>salmo_salar parr and smolt, and anadromous</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis.-from authors &lt;/p&gt;</right>
+  </line>
+  <line refs="doc#962" num="747" label="_">
+    <left>salmo_salar parr and smolt, and anadromous</left>
+    <kwic> brook_trout</kwic>
+    <right> salvelinus_fontinalis.-from authors &lt;/p&gt;</right>
+  </line>
+  <line refs="doc#964" num="748" label="_">
+    <left>), atlantic salmon (salmo_salar),</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) and steelhead trout</right>
+  </line>
+  <line refs="doc#964" num="749" label="_">
+    <left>of buoyancy in young atlantic salmon and</left>
+    <kwic> brook_trout</kwic>
+    <right> by changes in swimbladder volume. j. fish. res.</right>
+  </line>
+  <line refs="doc#964" num="750" label="_">
+    <left>of juvenile atlantic salmon (salmo_salar) and</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) in the field. can. j.</right>
+  </line>
+  <line refs="doc#968" num="751" label="_">
+    <left>black bullhead black crappie bluegill bowfin</left>
+    <kwic> brook_trout</kwic>
+    <right> brown bullhead brown_trout burbot channel</right>
+  </line>
+  <line refs="doc#972" num="752" label="_">
+    <left>temperature on stress, growth and migration in</left>
+    <kwic> brook_trout</kwic>
+    <right> and atlantic salmon. publications &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#972" num="753" label="_">
+    <left>responses correspond to ecological limits in</left>
+    <kwic> brook_trout</kwic>
+    <right>, an iconic cold-water fish. conservation</right>
+  </line>
+  <line refs="doc#972" num="754" label="_">
+    <left>of anadromous and non-anadromous</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) and atlantic salmon</right>
+  </line>
+  <line refs="doc#972" num="755" label="_">
+    <left>. 1985. some determinants of maturation in</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis. aquaculture 43:</right>
+  </line>
+  <line refs="doc#972" num="756" label="_">
+    <left>d. and r.j. naiman. 1984. osmoregulation in the</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis. ii. effects of size,</right>
+  </line>
+  <line refs="doc#972" num="757" label="_">
+    <left>d. and r.j. naiman. 1984. osmoregulation in the</left>
+    <kwic> brook_trout</kwic>
+    <right>, salvelinus_fontinalis. i. diel,</right>
+  </line>
+  <line refs="doc#973" num="758" label="_">
+    <left>c., k.d. fausch, and c. gowan. 1992. movement of</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) in four small</right>
+  </line>
+  <line refs="doc#983" num="759" label="_">
+    <left>for food between black duck (anas rubripes) and</left>
+    <kwic> brook_trout</kwic>
+    <right> (salvelinus_fontinalis) has also been</right>
+  </line>
+  <line refs="doc#990" num="760" label="_">
+    <left>j. &amp; hartman, k. 2001: influence of turbidity on</left>
+    <kwic> brook_trout</kwic>
+    <right> reactive distance and foraging success. –</right>
+  </line>
+  <line refs="doc#1004" num="761" label="_">
+    <left>of crossing a female brown_trout with a male</left>
+    <kwic> brook_trout</kwic>
+    <right>. hybridization can occur naturally, however</right>
+  </line>
+  <line refs="doc#1004" num="762" label="_">
+    <left>&lt;p&gt; tiger trout are sterile hybrids between</left>
+    <kwic> brook_trout</kwic>
+    <right> and brown_trout and cannot reproduce. &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#1004" num="763" label="_">
+    <left>will work. &lt;/p&gt; &lt;p&gt; table quality similar to</left>
+    <kwic> brook_trout</kwic>
+    <right> and brown_trout, the tiger trout's flesh is</right>
+  </line>
+  <line refs="doc#1007" num="764" label="_">
+    <left>and salvelinus, of the salmon family, as the</left>
+    <kwic> brook_trout</kwic>
+    <right> and rainbow trout. &lt;/p&gt; &lt;p&gt; 2. any of several</right>
+  </line>
+  <line refs="doc#1009" num="765" label="_">
+    <left>water are called rainbow trout. arctic char and</left>
+    <kwic> brook_trout</kwic>
+    <right> are part of the char family. trout are an</right>
+  </line>
+  <line refs="doc#1009" num="766" label="_">
+    <left>united states are a good example of this. the</left>
+    <kwic> brook_trout</kwic>
+    <right>, the aurora trout, and the (extinct) silver</right>
+  </line>
+  <line refs="doc#1009" num="767" label="_">
+    <left>&lt;p&gt; lake_trout (salvelinus_namaycush), like</left>
+    <kwic> brook_trout</kwic>
+    <right>, belong to the char genus. lake_trout inhabit</right>
+  </line>
+  <line refs="doc#1009" num="768" label="_">
+    <left>deeper, around 12 feet. rainbow, brown, and</left>
+    <kwic> brook_trout</kwic>
+    <right> are the most common trout species caught</right>
+  </line>
+  <line refs="doc#1009" num="769" label="_">
+    <left>igfa the most outstanding records:[8] &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> caught by dr. w. cook in the nipigon river.</right>
+  </line>
+  <line refs="doc#1010" num="770" label="_">
+    <left>produce hybrids, but non-native cutthroat,</left>
+    <kwic> brook_trout</kwic>
+    <right> and brown_trout have lead to the decline of many</right>
+  </line>
+  <line refs="doc#1010" num="771" label="_">
+    <left>non-native trout such as the brown_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> have also caused their share of problems. brook</right>
+  </line>
+  <line refs="doc#1010" num="772" label="_">
+    <left>in north america there are five species of char:</left>
+    <kwic> brook_trout</kwic>
+    <right>, lake_trout, bull trout, dolly varden and</right>
+  </line>
+  <line refs="doc#1010" num="773" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; salvelinus_malma lordi &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; salvelinus_fontinalis &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#1011" num="774" label="_">
+    <left>the ocean is called a steelhead. arctic char and</left>
+    <kwic> brook_trout</kwic>
+    <right> are part of the char family.[1] &lt;/p&gt; &lt;p&gt; the name</right>
+  </line>
+  <line refs="doc#1011" num="775" label="_">
+    <left>united states are a good example of this. the</left>
+    <kwic> brook_trout</kwic>
+    <right>, the aurora trout, and the (extinct) silver</right>
+  </line>
+  <line refs="doc#1011" num="776" label="_">
+    <left>&lt;p&gt; lake_trout (salvelinus_namaycush), like</left>
+    <kwic> brook_trout</kwic>
+    <right>, belong to the char genus. lake_trout inhabit</right>
+  </line>
+  <line refs="doc#1011" num="777" label="_">
+    <left>igfa the most outstanding records:[8] &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> caught by dr. w. cook in the nipigon river.</right>
+  </line>
+  <line refs="doc#1013" num="778" label="_">
+    <left>, are chars, of the genus salvelinus, the</left>
+    <kwic> brook_trout</kwic>
+    <right> and the lake_trout. &lt;/p&gt; &lt;p&gt; the brown_trout,</right>
+  </line>
+  <line refs="doc#1013" num="779" label="_">
+    <left>anglers, including the splake (lake_trout x</left>
+    <kwic> brook_trout</kwic>
+    <right>), tiger trout (brown_trout x brook_trout),</right>
+  </line>
+  <line refs="doc#1013" num="780" label="_">
+    <left>x brook_trout), tiger trout (brown_trout x</left>
+    <kwic> brook_trout</kwic>
+    <right>), and the palomino trout (golden rainbow trout</right>
+  </line>
+  <line refs="doc#1013" num="781" label="_">
+    <left>introduced rainbows have encroached on native</left>
+    <kwic> brook_trout</kwic>
+    <right> populations. &lt;/p&gt; &lt;p&gt; life history &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#1013" num="782" label="_">
+    <left>species in streams previously dominated by</left>
+    <kwic> brook_trout</kwic>
+    <right>. brown_trout were originally found in eurasia</right>
+  </line>
+  <line refs="doc#1013" num="783" label="_">
+    <left>are considered more difficult to catch than</left>
+    <kwic> brook_trout</kwic>
+    <right>. the larger ones tend to feed at night.</right>
+  </line>
+  <line refs="doc#1013" num="784" label="_">
+    <left>streams may grow only slightly larger than the</left>
+    <kwic> brook_trout</kwic>
+    <right> there. but in more fertile streams brown_trout</right>
+  </line>
+  <line refs="doc#1013" num="785" label="_">
+    <left>siltation and higher water temperatures than</left>
+    <kwic> brook_trout</kwic>
+    <right>. a brown_trout's optimum water temperature</right>
+  </line>
+  <line refs="doc#1013" num="786" label="_">
+    <left>water temperatures in the low 70s. like</left>
+    <kwic> brook_trout</kwic>
+    <right>, they are also somewhat tolerant of acidity.</right>
+  </line>
+  <line refs="doc#1013" num="787" label="_">
+    <left>spawn in the fall, a little later than</left>
+    <kwic> brook_trout</kwic>
+    <right>, when water temperatures are in the mid-40s to</right>
+  </line>
+  <line refs="doc#1013" num="788" label="_">
+    <left>span in the wild can be 10 to 12 years. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; salvelinus_fontinalis &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#1013" num="789" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; species overview &lt;/p&gt; &lt;p&gt; the</left>
+    <kwic> brook_trout</kwic>
+    <right> is pennsylvania's official state fish. it is</right>
+  </line>
+  <line refs="doc#1013" num="790" label="_">
+    <left>most other trout and salmon family members. the</left>
+    <kwic> brook_trout's</kwic>
+    <right> original home was northeastern north america,</right>
+  </line>
+  <line refs="doc#1013" num="791" label="_">
+    <left>species name &quot;fontinalis&quot; means &quot;of springs.&quot;</left>
+    <kwic> brook_trout</kwic>
+    <right> are sometimes called speckled trout,</right>
+  </line>
+  <line refs="doc#1013" num="792" label="_">
+    <left>.&quot; &lt;/p&gt; &lt;p&gt; identification &lt;/p&gt; &lt;p&gt; the</left>
+    <kwic> brook_trout's</kwic>
+    <right> general body color is dark-green. looking</right>
+  </line>
+  <line refs="doc#1013" num="793" label="_">
+    <left>dark blotches on the dorsal and caudal fins. the</left>
+    <kwic> brook_trout's</kwic>
+    <right> tail fin is less forked than that of most trout</right>
+  </line>
+  <line refs="doc#1013" num="794" label="_">
+    <left>belly becomes deeporange. at maturity, wild</left>
+    <kwic> brook_trout</kwic>
+    <right> may be from five inches to 18 inches long,</right>
+  </line>
+  <line refs="doc#1013" num="795" label="_">
+    <left>in the home stream. &lt;/p&gt; &lt;p&gt; habitat &lt;/p&gt; &lt;p&gt; the</left>
+    <kwic> brook_trout</kwic>
+    <right> lives naturally in small, cold, clean streams.</right>
+  </line>
+  <line refs="doc#1013" num="796" label="_">
+    <left>and lakes, as well as instream beaver ponds.</left>
+    <kwic> brook_trout</kwic>
+    <right> are found in pennsylvania as wild populations</right>
+  </line>
+  <line refs="doc#1013" num="797" label="_">
+    <left>, potomac and delaware river watersheds.</left>
+    <kwic> brook_trout</kwic>
+    <right> are also found throughout the state as</right>
+  </line>
+  <line refs="doc#1013" num="798" label="_">
+    <left>, stocked fish. the habitat of wild</left>
+    <kwic> brook_trout</kwic>
+    <right> has been greatly reduced in pennsylvania since</right>
+  </line>
+  <line refs="doc#1013" num="799" label="_">
+    <left>spring-fed streams and cold, mountain creeks.</left>
+    <kwic> brook_trout</kwic>
+    <right> can tolerate relatively acidic waters, but not</right>
+  </line>
+  <line refs="doc#1013" num="800" label="_">
+    <left>over 65 degrees. &lt;/p&gt; &lt;p&gt; life history &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> brook_trout</kwic>
+    <right> spawn in the fall, from mid-september through</right>
+  </line>
+  <line refs="doc#1013" num="801" label="_">
+    <left>long, and produce only a few hundred eggs. a</left>
+    <kwic> brook_trout</kwic>
+    <right> over 18 inches might produce around 4,000 eggs.</right>
+  </line>
+  <line refs="doc#1013" num="802" label="_">
+    <left>eggs. in headwater, infertile streams, few</left>
+    <kwic> brook_trout</kwic>
+    <right> may reach &quot;legal&quot; keeping size for anglers.</right>
+  </line>
+  <line refs="doc#1013" num="803" label="_">
+    <left>reach &quot;legal&quot; keeping size for anglers. large</left>
+    <kwic> brook_trout</kwic>
+    <right> caught by anglers in pennsylvania are mostly</right>
+  </line>
+  <line refs="doc#1013" num="804" label="_">
+    <left>, grown bigger, and become wary of anglers.</left>
+    <kwic> brook_trout</kwic>
+    <right> feed on aquatic and terrestrial insects, both</right>
+  </line>
+  <line refs="doc#1013" num="805" label="_">
+    <left>of artificial flies, lures and natural baits.</left>
+    <kwic> brook_trout</kwic>
+    <right> are relatively short-lived. few survive in the</right>
+  </line>
+  <line refs="doc#1013" num="806" label="_">
+    <left>farther north than pennsylvania. besides the</left>
+    <kwic> brook_trout</kwic>
+    <right>, the lake_trout is the only trout and salmon</right>
+  </line>
+  <line refs="doc#1013" num="807" label="_">
+    <left>, some of which are wavy or wormlike, like the</left>
+    <kwic> brook_trout's</kwic>
+    <right> markings. there is also light speckling on the</right>
+  </line>
+  <line refs="doc#1017" num="808" label="_">
+    <left>','water milfoil','zebra mussel','</left>
+    <kwic>brook_trout</kwic>
+    <right>','pez graso','pearl mullet','sockeye</right>
+  </line>
+  <line refs="doc#1023" num="809" label="_">
+    <left>white, h. c. 1930. some observations on eastern</left>
+    <kwic> brook_trout</kwic>
+    <right> (s. fontinalis) of prince edward island.</right>
+  </line>
+  <line refs="doc#1029" num="810" label="_">
+    <left>| |bluntnose minnow |pimephales notatus | |</left>
+    <kwic>brook_trout</kwic>
+    <right> |salvelinus_fontinalis | |brown bullhead |</right>
+  </line>
+  <line refs="doc#1030" num="811" label="_">
+    <left>| |bluntnose minnow |pimephales notatus | |</left>
+    <kwic>brook_trout</kwic>
+    <right> |salvelinus_fontinalis | |brown bullhead |</right>
+  </line>
+  <line refs="doc#1034" num="812" label="_">
+    <left>oral no effects 0.02-2.8 muscle rainbow trout,</left>
+    <kwic> brook_trout</kwic>
+    <right> 150-200 g, adult water, ip injection2 56</right>
+  </line>
+  <line refs="doc#1034" num="813" label="_">
+    <left>56 effects 0.14-0.7 whole body rainbow trout,</left>
+    <kwic> brook_trout</kwic>
+    <right> 5-15 g water 29-30 no effects 0.09-2.8 muscle,</right>
+  </line>
+  <line refs="doc#1034" num="814" label="_">
+    <left>0.09-2.8 muscle, whole body rainbow trout,</left>
+    <kwic> brook_trout</kwic>
+    <right> 3.1 g - 5 g, adult water 30-455 effects 0.12-0.96</right>
+  </line>
+  <line refs="doc#1034" num="815" label="_">
+    <left>455 no effects 0.5-3.4 muscle rainbow trout,</left>
+    <kwic> brook_trout</kwic>
+    <right> embryo-adult-juvenile water 0.33-720 no</right>
+  </line>
+  <line refs="doc#1034" num="816" label="_">
+    <left>138 g water 0.33 growth no effects 3.4 muscle</left>
+    <kwic> brook_trout</kwic>
+    <right> embryo-adult-juvenile water 720</right>
+  </line>
+  <line refs="doc#1034" num="817" label="_">
+    <left>water 720 reproduction no effects 3.4 muscle</left>
+    <kwic> brook_trout</kwic>
+    <right> embryo-adult-juvenile water 720 survival no</right>
+  </line>
+  <line refs="doc#1034" num="818" label="_">
+    <left>under-yearlings (6.5 g) water rainbow trout,</left>
+    <kwic> brook_trout</kwic>
+    <right> 10-20 mm, juvenile, fingerling,</right>
+  </line>
+  <line refs="doc#1034" num="819" label="_">
+    <left>injection , oral, water 15-273 rainbow trout,</left>
+    <kwic> brook_trout</kwic>
+    <right> 10-20 mm, subadult (100-150 g) ip injection2,</right>
+  </line>
+  <line refs="doc#1034" num="820" label="_">
+    <left>reproduction 224 2, n/a no effects 9.2 muscle</left>
+    <kwic> brook_trout</kwic>
+    <right> yearling-adult water 273 effects 23.5 muscle</right>
+  </line>
+  <line refs="doc#1034" num="821" label="_">
+    <left>yearling-adult water 273 effects 23.5 muscle</left>
+    <kwic> brook_trout</kwic>
+    <right> yearling-adult water 273 appendix f5 – page 21</right>
+  </line>
+  <line refs="doc#1050" num="822" label="_">
+    <left>rainbow trout* atlantic salmon* brown_trout*</left>
+    <kwic> brook_trout</kwic>
+    <right> (coaster - sc) lake_trout siscowet tiger trout</right>
+  </line>
+  <line refs="doc#1050" num="823" label="_">
+    <left>- sc) lake_trout siscowet tiger trout, (</left>
+    <kwic>brook_trout</kwic>
+    <right> x brown_trout) splake (brook_trout x</right>
+  </line>
+  <line refs="doc#1050" num="824" label="_">
+    <left>trout, (brook_trout x brown_trout) splake (</left>
+    <kwic>brook_trout</kwic>
+    <right> x lake_trout) oncorhynchus spp. salvelinus</right>
+  </line>
+  <line refs="doc#1051" num="825" label="_">
+    <left>name of this fish? a. b. c. d. 8. brown_trout</left>
+    <kwic> brook_trout</kwic>
+    <right> rainbow trout artic char this fish prefers to</right>
+  </line>
+  <line refs="doc#1051" num="826" label="_">
+    <left>. cross reproduction between a brown_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> 12. true or false: &quot;this fish is a sterile hybrid</right>
+  </line>
+  <line refs="doc#1051" num="827" label="_">
+    <left>this fish? a. b. c. d. pink salmon lake whitefish</left>
+    <kwic> brook_trout</kwic>
+    <right> lake_trout 35. populations of this fish were</right>
+  </line>
+  <line refs="doc#1051" num="828" label="_">
+    <left>name of this fish? a. b. c. d. 8. brown_trout</left>
+    <kwic> brook_trout</kwic>
+    <right> rainbow trout artic char this fish prefers to</right>
+  </line>
+  <line refs="doc#1051" num="829" label="_">
+    <left>. cross reproduction between a brown_trout and</left>
+    <kwic> brook_trout</kwic>
+    <right> 12. true or false: &quot;this fish is a sterile hybrid</right>
+  </line>
+  <line refs="doc#1051" num="830" label="_">
+    <left>this fish? a. b. c. d. pink salmon lake whitefish</left>
+    <kwic> brook_trout</kwic>
+    <right> lake_trout 35. populations of this fish were</right>
+  </line>
+  <line refs="doc#1069" num="831" label="_">
+    <left>trout salvelinus_fontinalis sivoň potočný</left>
+    <kwic> brook_trout</kwic>
+    <right> hucho_hucho hlavátka podunajská danube</right>
+  </line>
+</concordance>
+</export>

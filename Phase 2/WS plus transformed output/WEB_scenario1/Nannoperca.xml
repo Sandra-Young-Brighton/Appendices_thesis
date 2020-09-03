@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Nannoperca</keyword>
+  <gramrel name="nouns modified by X" hits="40" score="65.570">
+    <coll hits="37" score="13.620">australis</coll>
+    <coll hits="3" score="11.120">obscura</coll>
+  </gramrel>
+</wordsketch>
+</export>

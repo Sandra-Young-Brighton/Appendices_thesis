@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fontinalis</keyword>
+  <gramrel name="modifiers of X" hits="164" score="76.280">
+    <coll hits="163" score="12.330">Salvelinus</coll>
+    <coll hits="1" score="7.630">Lirceus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="1.400">
+    <coll hits="1" score="11.190">commersonii</coll>
+    <coll hits="2" score="6.520">trutta</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="1.860">
+    <coll hits="1" score="12.680">commersonii</coll>
+    <coll hits="3" score="11.880">trutta</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="1.860">
+    <coll hits="3" score="6.750">summer</coll>
+    <coll hits="1" score="3.260">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ameiurus</keyword>
+  <gramrel name="nouns modified by X" hits="8" score="12.120">
+    <coll hits="5" score="13.620">nebulosus</coll>
+    <coll hits="1" score="11.670">natalis</coll>
+    <coll hits="1" score="10.910">Perca</coll>
+    <coll hits="1" score="9.670">auratus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="3.030">
+    <coll hits="1" score="6.580">fish</coll>
+    <coll hits="1" score="6.500">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

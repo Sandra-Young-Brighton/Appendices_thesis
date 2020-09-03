@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Carpiodes_cyprinus</keyword>
+  <gramrel name="X is a type of..." hits="4" score="100.000">
+    <coll hits="1" score="12.680">Salvelinus_confluentus</coll>
+    <coll hits="1" score="10.190">trout</coll>
+    <coll hits="2" score="7.790">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

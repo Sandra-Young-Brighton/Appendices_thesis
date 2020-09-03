@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">limi</keyword>
+  <gramrel name="modifiers of X" hits="9" score="56.250">
+    <coll hits="6" score="13.670" query="w1152507776">Umbra</coll>
+    <coll hits="1" score="11.670" query="w1152507779">atromaculatus</coll>
+    <coll hits="1" score="11.410" query="w1152507777">Umbridae</coll>
+    <coll hits="1" score="10.040" query="w1152507778">Semotilus</coll>
+  </gramrel>
+</wordsketch>
+</export>

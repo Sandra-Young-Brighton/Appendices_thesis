@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ostracoda</keyword>
+  <gramrel name="modifiers of X" hits="4" score="11.430">
+    <coll hits="2" score="13.190">Copepoda</coll>
+    <coll hits="1" score="12.410">Gastropoda</coll>
+    <coll hits="1" score="11.410">Cladocera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="8.570">
+    <coll hits="1" score="12.190">Chironomidae</coll>
+    <coll hits="1" score="11.410">Diptera</coll>
+    <coll hits="1" score="9.410">affinis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="8.570">
+    <coll hits="1" score="12.410">Chironomidae</coll>
+    <coll hits="1" score="11.830">Cladocera</coll>
+    <coll hits="1" score="11.190">Diptera</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.860">
+    <coll hits="1" score="7.730">case</coll>
+  </gramrel>
+</wordsketch>
+</export>

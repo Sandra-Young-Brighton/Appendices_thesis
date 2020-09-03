@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Periplaneta</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="13.040">
+    <coll hits="1" score="13.000" query="w2090651650">brunnea</coll>
+    <coll hits="1" score="13.000" query="w2090651649">fuliginosa</coll>
+    <coll hits="1" score="12.410" query="w2090651648">australasiae</coll>
+  </gramrel>
+</wordsketch>
+</export>

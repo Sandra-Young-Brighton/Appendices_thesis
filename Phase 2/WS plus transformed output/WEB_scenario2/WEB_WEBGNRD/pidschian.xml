@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">pidschian</keyword>
+  <gramrel name="modifiers of X" hits="1" score="14.290">
+    <coll hits="1" score="5.890" query="w2066084672">Coregonus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="42.860">
+    <coll hits="2" score="4.760" query="w2066093504">River</coll>
+    <coll hits="1" score="3.550" query="w2066093505">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

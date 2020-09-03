@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="-j" freq="0">steelhead_trout</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="4.230">
+    <coll hits="2" score="12.290">steelhead</coll>
+    <coll hits="1" score="9.410">salmo_gairdneri</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="2.820">
+    <coll hits="1" score="13.000">oncorhynchus-mykiss</coll>
+    <coll hits="1" score="6.710">other</coll>
+  </gramrel>
+  <gramrel name="X is a ..." hits="1" score="1.410">
+    <coll hits="1" score="13.410">rainbow_trout</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="5.630">
+    <coll hits="1" score="10.910">editor</coll>
+    <coll hits="2" score="8.160">action</coll>
+    <coll hits="1" score="2.630">river</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="1.410">
+    <coll hits="1" score="11.000">steelhead</coll>
+  </gramrel>
+</wordsketch>
+</export>

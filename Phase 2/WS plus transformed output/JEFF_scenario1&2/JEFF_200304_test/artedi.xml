@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">artedi</keyword>
+  <gramrel name="modifiers of X" hits="12" score="15.190">
+    <coll hits="1" score="11.190">Leucichthys</coll>
+    <coll hits="1" score="10.240">Salmonidae</coll>
+    <coll hits="10" score="10.130">Coregonus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.270">
+    <coll hits="1" score="13.990">sardinella</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="7.590">
+    <coll hits="2" score="7.340">history</coll>
+    <coll hits="1" score="6.790">field</coll>
+    <coll hits="2" score="6.260">Lake</coll>
+    <coll hits="1" score="6.160">C</coll>
+  </gramrel>
+</wordsketch>
+</export>

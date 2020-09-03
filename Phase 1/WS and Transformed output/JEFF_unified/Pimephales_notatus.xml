@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pimephales_notatus</keyword>
+  <gramrel name="modifiers of X" hits="5" score="26.320">
+    <coll hits="1" score="11.990">Pimephales_promelas</coll>
+    <coll hits="4" score="10.790">minnow</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.260">
+    <coll hits="1" score="13.990">Cyprinus_carpio</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="15.790">
+    <coll hits="1" score="13.000">Etheostoma_spectabile</coll>
+    <coll hits="1" score="13.000">Cyprinus_carpio</coll>
+    <coll hits="1" score="12.680">Etheostoma_nigrum</coll>
+  </gramrel>
+</wordsketch>
+</export>

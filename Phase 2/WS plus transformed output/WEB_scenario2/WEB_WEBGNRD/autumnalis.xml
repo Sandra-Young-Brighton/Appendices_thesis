@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">autumnalis</keyword>
+  <gramrel name="modifiers of X" hits="17" score="34.000">
+    <coll hits="1" score="10.820" query="w1977881218">romanzoffiana</coll>
+    <coll hits="1" score="10.750" query="w1977881217">lavaretus</coll>
+    <coll hits="15" score="9.750" query="w1977881216">Coregonus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="2.000">
+    <coll hits="1" score="8.540" query="w1977913152">albula</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.000">
+    <coll hits="1" score="13.990" query="w1977870016">albula</coll>
+  </gramrel>
+</wordsketch>
+</export>

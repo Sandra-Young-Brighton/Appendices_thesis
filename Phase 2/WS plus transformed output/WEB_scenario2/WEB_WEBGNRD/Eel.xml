@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Eel</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="0.550">
+    <coll hits="1" score="8.850" query="w1267642436">Aquaculture</coll>
+    <coll hits="1" score="7.180" query="w1267642435">aquaculture</coll>
+    <coll hits="1" score="5.840" query="w1267642434">Ontario</coll>
+    <coll hits="1" score="5.390" query="w1267642433">Creek</coll>
+    <coll hits="1" score="4.400" query="w1267642432">level</coll>
+  </gramrel>
+</wordsketch>
+</export>

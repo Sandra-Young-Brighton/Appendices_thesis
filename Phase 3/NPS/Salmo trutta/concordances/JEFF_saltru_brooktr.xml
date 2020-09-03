@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_saltrut_lower_tagged</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="1">[ws(2, 12122880)]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#399" num="0" label="_">
+    <left>relatively stable flows throughout the year. within a given branch, physical habitat variables including water depth, stream width and substrate size vary by channel unit habitat types (table 2; thompson 2004). across the watershed, pool habitat units averaged 16.5 m, riffles 19.1 m and runs 22.0 m in length. the pine river contains at least 40 species of fish (thomas 2001). the stream network upstream of the confluence of the south and main branches is dominated by cold- water species including naturalised juvenile steelhead and brown_trout</left>
+    <kwic>salmo_trutta</kwic>
+    <right>, brook_trout , mottled sculpin cottus bairdii and northern brook lamprey steelhead movement modelling fig. 1. location of the pine river watershed within michigan and movement study site locations. main branch designation begins at the confluence of the east and west branches. letter designation of sites corresponds to sites listed in table 1. ichthyomyzon fossor. the fish community in the lower watershed is more diverse with high abundances of several darters species (etheostoma and percina sp.) and cyprinidae species (thomas 2001). field experiment design a total of 19 field</right>
+  </line>
+</concordance>
+</export>

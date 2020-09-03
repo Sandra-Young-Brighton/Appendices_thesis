@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">atratulus</keyword>
+  <gramrel name="modifiers of X" hits="12" score="57.140">
+    <coll hits="12" score="13.030" query="w1806896128">Rhinichthys</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="4.760">
+    <coll hits="1" score="13.410" query="w1806882688">cognatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

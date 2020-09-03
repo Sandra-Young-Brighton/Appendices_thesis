@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">kisutch</keyword>
+  <gramrel name="modifiers of X" hits="208" score="68.200">
+    <coll hits="196" score="11.980" query="w125196992">Oncorhynchus</coll>
+    <coll hits="3" score="8.820" query="w125196995">Oncorhyncus</coll>
+    <coll hits="2" score="8.260" query="w125196999">Oncorynchus</coll>
+    <coll hits="2" score="8.090" query="w125196996">Onchorhynchus</coll>
+    <coll hits="1" score="7.290" query="w125196998">tschawytscha</coll>
+    <coll hits="1" score="7.290" query="w125197000">Oncoryhnchus</coll>
+    <coll hits="1" score="7.290" query="w125196997">Onchorynchus</coll>
+    <coll hits="1" score="7.290" query="w125196994">harengus</coll>
+    <coll hits="1" score="7.200" query="w125196993">mykiss</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.330">
+    <coll hits="1" score="10.910" query="w125276160">symmetricus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="0.660">
+    <coll hits="1" score="13.410" query="w125179776">tshawytscha</coll>
+    <coll hits="1" score="12.680" query="w125179777">symmetricus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="9" score="2.950">
+    <coll hits="1" score="10.410" query="w125286277">dimorphism</coll>
+    <coll hits="1" score="8.430" query="w125286275">Oregon</coll>
+    <coll hits="4" score="8.350" query="w125286276">catchment</coll>
+    <coll hits="1" score="6.850" query="w125286274">function</coll>
+    <coll hits="1" score="6.770" query="w125286273">infection</coll>
+    <coll hits="1" score="3.750" query="w125286272">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">nerka</keyword>
+  <gramrel name="modifiers of X" hits="189" score="74.700">
+    <coll hits="182" score="11.900">Oncorhynchus</coll>
+    <coll hits="4" score="9.250">Onchorhynchus</coll>
+    <coll hits="1" score="7.420">kiyi</coll>
+    <coll hits="1" score="7.350">Oncorhyncus</coll>
+    <coll hits="1" score="5.580">Coregonus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.400">
+    <coll hits="1" score="9.240">gorbuscha</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.400">
+    <coll hits="1" score="13.990">gorbuscha</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="1.580">
+    <coll hits="3" score="9.800">resident</coll>
+    <coll hits="1" score="6.010">relation</coll>
+  </gramrel>
+</wordsketch>
+</export>

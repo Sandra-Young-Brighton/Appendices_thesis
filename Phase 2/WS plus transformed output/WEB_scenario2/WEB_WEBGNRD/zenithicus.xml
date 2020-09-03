@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">zenithicus</keyword>
+  <gramrel name="modifiers of X" hits="5" score="83.330">
+    <coll hits="1" score="12.190" query="w2130478401">kiyi</coll>
+    <coll hits="4" score="7.880" query="w2130478400">Coregonus</coll>
+  </gramrel>
+</wordsketch>
+</export>

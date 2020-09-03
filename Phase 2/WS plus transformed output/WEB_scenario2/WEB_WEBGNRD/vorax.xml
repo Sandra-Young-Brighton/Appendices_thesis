@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">vorax</keyword>
+  <gramrel name="modifiers of X" hits="2" score="100.000">
+    <coll hits="2" score="11.750" query="w2141300416">Aspius</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="100.000">
+    <coll hits="1" score="12.190" query="w2141312129">Marsh</coll>
+    <coll hits="1" score="8.870" query="w2141312128">marsh</coll>
+  </gramrel>
+</wordsketch>
+</export>

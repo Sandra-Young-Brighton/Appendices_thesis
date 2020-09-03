@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">aculeatus</keyword>
+  <gramrel name="modifiers of X" hits="265" score="66.250">
+    <coll hits="254" score="13.960" query="w123949632">Gasterosteus</coll>
+    <coll hits="4" score="8.930" query="w123949638">Gastemsteus</coll>
+    <coll hits="1" score="6.940" query="w123949640">Gasterostreus</coll>
+    <coll hits="1" score="6.940" query="w123949639">proximus</coll>
+    <coll hits="1" score="6.940" query="w123949637">asper</coll>
+    <coll hits="1" score="6.930" query="w123949633">pungitius</coll>
+    <coll hits="1" score="6.900" query="w123949635">Lucius</coll>
+    <coll hits="1" score="6.890" query="w123949634">fluviatilis</coll>
+    <coll hits="1" score="5.630" query="w123949636">Cottus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="6" score="1.500">
+    <coll hits="2" score="12.410" query="w124027586">Gasterosteidae</coll>
+    <coll hits="1" score="11.190" query="w124027587">peregra</coll>
+    <coll hits="2" score="10.090" query="w124027585">pungitius</coll>
+    <coll hits="1" score="5.520" query="w124027584">mykiss</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="12" score="3.000">
+    <coll hits="7" score="13.550" query="w123894337">pungitius</coll>
+    <coll hits="2" score="12.090" query="w123894338">Gasterosteidae</coll>
+    <coll hits="1" score="11.300" query="w123894340">pungitus</coll>
+    <coll hits="1" score="10.910" query="w123894339">phoxinus</coll>
+    <coll hits="1" score="10.600" query="w123894336">mykiss</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="18" score="4.500">
+    <coll hits="1" score="10.680" query="w124067147">M3</coll>
+    <coll hits="1" score="10.680" query="w124067146">Hebrides</coll>
+    <coll hits="1" score="9.610" query="w124067145">Hokkaido</coll>
+    <coll hits="1" score="8.350" query="w124067142">Northwest</coll>
+    <coll hits="4" score="7.970" query="w124067143">relation</coll>
+    <coll hits="4" score="7.920" query="w124067139">Canada</coll>
+    <coll hits="1" score="7.580" query="w124067136">spp.</coll>
+    <coll hits="1" score="7.500" query="w124067144">wetland</coll>
+    <coll hits="1" score="5.340" query="w124067141">model</coll>
+    <coll hits="1" score="4.150" query="w124067138">site</coll>
+    <coll hits="1" score="3.780" query="w124067140">habitat</coll>
+    <coll hits="1" score="3.750" query="w124067137">River</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.250">
+    <coll hits="1" score="13.990" query="w124182208">stickleback</coll>
+  </gramrel>
+</wordsketch>
+</export>

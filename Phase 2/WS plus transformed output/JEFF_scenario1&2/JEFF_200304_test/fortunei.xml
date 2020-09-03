@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fortunei</keyword>
+  <gramrel name="modifiers of X" hits="9" score="28.130">
+    <coll hits="9" score="13.920">Limnoperna</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="6.250">
+    <coll hits="2" score="13.990">fluminea</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="3.130">
+    <coll hits="1" score="6.680">P</coll>
+  </gramrel>
+</wordsketch>
+</export>

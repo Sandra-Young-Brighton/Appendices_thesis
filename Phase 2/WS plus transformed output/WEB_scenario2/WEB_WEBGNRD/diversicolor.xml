@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">diversicolor</keyword>
+  <gramrel name="modifiers of X" hits="2" score="25.000">
+    <coll hits="2" score="12.290" query="w2087268224">Haliotis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="12.500">
+    <coll hits="1" score="13.410" query="w2087285312">laevigata</coll>
+  </gramrel>
+</wordsketch>
+</export>

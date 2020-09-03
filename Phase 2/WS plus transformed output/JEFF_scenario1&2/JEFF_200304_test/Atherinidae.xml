@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Atherinidae</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="2.220">
+    <coll hits="1" score="13.990">Atherinopsidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.220">
+    <coll hits="1" score="13.990">Atherinopsidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.220">
+    <coll hits="1" score="8.710">reference</coll>
+  </gramrel>
+</wordsketch>
+</export>

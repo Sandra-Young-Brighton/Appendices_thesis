@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">mayflies</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="3.780">
+    <coll hits="1" score="11.410">Moscow</coll>
+    <coll hits="1" score="9.710">North</coll>
+    <coll hits="1" score="8.460">i</coll>
+    <coll hits="1" score="8.330">oxygen</coll>
+    <coll hits="1" score="7.070">technique</coll>
+    <coll hits="1" score="7.020">project</coll>
+    <coll hits="1" score="4.360">predator</coll>
+  </gramrel>
+</wordsketch>
+</export>

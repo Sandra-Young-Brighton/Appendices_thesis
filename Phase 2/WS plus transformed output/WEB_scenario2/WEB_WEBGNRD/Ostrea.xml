@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ostrea</keyword>
+  <gramrel name="nouns modified by X" hits="14" score="93.330">
+    <coll hits="3" score="12.260" query="w2086784194">angasi</coll>
+    <coll hits="3" score="12.120" query="w2086784193">chilensis</coll>
+    <coll hits="2" score="11.910" query="w2086784196">puelchana</coll>
+    <coll hits="2" score="11.910" query="w2086784195">denselamellosa</coll>
+    <coll hits="3" score="11.670" query="w2086784192">edulis</coll>
+    <coll hits="1" score="11.000" query="w2086784197">capsa</coll>
+  </gramrel>
+</wordsketch>
+</export>

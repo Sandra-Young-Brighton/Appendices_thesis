@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Anas</keyword>
+  <gramrel name="nouns modified by X" hits="9" score="31.030">
+    <coll hits="5" score="13.510" query="w1954252545">crecca</coll>
+    <coll hits="2" score="12.540" query="w1954252544">platyrhynchos</coll>
+    <coll hits="1" score="11.670" query="w1954252546">arnencana</coll>
+    <coll hits="1" score="11.300" query="w1954252547">platyrhynchus</coll>
+  </gramrel>
+</wordsketch>
+</export>

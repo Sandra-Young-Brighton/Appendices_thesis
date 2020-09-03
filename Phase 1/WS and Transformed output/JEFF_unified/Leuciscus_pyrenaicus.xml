@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Leuciscus_pyrenaicus</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="16.670">
+    <coll hits="1" score="13.410">Tropidophoxinellus_alburnoides</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="33.330">
+    <coll hits="2" score="7.630">catchment</coll>
+  </gramrel>
+</wordsketch>
+</export>

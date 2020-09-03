@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_sanluc_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">sander</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="6.900">
+    <coll hits="2" score="7.570">erie</coll>
+  </gramrel>
+</wordsketch>
+</export>

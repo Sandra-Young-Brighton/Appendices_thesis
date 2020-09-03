@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Amazonia</keyword>
+  <gramrel name="modifiers of X" hits="3" score="18.750">
+    <coll hits="3" score="13.990">Pesquisa_da</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="12.500">
+    <coll hits="1" score="13.410">ENSO-indice</coll>
+    <coll hits="1" score="4.600">time</coll>
+  </gramrel>
+</wordsketch>
+</export>

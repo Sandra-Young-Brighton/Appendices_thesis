@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">flabellare</keyword>
+  <gramrel name="modifiers of X" hits="18" score="43.900">
+    <coll hits="17" score="12.060">Etheostoma</coll>
+    <coll hits="1" score="10.680">spectabile</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="9.760">
+    <coll hits="1" score="8.430">locality</coll>
+    <coll hits="3" score="5.370">site</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="2.440">
+    <coll hits="1" score="13.410">Catonotus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Vallisneria</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="4.690">
+    <coll hits="3" score="13.990">americuna</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.560">
+    <coll hits="1" score="8.100">macroinvertebrate</coll>
+  </gramrel>
+</wordsketch>
+</export>

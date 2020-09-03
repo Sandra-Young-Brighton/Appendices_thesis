@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">penicillatus</keyword>
+  <gramrel name="modifiers of X" hits="4" score="23.530">
+    <coll hits="2" score="12.830" query="w1952239362">Hemigrapsus</coll>
+    <coll hits="1" score="12.190" query="w1952239361">Ranunculus</coll>
+    <coll hits="1" score="10.680" query="w1952239360">Phalacrocorax</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.880">
+    <coll hits="1" score="13.990" query="w1952228352">takanoi</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="11.760">
+    <coll hits="1" score="13.000" query="w1952262721">erectum</coll>
+    <coll hits="1" score="13.000" query="w1952262720">Sparganium</coll>
+  </gramrel>
+</wordsketch>
+</export>

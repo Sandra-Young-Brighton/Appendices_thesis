@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">namaycush</keyword>
+  <gramrel name="modifiers of X" hits="194" score="82.910">
+    <coll hits="189" score="12.240">Salvelinus</coll>
+    <coll hits="1" score="7.380">auratus</coll>
+    <coll hits="1" score="7.380">dolomieu</coll>
+    <coll hits="1" score="7.330">thymallus</coll>
+    <coll hits="1" score="7.320">Pagrus</coll>
+    <coll hits="1" score="6.910">Micropterus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="5" score="2.140">
+    <coll hits="1" score="9.750">Salmonidae</coll>
+    <coll hits="4" score="9.180">fontinalis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="1.710">
+    <coll hits="4" score="13.670">fontinalis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="2.140">
+    <coll hits="2" score="8.920">Superior</coll>
+    <coll hits="1" score="7.530">purpose</coll>
+    <coll hits="1" score="5.830">Lakes</coll>
+    <coll hits="1" score="3.080">water</coll>
+  </gramrel>
+</wordsketch>
+</export>

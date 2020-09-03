@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Micropterus</keyword>
+  <gramrel name="nouns modified by X" hits="77" score="20.870">
+    <coll hits="52" score="13.690">dolomieu</coll>
+    <coll hits="16" score="12.460">dolomieui</coll>
+    <coll hits="6" score="11.200">punctulatus</coll>
+    <coll hits="1" score="8.570">Percina</coll>
+    <coll hits="1" score="8.330">spp</coll>
+    <coll hits="1" score="6.910">namaycush</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.270">
+    <coll hits="1" score="11.830">Centrarchidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

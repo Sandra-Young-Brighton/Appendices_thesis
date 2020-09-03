@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">splendida</keyword>
+  <gramrel name="modifiers of X" hits="3" score="100.000">
+    <coll hits="1" score="13.000" query="w1921978114">macrolepidotus</coll>
+    <coll hits="1" score="13.000" query="w1921978113">Petenia</coll>
+    <coll hits="1" score="13.000" query="w1921978112">Melanotaenia</coll>
+  </gramrel>
+</wordsketch>
+</export>

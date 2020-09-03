@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Bosmina</keyword>
+  <gramrel name="modifiers of X" hits="6" score="6.250">
+    <coll hits="1" score="11.670">Diaphanosoma</coll>
+    <coll hits="4" score="11.350">Daphnia</coll>
+    <coll hits="1" score="10.350">Cladocera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="17" score="17.710">
+    <coll hits="5" score="12.790">Chydorus</coll>
+    <coll hits="3" score="12.260">coregoni</coll>
+    <coll hits="3" score="11.260">pulex</coll>
+    <coll hits="2" score="11.190">longispina</coll>
+    <coll hits="1" score="10.820">Daphnia</coll>
+    <coll hits="1" score="10.750">Leptodora</coll>
+    <coll hits="1" score="10.680">Ceriodaphnia</coll>
+    <coll hits="1" score="9.610">spp</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="11" score="11.460">
+    <coll hits="8" score="13.610">Chydorus</coll>
+    <coll hits="2" score="12.290">Daphnia</coll>
+    <coll hits="1" score="11.090">Ceriodaphnia</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="4" score="4.170">
+    <coll hits="1" score="12.680">Tab</coll>
+    <coll hits="1" score="12.680">2</coll>
+    <coll hits="1" score="12.410">biomass</coll>
+    <coll hits="1" score="11.990">number</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="2.080">
+    <coll hits="2" score="13.000">Cladocera</coll>
+  </gramrel>
+</wordsketch>
+</export>

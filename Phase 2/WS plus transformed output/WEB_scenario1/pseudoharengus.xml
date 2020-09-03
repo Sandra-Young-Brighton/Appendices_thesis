@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">pseudoharengus</keyword>
+  <gramrel name="modifiers of X" hits="61" score="85.920">
+    <coll hits="59" score="13.200">Alosa</coll>
+    <coll hits="1" score="9.040">Clupeidae</coll>
+    <coll hits="1" score="9.020">mordax</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="4.230">
+    <coll hits="3" score="13.990">hoyi</coll>
+  </gramrel>
+</wordsketch>
+</export>

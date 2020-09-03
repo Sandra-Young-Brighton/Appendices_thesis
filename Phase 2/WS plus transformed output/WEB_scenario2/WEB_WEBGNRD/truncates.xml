@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">truncates</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="37.500">
+    <coll hits="1" score="9.950" query="w1784774021">LKWH</coll>
+    <coll hits="1" score="7.930" query="w1784774020">patch</coll>
+    <coll hits="1" score="6.740" query="w1784774018">L</coll>
+    <coll hits="1" score="6.110" query="w1784774017">side</coll>
+    <coll hits="1" score="5.830" query="w1784774019">scale</coll>
+    <coll hits="1" score="5.000" query="w1784774016">age</coll>
+  </gramrel>
+</wordsketch>
+</export>

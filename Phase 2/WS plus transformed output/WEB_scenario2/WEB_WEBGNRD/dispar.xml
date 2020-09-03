@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">dispar</keyword>
+  <gramrel name="modifiers of X" hits="10" score="47.620">
+    <coll hits="5" score="13.410" query="w1898435011">Ecdyonurus</coll>
+    <coll hits="2" score="12.410" query="w1898435009">macrura</coll>
+    <coll hits="1" score="10.750" query="w1898435010">Aphanius</coll>
+    <coll hits="2" score="10.110" query="w1898435008">Fundulus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="9.520">
+    <coll hits="2" score="13.190" query="w1898484608">sulphurea</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="9.520">
+    <coll hits="2" score="13.990" query="w1898415936">sulphurea</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="9.520">
+    <coll hits="1" score="8.960" query="w1898503744">Republic</coll>
+    <coll hits="1" score="7.700" query="w1898503745">Portugal</coll>
+  </gramrel>
+</wordsketch>
+</export>

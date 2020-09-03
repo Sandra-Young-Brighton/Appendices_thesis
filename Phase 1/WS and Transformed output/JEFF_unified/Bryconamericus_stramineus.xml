@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Bryconamericus_stramineus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="25.000">
+    <coll hits="1" score="4.310">fish</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="25.000">
+    <coll hits="1" score="13.410">Cichla_spp</coll>
+  </gramrel>
+</wordsketch>
+</export>

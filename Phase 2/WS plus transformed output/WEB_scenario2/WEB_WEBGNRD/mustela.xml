@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">mustela</keyword>
+  <gramrel name="modifiers of X" hits="4" score="50.000">
+    <coll hits="4" score="13.830" query="w2101775104">Ciliata</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="25.000">
+    <coll hits="2" score="12.290" query="w2101790592">Gadidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="12.500">
+    <coll hits="1" score="13.000" query="w2101765440">Gadidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

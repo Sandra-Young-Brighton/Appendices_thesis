@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Melanotaenia_australis</keyword>
+  <gramrel name="modifiers of X" hits="1" score="16.670">
+    <coll hits="1" score="13.990">Amniataba_percoides</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="16.670">
+    <coll hits="1" score="13.990">Glossogobius_aureus</coll>
+  </gramrel>
+</wordsketch>
+</export>

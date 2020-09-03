@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">melanogaster</keyword>
+  <gramrel name="modifiers of X" hits="6" score="37.500">
+    <coll hits="5" score="13.860" query="w1637958657">Drosophila</coll>
+    <coll hits="1" score="10.040" query="w1637958656">Diptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="12.500">
+    <coll hits="2" score="13.990" query="w1637941760">elegans</coll>
+  </gramrel>
+</wordsketch>
+</export>

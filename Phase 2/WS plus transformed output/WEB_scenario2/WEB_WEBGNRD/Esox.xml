@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Esox</keyword>
+  <gramrel name="nouns modified by X" hits="34" score="5.470">
+    <coll hits="18" score="13.470" query="w1117105410">masquinongy</coll>
+    <coll hits="10" score="12.860" query="w1117105411">lucius</coll>
+    <coll hits="4" score="10.950" query="w1117105412">americanus</coll>
+    <coll hits="1" score="9.480" query="w1117105408">Lucius</coll>
+    <coll hits="1" score="9.410" query="w1117105409">Cyprinidae</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="0.320">
+    <coll hits="2" score="13.410" query="w1117153920">Esocidae</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.160">
+    <coll hits="1" score="13.410" query="w1117159168">fluviatilis</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Siluriformes</keyword>
+  <gramrel name="modifiers of X" hits="11" score="42.310">
+    <coll hits="9" score="13.710" query="w2030848258">Otophysi</coll>
+    <coll hits="1" score="11.410" query="w2030848257">Clariidae</coll>
+    <coll hits="1" score="11.410" query="w2030848256">gariepinus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="8" score="30.770">
+    <coll hits="2" score="12.410" query="w2030876994">Hypophthalmidae</coll>
+    <coll hits="1" score="11.830" query="w2030876996">Ariidae</coll>
+    <coll hits="1" score="11.830" query="w2030876995">Siluroidei</coll>
+    <coll hits="1" score="11.670" query="w2030876998">Trichomycteridae</coll>
+    <coll hits="1" score="11.670" query="w2030876993">Clariidae</coll>
+    <coll hits="1" score="11.410" query="w2030876997">Otophysi</coll>
+    <coll hits="1" score="11.300" query="w2030876992">Ictaluridae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="8" score="30.770">
+    <coll hits="2" score="12.410" query="w2030785730">Hypophthalmidae</coll>
+    <coll hits="1" score="11.830" query="w2030785733">Otophysi</coll>
+    <coll hits="1" score="11.830" query="w2030785732">Ariidae</coll>
+    <coll hits="1" score="11.830" query="w2030785731">Siluroidei</coll>
+    <coll hits="1" score="11.670" query="w2030785734">Trichomycteridae</coll>
+    <coll hits="1" score="11.670" query="w2030785729">Clariidae</coll>
+    <coll hits="1" score="11.670" query="w2030785728">Ictaluridae</coll>
+  </gramrel>
+</wordsketch>
+</export>

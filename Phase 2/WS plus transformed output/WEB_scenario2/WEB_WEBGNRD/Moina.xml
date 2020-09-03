@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Moina</keyword>
+  <gramrel name="nouns modified by X" hits="8" score="33.330">
+    <coll hits="3" score="13.000" query="w1919699714">minuta</coll>
+    <coll hits="3" score="13.000" query="w1919699713">micrura</coll>
+    <coll hits="2" score="12.680" query="w1919699712">macrocopa</coll>
+  </gramrel>
+</wordsketch>
+</export>

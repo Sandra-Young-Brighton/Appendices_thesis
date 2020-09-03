@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">sinensis</keyword>
+  <gramrel name="modifiers of X" hits="11" score="31.430">
+    <coll hits="5" score="13.230" query="w1436373442">Clonorchis</coll>
+    <coll hits="5" score="13.230" query="w1436373441">Eriocheir</coll>
+    <coll hits="1" score="8.550" query="w1436373440">Acipenser</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="5.710">
+    <coll hits="1" score="13.000" query="w1436402817">viverrini</coll>
+    <coll hits="1" score="13.000" query="w1436402816">Cambaridae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.860">
+    <coll hits="1" score="13.990" query="w1436362496">viverrini</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="5.710">
+    <coll hits="1" score="13.000" query="w1436426561">Dümmer</coll>
+    <coll hits="1" score="7.930" query="w1436426560">Sweden</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="5.710">
+    <coll hits="1" score="11.670" query="w1436444609">amazonicum</coll>
+    <coll hits="1" score="11.540" query="w1436444608">Macrobrachium</coll>
+  </gramrel>
+</wordsketch>
+</export>

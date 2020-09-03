@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Percidae</keyword>
+  <gramrel name="modifiers of X" hits="6" score="6.980">
+    <coll hits="1" score="12.190">Etheostoma</coll>
+    <coll hits="1" score="11.830">Gobiidae</coll>
+    <coll hits="1" score="11.830">Poeciliidae</coll>
+    <coll hits="1" score="11.190">Cyprinidae</coll>
+    <coll hits="1" score="7.590">perch</coll>
+    <coll hits="1" score="4.310">fish</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="12" score="13.950">
+    <coll hits="2" score="12.190">Sander_vitreus</coll>
+    <coll hits="3" score="11.580">Perca_flavescens</coll>
+    <coll hits="2" score="11.300">Salmonidae</coll>
+    <coll hits="1" score="11.190">Percina_spp</coll>
+    <coll hits="1" score="11.090">Siluridae</coll>
+    <coll hits="1" score="10.820">Teleostei</coll>
+    <coll hits="1" score="10.410">Cyprinidae</coll>
+    <coll hits="1" score="4.420">specie</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="6.980">
+    <coll hits="2" score="13.000">Sander_vitreus</coll>
+    <coll hits="2" score="11.610">Perca_flavescens</coll>
+    <coll hits="1" score="11.410">Teleostei</coll>
+    <coll hits="1" score="10.910">Cyprinidae</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="2.330">
+    <coll hits="1" score="11.990">Perca</coll>
+    <coll hits="1" score="9.870">perch</coll>
+  </gramrel>
+</wordsketch>
+</export>

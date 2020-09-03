@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">latum</keyword>
+  <gramrel name="modifiers of X" hits="6" score="100.000">
+    <coll hits="5" score="12.860" query="w2095608577">Diphyllobothrium</coll>
+    <coll hits="1" score="12.190" query="w2095608576">tubifex</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="16.670">
+    <coll hits="1" score="13.990" query="w2095597888">crassus</coll>
+  </gramrel>
+</wordsketch>
+</export>

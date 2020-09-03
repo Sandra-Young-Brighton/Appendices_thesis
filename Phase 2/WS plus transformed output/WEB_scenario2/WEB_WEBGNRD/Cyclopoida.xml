@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cyclopoida</keyword>
+  <gramrel name="modifiers of X" hits="1" score="5.260">
+    <coll hits="1" score="13.990" query="w1912809920">Calanoida</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.260">
+    <coll hits="1" score="13.410" query="w1912818752">Calanoida</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="10.530">
+    <coll hits="2" score="13.670" query="w1912800704">Calanoida</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="5.260">
+    <coll hits="1" score="6.530" query="w1912827776">stomach</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="5.260">
+    <coll hits="1" score="13.410" query="w1912839296">Hydracarina</coll>
+  </gramrel>
+</wordsketch>
+</export>

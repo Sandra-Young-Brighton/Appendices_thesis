@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cichla_spp</keyword>
+  <gramrel name="modifiers of X" hits="2" score="33.330">
+    <coll hits="1" score="13.410">Bryconamericus_stramineus</coll>
+    <coll hits="1" score="11.670">Perciformes</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="16.670">
+    <coll hits="1" score="6.810">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

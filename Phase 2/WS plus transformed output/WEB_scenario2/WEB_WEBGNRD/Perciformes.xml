@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Perciformes</keyword>
+  <gramrel name="modifiers of X" hits="1" score="1.960">
+    <coll hits="1" score="11.540" query="w1959441856">Osteichthyes</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="9" score="17.650">
+    <coll hits="4" score="13.190" query="w1959450817">Sciaenidae</coll>
+    <coll hits="2" score="12.540" query="w1959450819">Pinguipedidae</coll>
+    <coll hits="1" score="11.670" query="w1959450820">Percichthyidae</coll>
+    <coll hits="1" score="11.670" query="w1959450818">Centropomidae</coll>
+    <coll hits="1" score="11.410" query="w1959450816">Moronidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="8" score="15.690">
+    <coll hits="4" score="13.190" query="w1959395520">Sciaenidae</coll>
+    <coll hits="2" score="12.680" query="w1959395522">Pinguipedidae</coll>
+    <coll hits="1" score="11.830" query="w1959395523">Percichthyidae</coll>
+    <coll hits="1" score="11.830" query="w1959395521">Centropomidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

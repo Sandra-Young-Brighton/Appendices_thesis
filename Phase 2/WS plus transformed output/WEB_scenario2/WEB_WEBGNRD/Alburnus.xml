@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Alburnus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="1.790">
+    <coll hits="1" score="6.930" query="w2025867968">Rutilus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="33" score="58.930">
+    <coll hits="29" score="13.770" query="w2025878848">alburnus</coll>
+    <coll hits="2" score="10.870" query="w2025878850">mosulensis</coll>
+    <coll hits="1" score="9.910" query="w2025878851">molunensis</coll>
+    <coll hits="1" score="9.830" query="w2025878849">Blicca</coll>
+  </gramrel>
+</wordsketch>
+</export>

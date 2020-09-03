@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Scorpaeniformes</keyword>
+  <gramrel name="modifiers of X" hits="2" score="7.410">
+    <coll hits="2" score="12.830">Osteichthyes</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="3.700">
+    <coll hits="1" score="13.410">Cottus</coll>
+  </gramrel>
+</wordsketch>
+</export>

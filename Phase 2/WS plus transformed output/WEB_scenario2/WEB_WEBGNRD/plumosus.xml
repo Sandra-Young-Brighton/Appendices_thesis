@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">plumosus</keyword>
+  <gramrel name="modifiers of X" hits="8" score="47.060">
+    <coll hits="6" score="12.880" query="w2166477568">Chironomus</coll>
+    <coll hits="1" score="11.830" query="w2166477570">Ckironomus</coll>
+    <coll hits="1" score="11.830" query="w2166477569">Tendipes</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.880">
+    <coll hits="1" score="13.990" query="w2166467776">Rheotanytarsus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="5.880">
+    <coll hits="1" score="4.650" query="w2166502720">condition</coll>
+  </gramrel>
+</wordsketch>
+</export>

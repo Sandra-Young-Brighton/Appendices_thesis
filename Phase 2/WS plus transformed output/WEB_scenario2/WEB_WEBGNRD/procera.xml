@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">procera</keyword>
+  <gramrel name="modifiers of X" hits="15" score="107.140">
+    <coll hits="12" score="13.540" query="w2113813825">Triglochin</coll>
+    <coll hits="3" score="12.410" query="w2113813824">sphacelata</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="14.290">
+    <coll hits="1" score="13.410" query="w2113794177">variifolium</coll>
+    <coll hits="1" score="13.000" query="w2113794176">sphacelata</coll>
+  </gramrel>
+</wordsketch>
+</export>

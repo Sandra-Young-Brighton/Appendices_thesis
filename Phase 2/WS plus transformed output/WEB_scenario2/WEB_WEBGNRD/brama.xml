@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">brama</keyword>
+  <gramrel name="modifiers of X" hits="88" score="72.130">
+    <coll hits="84" score="13.900" query="w1700839617">Abramis</coll>
+    <coll hits="2" score="9.370" query="w1700839616">fluviatilis</coll>
+    <coll hits="2" score="9.350" query="w1700839618">rutilus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="1.640">
+    <coll hits="1" score="10.410" query="w1700876737">aspius</coll>
+    <coll hits="1" score="8.050" query="w1700876736">gobio</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="4.920">
+    <coll hits="3" score="12.410" query="w1700792576">rutilus</coll>
+    <coll hits="1" score="11.990" query="w1700792578">aspius</coll>
+    <coll hits="1" score="11.190" query="w1700792579">alburnus</coll>
+    <coll hits="1" score="11.190" query="w1700792577">gobio</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="3.280">
+    <coll hits="2" score="13.410" query="w1700898304">Mondsee</coll>
+    <coll hits="1" score="12.680" query="w1700898306">Mostise</coll>
+    <coll hits="1" score="12.680" query="w1700898305">Mostiste</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="2.460">
+    <coll hits="1" score="11.190" query="w1700935937">fluviatilis</coll>
+    <coll hits="1" score="11.190" query="w1700935936">Perca</coll>
+    <coll hits="1" score="7.890" query="w1700935938">Cyprinidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

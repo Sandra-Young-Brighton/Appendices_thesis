@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lethenteron</keyword>
+  <gramrel name="modifiers of X" hits="1" score="5.000">
+    <coll hits="1" score="7.020" query="w1989324160">Petromyzon</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="11" score="55.000">
+    <coll hits="3" score="12.770" query="w1989333891">camtschaticum</coll>
+    <coll hits="4" score="12.240" query="w1989333889">appendix</coll>
+    <coll hits="1" score="11.410" query="w1989333893">alaskense</coll>
+    <coll hits="1" score="11.410" query="w1989333892">japonicum</coll>
+    <coll hits="1" score="11.300" query="w1989333890">Petromyzontidae</coll>
+    <coll hits="1" score="11.190" query="w1989333888">Lampetra</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.000">
+    <coll hits="1" score="13.410" query="w1989315008">Lampetra</coll>
+  </gramrel>
+</wordsketch>
+</export>

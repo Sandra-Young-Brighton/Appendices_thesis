@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">serrator</keyword>
+  <gramrel name="modifiers of X" hits="6" score="22.220">
+    <coll hits="6" score="12.260" query="w1993719168">Mergus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="14.810">
+    <coll hits="2" score="7.010" query="w1993735169">relation</coll>
+    <coll hits="2" score="4.550" query="w1993735168">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

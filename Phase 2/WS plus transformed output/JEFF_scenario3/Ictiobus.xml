@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ictiobus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="3.700">
+    <coll hits="1" score="11.190">Hybognathus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="11.110">
+    <coll hits="2" score="13.670">bubalus</coll>
+    <coll hits="1" score="13.000">cyprinellus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="3.700">
+    <coll hits="1" score="13.990">Elassoma</coll>
+  </gramrel>
+</wordsketch>
+</export>

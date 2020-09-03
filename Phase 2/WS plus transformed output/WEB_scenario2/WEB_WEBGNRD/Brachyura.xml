@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Brachyura</keyword>
+  <gramrel name="modifiers of X" hits="4" score="28.570">
+    <coll hits="4" score="13.300" query="w2033386944">Decapoda</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="7" score="50.000">
+    <coll hits="4" score="13.540" query="w2033399553">Grapsidae</coll>
+    <coll hits="1" score="11.670" query="w2033399555">Majoidea</coll>
+    <coll hits="1" score="11.670" query="w2033399554">Majidae</coll>
+    <coll hits="1" score="11.300" query="w2033399552">Decapoda</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="5" score="35.710">
+    <coll hits="4" score="13.830" query="w2033366721">Grapsidae</coll>
+    <coll hits="1" score="11.830" query="w2033366720">Decapoda</coll>
+  </gramrel>
+</wordsketch>
+</export>

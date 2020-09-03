@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">medirostris</keyword>
+  <gramrel name="modifiers of X" hits="15" score="75.000">
+    <coll hits="15" score="12.400" query="w1761237120">Acipenser</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="5.000">
+    <coll hits="1" score="3.760" query="w1761249920">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

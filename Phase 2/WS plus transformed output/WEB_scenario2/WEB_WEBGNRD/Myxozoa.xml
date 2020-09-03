@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Myxozoa</keyword>
+  <gramrel name="modifiers of X" hits="2" score="15.380">
+    <coll hits="1" score="13.410" query="w1773487809">leei</coll>
+    <coll hits="1" score="13.000" query="w1773487808">Enteromyxum</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="23.080">
+    <coll hits="1" score="13.000" query="w1773505346">Malacosporea</coll>
+    <coll hits="1" score="12.410" query="w1773505345">Myxosporea</coll>
+    <coll hits="1" score="9.830" query="w1773505344">truttae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="7.690">
+    <coll hits="1" score="13.990" query="w1773478592">Malacosporea</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="3" score="23.080">
+    <coll hits="1" score="13.000" query="w1773540482">Monogenea</coll>
+    <coll hits="1" score="13.000" query="w1773540481">Trematoda</coll>
+    <coll hits="1" score="13.000" query="w1773540480">Annelida</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="7.690">
+    <coll hits="1" score="13.990" query="w1773529728">intubation</coll>
+  </gramrel>
+</wordsketch>
+</export>

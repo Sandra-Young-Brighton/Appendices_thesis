@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cambarus</keyword>
+  <gramrel name="nouns modified by X" hits="8" score="57.140">
+    <coll hits="2" score="12.680" query="w2168184515">sciotensis</coll>
+    <coll hits="2" score="12.680" query="w2168184514">ortmanni</coll>
+    <coll hits="2" score="12.680" query="w2168184513">carinirostris</coll>
+    <coll hits="2" score="12.290" query="w2168184512">robustus</coll>
+  </gramrel>
+</wordsketch>
+</export>

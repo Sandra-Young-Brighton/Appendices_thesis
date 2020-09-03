@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">otoliths</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="378" score="11.270">
+    <coll hits="32" score="9.160">eel</coll>
+    <coll hits="11" score="8.540">smolt</coll>
+    <coll hits="6" score="8.330">specimen</coll>
+    <coll hits="4" score="8.210">tilapia</coll>
+    <coll hits="4" score="8.160">elver</coll>
+    <coll hits="4" score="8.130">japonica</coll>
+    <coll hits="4" score="8.020">leptocephalus</coll>
+    <coll hits="3" score="7.990">barramundi</coll>
+    <coll hits="16" score="7.940">larva</coll>
+    <coll hits="3" score="7.930">resin</coll>
+    <coll hits="3" score="7.900">anguilla</coll>
+    <coll hits="9" score="7.630">pike</coll>
+    <coll hits="3" score="7.630">spot</coll>
+    <coll hits="3" score="7.560">determination</coll>
+    <coll hits="2" score="7.420">grunt</coll>
+    <coll hits="2" score="7.400">laser</coll>
+    <coll hits="2" score="7.370">granule</coll>
+    <coll hits="2" score="7.370">stimulation</coll>
+    <coll hits="2" score="7.350">drop</coll>
+    <coll hits="2" score="7.340">rostrata</coll>
+    <coll hits="3" score="7.230">function</coll>
+    <coll hits="2" score="7.220">attempt</coll>
+    <coll hits="2" score="7.190">check</coll>
+    <coll hits="44" score="7.150">fish</coll>
+    <coll hits="2" score="7.070">tag</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="1" score="0.030">
+    <coll hits="1" score="13.990">pig</coll>
+  </gramrel>
+</wordsketch>
+</export>

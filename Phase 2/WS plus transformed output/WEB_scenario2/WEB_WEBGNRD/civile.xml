@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">civile</keyword>
+  <gramrel name="modifiers of X" hits="1" score="100.000">
+    <coll hits="1" score="13.410" query="w2157063488">Enallagma</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="3" score="300.000">
+    <coll hits="1" score="13.000" query="w2157072706">Coenagrionidae</coll>
+    <coll hits="1" score="13.000" query="w2157072705">Texas</coll>
+    <coll hits="1" score="13.000" query="w2157072704">pond</coll>
+  </gramrel>
+</wordsketch>
+</export>

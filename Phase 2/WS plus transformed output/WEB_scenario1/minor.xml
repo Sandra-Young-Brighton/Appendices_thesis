@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">minor</keyword>
+  <gramrel name="X and/or ..." hits="13" score="6.600">
+    <coll hits="2" score="11.910">setal</coll>
+    <coll hits="1" score="11.190">Downloaded</coll>
+    <coll hits="1" score="10.350">apical</coll>
+    <coll hits="2" score="10.090">major</coll>
+    <coll hits="1" score="9.320">geographical</coll>
+    <coll hits="1" score="9.210">morphometric</coll>
+    <coll hits="2" score="8.960">indirect</coll>
+    <coll hits="1" score="8.930">secondary</coll>
+    <coll hits="1" score="7.520">commercial</coll>
+    <coll hits="1" score="7.340">dietary</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.510">
+    <coll hits="1" score="6.490">impact</coll>
+  </gramrel>
+</wordsketch>
+</export>

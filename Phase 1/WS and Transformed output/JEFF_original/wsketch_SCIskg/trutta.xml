@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">trutta</keyword>
+  <gramrel name="modifiers of X" hits="935" score="65.340">
+    <coll hits="695" score="13.210">Salmo</coll>
+    <coll hits="226" score="12.290">trout</coll>
+    <coll hits="7" score="7.910">Sulmo</coll>
+    <coll hits="2" score="6.120">fontinalis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="29" score="2.030">
+    <coll hits="14" score="11.440">Linnaeus</coll>
+    <coll hits="10" score="9.880">parr</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="15" score="1.050">
+    <coll hits="3" score="11.880">gairdneri</coll>
+    <coll hits="3" score="11.190">mykiss</coll>
+    <coll hits="3" score="9.760">salar</coll>
+  </gramrel>
+  <gramrel name="X is a ..." hits="2" score="0.140">
+    <coll hits="2" score="11.350">species</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="52" score="3.630">
+    <coll hits="3" score="10.650">District</coll>
+    <coll hits="2" score="9.610">branch</coll>
+    <coll hits="2" score="8.730">Zealand</coll>
+    <coll hits="17" score="7.320">stream</coll>
+    <coll hits="3" score="6.790">migration</coll>
+    <coll hits="2" score="6.190">scale</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="16" score="1.120">
+    <coll hits="2" score="10.020">species</coll>
+    <coll hits="8" score="9.450">specie</coll>
+    <coll hits="5" score="8.850">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

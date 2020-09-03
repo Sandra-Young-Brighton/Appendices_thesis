@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">shoaling</keyword>
+  <gramrel name="X and/or ..." hits="1" score="1.920">
+    <coll hits="1" score="11.540">hide</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="10" score="19.230">
+    <coll hits="1" score="10.350">zooplanktivore</coll>
+    <coll hits="1" score="7.490">purpose</coll>
+    <coll hits="1" score="7.370">base</coll>
+    <coll hits="1" score="7.160">shore</coll>
+    <coll hits="1" score="6.210">reach</coll>
+    <coll hits="1" score="5.940">surface</coll>
+    <coll hits="1" score="4.900">group</coll>
+    <coll hits="1" score="4.210">larva</coll>
+    <coll hits="1" score="3.080">water</coll>
+    <coll hits="1" score="1.750">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cottus</keyword>
+  <gramrel name="nouns modified by X" hits="173" score="57.280">
+    <coll hits="73" score="13.060">gobio</coll>
+    <coll hits="20" score="11.710">cognatus</coll>
+    <coll hits="17" score="11.510">bairdi</coll>
+    <coll hits="9" score="10.660">bairdii</coll>
+    <coll hits="8" score="10.480">carolinae</coll>
+    <coll hits="6" score="10.100">paulus</coll>
+    <coll hits="5" score="9.840">hangiongensis</coll>
+    <coll hits="3" score="9.120">hypselurus</coll>
+    <coll hits="3" score="9.120">pygmaeus</coll>
+    <coll hits="3" score="9.110">asper</coll>
+    <coll hits="2" score="8.540">pollux</coll>
+    <coll hits="2" score="8.540">nozawae</coll>
+    <coll hits="2" score="8.540">poecilopus</coll>
+    <coll hits="2" score="8.530">gulosus</coll>
+    <coll hits="3" score="8.190">species</coll>
+    <coll hits="2" score="8.080">fish</coll>
+    <coll hits="2" score="7.720">Linnaeus</coll>
+    <coll hits="1" score="7.560">perifretum</coll>
+    <coll hits="1" score="7.560">pollus</coll>
+    <coll hits="1" score="7.560">hangeongensis</coll>
+    <coll hits="1" score="7.560">ricei</coll>
+    <coll hits="1" score="7.560">pjigmaeus</coll>
+    <coll hits="1" score="7.560">hairdi</coll>
+    <coll hits="1" score="7.560">asperrimus</coll>
+    <coll hits="4" score="6.450">specie</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="7" score="2.320">
+    <coll hits="4" score="8.490">specie</coll>
+    <coll hits="3" score="8.140">fish</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.330">
+    <coll hits="1" score="6.960">Europe</coll>
+  </gramrel>
+</wordsketch>
+</export>

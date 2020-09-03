@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Chaoborus</keyword>
+  <gramrel name="modifiers of X" hits="6" score="22.220">
+    <coll hits="4" score="10.910">zooplankton</coll>
+    <coll hits="1" score="10.910">invertebrate</coll>
+    <coll hits="1" score="6.010">prey</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="3.700">
+    <coll hits="1" score="6.310">larva</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="7.410">
+    <coll hits="1" score="13.410">Leptodora</coll>
+    <coll hits="1" score="11.090">chironomid</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="7.410">
+    <coll hits="1" score="12.410">zooplankton</coll>
+    <coll hits="1" score="10.600">resource</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="3.700">
+    <coll hits="1" score="5.010">change</coll>
+  </gramrel>
+</wordsketch>
+</export>

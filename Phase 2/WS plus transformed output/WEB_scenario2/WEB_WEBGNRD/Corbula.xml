@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Corbula</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="57.140">
+    <coll hits="4" score="13.300" query="w2055890944">amurensis</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cottidae</keyword>
+  <gramrel name="modifiers of X" hits="12" score="9.680">
+    <coll hits="3" score="12.580" query="w1806466499">Gasterosteidae</coll>
+    <coll hits="1" score="11.300" query="w1806466505">Hemitripterinae</coll>
+    <coll hits="1" score="11.300" query="w1806466504">hexapterus</coll>
+    <coll hits="1" score="11.300" query="w1806466502">aleuticus</coll>
+    <coll hits="1" score="11.190" query="w1806466497">pungitius</coll>
+    <coll hits="1" score="10.910" query="w1806466498">Salmonidae</coll>
+    <coll hits="1" score="10.820" query="w1806466500">gobio</coll>
+    <coll hits="1" score="10.190" query="w1806466503">Ammodytes</coll>
+    <coll hits="1" score="9.140" query="w1806466496">Pungitius</coll>
+    <coll hits="1" score="6.330" query="w1806466501">Cottus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="5" score="4.030">
+    <coll hits="2" score="13.000" query="w1806557441">Moronidae</coll>
+    <coll hits="2" score="12.680" query="w1806557442">polyacanthocephalus</coll>
+    <coll hits="1" score="8.020" query="w1806557440">gobio</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="2.420">
+    <coll hits="1" score="13.000" query="w1806441538">Moronidae</coll>
+    <coll hits="1" score="11.990" query="w1806441537">Percidae</coll>
+    <coll hits="1" score="11.540" query="w1806441536">gobio</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="1.610">
+    <coll hits="1" score="13.000" query="w1806595969">schitsuumsh</coll>
+    <coll hits="1" score="13.000" query="w1806595968">Cottus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.810">
+    <coll hits="1" score="3.870" query="w1806586048">species</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.810">
+    <coll hits="1" score="13.990" query="w1806604160">cottid</coll>
+  </gramrel>
+</wordsketch>
+</export>

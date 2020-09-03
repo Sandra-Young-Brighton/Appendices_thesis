@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salvelinus</keyword>
+  <gramrel name="nouns modified by X" hits="873" score="74.680">
+    <coll hits="485" score="13.500">alpinus</coll>
+    <coll hits="163" score="12.270">fontinalis</coll>
+    <coll hits="96" score="11.630">confluentus</coll>
+    <coll hits="69" score="11.200">namaycush</coll>
+    <coll hits="39" score="10.450">malma</coll>
+    <coll hits="4" score="7.220">willughbii</coll>
+    <coll hits="4" score="7.220">leucomaenis</coll>
+    <coll hits="2" score="6.220">umbla</coll>
+    <coll hits="2" score="6.220">Linneaus</coll>
+    <coll hits="4" score="5.890">specie</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="18" score="1.540">
+    <coll hits="3" score="10.940">trout</coll>
+    <coll hits="10" score="9.760">specie</coll>
+    <coll hits="3" score="8.100">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

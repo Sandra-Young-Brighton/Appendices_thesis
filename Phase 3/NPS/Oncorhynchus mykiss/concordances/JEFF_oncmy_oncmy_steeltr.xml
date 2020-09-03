@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_oncmy_lower_tagged</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="3">[ws(2, 1240858051)]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#16" num="0" label="_">
+    <left>k.r. &amp; cech, j.j. jr 2004. effects of high water tem- perature on growth, smoltification, and predator avoidance in juvenile sacramento river chinook salmon. north amer- ican journal of fisheries management 24: 198–210. mcmillan, j.r., dunham, j.b., reeves, g.h., mills, j.s. &amp; jordan, c.e. 2011. individual condition and stream tempera- ture influence early maturation of rainbow and steelhead_trout ,</left>
+    <kwic>oncorhynchus_mykiss</kwic>
+    <right>. environmental biology of fishes 93: 343–355. 442 mcmillan, j.r., liermann, m.c., starr, j., pess, g.r. &amp; augerot, x. 2013. using a stream network census of fish and habitat to assess models of juvenile salmonid distribu- tion. transactions of the american fisheries society 142: 942–956. metcalfe, n.b. 1998. the interaction between behavior and physiology in determining life history patterns in atlantic salmon (salmo_salar)</right>
+  </line>
+  <line refs="doc#210" num="1" label="_">
+    <left>+0.5 +1.2 +1.0 'normal' refers to monthly mean temperatures, 1961–1990, the years used by noaa (undated a; undated b; undated c; undated d). headwalls and sidewalls (weis et al. 1976). as a result, there are few tributaries to the lostine river, and those are short with very high gradients. bull trout distribution is limited to the main stem lostine river up to a barrier falls near river kilometre (rkm) 82. spring chinook salmon, oncorhynchus_tshawytscha, and steelhead_trout ,</left>
+    <kwic>oncorhynchus_mykiss</kwic>
+    <right>, both listed as threatened under the endangered species act, also spawn and rear in the lostine river. about 75% of the lostine river watershed (18,010 ha) is public land, most of which is forested and managed by the us forest service (usfs) under wilderness designation (usfs 1997). the lower 18% of the watershed is privately owned and used primarily for agriculture. the bull trout population in the lostine river was selected for study because of uncertainty about its migratory distribution and potential temperature lim</right>
+  </line>
+  <line refs="doc#459" num="2" label="_">
+    <left>wider range of factors such as water temperature, flow and cover availability can trigger fish emigration (mcmahon &amp; hartman 1989; keeley 2001). under controlled condi- their tions mcmahon &amp; tash (1988) recorded increased emigration rates of the desert pupfish, cyprinodon macularius, in response to a doubling in densities and a consequent halving of available food and cover. keeley (2001) found both food and density, rather than either exclusively, to be important components of demo- graphic changes (emigration and mortality) in steelhead_trout ,</left>
+    <kwic>oncorhynchus_mykiss</kwic>
+    <right>. it is important to tease apart individual factors that influence fish migratory behaviour so that relative influence can be assessed. as a result of difficulties in isolating causal factors for emigration in the field, it has been suggested that only well-controlled laboratory studies can identify the true significant factors (mcmahon &amp; tash 1988; matter et al. 1989; mcmahon &amp; matter 2006). yet, these same experiments, on fish and non-fish taxa, have been mostly carried out on species which do not exhibit well-defined seasonal migration patterns (mcmahon &amp; tash</right>
+  </line>
+</concordance>
+</export>

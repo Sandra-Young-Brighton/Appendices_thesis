@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Larus</keyword>
+  <gramrel name="nouns modified by X" hits="7" score="31.820">
+    <coll hits="4" score="13.540" query="w2008548033">canus</coll>
+    <coll hits="2" score="12.680" query="w2008548032">argentatus</coll>
+    <coll hits="1" score="11.990" query="w2008548034">thayeri</coll>
+  </gramrel>
+</wordsketch>
+</export>

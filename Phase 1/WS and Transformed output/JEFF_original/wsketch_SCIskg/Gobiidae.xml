@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gobiidae</keyword>
+  <gramrel name="modifiers of X" hits="4" score="4.820">
+    <coll hits="1" score="12.680">extraneus</coll>
+    <coll hits="1" score="12.410">flavescens</coll>
+    <coll hits="1" score="11.830">Perciformes</coll>
+    <coll hits="1" score="10.820">Teleostei</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="3.610">
+    <coll hits="1" score="12.680">paganellus</coll>
+    <coll hits="1" score="11.830">Percidae</coll>
+    <coll hits="1" score="10.140">goby</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="7.230">
+    <coll hits="1" score="11.190">Indo</coll>
+    <coll hits="3" score="9.420">Island</coll>
+    <coll hits="1" score="8.180">account</coll>
+    <coll hits="1" score="7.110">Basin</coll>
+  </gramrel>
+</wordsketch>
+</export>

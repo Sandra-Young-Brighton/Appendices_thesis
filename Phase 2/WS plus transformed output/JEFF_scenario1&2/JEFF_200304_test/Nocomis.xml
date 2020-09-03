@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Nocomis</keyword>
+  <gramrel name="nouns modified by X" hits="16" score="30.190">
+    <coll hits="5" score="12.920">micropogon</coll>
+    <coll hits="4" score="12.680">biguttatus</coll>
+    <coll hits="4" score="12.680">leptocephalus</coll>
+    <coll hits="1" score="10.910">raneyi</coll>
+    <coll hits="1" score="10.910">platyrynchus</coll>
+    <coll hits="1" score="10.910">Campostoma</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.890">
+    <coll hits="1" score="13.990">Campostoma</coll>
+  </gramrel>
+</wordsketch>
+</export>

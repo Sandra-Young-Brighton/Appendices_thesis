@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">thynnus</keyword>
+  <gramrel name="modifiers of X" hits="7" score="70.000">
+    <coll hits="6" score="13.260" query="w2021495296">Thunnus</coll>
+    <coll hits="1" score="11.990" query="w2021495297">Tunnus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="20.000">
+    <coll hits="1" score="6.360" query="w2021514561">class</coll>
+    <coll hits="1" score="5.420" query="w2021514560">Sea</coll>
+  </gramrel>
+</wordsketch>
+</export>

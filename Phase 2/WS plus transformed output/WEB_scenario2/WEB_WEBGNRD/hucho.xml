@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">hucho</keyword>
+  <gramrel name="modifiers of X" hits="17" score="70.830">
+    <coll hits="16" score="13.910" query="w1703514433">Hucho</coll>
+    <coll hits="1" score="4.220" query="w1703514432">Salmo</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="12.500">
+    <coll hits="1" score="12.410" query="w1703532353">Beryx</coll>
+    <coll hits="2" score="9.300" query="w1703532352">thymallus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="8.330">
+    <coll hits="2" score="13.000" query="w1703502080">thymallus</coll>
+  </gramrel>
+</wordsketch>
+</export>

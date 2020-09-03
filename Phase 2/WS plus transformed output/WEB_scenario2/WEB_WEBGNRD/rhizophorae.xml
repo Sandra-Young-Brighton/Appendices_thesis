@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rhizophorae</keyword>
+  <gramrel name="modifiers of X" hits="1" score="100.000">
+    <coll hits="1" score="10.350" query="w2087213568">Crassostrea</coll>
+  </gramrel>
+</wordsketch>
+</export>

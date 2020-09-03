@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">punctatus</keyword>
+  <gramrel name="modifiers of X" hits="24" score="34.780">
+    <coll hits="22" score="13.870">Ictalurus</coll>
+    <coll hits="1" score="10.350">Ictaluris</coll>
+    <coll hits="1" score="8.820">Micropterus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.450">
+    <coll hits="1" score="13.410">atromaculatus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="4.350">
+    <coll hits="1" score="10.090">aquaculture</coll>
+    <coll hits="1" score="7.910">way</coll>
+    <coll hits="1" score="6.890">B</coll>
+  </gramrel>
+</wordsketch>
+</export>

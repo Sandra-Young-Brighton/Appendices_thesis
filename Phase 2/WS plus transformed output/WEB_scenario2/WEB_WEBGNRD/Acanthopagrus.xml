@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Acanthopagrus</keyword>
+  <gramrel name="nouns modified by X" hits="10" score="58.820">
+    <coll hits="4" score="13.190" query="w1922072961">schlegeli</coll>
+    <coll hits="2" score="12.410" query="w1922072964">berda</coll>
+    <coll hits="2" score="12.410" query="w1922072960">butcheri</coll>
+    <coll hits="1" score="11.540" query="w1922072963">latus</coll>
+    <coll hits="1" score="11.300" query="w1922072962">schlegelii</coll>
+  </gramrel>
+</wordsketch>
+</export>

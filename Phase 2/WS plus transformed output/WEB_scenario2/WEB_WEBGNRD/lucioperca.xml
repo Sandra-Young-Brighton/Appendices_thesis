@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lucioperca</keyword>
+  <gramrel name="modifiers of X" hits="135" score="78.030">
+    <coll hits="85" score="13.310" query="w1703000256">Sander</coll>
+    <coll hits="45" score="12.690" query="w1703000258">Stizostedion</coll>
+    <coll hits="3" score="9.480" query="w1703000259">Lucioperca</coll>
+    <coll hits="1" score="7.910" query="w1703000260">Zander</coll>
+    <coll hits="1" score="7.830" query="w1703000257">Lucius</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="1.730">
+    <coll hits="1" score="11.410" query="w1703045633">spec</coll>
+    <coll hits="2" score="6.430" query="w1703045632">fluviatilis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="1.730">
+    <coll hits="3" score="11.990" query="w1702990080">fluviatilis</coll>
+  </gramrel>
+</wordsketch>
+</export>

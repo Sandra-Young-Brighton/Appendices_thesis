@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ceratopogonidae</keyword>
+  <gramrel name="nouns modified by X" hits="8" score="14.550">
+    <coll hits="2" score="12.540" query="w1706459328">Gastropoda</coll>
+    <coll hits="6" score="9.230" query="w1706459329">indet</coll>
+  </gramrel>
+  <gramrel name="... is a X" hits="1" score="1.820">
+    <coll hits="1" score="13.990" query="w1706450816">Eleocharis</coll>
+  </gramrel>
+</wordsketch>
+</export>

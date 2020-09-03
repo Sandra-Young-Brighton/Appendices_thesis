@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">pikeperch</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="27" score="9.820">
+    <coll hits="2" score="11.090">Ruffe</coll>
+    <coll hits="1" score="10.140">swarm</coll>
+    <coll hits="1" score="10.090">Percidae</coll>
+    <coll hits="2" score="8.360">Reservoir</coll>
+    <coll hits="1" score="8.010">TL</coll>
+    <coll hits="1" score="7.860">ruffe</coll>
+    <coll hits="1" score="7.380">side</coll>
+    <coll hits="1" score="7.000">laboratory</coll>
+    <coll hits="2" score="6.820">reservoir</coll>
+    <coll hits="3" score="6.770">prey</coll>
+    <coll hits="2" score="6.040">predator</coll>
+    <coll hits="2" score="5.530">perch</coll>
+    <coll hits="1" score="5.130">summer</coll>
+    <coll hits="1" score="4.600">system</coll>
+    <coll hits="2" score="4.580">river</coll>
+    <coll hits="1" score="3.480">lake</coll>
+    <coll hits="1" score="3.330">study</coll>
+    <coll hits="1" score="3.250">population</coll>
+    <coll hits="1" score="3.150">specie</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.360">
+    <coll hits="1" score="13.990">gudgeon</coll>
+  </gramrel>
+</wordsketch>
+</export>

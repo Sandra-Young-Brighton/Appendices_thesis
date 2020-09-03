@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Astigmata</keyword>
+  <gramrel name="modifiers of X" hits="4" score="133.330">
+    <coll hits="2" score="13.410" query="w2190831042">Limnesiidae</coll>
+    <coll hits="1" score="12.680" query="w2190831041">Centroptilum</coll>
+    <coll hits="1" score="12.680" query="w2190831040">Ecnomus</coll>
+  </gramrel>
+</wordsketch>
+</export>

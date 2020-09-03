@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Tinca</keyword>
+  <gramrel name="nouns modified by X" hits="38" score="64.410">
+    <coll hits="37" score="13.920" query="w1922513216">tinca</coll>
+    <coll hits="1" score="9.670" query="w1922513217">tinea</coll>
+  </gramrel>
+</wordsketch>
+</export>

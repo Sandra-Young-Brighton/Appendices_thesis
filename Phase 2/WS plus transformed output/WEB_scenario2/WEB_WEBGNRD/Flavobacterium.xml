@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Flavobacterium</keyword>
+  <gramrel name="nouns modified by X" hits="29" score="52.730">
+    <coll hits="28" score="13.970" query="w2075631104">columnare</coll>
+    <coll hits="1" score="10.090" query="w2075631105">psychrophilum</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="1.820">
+    <coll hits="1" score="13.410" query="w2075649088">Arias</coll>
+  </gramrel>
+</wordsketch>
+</export>

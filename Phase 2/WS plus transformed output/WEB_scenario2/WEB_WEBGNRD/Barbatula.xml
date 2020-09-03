@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Barbatula</keyword>
+  <gramrel name="nouns modified by X" hits="20" score="71.430">
+    <coll hits="17" score="13.720" query="w2042851648">barbatula</coll>
+    <coll hits="2" score="11.540" query="w2042851649">quignardi</coll>
+    <coll hits="1" score="10.600" query="w2042851650">kosswigi</coll>
+  </gramrel>
+</wordsketch>
+</export>

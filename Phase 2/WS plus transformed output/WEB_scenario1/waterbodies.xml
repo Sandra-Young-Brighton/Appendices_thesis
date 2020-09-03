@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">waterbodies</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="9" score="25.000">
+    <coll hits="1" score="11.540">muck</coll>
+    <coll hits="1" score="9.020">District</coll>
+    <coll hits="2" score="7.610">States</coll>
+    <coll hits="1" score="7.500">purpose</coll>
+    <coll hits="1" score="7.020">Sr</coll>
+    <coll hits="1" score="6.880">variety</coll>
+    <coll hits="1" score="5.940">Canada</coll>
+    <coll hits="1" score="5.060">individual</coll>
+  </gramrel>
+</wordsketch>
+</export>

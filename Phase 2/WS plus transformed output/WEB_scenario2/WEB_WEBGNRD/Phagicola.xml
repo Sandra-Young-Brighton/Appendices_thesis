@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Phagicola</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="71.430">
+    <coll hits="4" score="13.410" query="w2069273344">nana</coll>
+    <coll hits="1" score="12.190" query="w2069273345">longa</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="14.290">
+    <coll hits="1" score="13.990" query="w2069263744">Ascocotyle</coll>
+  </gramrel>
+</wordsketch>
+</export>

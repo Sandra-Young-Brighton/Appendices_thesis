@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">meandrense</keyword>
+  <gramrel name="modifiers of X" hits="1" score="100.000">
+    <coll hits="1" score="10.040" query="w2165153600">Chondrostoma</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="100.000">
+    <coll hits="1" score="8.070" query="w2165163072">gobio</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="100.000">
+    <coll hits="1" score="11.830" query="w2165142848">gobio</coll>
+  </gramrel>
+</wordsketch>
+</export>

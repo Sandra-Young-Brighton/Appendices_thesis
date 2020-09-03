@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">aurata</keyword>
+  <gramrel name="modifiers of X" hits="20" score="40.820">
+    <coll hits="19" score="13.960">Sparus</coll>
+    <coll hits="1" score="10.600">Liza</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.040">
+    <coll hits="1" score="4.650">condition</coll>
+  </gramrel>
+</wordsketch>
+</export>

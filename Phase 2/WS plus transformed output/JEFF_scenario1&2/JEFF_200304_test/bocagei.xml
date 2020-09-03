@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">bocagei</keyword>
+  <gramrel name="modifiers of X" hits="4" score="10.000">
+    <coll hits="4" score="10.410">Barbus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="10.000">
+    <coll hits="1" score="11.300">warp</coll>
+    <coll hits="1" score="7.670">fishway</coll>
+    <coll hits="1" score="6.080">relation</coll>
+    <coll hits="1" score="4.620">system</coll>
+  </gramrel>
+</wordsketch>
+</export>

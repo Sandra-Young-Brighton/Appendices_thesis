@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cochlearis</keyword>
+  <gramrel name="modifiers of X" hits="7" score="70.000">
+    <coll hits="6" score="13.580" query="w1706288128">Keratella</coll>
+    <coll hits="1" score="11.990" query="w1706288129">calyciflorus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="10.000">
+    <coll hits="1" score="13.000" query="w1706308928">angularis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="10.000">
+    <coll hits="1" score="13.990" query="w1706277440">angularis</coll>
+  </gramrel>
+</wordsketch>
+</export>

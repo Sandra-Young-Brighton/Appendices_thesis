@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">columnare</keyword>
+  <gramrel name="modifiers of X" hits="28" score="37.330">
+    <coll hits="28" score="13.970" query="w2075667008">Flavobacterium</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.330">
+    <coll hits="1" score="11.540" query="w2075677504">tubifex</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.330">
+    <coll hits="1" score="13.410" query="w2075654144">tubifex</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="9.330">
+    <coll hits="1" score="7.490" query="w2075690627">catfish</coll>
+    <coll hits="1" score="6.840" query="w2075690628">exposure</coll>
+    <coll hits="1" score="4.550" query="w2075690625">analysis</coll>
+    <coll hits="2" score="4.100" query="w2075690626">trout</coll>
+    <coll hits="2" score="2.750" query="w2075690624">fish</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="1.330">
+    <coll hits="1" score="13.410" query="w2075740096">Arias</coll>
+  </gramrel>
+</wordsketch>
+</export>

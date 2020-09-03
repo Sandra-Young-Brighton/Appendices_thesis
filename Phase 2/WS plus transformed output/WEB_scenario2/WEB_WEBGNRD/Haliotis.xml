@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Haliotis</keyword>
+  <gramrel name="nouns modified by X" hits="11" score="39.290">
+    <coll hits="2" score="12.290" query="w1989706438">diversicolor</coll>
+    <coll hits="2" score="12.090" query="w1989706440">rubra</coll>
+    <coll hits="1" score="11.410" query="w1989706437">walallensis</coll>
+    <coll hits="1" score="11.410" query="w1989706436">sorenseni</coll>
+    <coll hits="1" score="11.410" query="w1989706435">cracherodii</coll>
+    <coll hits="1" score="11.410" query="w1989706434">rufescens</coll>
+    <coll hits="1" score="11.410" query="w1989706432">corrugata</coll>
+    <coll hits="1" score="11.300" query="w1989706439">laevigata</coll>
+    <coll hits="1" score="10.680" query="w1989706433">tuberculata</coll>
+  </gramrel>
+</wordsketch>
+</export>

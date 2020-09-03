@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Phalacrocorax</keyword>
+  <gramrel name="nouns modified by X" hits="16" score="23.530">
+    <coll hits="13" score="13.790" query="w1436292354">auritus</coll>
+    <coll hits="1" score="10.910" query="w1436292355">aristotelis</coll>
+    <coll hits="1" score="10.910" query="w1436292353">carbo</coll>
+    <coll hits="1" score="10.680" query="w1436292352">penicillatus</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="4" score="5.880" query="w1436323136">&quot;%w&quot; is the generic of...</coll>
+    <coll hits="4" score="5.880" query="w1436338368">&quot;%w&quot; is a type of...</coll>
+  </gramrel>
+</wordsketch>
+</export>

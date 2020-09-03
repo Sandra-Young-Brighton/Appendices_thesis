@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">alburnus</keyword>
+  <gramrel name="modifiers of X" hits="31" score="37.350">
+    <coll hits="28" score="13.920">Alburnus</coll>
+    <coll hits="1" score="9.950">erythrophthalmus</coll>
+    <coll hits="1" score="9.870">brama</coll>
+    <coll hits="1" score="9.570">rutilus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="2.410">
+    <coll hits="2" score="10.020">cephalus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="2.410">
+    <coll hits="2" score="13.190">cephalus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.200">
+    <coll hits="1" score="6.170">July</coll>
+  </gramrel>
+</wordsketch>
+</export>

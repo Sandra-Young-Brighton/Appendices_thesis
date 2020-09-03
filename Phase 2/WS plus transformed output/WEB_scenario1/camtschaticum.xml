@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">camtschaticum</keyword>
+  <gramrel name="modifiers of X" hits="3" score="75.000">
+    <coll hits="3" score="13.260">Lethenteron</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="25.000">
+    <coll hits="1" score="13.410">Petromyzontidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="75.000">
+    <coll hits="1" score="10.470">East</coll>
+    <coll hits="1" score="3.760">River</coll>
+    <coll hits="1" score="3.550">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

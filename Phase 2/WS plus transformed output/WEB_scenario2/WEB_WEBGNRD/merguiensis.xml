@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">merguiensis</keyword>
+  <gramrel name="modifiers of X" hits="4" score="200.000">
+    <coll hits="1" score="12.680" query="w2087551617">esculentus</coll>
+    <coll hits="2" score="12.540" query="w2087551618">Fenneropenaeus</coll>
+    <coll hits="1" score="11.410" query="w2087551616">Penaeus</coll>
+  </gramrel>
+</wordsketch>
+</export>

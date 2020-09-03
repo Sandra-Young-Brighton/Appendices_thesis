@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Alosa</keyword>
+  <gramrel name="nouns modified by X" hits="52" score="47.710">
+    <coll hits="17" score="12.980">sapidissima</coll>
+    <coll hits="13" score="12.680">pseudoharengus</coll>
+    <coll hits="13" score="12.680">Alosa</coll>
+    <coll hits="4" score="11.170">fallax</coll>
+    <coll hits="2" score="10.210">psuedoharengus</coll>
+    <coll hits="1" score="9.270">Sapidissima</coll>
+    <coll hits="1" score="9.270">chrysochloris</coll>
+    <coll hits="1" score="9.270">sapisissima</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="13" score="11.930">modifiers of &quot;%w&quot;</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="1.830">
+    <coll hits="1" score="11.670">clupeid</coll>
+    <coll hits="1" score="11.090">lift</coll>
+  </gramrel>
+</wordsketch>
+</export>

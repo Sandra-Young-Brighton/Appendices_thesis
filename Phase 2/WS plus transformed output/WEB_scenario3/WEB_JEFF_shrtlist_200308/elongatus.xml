@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">elongatus</keyword>
+  <gramrel name="modifiers of X" hits="3" score="10.710">
+    <coll hits="2" score="13.670">Cycleptus</coll>
+    <coll hits="1" score="13.000">Leporinus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="7.140">
+    <coll hits="1" score="13.410">PCRRFLP</coll>
+    <coll hits="1" score="8.910">Baltic</coll>
+  </gramrel>
+</wordsketch>
+</export>

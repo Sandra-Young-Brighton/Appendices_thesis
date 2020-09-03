@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">tubifex</keyword>
+  <gramrel name="modifiers of X" hits="10" score="58.820">
+    <coll hits="5" score="13.410" query="w1547174529">Tubifex</coll>
+    <coll hits="4" score="13.190" query="w1547174528">Eustrongylides</coll>
+    <coll hits="1" score="11.540" query="w1547174530">columnare</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.880">
+    <coll hits="1" score="12.190" query="w1547204608">latum</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.880">
+    <coll hits="1" score="13.990" query="w1547161408">latum</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="5.880">
+    <coll hits="1" score="5.330" query="w1547217984">stickleback</coll>
+  </gramrel>
+</wordsketch>
+</export>

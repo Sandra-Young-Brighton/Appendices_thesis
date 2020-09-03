@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Aeshna</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="25.000">
+    <coll hits="1" score="8.340">aculeatus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="25.000">
+    <coll hits="1" score="13.410">aculeatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

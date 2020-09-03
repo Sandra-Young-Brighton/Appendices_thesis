@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Leucaspius</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="50.000">
+    <coll hits="3" score="13.770" query="w1935031872">delineatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

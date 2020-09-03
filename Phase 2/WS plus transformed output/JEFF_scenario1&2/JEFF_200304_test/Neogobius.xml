@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Neogobius</keyword>
+  <gramrel name="nouns modified by X" hits="79" score="74.530">
+    <coll hits="67" score="13.840">melanostomus</coll>
+    <coll hits="3" score="10.220">gymnotrachelus</coll>
+    <coll hits="3" score="10.220">kessleri</coll>
+    <coll hits="6" score="9.070">fluviatilis</coll>
+  </gramrel>
+</wordsketch>
+</export>

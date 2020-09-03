@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">gairdneri</keyword>
+  <gramrel name="modifiers of X" hits="164" score="70.690">
+    <coll hits="162" score="11.480">Salmo</coll>
+    <coll hits="2" score="8.530">mykiss</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.430">
+    <coll hits="1" score="13.410">trutla</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.430">
+    <coll hits="1" score="13.990">trutla</coll>
+  </gramrel>
+</wordsketch>
+</export>

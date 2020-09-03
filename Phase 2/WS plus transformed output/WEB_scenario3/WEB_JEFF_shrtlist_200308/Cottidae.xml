@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cottidae</keyword>
+  <gramrel name="modifiers of X" hits="9" score="7.260">
+    <coll hits="3" score="12.880">Gasterosteidae</coll>
+    <coll hits="1" score="11.540">pungitius</coll>
+    <coll hits="1" score="11.300">Ammodytes</coll>
+    <coll hits="1" score="11.300">Salmonidae</coll>
+    <coll hits="1" score="11.190">gobio</coll>
+    <coll hits="1" score="9.210">Pungitius</coll>
+    <coll hits="1" score="6.680">Cottus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="2.420">
+    <coll hits="2" score="13.410">Moronidae</coll>
+    <coll hits="1" score="8.050">gobio</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="2.420">
+    <coll hits="1" score="13.000">Moronidae</coll>
+    <coll hits="1" score="11.990">Percidae</coll>
+    <coll hits="1" score="11.670">gobio</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.810">
+    <coll hits="1" score="3.870">species</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="0.810">
+    <coll hits="1" score="13.410">Cottus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.810">
+    <coll hits="1" score="13.990">cottid</coll>
+  </gramrel>
+</wordsketch>
+</export>

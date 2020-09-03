@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ontario</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="69" score="4.590">
+    <coll hits="1" score="8.870">15-September</coll>
+    <coll hits="1" score="8.870">JulyAugust</coll>
+    <coll hits="1" score="8.870">Lola</coll>
+    <coll hits="1" score="8.870">Mathers4</coll>
+    <coll hits="1" score="8.870">PUBLICATION</coll>
+    <coll hits="1" score="8.850">IFYGL</coll>
+    <coll hits="1" score="8.850">remark</coll>
+    <coll hits="1" score="8.850">Biologist</coll>
+    <coll hits="2" score="8.820">1960</coll>
+    <coll hits="1" score="8.810">mid-1800s</coll>
+    <coll hits="1" score="8.810">Edited</coll>
+    <coll hits="1" score="8.760">July-August</coll>
+    <coll hits="1" score="8.730">April-May</coll>
+    <coll hits="1" score="8.600">parallel</coll>
+    <coll hits="1" score="8.590">mid-summer</coll>
+    <coll hits="1" score="8.550">attention</coll>
+    <coll hits="1" score="8.500">1800</coll>
+    <coll hits="1" score="8.470">embayment</coll>
+    <coll hits="1" score="8.440">1940</coll>
+    <coll hits="1" score="8.430">key</coll>
+    <coll hits="4" score="8.340">Erie</coll>
+    <coll hits="1" score="8.280">yearling</coll>
+    <coll hits="2" score="8.240">extinction</coll>
+    <coll hits="1" score="8.230">emphasis</coll>
+    <coll hits="1" score="8.130">perspective</coll>
+  </gramrel>
+</wordsketch>
+</export>

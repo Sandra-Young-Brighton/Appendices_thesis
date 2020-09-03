@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">flavescens</keyword>
+  <gramrel name="modifiers of X" hits="58" score="75.320">
+    <coll hits="53" score="12.270">Perca</coll>
+    <coll hits="4" score="11.040">Gobiusculus</coll>
+    <coll hits="1" score="8.960">Percidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.300">
+    <coll hits="1" score="12.680">Gobiidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.300">
+    <coll hits="1" score="12.190">Gobiidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.300">
+    <coll hits="1" score="9.750">Erie</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">smallmouth</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="1.330">
+    <coll hits="1" score="12.190">Actinopterygii</coll>
+    <coll hits="1" score="11.990">Animalia</coll>
+    <coll hits="1" score="10.300">largemouth</coll>
+    <coll hits="1" score="9.120">scientist</coll>
+    <coll hits="1" score="5.310">bass</coll>
+  </gramrel>
+</wordsketch>
+</export>

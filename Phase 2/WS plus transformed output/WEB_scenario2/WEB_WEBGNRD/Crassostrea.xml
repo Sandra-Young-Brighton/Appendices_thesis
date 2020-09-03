@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Crassostrea</keyword>
+  <gramrel name="nouns modified by X" hits="24" score="66.670">
+    <coll hits="16" score="13.670" query="w1881591232">virginica</coll>
+    <coll hits="3" score="11.770" query="w1881591233">ariakensis</coll>
+    <coll hits="2" score="11.300" query="w1881591236">gigas</coll>
+    <coll hits="1" score="10.350" query="w1881591237">vir</coll>
+    <coll hits="1" score="10.350" query="w1881591235">corteziensis</coll>
+    <coll hits="1" score="10.350" query="w1881591234">rhizophorae</coll>
+  </gramrel>
+</wordsketch>
+</export>

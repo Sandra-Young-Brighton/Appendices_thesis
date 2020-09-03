@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cygnus</keyword>
+  <gramrel name="nouns modified by X" hits="17" score="40.480">
+    <coll hits="15" score="13.910" query="w1952103872">olor</coll>
+    <coll hits="1" score="10.820" query="w1952103874">aratus</coll>
+    <coll hits="1" score="10.820" query="w1952103873">atratus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cepedianum</keyword>
+  <gramrel name="modifiers of X" hits="19" score="63.330">
+    <coll hits="17" score="13.720">Dorosoma</coll>
+    <coll hits="2" score="11.470">Clupeidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="6.670">
+    <coll hits="1" score="11.990">beryllina</coll>
+    <coll hits="1" score="11.300">annularis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="6.670">
+    <coll hits="1" score="13.410">beryllina</coll>
+    <coll hits="1" score="13.410">annularis</coll>
+  </gramrel>
+</wordsketch>
+</export>

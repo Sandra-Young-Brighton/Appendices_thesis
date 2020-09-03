@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">aureus</keyword>
+  <gramrel name="modifiers of X" hits="17" score="85.000">
+    <coll hits="15" score="12.130" query="w1616576704">Oreochromis</coll>
+    <coll hits="1" score="10.820" query="w1616576706">Staphylococcus</coll>
+    <coll hits="1" score="10.680" query="w1616576705">niloticus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="10.000">
+    <coll hits="2" score="12.680" query="w1616604032">Kinnereth</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Normanichthys</keyword>
+  <gramrel name="nouns modified by X" hits="16" score="53.330">
+    <coll hits="16" score="13.950" query="w2047797376">crockeri</coll>
+  </gramrel>
+</wordsketch>
+</export>

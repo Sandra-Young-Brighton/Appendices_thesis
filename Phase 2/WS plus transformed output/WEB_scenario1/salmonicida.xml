@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">salmonicida</keyword>
+  <gramrel name="modifiers of X" hits="8" score="40.000">
+    <coll hits="8" score="13.990">Aeromonas</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="15.000">
+    <coll hits="1" score="7.850">intestine</coll>
+    <coll hits="1" score="3.210">salmon</coll>
+    <coll hits="1" score="1.750">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

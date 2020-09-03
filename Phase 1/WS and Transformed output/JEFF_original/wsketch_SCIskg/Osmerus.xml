@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Osmerus</keyword>
+  <gramrel name="nouns modified by X" hits="37" score="74.000">
+    <coll hits="20" score="13.490">eperlanus</coll>
+    <coll hits="16" score="13.120">mordax</coll>
+    <coll hits="1" score="6.260">larva</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="4.000">
+    <coll hits="1" score="6.580">fish</coll>
+    <coll hits="1" score="6.500">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

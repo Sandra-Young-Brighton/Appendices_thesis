@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gyrodactylus</keyword>
+  <gramrel name="nouns modified by X" hits="6" score="16.670">
+    <coll hits="1" score="12.190">bullatarudis</coll>
+    <coll hits="1" score="12.190">undersøkelsene</coll>
+    <coll hits="1" score="12.190">turnbulli</coll>
+    <coll hits="1" score="12.190">derjavini</coll>
+    <coll hits="1" score="12.190">salaris</coll>
+    <coll hits="1" score="5.720">salar</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="8.330">
+    <coll hits="1" score="6.170">Table</coll>
+    <coll hits="1" score="5.070">charr</coll>
+    <coll hits="1" score="3.510">salmon</coll>
+  </gramrel>
+</wordsketch>
+</export>

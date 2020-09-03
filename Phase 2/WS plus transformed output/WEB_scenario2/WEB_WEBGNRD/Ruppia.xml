@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ruppia</keyword>
+  <gramrel name="modifiers of X" hits="1" score="9.090">
+    <coll hits="1" score="11.000" query="w1952920512">Zostera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="36.360">
+    <coll hits="2" score="13.410" query="w1952931713">maritima</coll>
+    <coll hits="1" score="12.410" query="w1952931712">cirrhosa</coll>
+    <coll hits="1" score="11.300" query="w1952931714">spec</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="9.090">
+    <coll hits="1" score="3.970" query="w1952955136">time</coll>
+  </gramrel>
+</wordsketch>
+</export>

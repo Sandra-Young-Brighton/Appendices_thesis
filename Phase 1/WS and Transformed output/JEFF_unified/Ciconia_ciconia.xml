@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ciconia_ciconia</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="100.000">
+    <coll hits="1" score="13.990">Milvus_nigrans</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="100.000">
+    <coll hits="1" score="13.990">Milvus_nigrans</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="200.000">
+    <coll hits="1" score="12.680">Vulpes_vulpes</coll>
+    <coll hits="1" score="8.750">prey</coll>
+  </gramrel>
+</wordsketch>
+</export>

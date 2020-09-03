@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Glyceria</keyword>
+  <gramrel name="modifiers of X" hits="2" score="18.180">
+    <coll hits="1" score="12.680" query="w2083749953">Carex</coll>
+    <coll hits="1" score="11.670" query="w2083749952">Sagittaria</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="27.270">
+    <coll hits="1" score="12.680" query="w2083767297">borealis</coll>
+    <coll hits="2" score="11.470" query="w2083767296">maxima</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="9.090">
+    <coll hits="1" score="12.680" query="w2083740160">Nuphar</coll>
+  </gramrel>
+</wordsketch>
+</export>

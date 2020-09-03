@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">macraei</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="11.360">
+    <coll hits="1" score="8.980">SL</coll>
+    <coll hits="2" score="7.080">relation</coll>
+    <coll hits="1" score="4.100">period</coll>
+    <coll hits="1" score="3.770">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

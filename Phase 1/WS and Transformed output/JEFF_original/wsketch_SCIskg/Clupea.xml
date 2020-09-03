@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Clupea</keyword>
+  <gramrel name="nouns modified by X" hits="7" score="36.840">
+    <coll hits="6" score="13.880">harengus</coll>
+    <coll hits="1" score="10.750">whitefish</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="5.260">
+    <coll hits="1" score="9.410">species</coll>
+  </gramrel>
+</wordsketch>
+</export>

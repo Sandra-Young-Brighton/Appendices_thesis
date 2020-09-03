@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">alevins</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="22" score="12.020">
+    <coll hits="1" score="10.090">desiccation</coll>
+    <coll hits="1" score="9.000">hatch</coll>
+    <coll hits="2" score="8.860">cue</coll>
+    <coll hits="1" score="8.500">Salmonidae</coll>
+    <coll hits="2" score="7.640">gravel</coll>
+    <coll hits="1" score="7.260">O</coll>
+    <coll hits="1" score="7.000">regime</coll>
+    <coll hits="1" score="6.720">Columbia</coll>
+    <coll hits="3" score="6.310">egg</coll>
+    <coll hits="1" score="5.880">state</coll>
+    <coll hits="1" score="5.680">S</coll>
+    <coll hits="1" score="5.000">charr</coll>
+    <coll hits="2" score="4.800">stream</coll>
+    <coll hits="2" score="4.200">salmon</coll>
+    <coll hits="1" score="4.200">larva</coll>
+    <coll hits="1" score="3.100">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

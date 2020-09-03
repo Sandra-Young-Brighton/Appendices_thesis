@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Parahucho_perryi</keyword>
+  <gramrel name="modifiers of X" hits="1" score="3.230">
+    <coll hits="1" score="13.990">Cottus_nozawae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="9.680">
+    <coll hits="1" score="5.230">season</coll>
+    <coll hits="1" score="4.640">day</coll>
+    <coll hits="1" score="3.730">habitat</coll>
+  </gramrel>
+</wordsketch>
+</export>

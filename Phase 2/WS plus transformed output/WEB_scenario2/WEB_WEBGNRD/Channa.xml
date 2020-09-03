@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Channa</keyword>
+  <gramrel name="nouns modified by X" hits="7" score="43.750">
+    <coll hits="2" score="12.540" query="w1924996226">striatus</coll>
+    <coll hits="1" score="11.990" query="w1924996227">marulius</coll>
+    <coll hits="1" score="10.820" query="w1924996225">striata</coll>
+    <coll hits="3" score="10.350" query="w1924996224">punctatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

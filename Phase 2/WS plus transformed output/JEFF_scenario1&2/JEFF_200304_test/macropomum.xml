@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">macropomum</keyword>
+  <gramrel name="modifiers of X" hits="5" score="83.330">
+    <coll hits="5" score="13.860">Colossoma</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="16.670">
+    <coll hits="1" score="13.410">Characiformes</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="16.670">
+    <coll hits="1" score="13.410">Characiformes</coll>
+  </gramrel>
+</wordsketch>
+</export>

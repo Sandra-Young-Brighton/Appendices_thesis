@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cyanellus</keyword>
+  <gramrel name="modifiers of X" hits="23" score="54.760">
+    <coll hits="21" score="11.420" query="w1152681536">Lepomis</coll>
+    <coll hits="1" score="10.410" query="w1152681538">Lepomus</coll>
+    <coll hits="1" score="10.350" query="w1152681537">nebulosus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="7.140">
+    <coll hits="1" score="10.680" query="w1152712513">gulosus</coll>
+    <coll hits="2" score="9.500" query="w1152712512">gibbosus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.380">
+    <coll hits="1" score="13.990" query="w1152670464">gulosus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">occidentalis</keyword>
+  <gramrel name="modifiers of X" hits="3" score="27.270">
+    <coll hits="1" score="13.000">Parailia</coll>
+    <coll hits="1" score="13.000">Poeciliopsis</coll>
+    <coll hits="1" score="9.040">Galaxias</coll>
+  </gramrel>
+</wordsketch>
+</export>

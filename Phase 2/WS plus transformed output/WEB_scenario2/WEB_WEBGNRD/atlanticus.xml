@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">atlanticus</keyword>
+  <gramrel name="modifiers of X" hits="5" score="5.880">
+    <coll hits="4" score="13.830" query="w2143433345">Hoplostethus</coll>
+    <coll hits="1" score="12.410" query="w2143433344">Glaucus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="7.060">
+    <coll hits="1" score="11.990" query="w2143454019">theNANZ</coll>
+    <coll hits="3" score="11.060" query="w2143454018">Porsangerfjord</coll>
+    <coll hits="1" score="8.220" query="w2143454016">table</coll>
+    <coll hits="1" score="7.830" query="w2143454017">interval</coll>
+  </gramrel>
+</wordsketch>
+</export>

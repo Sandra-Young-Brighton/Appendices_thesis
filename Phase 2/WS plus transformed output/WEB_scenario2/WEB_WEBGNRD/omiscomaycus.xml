@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">omiscomaycus</keyword>
+  <gramrel name="modifiers of X" hits="17" score="60.710">
+    <coll hits="16" score="13.870" query="w1898955456">Percopsis</coll>
+    <coll hits="1" score="10.750" query="w1898955457">Percopsidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="3.570">
+    <coll hits="1" score="5.430" query="w1898976896">fluviatilis</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="9" score="32.140">
+    <coll hits="1" score="11.410" query="w1899009287">nebulosus</coll>
+    <coll hits="1" score="11.410" query="w1899009286">Lucius</coll>
+    <coll hits="1" score="11.410" query="w1899009285">vitreus</coll>
+    <coll hits="1" score="11.410" query="w1899009284">Sander</coll>
+    <coll hits="1" score="11.410" query="w1899009283">Ictalurus</coll>
+    <coll hits="1" score="11.410" query="w1899009281">mykiss</coll>
+    <coll hits="1" score="11.300" query="w1899009280">Oncorhynchus</coll>
+    <coll hits="1" score="11.190" query="w1899009288">trutta</coll>
+    <coll hits="1" score="11.000" query="w1899009282">Salmo</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="7.140">
+    <coll hits="1" score="5.890" query="w1898989633">Bay</coll>
+    <coll hits="1" score="3.760" query="w1898989632">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

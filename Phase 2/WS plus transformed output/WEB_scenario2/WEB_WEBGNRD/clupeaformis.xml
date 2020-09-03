@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">clupeaformis</keyword>
+  <gramrel name="modifiers of X" hits="74" score="73.270">
+    <coll hits="71" score="11.860" query="w662616256">Coregonus</coll>
+    <coll hits="1" score="8.760" query="w662616259">artedi</coll>
+    <coll hits="1" score="8.760" query="w662616257">artedii</coll>
+    <coll hits="1" score="8.750" query="w662616258">lavaretus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.990">
+    <coll hits="1" score="9.910" query="w662657344">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.990">
+    <coll hits="1" score="10.820" query="w662607872">Salmonidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

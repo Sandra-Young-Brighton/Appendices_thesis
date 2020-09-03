@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pampus</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="66.670">
+    <coll hits="2" score="12.830" query="w2085229312">argenteus</coll>
+    <coll hits="1" score="12.680" query="w2085229313">argentus</coll>
+    <coll hits="1" score="12.190" query="w2085229314">chinensis</coll>
+  </gramrel>
+</wordsketch>
+</export>

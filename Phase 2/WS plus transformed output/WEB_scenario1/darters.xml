@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">darters</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="13" score="5.940">
+    <coll hits="1" score="9.670">Missouri</coll>
+    <coll hits="1" score="8.330">sturgeon</coll>
+    <coll hits="1" score="7.320">electrofishing</coll>
+    <coll hits="1" score="6.890">fall</coll>
+    <coll hits="1" score="6.580">pool</coll>
+    <coll hits="1" score="5.900">state</coll>
+    <coll hits="2" score="5.290">period</coll>
+    <coll hits="1" score="4.820">Lake</coll>
+    <coll hits="1" score="4.360">system</coll>
+    <coll hits="1" score="3.810">stream</coll>
+    <coll hits="1" score="3.740">area</coll>
+    <coll hits="1" score="2.690">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

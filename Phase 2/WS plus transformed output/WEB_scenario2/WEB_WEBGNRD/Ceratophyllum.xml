@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ceratophyllum</keyword>
+  <gramrel name="modifiers of X" hits="5" score="11.900">
+    <coll hits="1" score="11.990" query="w1956968068">Pistia</coll>
+    <coll hits="1" score="10.540" query="w1956968067">Chara</coll>
+    <coll hits="1" score="9.910" query="w1956968064">Elodea</coll>
+    <coll hits="1" score="9.090" query="w1956968065">Potamogeton</coll>
+    <coll hits="1" score="8.710" query="w1956968066">Myriophyllum</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="21" score="50.000">
+    <coll hits="18" score="13.850" query="w1957008384">demersum</coll>
+    <coll hits="1" score="10.540" query="w1957008387">Hydrocharis</coll>
+    <coll hits="1" score="10.410" query="w1957008385">Nuphar</coll>
+    <coll hits="1" score="10.350" query="w1957008386">Lemna</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="9.520">
+    <coll hits="1" score="12.680" query="w1956935299">Hydrocharis</coll>
+    <coll hits="1" score="12.190" query="w1956935298">Lemna</coll>
+    <coll hits="1" score="11.990" query="w1956935297">Nuphar</coll>
+    <coll hits="1" score="10.600" query="w1956935296">Myriophyllum</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.380">
+    <coll hits="1" score="9.270" query="w1957041280">shallow</coll>
+  </gramrel>
+</wordsketch>
+</export>

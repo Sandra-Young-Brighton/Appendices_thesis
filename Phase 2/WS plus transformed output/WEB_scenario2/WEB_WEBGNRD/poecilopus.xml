@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">poecilopus</keyword>
+  <gramrel name="modifiers of X" hits="25" score="73.530">
+    <coll hits="24" score="10.870" query="w1950255488">Cottus</coll>
+    <coll hits="1" score="10.190" query="w1950255489">leuciscus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="8.820">
+    <coll hits="1" score="8.980" query="w1950278785">otter</coll>
+    <coll hits="2" score="5.370" query="w1950278784">system</coll>
+  </gramrel>
+</wordsketch>
+</export>

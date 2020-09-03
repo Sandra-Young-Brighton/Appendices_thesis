@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_untagged</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="1">[lc=&quot;Salmo_levenensis&quot; | lemma_lc=&quot;Salmo_levenensis&quot;]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#861" num="0" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; day, f., 1887. on the loch-leven trout (</left>
+    <kwic>salmo_levenensis</kwic>
+    <right>). journal of the linnaean society of london,</right>
+  </line>
+</concordance>
+</export>

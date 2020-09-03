@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Fundulus</keyword>
+  <gramrel name="nouns modified by X" hits="43" score="58.900">
+    <coll hits="33" score="13.800">heteroclitus</coll>
+    <coll hits="7" score="12.130">diaphanus</coll>
+    <coll hits="3" score="10.680">notatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Luxilus_cornutus</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="37.500">
+    <coll hits="1" score="11.830">Lepomis_cyanellus</coll>
+    <coll hits="1" score="10.820">Pimephales_promelas</coll>
+    <coll hits="1" score="10.240">minnow</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="25.000">
+    <coll hits="1" score="11.090">Pimephales_promelas</coll>
+    <coll hits="1" score="10.680">minnow</coll>
+  </gramrel>
+</wordsketch>
+</export>

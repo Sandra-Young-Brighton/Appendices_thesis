@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Micropterus_salmoides</keyword>
+  <gramrel name="modifiers of X" hits="3" score="3.060">
+    <coll hits="1" score="13.000">Ictalurus</coll>
+    <coll hits="1" score="13.000">Lepomis_cyanellus</coll>
+    <coll hits="1" score="12.190">Tinca_tinca</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="3.060">
+    <coll hits="2" score="13.670">Pomoxis_spp</coll>
+    <coll hits="1" score="12.190">Cichlasoma_facetum</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.020">
+    <coll hits="1" score="13.990">Cichlasoma_facetum</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="9" score="9.180">
+    <coll hits="1" score="11.670">Fundulus_spp</coll>
+    <coll hits="1" score="11.670">Lepomis_spp</coll>
+    <coll hits="1" score="9.640">predator</coll>
+    <coll hits="1" score="8.620">prey</coll>
+    <coll hits="3" score="8.380">fish</coll>
+    <coll hits="2" score="7.770">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

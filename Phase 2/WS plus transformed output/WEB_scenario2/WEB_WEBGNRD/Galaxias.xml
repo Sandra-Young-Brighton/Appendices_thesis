@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Galaxias</keyword>
+  <gramrel name="nouns modified by X" hits="60" score="59.410">
+    <coll hits="28" score="13.260" query="w1921284034">olidus</coll>
+    <coll hits="7" score="11.720" query="w1921284033">maculatus</coll>
+    <coll hits="5" score="11.280" query="w1921284035">brevipinnis</coll>
+    <coll hits="4" score="10.950" query="w1921284040">postvectis</coll>
+    <coll hits="4" score="10.910" query="w1921284039">fasciatus</coll>
+    <coll hits="3" score="10.560" query="w1921284038">argenteus</coll>
+    <coll hits="2" score="10.040" query="w1921284043">zebratus</coll>
+    <coll hits="2" score="10.040" query="w1921284042">truttaceus</coll>
+    <coll hits="1" score="9.060" query="w1921284044">platei</coll>
+    <coll hits="1" score="9.060" query="w1921284041">divergens</coll>
+    <coll hits="1" score="9.060" query="w1921284037">paucispondylus</coll>
+    <coll hits="1" score="8.730" query="w1921284036">vulgaris</coll>
+    <coll hits="1" score="7.920" query="w1921284032">auratus</coll>
+  </gramrel>
+</wordsketch>
+</export>

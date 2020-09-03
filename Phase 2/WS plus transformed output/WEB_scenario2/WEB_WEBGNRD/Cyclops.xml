@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cyclops</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="14.710">
+    <coll hits="3" score="13.580" query="w1706168768">vicinus</coll>
+    <coll hits="1" score="12.410" query="w1706168770">scutifer</coll>
+    <coll hits="1" score="12.190" query="w1706168769">vernalis</coll>
+  </gramrel>
+</wordsketch>
+</export>

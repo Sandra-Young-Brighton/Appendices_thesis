@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Macrobrachium</keyword>
+  <gramrel name="nouns modified by X" hits="24" score="42.860">
+    <coll hits="16" score="13.670" query="w1972086720">rosenbergii</coll>
+    <coll hits="3" score="11.830" query="w1972086723">amazonicum</coll>
+    <coll hits="2" score="11.300" query="w1972086721">nipponense</coll>
+    <coll hits="1" score="10.350" query="w1972086725">sintangense</coll>
+    <coll hits="1" score="10.350" query="w1972086724">olfersii</coll>
+    <coll hits="1" score="10.350" query="w1972086722">equidens</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="9" score="16.070">
+    <coll hits="1" score="11.670" query="w1972136067">Dana</coll>
+    <coll hits="1" score="11.540" query="w1972136072">Clausocalanus</coll>
+    <coll hits="1" score="11.540" query="w1972136071">faxoni</coll>
+    <coll hits="1" score="11.540" query="w1972136070">Lucifer</coll>
+    <coll hits="1" score="11.540" query="w1972136069">ranina</coll>
+    <coll hits="1" score="11.540" query="w1972136068">Ranina</coll>
+    <coll hits="1" score="11.540" query="w1972136066">Eriocheir</coll>
+    <coll hits="1" score="11.540" query="w1972136065">sinensis</coll>
+    <coll hits="1" score="11.540" query="w1972136064">furcatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

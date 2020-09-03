@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Typha</keyword>
+  <gramrel name="nouns modified by X" hits="6" score="23.080">
+    <coll hits="5" score="13.620">latifolia</coll>
+    <coll hits="1" score="11.990">Phragmites</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="3.850">
+    <coll hits="1" score="13.410">Phragmites</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="3.850">
+    <coll hits="1" score="13.410">Cyperus</coll>
+  </gramrel>
+</wordsketch>
+</export>

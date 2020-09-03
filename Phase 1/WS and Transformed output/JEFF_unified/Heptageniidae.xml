@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Heptageniidae</keyword>
+  <gramrel name="modifiers of X" hits="1" score="25.000">
+    <coll hits="1" score="13.410">Baetidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="25.000">
+    <coll hits="1" score="13.410">Hydropsychidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="25.000">
+    <coll hits="1" score="13.410">Hydropsychidae</coll>
+  </gramrel>
+  <gramrel name="... is a X" hits="1" score="25.000">
+    <coll hits="1" score="13.410">prey</coll>
+  </gramrel>
+</wordsketch>
+</export>

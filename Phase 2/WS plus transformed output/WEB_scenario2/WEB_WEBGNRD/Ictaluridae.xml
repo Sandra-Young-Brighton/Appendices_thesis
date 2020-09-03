@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ictaluridae</keyword>
+  <gramrel name="modifiers of X" hits="5" score="15.630">
+    <coll hits="3" score="12.880" query="w1806313537">Catostomidae</coll>
+    <coll hits="1" score="11.300" query="w1806313538">Siluriformes</coll>
+    <coll hits="1" score="10.820" query="w1806313536">Cyprinidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="6.250">
+    <coll hits="1" score="13.410" query="w1806347073">Centrarchidae</coll>
+    <coll hits="1" score="9.870" query="w1806347072">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="3.130">
+    <coll hits="1" score="13.990" query="w1806304768">Centrarchidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

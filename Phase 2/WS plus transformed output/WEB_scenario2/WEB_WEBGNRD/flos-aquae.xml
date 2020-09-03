@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">flos-aquae</keyword>
+  <gramrel name="modifiers of X" hits="4" score="100.000">
+    <coll hits="2" score="13.190" query="w2004711874">Aphanizomenon</coll>
+    <coll hits="1" score="12.680" query="w2004711873">flos-aquae</coll>
+    <coll hits="1" score="12.680" query="w2004711872">Anabaena</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="25.000" query="w2004739840">nouns modified by &quot;%w&quot;</coll>
+  </gramrel>
+</wordsketch>
+</export>

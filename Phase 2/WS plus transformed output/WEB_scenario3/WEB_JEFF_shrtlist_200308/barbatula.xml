@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">barbatula</keyword>
+  <gramrel name="modifiers of X" hits="20" score="86.960">
+    <coll hits="17" score="13.880">Barbatula</coll>
+    <coll hits="1" score="10.600">marmoratus</coll>
+    <coll hits="1" score="10.470">nasus</coll>
+    <coll hits="1" score="10.350">gobio</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="8.700">
+    <coll hits="1" score="8.960">auratus</coll>
+    <coll hits="1" score="8.500">lota</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="13.040">
+    <coll hits="1" score="12.680">auratus</coll>
+    <coll hits="1" score="11.670">gobio</coll>
+    <coll hits="1" score="11.670">lota</coll>
+  </gramrel>
+</wordsketch>
+</export>

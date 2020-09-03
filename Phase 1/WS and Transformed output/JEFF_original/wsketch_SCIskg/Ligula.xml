@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ligula</keyword>
+  <gramrel name="nouns modified by X" hits="9" score="21.950">
+    <coll hits="9" score="13.990">intestinalis</coll>
+  </gramrel>
+</wordsketch>
+</export>

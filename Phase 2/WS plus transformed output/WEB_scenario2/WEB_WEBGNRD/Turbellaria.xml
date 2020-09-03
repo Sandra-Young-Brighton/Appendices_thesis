@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Turbellaria</keyword>
+  <gramrel name="modifiers of X" hits="1" score="7.690">
+    <coll hits="1" score="11.670" query="w2113409536">Tabanidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="7.690">
+    <coll hits="1" score="13.410" query="w2113419520">Ostracoda</coll>
+  </gramrel>
+</wordsketch>
+</export>

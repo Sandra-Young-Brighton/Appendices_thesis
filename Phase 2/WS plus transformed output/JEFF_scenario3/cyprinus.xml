@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cyprinus</keyword>
+  <gramrel name="modifiers of X" hits="4" score="57.140">
+    <coll hits="4" score="13.830">Carpiodes</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="28.570">
+    <coll hits="1" score="13.000">confluentus</coll>
+    <coll hits="1" score="13.000">Salvelinus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ameiurus_spp</keyword>
+  <gramrel name="modifiers of X" hits="5" score="125.000">
+    <coll hits="2" score="13.000">Ictaluridae</coll>
+    <coll hits="1" score="12.410">Ameiurus_nebulosus</coll>
+    <coll hits="1" score="11.990">Ameiurus_natalis</coll>
+    <coll hits="1" score="9.530">bullhead</coll>
+  </gramrel>
+</wordsketch>
+</export>

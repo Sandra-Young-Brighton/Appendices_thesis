@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rupestris</keyword>
+  <gramrel name="modifiers of X" hits="23" score="67.650">
+    <coll hits="21" score="13.930" query="w1656491008">Ambloplites</coll>
+    <coll hits="1" score="10.410" query="w1656491010">Amploplites</coll>
+    <coll hits="1" score="10.410" query="w1656491009">rupestris</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="2.940" query="w1656518912">nouns modified by &quot;%w&quot;</coll>
+  </gramrel>
+</wordsketch>
+</export>

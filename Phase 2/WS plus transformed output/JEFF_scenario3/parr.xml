@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">parr</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="178" score="16.620">
+    <coll hits="4" score="9.470">Owenass</coll>
+    <coll hits="3" score="9.060">Baðða</coll>
+    <coll hits="2" score="8.500">Burri</coll>
+    <coll hits="2" score="8.480">SMR1</coll>
+    <coll hits="2" score="8.460">SMR3</coll>
+    <coll hits="2" score="8.380">Teno</coll>
+    <coll hits="2" score="8.330">orifice</coll>
+    <coll hits="4" score="8.250">redd</coll>
+    <coll hits="2" score="8.130">Salmon</coll>
+    <coll hits="20" score="7.820">river</coll>
+    <coll hits="2" score="7.640">refuge</coll>
+    <coll hits="3" score="7.560">parr</coll>
+    <coll hits="1" score="7.510">Vetsna</coll>
+    <coll hits="1" score="7.500">Duiske</coll>
+    <coll hits="1" score="7.500">ID</coll>
+    <coll hits="1" score="7.500">Cerne</coll>
+    <coll hits="1" score="7.450">Burrishoole</coll>
+    <coll hits="3" score="7.440">gradient</coll>
+    <coll hits="1" score="7.430">ABT</coll>
+    <coll hits="6" score="7.420">charr</coll>
+    <coll hits="1" score="7.350">DMR</coll>
+    <coll hits="2" score="7.330">laboratory</coll>
+    <coll hits="1" score="7.330">shallow</coll>
+    <coll hits="2" score="7.250">autumn</coll>
+    <coll hits="1" score="7.220">brook</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_untagged</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="7">[lc=&quot;river_trout&quot; | lemma_lc=&quot;river_trout&quot;]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#82" num="0" label="_">
+    <left>for the slow growth rates of the mccloud</left>
+    <kwic> river_trout</kwic>
+    <right>. &lt;/p&gt; &lt;p&gt; (1) this paper deals with the</right>
+  </line>
+  <line refs="doc#350" num="1" label="_">
+    <left>&lt;p&gt; salmo_trutta fario, sometimes called the</left>
+    <kwic> river_trout</kwic>
+    <right>, and also known by the name of its parent species</right>
+  </line>
+  <line refs="doc#350" num="2" label="_">
+    <left>lacustris). depending on the supply of food,</left>
+    <kwic> river_trout</kwic>
+    <right> measure 20 to 80 cm (0.7–2.6 ft) in length;</right>
+  </line>
+  <line refs="doc#350" num="3" label="_">
+    <left>the belly, the belly itself is whitish yellow.</left>
+    <kwic> river_trout</kwic>
+    <right> usually attains a weight of up to 2 kg (4.4 lb).</right>
+  </line>
+  <line refs="doc#438" num="4" label="_">
+    <left>blue-grey to brown-yellowish for resident</left>
+    <kwic> river_trout</kwic>
+    <right> and silvery for lake and sea morphs, with black</right>
+  </line>
+  <line refs="doc#568" num="5" label="_">
+    <left>. 20 bettoli, p. w., and l. bohm. 1997. clinch</left>
+    <kwic> river_trout</kwic>
+    <right> investigations and creel survey. fisheries</right>
+  </line>
+  <line refs="doc#716" num="6" label="_">
+    <left>ornithology, bird study, 62, 457–465 n blanice</left>
+    <kwic> river_trout</kwic>
+    <right> streams %a n %a n %a 52 38 734 550 160 45 11 – – 12 2 8</right>
+  </line>
+</concordance>
+</export>

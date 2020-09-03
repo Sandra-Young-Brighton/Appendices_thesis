@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">calamus</keyword>
+  <gramrel name="modifiers of X" hits="3" score="75.000">
+    <coll hits="2" score="13.670" query="w2083298305">Acorus</coll>
+    <coll hits="1" score="12.410" query="w2083298304">lacustris</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="25.000">
+    <coll hits="1" score="13.990" query="w2083288960">Sparganium</coll>
+  </gramrel>
+</wordsketch>
+</export>

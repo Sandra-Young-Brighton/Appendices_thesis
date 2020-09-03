@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">molitrix</keyword>
+  <gramrel name="modifiers of X" hits="14" score="70.000">
+    <coll hits="13" score="13.610">Hypophthalmichthys</coll>
+    <coll hits="1" score="11.090">idellus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.000">
+    <coll hits="1" score="11.540">nobilis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.000">
+    <coll hits="1" score="13.990">nobilis</coll>
+  </gramrel>
+</wordsketch>
+</export>

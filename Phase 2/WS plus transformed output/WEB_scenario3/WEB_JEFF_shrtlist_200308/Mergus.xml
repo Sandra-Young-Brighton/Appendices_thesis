@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Mergus</keyword>
+  <gramrel name="nouns modified by X" hits="29" score="49.150">
+    <coll hits="28" score="13.970">merganser</coll>
+    <coll hits="1" score="10.090">albellus</coll>
+  </gramrel>
+</wordsketch>
+</export>

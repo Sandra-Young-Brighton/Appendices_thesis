@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lavaretus</keyword>
+  <gramrel name="modifiers of X" hits="120" score="69.770">
+    <coll hits="95" score="12.910">Coregonus</coll>
+    <coll hits="23" score="12.060">whitefish</coll>
+    <coll hits="2" score="5.340">fish</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.580">
+    <coll hits="1" score="6.380">larva</coll>
+  </gramrel>
+  <gramrel name="X is a ..." hits="1" score="0.580">
+    <coll hits="1" score="9.350">specie</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="2.910">
+    <coll hits="1" score="11.670">Annecy</coll>
+    <coll hits="1" score="11.300">rapids</coll>
+    <coll hits="2" score="8.180">L</coll>
+    <coll hits="1" score="6.160">C</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.580">
+    <coll hits="1" score="6.510">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

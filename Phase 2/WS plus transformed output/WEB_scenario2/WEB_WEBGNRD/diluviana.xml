@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">diluviana</keyword>
+  <gramrel name="modifiers of X" hits="13" score="46.430">
+    <coll hits="13" score="13.240" query="w1991597696">Mysis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="3.570">
+    <coll hits="1" score="13.990" query="w1991586560">anomala</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="17.860">
+    <coll hits="1" score="7.860" query="w1991607104">alewife</coll>
+    <coll hits="2" score="7.400" query="w1991607105">Michigan</coll>
+    <coll hits="2" score="6.840" query="w1991607106">Ontario</coll>
+  </gramrel>
+</wordsketch>
+</export>

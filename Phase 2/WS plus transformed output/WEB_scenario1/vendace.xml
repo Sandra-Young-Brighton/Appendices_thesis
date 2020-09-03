@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">vendace</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="31" score="10.760">
+    <coll hits="2" score="10.750">Inari</coll>
+    <coll hits="1" score="9.950">Bassenthwaite</coll>
+    <coll hits="1" score="9.710">Winfield</coll>
+    <coll hits="1" score="9.410">U.K.</coll>
+    <coll hits="1" score="8.590">District</coll>
+    <coll hits="11" score="8.250">Lake</coll>
+    <coll hits="2" score="8.190">England</coll>
+    <coll hits="1" score="8.160">Water</coll>
+    <coll hits="1" score="7.640">Sweden</coll>
+    <coll hits="1" score="7.370">morph</coll>
+    <coll hits="1" score="7.350">Scotland</coll>
+    <coll hits="1" score="6.930">Reservoir</coll>
+    <coll hits="1" score="6.150">interaction</coll>
+    <coll hits="1" score="5.600">whitefish</coll>
+    <coll hits="3" score="4.470">lake</coll>
+    <coll hits="1" score="4.280">period</coll>
+    <coll hits="1" score="3.730">area</coll>
+  </gramrel>
+</wordsketch>
+</export>

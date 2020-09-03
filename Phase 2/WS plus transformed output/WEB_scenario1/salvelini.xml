@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">salvelini</keyword>
+  <gramrel name="modifiers of X" hits="20" score="20.410">
+    <coll hits="20" score="13.990">Eubothrium</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="13" score="13.270">
+    <coll hits="1" score="11.190">sal</coll>
+    <coll hits="1" score="9.440">Greenland</coll>
+    <coll hits="1" score="8.380">trutta</coll>
+    <coll hits="1" score="7.010">country</coll>
+    <coll hits="2" score="6.980">Europe</coll>
+    <coll hits="1" score="5.700">S</coll>
+    <coll hits="2" score="4.200">salmon</coll>
+    <coll hits="2" score="4.100">trout</coll>
+    <coll hits="2" score="2.750">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

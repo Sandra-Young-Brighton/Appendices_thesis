@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">capensis</keyword>
+  <gramrel name="modifiers of X" hits="5" score="62.500">
+    <coll hits="2" score="13.190" query="w2049529986">Sandelia</coll>
+    <coll hits="2" score="10.950" query="w2049529984">Sebastes</coll>
+    <coll hits="1" score="8.930" query="w2049529985">Clarias</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="12.500">
+    <coll hits="1" score="7.340" query="w2049560128">Africa</coll>
+  </gramrel>
+</wordsketch>
+</export>

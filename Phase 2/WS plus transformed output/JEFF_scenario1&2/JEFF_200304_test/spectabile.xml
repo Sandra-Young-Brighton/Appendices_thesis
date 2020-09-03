@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">spectabile</keyword>
+  <gramrel name="modifiers of X" hits="20" score="45.450">
+    <coll hits="19" score="12.200">Etheostoma</coll>
+    <coll hits="1" score="10.600">Etheostorna</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="4.550">
+    <coll hits="1" score="11.670">grunniens</coll>
+    <coll hits="1" score="10.680">flabellare</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="5" score="11.360">
+    <coll hits="5" score="13.990">flabellare</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.270">
+    <coll hits="1" score="3.780">site</coll>
+  </gramrel>
+</wordsketch>
+</export>

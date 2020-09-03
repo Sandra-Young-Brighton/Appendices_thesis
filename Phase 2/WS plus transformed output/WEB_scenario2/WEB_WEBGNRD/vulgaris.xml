@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">vulgaris</keyword>
+  <gramrel name="modifiers of X" hits="17" score="26.980">
+    <coll hits="3" score="12.260" query="w1956725702">Gaidropsarus</coll>
+    <coll hits="3" score="12.260" query="w1956725700">Triturus</coll>
+    <coll hits="2" score="11.750" query="w1956725703">Sturnus</coll>
+    <coll hits="2" score="10.910" query="w1956725699">Chara</coll>
+    <coll hits="1" score="10.820" query="w1956725706">Calluna</coll>
+    <coll hits="1" score="10.820" query="w1956725705">Undinula</coll>
+    <coll hits="1" score="10.820" query="w1956725704">Primula</coll>
+    <coll hits="1" score="10.820" query="w1956725701">Hippuris</coll>
+    <coll hits="1" score="10.680" query="w1956725697">Utricularia</coll>
+    <coll hits="1" score="9.910" query="w1956725696">Solea</coll>
+    <coll hits="1" score="8.730" query="w1956725698">Galaxias</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.590">
+    <coll hits="1" score="9.020" query="w1956817216">spicatum</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.590">
+    <coll hits="1" score="11.990" query="w1956714944">spicatum</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.590">
+    <coll hits="1" score="10.910" query="w1956828288">Mediterranean</coll>
+  </gramrel>
+</wordsketch>
+</export>

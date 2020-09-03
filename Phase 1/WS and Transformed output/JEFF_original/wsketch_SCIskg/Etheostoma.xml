@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Etheostoma</keyword>
+  <gramrel name="modifiers of X" hits="5" score="2.430">
+    <coll hits="1" score="12.410">megalotis</coll>
+    <coll hits="1" score="12.410">punctulatus</coll>
+    <coll hits="1" score="12.410">annularis</coll>
+    <coll hits="1" score="9.210">Micropterus</coll>
+    <coll hits="1" score="7.740">Lepomis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="113" score="54.850">
+    <coll hits="19" score="12.180">spectabile</coll>
+    <coll hits="17" score="12.050">nigrum</coll>
+    <coll hits="17" score="12.050">flabellare</coll>
+    <coll hits="14" score="11.810">cinereum</coll>
+    <coll hits="9" score="11.230">caeruleum</coll>
+    <coll hits="5" score="10.430">exile</coll>
+    <coll hits="3" score="9.720">zonale</coll>
+    <coll hits="3" score="9.710">nianguae</coll>
+    <coll hits="3" score="9.700">simoterum</coll>
+    <coll hits="2" score="9.150">tetrazonum</coll>
+    <coll hits="2" score="9.150">microperca</coll>
+    <coll hits="2" score="9.150">rubrum</coll>
+    <coll hits="2" score="9.150">cragini</coll>
+    <coll hits="2" score="9.150">asprigene</coll>
+    <coll hits="2" score="9.150">lynceum</coll>
+    <coll hits="1" score="8.160">chienense</coll>
+    <coll hits="1" score="8.160">okaloosae</coll>
+    <coll hits="1" score="8.160">whipplei</coll>
+    <coll hits="1" score="8.160">olmstedi</coll>
+    <coll hits="1" score="8.160">blennioides</coll>
+    <coll hits="1" score="8.160">brevirostrum</coll>
+    <coll hits="1" score="8.160">crossopterum</coll>
+    <coll hits="1" score="8.160">histrio</coll>
+    <coll hits="1" score="8.100">Percidae</coll>
+    <coll hits="1" score="8.070">Perca</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.490">
+    <coll hits="1" score="12.680">Percidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="1.460">
+    <coll hits="1" score="12.410">flabellare</coll>
+    <coll hits="1" score="11.000">spectabile</coll>
+    <coll hits="1" score="9.500">description</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.490">
+    <coll hits="1" score="13.000">Catonotus</coll>
+  </gramrel>
+</wordsketch>
+</export>

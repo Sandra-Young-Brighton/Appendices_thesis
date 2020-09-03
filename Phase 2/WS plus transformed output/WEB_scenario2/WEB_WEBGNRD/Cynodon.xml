@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cynodon</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="100.000">
+    <coll hits="1" score="13.990" query="w2157529152">dactylon</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="200.000">
+    <coll hits="1" score="11.540" query="w2157538177">Cyperus</coll>
+    <coll hits="1" score="11.540" query="w2157538176">Eleocharis</coll>
+  </gramrel>
+</wordsketch>
+</export>

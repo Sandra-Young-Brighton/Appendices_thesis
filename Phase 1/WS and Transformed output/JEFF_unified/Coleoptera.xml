@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Coleoptera</keyword>
+  <gramrel name="modifiers of X" hits="3" score="5.880">
+    <coll hits="1" score="13.000">Thysanoptera</coll>
+    <coll hits="1" score="12.190">Hymenoptera</coll>
+    <coll hits="1" score="10.680">Coleoptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="17" score="33.330">
+    <coll hits="4" score="12.090">Hemiptera</coll>
+    <coll hits="4" score="11.950">Copepoda</coll>
+    <coll hits="2" score="11.190">Diptera</coll>
+    <coll hits="1" score="10.820">Cerambycidae</coll>
+    <coll hits="1" score="10.820">Arachnida</coll>
+    <coll hits="1" score="10.820">Dytiscidae</coll>
+    <coll hits="1" score="10.680">Coleoptera</coll>
+    <coll hits="1" score="10.540">Hymenoptera</coll>
+    <coll hits="1" score="10.350">Odonata</coll>
+    <coll hits="1" score="6.250">larva</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="9" score="17.650">
+    <coll hits="2" score="11.990">Hemiptera</coll>
+    <coll hits="1" score="11.670">Cerambycidae</coll>
+    <coll hits="1" score="11.670">Arachnida</coll>
+    <coll hits="1" score="11.670">Dytiscidae</coll>
+    <coll hits="2" score="11.540">Diptera</coll>
+    <coll hits="1" score="11.410">Hymenoptera</coll>
+    <coll hits="1" score="10.140">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="3.920">
+    <coll hits="2" score="10.910">invertebrate</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.960">
+    <coll hits="1" score="8.600">one</coll>
+  </gramrel>
+</wordsketch>
+</export>

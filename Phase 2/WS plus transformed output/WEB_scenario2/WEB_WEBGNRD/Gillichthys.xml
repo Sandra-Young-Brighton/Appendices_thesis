@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gillichthys</keyword>
+  <gramrel name="nouns modified by X" hits="6" score="85.710">
+    <coll hits="5" score="13.620" query="w1969567808">mirabilis</coll>
+    <coll hits="1" score="12.190" query="w1969567809">mirabillis</coll>
+  </gramrel>
+</wordsketch>
+</export>

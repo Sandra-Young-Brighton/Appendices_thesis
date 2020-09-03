@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">ruffe</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="31" score="9.690">
+    <coll hits="4" score="11.120">dark</coll>
+    <coll hits="2" score="10.600">Pohjalampi</coll>
+    <coll hits="1" score="9.790">USSR</coll>
+    <coll hits="1" score="8.200">contrast</coll>
+    <coll hits="1" score="8.100">supply</coll>
+    <coll hits="1" score="7.730">light</coll>
+    <coll hits="5" score="7.500">prey</coll>
+    <coll hits="1" score="7.420">fishing</coll>
+    <coll hits="1" score="6.760">trial</coll>
+    <coll hits="2" score="6.190">experiment</coll>
+    <coll hits="1" score="6.190">substrate</coll>
+    <coll hits="1" score="6.110">treatment</coll>
+    <coll hits="1" score="5.550">environment</coll>
+    <coll hits="4" score="5.470">lake</coll>
+    <coll hits="1" score="4.920">age</coll>
+    <coll hits="1" score="4.770">condition</coll>
+    <coll hits="1" score="4.690">rate</coll>
+    <coll hits="1" score="4.330">water</coll>
+    <coll hits="1" score="3.710">habitat</coll>
+  </gramrel>
+</wordsketch>
+</export>

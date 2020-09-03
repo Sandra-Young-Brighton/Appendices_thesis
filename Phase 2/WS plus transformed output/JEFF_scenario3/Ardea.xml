@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ardea</keyword>
+  <gramrel name="nouns modified by X" hits="6" score="35.290">
+    <coll hits="4" score="13.670">cinerea</coll>
+    <coll hits="2" score="13.000">cinera</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="11.760">
+    <coll hits="1" score="11.990">Lucius</coll>
+    <coll hits="1" score="11.990">Esox</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="11.760">
+    <coll hits="1" score="12.190">lutra</coll>
+    <coll hits="1" score="12.190">Lutra</coll>
+  </gramrel>
+</wordsketch>
+</export>

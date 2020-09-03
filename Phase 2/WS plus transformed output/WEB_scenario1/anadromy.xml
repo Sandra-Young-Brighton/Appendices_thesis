@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">anadromy</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="11" score="28.210">
+    <coll hits="2" score="10.790">residency</coll>
+    <coll hits="1" score="9.480">mykiss</coll>
+    <coll hits="1" score="9.140">cascade</coll>
+    <coll hits="1" score="8.570">Varden</coll>
+    <coll hits="1" score="5.940">season</coll>
+    <coll hits="1" score="5.870">Bay</coll>
+    <coll hits="1" score="5.010">charr</coll>
+    <coll hits="1" score="3.100">trout</coll>
+    <coll hits="1" score="2.690">specie</coll>
+    <coll hits="1" score="1.750">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

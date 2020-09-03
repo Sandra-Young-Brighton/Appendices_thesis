@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Victoria</keyword>
+  <gramrel name="modifiers of X" hits="2" score="0.790">
+    <coll hits="1" score="13.410">Mildura</coll>
+    <coll hits="1" score="7.620">perch</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="1.590">
+    <coll hits="1" score="12.680">Pundamilia_nyererei</coll>
+    <coll hits="1" score="12.680">Nyanza</coll>
+    <coll hits="1" score="9.090">perch</coll>
+    <coll hits="1" score="6.710">fish</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.400">
+    <coll hits="1" score="8.030">perch</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="9" score="3.570">
+    <coll hits="1" score="11.540">1920</coll>
+    <coll hits="1" score="11.540">tilapiine</coll>
+    <coll hits="1" score="11.410">upsurge</coll>
+    <coll hits="1" score="10.470">Uganda</coll>
+    <coll hits="1" score="9.830">benefit</coll>
+    <coll hits="1" score="8.380">decade</coll>
+    <coll hits="1" score="7.950">light</coll>
+    <coll hits="1" score="4.090">period</coll>
+    <coll hits="1" score="3.920">year</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="2" score="0.790">
+    <coll hits="1" score="13.000">island</coll>
+    <coll hits="1" score="12.410">bay</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="0.400">
+    <coll hits="1" score="9.910">perch</coll>
+  </gramrel>
+</wordsketch>
+</export>

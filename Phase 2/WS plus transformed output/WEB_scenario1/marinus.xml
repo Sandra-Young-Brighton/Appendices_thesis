@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">marinus</keyword>
+  <gramrel name="modifiers of X" hits="247" score="67.120">
+    <coll hits="245" score="13.960">Petromyzon</coll>
+    <coll hits="1" score="7.040">fossor</coll>
+    <coll hits="1" score="7.040">australis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="10" score="2.720">
+    <coll hits="1" score="11.300">Lampetra</coll>
+    <coll hits="8" score="10.980">Linnaeus</coll>
+    <coll hits="1" score="10.680">Linneaus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="12" score="3.260">
+    <coll hits="10" score="13.230">fluviatilis</coll>
+    <coll hits="1" score="11.300">tridentatus</coll>
+    <coll hits="1" score="11.190">Lampetra</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="16" score="4.350">
+    <coll hits="1" score="10.750">Photo</coll>
+    <coll hits="1" score="10.680">coherence</coll>
+    <coll hits="2" score="10.210">native</coll>
+    <coll hits="1" score="8.440">fluviatilis</coll>
+    <coll hits="1" score="8.100">UK</coll>
+    <coll hits="1" score="6.880">way</coll>
+    <coll hits="2" score="6.810">Lakes</coll>
+    <coll hits="1" score="6.680">cm</coll>
+    <coll hits="1" score="6.680">gravel</coll>
+    <coll hits="1" score="6.550">Erie</coll>
+    <coll hits="1" score="5.400">migration</coll>
+    <coll hits="3" score="4.270">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

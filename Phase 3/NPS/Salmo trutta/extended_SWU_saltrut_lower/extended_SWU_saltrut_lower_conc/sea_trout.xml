@@ -1,0 +1,3802 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_untagged</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="758">[lc=&quot;sea_trout&quot; | lemma_lc=&quot;sea_trout&quot;]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#14" num="0" label="_">
+    <left>on radiotagged wild and domesticated</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta l.) smolts. ecology of</right>
+  </line>
+  <line refs="doc#14" num="1" label="_">
+    <left>, m.i. (2002). predation on atlantic salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> during their first days as postsmolts. journal</right>
+  </line>
+  <line refs="doc#14" num="2" label="_">
+    <left>of atlantic salmon (salmo_salar) and</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta) smolts in a restored river and</right>
+  </line>
+  <line refs="doc#50" num="3" label="_">
+    <left>scientific working group on baltic salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> 2002-3, member of the us national marine</right>
+  </line>
+  <line refs="doc#61" num="4" label="_">
+    <left>organs of adult fresh-water adapted baltic</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta trutta l. homing back to the river</right>
+  </line>
+  <line refs="doc#61" num="5" label="_">
+    <left>types of leucocytes. the olfactory organs of</left>
+    <kwic> sea_trout</kwic>
+    <right> have labyrinth cells, a cell type unique for</right>
+  </line>
+  <line refs="doc#65" num="6" label="_">
+    <left>. atlantic salmon (salmo_salar l.) and</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta l.) smolts were exposed to acid</right>
+  </line>
+  <line refs="doc#65" num="7" label="_">
+    <left>1)=), lt5) was 22 and 40 h for atlantic salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right>, respectively. in the mixing zone (ph=4.8-6.5</right>
+  </line>
+  <line refs="doc#76" num="8" label="_">
+    <left>rivers show that upstream migrant salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> tend to be intercepted at counting fences and be</right>
+  </line>
+  <line refs="doc#78" num="9" label="_">
+    <left>use of our services. &lt;/p&gt; &lt;p&gt; life history of a</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta l.) population from the</right>
+  </line>
+  <line refs="doc#78" num="10" label="_">
+    <left>10.1002/9780470996027.ch16 &lt;/p&gt; &lt;p&gt; in book:</left>
+    <kwic> sea_trout</kwic>
+    <right>: biology, conservation and management, pp.</right>
+  </line>
+  <line refs="doc#78" num="11" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; the life-history characteristics of</left>
+    <kwic> sea_trout</kwic>
+    <right> population of the ulla river (iberian</right>
+  </line>
+  <line refs="doc#78" num="12" label="_">
+    <left>, based mainly on trapping data over 10 years.</left>
+    <kwic> sea_trout</kwic>
+    <right> in the ulla spawned from december to</right>
+  </line>
+  <line refs="doc#78" num="13" label="_">
+    <left>rivers. recaptures in the sea, indicated that</left>
+    <kwic> sea_trout</kwic>
+    <right> do not go far from the galician coast, but made</right>
+  </line>
+  <line refs="doc#78" num="14" label="_">
+    <left>of at least 200 km from their natal river.</left>
+    <kwic> sea_trout</kwic>
+    <right> returned to fresh water with an average length</right>
+  </line>
+  <line refs="doc#78" num="15" label="_">
+    <left>were caught between june and july, but adult</left>
+    <kwic> sea_trout</kwic>
+    <right> in the liñares (tributary) were caught mainly</right>
+  </line>
+  <line refs="doc#78" num="16" label="_">
+    <left>rivers flowing into the black sea, most</left>
+    <kwic> sea_trout</kwic>
+    <right> smoltify at age 1+ (okmus ̧etokmus ̧ okmus ̧et</right>
+  </line>
+  <line refs="doc#78" num="17" label="_">
+    <left>(1998) recorded that individually tagged</left>
+    <kwic> sea_trout</kwic>
+    <right> spent an average 70 days (range 2–163 days) in</right>
+  </line>
+  <line refs="doc#78" num="18" label="_">
+    <left>(2008) found that most of their tagged</left>
+    <kwic> sea_trout</kwic>
+    <right> in a northern norwegian river re-entered the</right>
+  </line>
+  <line refs="doc#78" num="19" label="_">
+    <left>. ... &lt;/p&gt; &lt;p&gt; an understanding of when and where</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta l. are located at sea is essential</right>
+  </line>
+  <line refs="doc#78" num="20" label="_">
+    <left>. here we review the available literature on</left>
+    <kwic> sea_trout</kwic>
+    <right> life-history strategies, behaviour and</right>
+  </line>
+  <line refs="doc#78" num="21" label="_">
+    <left>they later return to freshwater for spawning.</left>
+    <kwic> sea_trout</kwic>
+    <right> frequently are recorded at sea during winter</right>
+  </line>
+  <line refs="doc#78" num="22" label="_">
+    <left>sea water at water temperatures as low as 1–2 °c.</left>
+    <kwic> sea_trout</kwic>
+    <right> often remain within 80 km of their river of</right>
+  </line>
+  <line refs="doc#78" num="23" label="_">
+    <left>2017), but can vary markedly between different</left>
+    <kwic> sea_trout</kwic>
+    <right> stocks (thorstad et al. 2016). ... &lt;/p&gt; &lt;p&gt; to</right>
+  </line>
+  <line refs="doc#78" num="24" label="_">
+    <left>for conservation purposes of anadromous</left>
+    <kwic> sea_trout</kwic>
+    <right> populations. in 2016, a radio-telemetry study</right>
+  </line>
+  <line refs="doc#78" num="25" label="_">
+    <left>to sustain affected populations. since</left>
+    <kwic> sea_trout</kwic>
+    <right> is a species of high biological, cultural and</right>
+  </line>
+  <line refs="doc#78" num="26" label="_">
+    <left>emissions. &lt;/p&gt; &lt;p&gt; ... for example, of 2122</left>
+    <kwic> sea_trout</kwic>
+    <right> tagged leaving the river vardness, norway,</right>
+  </line>
+  <line refs="doc#78" num="27" label="_">
+    <left>80 km distance (berg &amp; berg 1987). in contrast,</left>
+    <kwic> sea_trout</kwic>
+    <right> from the northwest iberian peninsula, spain,</right>
+  </line>
+  <line refs="doc#78" num="28" label="_">
+    <left>al. 2006 and references therein). thus, while</left>
+    <kwic> sea_trout</kwic>
+    <right> have the capacity to migrate long distances,</right>
+  </line>
+  <line refs="doc#78" num="29" label="_">
+    <left>, life history form of brown_trout, or</left>
+    <kwic> sea_trout</kwic>
+    <right> ( salmo_trutta), may lead to potential mixing</right>
+  </line>
+  <line refs="doc#78" num="30" label="_">
+    <left>harvest by anglers in different areas. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> in the iberian peninsula inhabit most of the</right>
+  </line>
+  <line refs="doc#78" num="31" label="_">
+    <left>collected since the early 1990s from the</left>
+    <kwic> sea_trout</kwic>
+    <right> official fishery and fish traps located in</right>
+  </line>
+  <line refs="doc#78" num="32" label="_">
+    <left>galician rivers. downstream migration of</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts occur in spring, as in other regions</right>
+  </line>
+  <line refs="doc#78" num="33" label="_">
+    <left>range. recaptures at sea suggest that</left>
+    <kwic> sea_trout</kwic>
+    <right> do not move far away from the coast nor from the</right>
+  </line>
+  <line refs="doc#78" num="34" label="_">
+    <left>exhibit a skewed sex ratio in favour of females.</left>
+    <kwic> sea_trout</kwic>
+    <right> in galicia spawn for first time mostly as</right>
+  </line>
+  <line refs="doc#78" num="35" label="_">
+    <left>atlantic salmon, since 1942, and since 1992, in</left>
+    <kwic> sea_trout</kwic>
+    <right>, is obligatory by law to declare all catches,</right>
+  </line>
+  <line refs="doc#78" num="36" label="_">
+    <left>species that live in galician waters.</left>
+    <kwic> sea_trout</kwic>
+    <right> and salmon distribution in galician rivers is</right>
+  </line>
+  <line refs="doc#78" num="37" label="_">
+    <left>frequency) are also compared among</left>
+    <kwic> sea_trout</kwic>
+    <right> and salmon. &lt;/p&gt; &lt;p&gt; tagging operations</right>
+  </line>
+  <line refs="doc#79" num="38" label="_">
+    <left>of atlantic salmon, pink salmon, arctic char,</left>
+    <kwic> sea_trout</kwic>
+    <right> and rainbow trout were compared under</right>
+  </line>
+  <line refs="doc#79" num="39" label="_">
+    <left>trout and arctic char. freshwater growth of</left>
+    <kwic> sea_trout</kwic>
+    <right> and, especially, atlantic salmon, was slow.</right>
+  </line>
+  <line refs="doc#79" num="40" label="_">
+    <left>to survive the autumn. sea water growth of</left>
+    <kwic> sea_trout</kwic>
+    <right> was slow, but the three species, rainbow trout,</right>
+  </line>
+  <line refs="doc#79" num="41" label="_">
+    <left>atlantic salmon were rarely attacked, and</left>
+    <kwic> sea_trout</kwic>
+    <right> never. it is concluded that, for commercial</right>
+  </line>
+  <line refs="doc#79" num="42" label="_">
+    <left>a population of migratory trout (estuarine and</left>
+    <kwic> sea_trout</kwic>
+    <right>), salmo_trutta l., in a lake district stream.</right>
+  </line>
+  <line refs="doc#86" num="43" label="_">
+    <left>relationship between fecundity and length for</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta from three streams in nw england</right>
+  </line>
+  <line refs="doc#86" num="44" label="_">
+    <left>now been fitted to fecundity-length data for</left>
+    <kwic> sea_trout</kwic>
+    <right> from 12 streams and rivers in england, scotland</right>
+  </line>
+  <line refs="doc#91" num="45" label="_">
+    <left>r 1993. &lt;/p&gt; &lt;p&gt; helminth parasites of brown and</left>
+    <kwic> sea_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; salmo_trutta l. from the west coast of</right>
+  </line>
+  <line refs="doc#92" num="46" label="_">
+    <left>times faster than that recorded for sympatric</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta). the results support the</right>
+  </line>
+  <line refs="doc#104" num="47" label="_">
+    <left>(n = 25) and wild anadromous brown_trout (</left>
+    <kwic>sea_trout</kwic>
+    <right>) salmo_trutta(n = 15) smolts were tagged with</right>
+  </line>
+  <line refs="doc#104" num="48" label="_">
+    <left>. seventeen atlantic salmon (68%) and eight</left>
+    <kwic> sea_trout</kwic>
+    <right> (53%) were recorded after release. mean</right>
+  </line>
+  <line refs="doc#104" num="49" label="_">
+    <left>−1) for atlantic salmon and 0·11–2·60 bl s−1 for</left>
+    <kwic> sea_trout</kwic>
+    <right>. atlantic salmon were recorded 9, 48 and 77 km</right>
+  </line>
+  <line refs="doc#104" num="50" label="_">
+    <left>28, 65 and 83 h after release, respectively.</left>
+    <kwic> sea_trout</kwic>
+    <right> were recorded 9 km from the release site 438 h</right>
+  </line>
+  <line refs="doc#104" num="51" label="_">
+    <left>site 438 h after release. only four (23%)</left>
+    <kwic> sea_trout</kwic>
+    <right> were detected in the outer part of the fjord</right>
+  </line>
+  <line refs="doc#104" num="52" label="_">
+    <left>parts of the fjord system, but distinct from</left>
+    <kwic> sea_trout</kwic>
+    <right>, migrated through the whole fjord system into</right>
+  </line>
+  <line refs="doc#104" num="53" label="_">
+    <left>predation on emigrating wild and domesticated</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts was investigated in a fjord in the</right>
+  </line>
+  <line refs="doc#104" num="54" label="_">
+    <left>actual swimming speeds of atlantic salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> post-smolts in a norwegian fjord system, and</right>
+  </line>
+  <line refs="doc#104" num="55" label="_">
+    <left>post-smolts. we tracked atlantic salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> with acoustic transmitters for up to 14 h after</right>
+  </line>
+  <line refs="doc#104" num="56" label="_">
+    <left>an orientation cue either in atlantic salmon or</left>
+    <kwic> sea_trout</kwic>
+    <right>, as the actual movements were random compared</right>
+  </line>
+  <line refs="doc#104" num="57" label="_">
+    <left>of the water current. the actual movement of</left>
+    <kwic> sea_trout</kwic>
+    <right> were in all compass directions, with no</right>
+  </line>
+  <line refs="doc#107" num="58" label="_">
+    <left>for conservation purposes of anadromous</left>
+    <kwic> sea_trout</kwic>
+    <right> populations. in 2016, a radio-telemetry study</right>
+  </line>
+  <line refs="doc#107" num="59" label="_">
+    <left>to sustain affected populations. since</left>
+    <kwic> sea_trout</kwic>
+    <right> is a species of high biological, cultural and</right>
+  </line>
+  <line refs="doc#149" num="60" label="_">
+    <left>yorkshire esk, england. the majority of the</left>
+    <kwic> sea_trout</kwic>
+    <right> (anadromous salmo_trutta l) individuals that</right>
+  </line>
+  <line refs="doc#163" num="61" label="_">
+    <left>game fishing for brown_trout, salmon, sewin (</left>
+    <kwic>sea_trout</kwic>
+    <right>), grayling and other coarse species on the</right>
+  </line>
+  <line refs="doc#163" num="62" label="_">
+    <left>game fishing for brown_trout, salmon, sewin (</left>
+    <kwic>sea_trout</kwic>
+    <right>), grayling and other coarse species on the</right>
+  </line>
+  <line refs="doc#169" num="63" label="_">
+    <left>european seabass dicentrarchus labrax</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta trutta sea lamprey petromyzon</right>
+  </line>
+  <line refs="doc#183" num="64" label="_">
+    <left>normally be distinguished from young brown/</left>
+    <kwic>sea_trout</kwic>
+    <right> by: 1. the more streamlined shape 2. deeply</right>
+  </line>
+  <line refs="doc#183" num="65" label="_">
+    <left>normally be distinguished from young brown/</left>
+    <kwic>sea_trout</kwic>
+    <right> by: 1. the more streamlined shape 2. deeply</right>
+  </line>
+  <line refs="doc#188" num="66" label="_">
+    <left>the atlantic salmon salmo_salar l. and the</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta trutta l. (philippart, 1987;</right>
+  </line>
+  <line refs="doc#188" num="67" label="_">
+    <left>(1996) documented migration rates of</left>
+    <kwic> sea_trout</kwic>
+    <right> up to 3.30–4.00 km d−1 , over three to four days.</right>
+  </line>
+  <line refs="doc#188" num="68" label="_">
+    <left>the spawning behaviour of male and femele adult</left>
+    <kwic> sea_trout</kwic>
+    <right>, salmo_trutta l., using radiotelemetry. fish</right>
+  </line>
+  <line refs="doc#188" num="69" label="_">
+    <left>. j. fish biol. 32: 639–653. jensen, k. w., 1968.</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta l.) of the river istra, western</right>
+  </line>
+  <line refs="doc#188" num="70" label="_">
+    <left>atlantic salmon (salmo_salar l.) and</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta trutta l.) in river sieg,</right>
+  </line>
+  <line refs="doc#226" num="71" label="_">
+    <left>(2004). factors affecting early migration of</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta parr to brackish water.</right>
+  </line>
+  <line refs="doc#226" num="72" label="_">
+    <left>&lt;li&gt; (2002). predation on atlantic salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> during their first days as post-smolts.</right>
+  </line>
+  <line refs="doc#226" num="73" label="_">
+    <left>(2006). seasonal variation in marine growth of</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta), in coastal skagerrak.</right>
+  </line>
+  <line refs="doc#228" num="74" label="_">
+    <left>, p., boyd, n. induced spawning of spotted</left>
+    <kwic> sea_trout</kwic>
+    <right>, red drum and orangemouth corvina (family:</right>
+  </line>
+  <line refs="doc#257" num="75" label="_">
+    <left>in atlantic salmon, pink salmon, arctic char,</left>
+    <kwic> sea_trout</kwic>
+    <right> and rainbow-trout under norwegian farming</right>
+  </line>
+  <line refs="doc#263" num="76" label="_">
+    <left>in the lower rhine (from wetzel 2002) &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta trutta l.) has been always</right>
+  </line>
+  <line refs="doc#263" num="77" label="_">
+    <left>the rhine and its tributaries. several</left>
+    <kwic> sea_trout</kwic>
+    <right>, captured and marked at the north sea side of the</right>
+  </line>
+  <line refs="doc#263" num="78" label="_">
+    <left>total spawning surface area for salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> in the rhine and its tributaries is 147.1 ha and</right>
+  </line>
+  <line refs="doc#263" num="79" label="_">
+    <left>. &lt;/p&gt; &lt;p&gt; fish migration studies within the</left>
+    <kwic> sea_trout</kwic>
+    <right> migration project &lt;/p&gt; &lt;p&gt; investigations</right>
+  </line>
+  <line refs="doc#263" num="80" label="_">
+    <left>were started in december 1996 on</left>
+    <kwic> sea_trout</kwic>
+    <right> and salmon migration routes from the north sea</right>
+  </line>
+  <line refs="doc#263" num="81" label="_">
+    <left>until june 2000. a total of 662 fish (582</left>
+    <kwic> sea_trout</kwic>
+    <right> and 80 salmon) were equipped with a transponder</right>
+  </line>
+  <line refs="doc#263" num="82" label="_">
+    <left>few specimens reached the lower rhine and one</left>
+    <kwic> sea_trout</kwic>
+    <right> returned to the open sea after having been in the</right>
+  </line>
+  <line refs="doc#263" num="83" label="_">
+    <left>of anadromous fish species such as salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right> and shad. during the period from june 2000 to</right>
+  </line>
+  <line refs="doc#263" num="84" label="_">
+    <left>2000 and 2001, 75 and 59 salmon and 383 and 216</left>
+    <kwic> sea_trout</kwic>
+    <right> were counted in the trap. sea lampreys were also</right>
+  </line>
+  <line refs="doc#263" num="85" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; (f) 75 &lt;/p&gt; &lt;p&gt; 59 &lt;/p&gt; &lt;p&gt; 94 &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> (a) &lt;/p&gt; &lt;p&gt; (f) 383 &lt;/p&gt; &lt;p&gt; 216 &lt;/p&gt; &lt;p&gt; 301 &lt;/p&gt;</right>
+  </line>
+  <line refs="doc#263" num="86" label="_">
+    <left>. from 4 march to 31 december, 94 salmon and 301</left>
+    <kwic> sea_trout</kwic>
+    <right> were counted. as in 2000, sea-winter salmon</right>
+  </line>
+  <line refs="doc#263" num="87" label="_">
+    <left>population. from the beginning of the 1980s</left>
+    <kwic> sea_trout</kwic>
+    <right> were observed to be migrating in this river.</right>
+  </line>
+  <line refs="doc#263" num="88" label="_">
+    <left>to december 2002, 468 adult salmon and 184 adult</left>
+    <kwic> sea_trout</kwic>
+    <right> were captured. when catches at the other weirs</right>
+  </line>
+  <line refs="doc#263" num="89" label="_">
+    <left>the other weirs are included, 631 salmon and 294</left>
+    <kwic> sea_trout</kwic>
+    <right> were captured. when taking into account the</right>
+  </line>
+  <line refs="doc#263" num="90" label="_">
+    <left>will enable anadromous fish, such as salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right>, to bypass the dams across the rhine and reach</right>
+  </line>
+  <line refs="doc#263" num="91" label="_">
+    <left>. &lt;/p&gt; &lt;p&gt; bij de vaate a. &amp; breukelaar a.w. 1999.</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta migration in the rhine delta, the</right>
+  </line>
+  <line refs="doc#280" num="92" label="_">
+    <left>atlantic salmon (salmo_salar), brown and</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta), eel (anguilla anguilla),</right>
+  </line>
+  <line refs="doc#283" num="93" label="_">
+    <left>limit of migration for anadromous salmonids (</left>
+    <kwic>sea_trout</kwic>
+    <right> or salmon) was uncertain. a rock ramp at nn 0679</right>
+  </line>
+  <line refs="doc#283" num="94" label="_">
+    <left>393, adjacent to the ntl. atlantic salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> are known to be present in several rivers</right>
+  </line>
+  <line refs="doc#283" num="95" label="_">
+    <left>atlantic salmon, brown_trout (including</left>
+    <kwic> sea_trout</kwic>
+    <right>), european eel, river lamprey and sea lamprey</right>
+  </line>
+  <line refs="doc#283" num="96" label="_">
+    <left>e1. the natural upstream limit of migration for</left>
+    <kwic> sea_trout</kwic>
+    <right> or salmon is uncertain, but there is little</right>
+  </line>
+  <line refs="doc#283" num="97" label="_">
+    <left>obstacle, such as might be expected were</left>
+    <kwic> sea_trout</kwic>
+    <right> spawning in any number in the accessible</right>
+  </line>
+  <line refs="doc#283" num="98" label="_">
+    <left>and it seems probable that occasional</left>
+    <kwic> sea_trout</kwic>
+    <right> may enter allt easach. the low trout fry</right>
+  </line>
+  <line refs="doc#292" num="99" label="_">
+    <left>likely to be derived from the migratory form,</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta trutta). the principle factors</right>
+  </line>
+  <line refs="doc#292" num="100" label="_">
+    <left>for atlantic salmon (salmo_salar) and</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta trutta) that is of importance to</right>
+  </line>
+  <line refs="doc#292" num="101" label="_">
+    <left>eel was also relatively wide. unlike salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> this migratory species utilises freshwaters</right>
+  </line>
+  <line refs="doc#292" num="102" label="_">
+    <left>, the progeny of sea-run adults. unlike salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right> post-smolts tend to remain relatively close in</right>
+  </line>
+  <line refs="doc#292" num="103" label="_">
+    <left>, indicating that the local marine survival of</left>
+    <kwic> sea_trout</kwic>
+    <right> is relatively good or at least better than that</right>
+  </line>
+  <line refs="doc#292" num="104" label="_">
+    <left>wider marine survival of post-smolt salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> associated with climate change are less well</right>
+  </line>
+  <line refs="doc#292" num="105" label="_">
+    <left>is now being collected on sea lice burdens of</left>
+    <kwic> sea_trout</kwic>
+    <right> as part of the area management agreement</right>
+  </line>
+  <line refs="doc#292" num="106" label="_">
+    <left>potential for sustainable fisheries for</left>
+    <kwic> sea_trout</kwic>
+    <right> in the catchments surveyed at this time,</right>
+  </line>
+  <line refs="doc#292" num="107" label="_">
+    <left>and stimulate recruitment. fisheries for</left>
+    <kwic> sea_trout</kwic>
+    <right> appear to have more potential at this time, but</right>
+  </line>
+  <line refs="doc#292" num="108" label="_">
+    <left>; reported catches of atlantic salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> (1952 to 2001). argyll fisheries trust,</right>
+  </line>
+  <line refs="doc#296" num="109" label="_">
+    <left>. seasonal marine feeding and body condition of</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta (l.) at its northern</right>
+  </line>
+  <line refs="doc#299" num="110" label="_">
+    <left>migratory salmonid (e.g. atlantic salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right>, pink, chum, and coho salmon) has been observed</right>
+  </line>
+  <line refs="doc#299" num="111" label="_">
+    <left>, atlantic salmon and sea-run brown_trout/</left>
+    <kwic>sea_trout</kwic>
+    <right> spawning in the numedalslågen river and 51 of</right>
+  </line>
+  <line refs="doc#301" num="112" label="_">
+    <left>atlantic salmon (salmo_salar) and brown or</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta) (zuiganov et al. 1994). the</right>
+  </line>
+  <line refs="doc#301" num="113" label="_">
+    <left>by juvenile atlantic salmon and brown or</left>
+    <kwic> sea_trout</kwic>
+    <right>. infective glochidia can remain viable for up</right>
+  </line>
+  <line refs="doc#301" num="114" label="_">
+    <left>. comm.). glochidium and host attributes only</left>
+    <kwic> sea_trout</kwic>
+    <right>, brown_trout and atlantic salmon are known to</right>
+  </line>
+  <line refs="doc#301" num="115" label="_">
+    <left>: the resident brown_trout and the migratory</left>
+    <kwic> sea_trout</kwic>
+    <right>. rivers carry varying population ratios, but</right>
+  </line>
+  <line refs="doc#301" num="116" label="_">
+    <left>.the conservation of both brown and</left>
+    <kwic> sea_trout</kwic>
+    <right> involves different parameters, and it is</right>
+  </line>
+  <line refs="doc#301" num="117" label="_">
+    <left>concern that significant changes in salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> stocks may threaten populations (cosgrove et</right>
+  </line>
+  <line refs="doc#301" num="118" label="_">
+    <left>migratory trout stocks have collapsed, and</left>
+    <kwic> sea_trout</kwic>
+    <right> catches are now at the lowest levels ever</right>
+  </line>
+  <line refs="doc#301" num="119" label="_">
+    <left>(now unequivocally linked to the decline in</left>
+    <kwic> sea_trout</kwic>
+    <right> stocks), acidification and degradation of</right>
+  </line>
+  <line refs="doc#310" num="120" label="_">
+    <left>duration of sea and freshwater residence of the</left>
+    <kwic> sea_trout</kwic>
+    <right>, salmo_trutta, from the vardnes river in</right>
+  </line>
+  <line refs="doc#310" num="121" label="_">
+    <left>time and size for smolt migration of wild</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta). can. j. fish. aquat. sci. 50:</right>
+  </line>
+  <line refs="doc#310" num="122" label="_">
+    <left>bamber. 1998b.the migratory behaviour of wild</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_truttal.) smolts in the estuary of the</right>
+  </line>
+  <line refs="doc#310" num="123" label="_">
+    <left>smolts of atlantic salmon (salmo_salarl.) and</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_truttal.) in a chalkstream. environ.</right>
+  </line>
+  <line refs="doc#310" num="124" label="_">
+    <left>in atlantic salmon (salmo_salarl.) and</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_truttal.). pp. 196–203. in: e. brannon</right>
+  </line>
+  <line refs="doc#311" num="125" label="_">
+    <left>anadromous atlantic salmon (salmo_salar) and</left>
+    <kwic> sea_trout</kwic>
+    <right>, with the exception that they live in</right>
+  </line>
+  <line refs="doc#311" num="126" label="_">
+    <left>k. &amp; jepsen n. 1998. spawning migration of</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta l.) in a danish river.</right>
+  </line>
+  <line refs="doc#326" num="127" label="_">
+    <left>of olfactory mucosa in the homing baltic</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta trutta &lt;/p&gt; &lt;p&gt; scanning and</right>
+  </line>
+  <line refs="doc#326" num="128" label="_">
+    <left>organs of adult fresh-water adapted baltic</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta trutta l. homing back to the river</right>
+  </line>
+  <line refs="doc#326" num="129" label="_">
+    <left>types of leucocytes. the olfactory organs of</left>
+    <kwic> sea_trout</kwic>
+    <right> have labyrinth cells, a cell type unique for</right>
+  </line>
+  <line refs="doc#326" num="130" label="_">
+    <left>folding of olfactory organ in young and adult</left>
+    <kwic> sea_trout</kwic>
+    <right>. acta zool, stock. 53, 113–120 (1972a).google</right>
+  </line>
+  <line refs="doc#326" num="131" label="_">
+    <left>studies on olfactory organ in young and adult</left>
+    <kwic> sea_trout</kwic>
+    <right>. z. morph. tiere 72, 307–330 (1972b).google</right>
+  </line>
+  <line refs="doc#326" num="132" label="_">
+    <left>electron microscopy of olfactory rosette in</left>
+    <kwic> sea_trout</kwic>
+    <right>. z. zellforsch. mikrosk. 128, 336–346 (1972c)</right>
+  </line>
+  <line refs="doc#339" num="133" label="_">
+    <left>(salmo_trutta macrostigma) and black</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta labrax). turkish journal of</right>
+  </line>
+  <line refs="doc#347" num="134" label="_">
+    <left>three types of brown_trout are recognised:</left>
+    <kwic> sea_trout</kwic>
+    <right>, lake brown_trout and the small resident trout</right>
+  </line>
+  <line refs="doc#347" num="135" label="_">
+    <left>all pacific salmon. sea-going brown_trout (</left>
+    <kwic>sea_trout</kwic>
+    <right>) and salmon, and lake brown_trout and</right>
+  </line>
+  <line refs="doc#347" num="136" label="_">
+    <left>&lt;p&gt; colouring: brown_trout found in the sea (</left>
+    <kwic>sea_trout</kwic>
+    <right>) are silver in colour with a dark back. there are</right>
+  </line>
+  <line refs="doc#347" num="137" label="_">
+    <left>lapland and spring-fed brooks further south.</left>
+    <kwic> sea_trout</kwic>
+    <right> now spawn naturally in only a few rivers.</right>
+  </line>
+  <line refs="doc#347" num="138" label="_">
+    <left>to several river estuaries. unlike salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right> do not travel far from their native river in</right>
+  </line>
+  <line refs="doc#347" num="139" label="_">
+    <left>: in finland sea-going brown_trout (</left>
+    <kwic>sea_trout</kwic>
+    <right>) stand is endangered, inland-waters' stands</right>
+  </line>
+  <line refs="doc#348" num="140" label="_">
+    <left>are purely freshwater-resident, '</left>
+    <kwic>sea_trout</kwic>
+    <right>' migrate to the sea to feed and mature. some</right>
+  </line>
+  <line refs="doc#348" num="141" label="_">
+    <left>rivers may have populations of brown_trout and</left>
+    <kwic> sea_trout</kwic>
+    <right>. &lt;/p&gt; &lt;p&gt; most brown_trout populations also</right>
+  </line>
+  <line refs="doc#348" num="142" label="_">
+    <left>of considerable conservation value. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> life-cycle &lt;/p&gt; &lt;p&gt; sea_trout are native to</right>
+  </line>
+  <line refs="doc#348" num="143" label="_">
+    <left>value. &lt;/p&gt; &lt;p&gt; sea_trout life-cycle &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> are native to scotland and are found widely in</right>
+  </line>
+  <line refs="doc#348" num="144" label="_">
+    <left>as portugal. &lt;/p&gt; &lt;p&gt; like atlantic salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right> migrate to the sea to feed and grow before</right>
+  </line>
+  <line refs="doc#348" num="145" label="_">
+    <left>salmon travel to far-off feeding grounds,</left>
+    <kwic> sea_trout</kwic>
+    <right> stay in coastal areas. &lt;/p&gt; &lt;p&gt; juvenile</right>
+  </line>
+  <line refs="doc#348" num="146" label="_">
+    <left>stay in coastal areas. &lt;/p&gt; &lt;p&gt; juvenile</left>
+    <kwic> sea_trout</kwic>
+    <right> spend time in freshwater before physiological</right>
+  </line>
+  <line refs="doc#348" num="147" label="_">
+    <left>' fish, after 12 months or more at sea. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> spawn in the river where they were born, from</right>
+  </line>
+  <line refs="doc#348" num="148" label="_">
+    <left>and return to the sea to recover and grow. a</left>
+    <kwic> sea_trout</kwic>
+    <right> can spawn up to 13 times in its lifetime. &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#348" num="149" label="_">
+    <left>controls exist within fisheries legislation.</left>
+    <kwic> sea_trout</kwic>
+    <right> are further protected within fisheries acts to</right>
+  </line>
+  <line refs="doc#349" num="150" label="_">
+    <left>,[3][4] as well as anadromous forms known as the</left>
+    <kwic> sea_trout</kwic>
+    <right>, s. trutta morpha trutta. the latter migrates</right>
+  </line>
+  <line refs="doc#349" num="151" label="_">
+    <left>and returns to fresh water only to spawn.[5]</left>
+    <kwic> sea_trout</kwic>
+    <right> in the ireland and britain have many regional</right>
+  </line>
+  <line refs="doc#349" num="152" label="_">
+    <left>currents. &lt;/p&gt; &lt;p&gt; a 2.7-kg (6 lb), 60-cm (2 ft)</left>
+    <kwic> sea_trout</kwic>
+    <right>, from galway bay in the west of ireland bearing</right>
+  </line>
+  <line refs="doc#349" num="153" label="_">
+    <left>the waters where they spend most of their lives.</left>
+    <kwic> sea_trout</kwic>
+    <right> are more commonly female in less nutrient-rich</right>
+  </line>
+  <line refs="doc#349" num="154" label="_">
+    <left>trout to be a favoured target for fly fishing.</left>
+    <kwic> sea_trout</kwic>
+    <right> are fished for especially at night using wet</right>
+  </line>
+  <line refs="doc#349" num="155" label="_">
+    <left>behaviour. &lt;/p&gt; &lt;p&gt; scottish and irish</left>
+    <kwic> sea_trout</kwic>
+    <right> populations in recent years have seriously</right>
+  </line>
+  <line refs="doc#349" num="156" label="_">
+    <left>the first comprehensive text, the book of the</left>
+    <kwic> sea_trout</kwic>
+    <right>, specifically addressing angling techniques</right>
+  </line>
+  <line refs="doc#349" num="157" label="_">
+    <left>with the party a few hours later, he had taken 15</left>
+    <kwic> sea_trout</kwic>
+    <right> from 7 lbs to 14 1/2 lbs – world-class fishing by</right>
+  </line>
+  <line refs="doc#349" num="158" label="_">
+    <left>&lt;p&gt; graeme harris; nigel milner, eds. (2007).</left>
+    <kwic> sea_trout</kwic>
+    <right>: biology, conservation and management. wiley</right>
+  </line>
+  <line refs="doc#349" num="159" label="_">
+    <left>watson (1999). biology and ecology of the brown</left>
+    <kwic> sea_trout</kwic>
+    <right>. springer praxis books. isbn 1852331178. &lt;/p&gt;</right>
+  </line>
+  <line refs="doc#350" num="160" label="_">
+    <left>,[3][4] as well as anadromous forms known as the</left>
+    <kwic> sea_trout</kwic>
+    <right>, s. trutta morpha trutta. the latter migrates</right>
+  </line>
+  <line refs="doc#350" num="161" label="_">
+    <left>and returns to fresh water only to spawn.[5]</left>
+    <kwic> sea_trout</kwic>
+    <right> in the ireland and britain have many regional</right>
+  </line>
+  <line refs="doc#350" num="162" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; a 2.7-kg (6 lb), 60-cm (2 ft)</left>
+    <kwic> sea_trout</kwic>
+    <right>, from galway bay in the west of ireland bearing</right>
+  </line>
+  <line refs="doc#350" num="163" label="_">
+    <left>the waters where they spend most of their lives.</left>
+    <kwic> sea_trout</kwic>
+    <right> are more commonly female in less nutrient-rich</right>
+  </line>
+  <line refs="doc#350" num="164" label="_">
+    <left>trout to be a favoured target for fly fishing.</left>
+    <kwic> sea_trout</kwic>
+    <right> are fished for especially at night using wet</right>
+  </line>
+  <line refs="doc#350" num="165" label="_">
+    <left>behaviour. &lt;/p&gt; &lt;p&gt; scottish and irish</left>
+    <kwic> sea_trout</kwic>
+    <right> populations in recent years have seriously</right>
+  </line>
+  <line refs="doc#350" num="166" label="_">
+    <left>the first comprehensive text, the book of the</left>
+    <kwic> sea_trout</kwic>
+    <right>, specifically addressing angling techniques</right>
+  </line>
+  <line refs="doc#350" num="167" label="_">
+    <left>with the party a few hours later, he had taken 15</left>
+    <kwic> sea_trout</kwic>
+    <right> from 7 lbs to 14 1/2 lbs – world-class fishing by</right>
+  </line>
+  <line refs="doc#350" num="168" label="_">
+    <left>&lt;p&gt; graeme harris; nigel milner, eds. (2007).</left>
+    <kwic> sea_trout</kwic>
+    <right>: biology, conservation and management. wiley</right>
+  </line>
+  <line refs="doc#350" num="169" label="_">
+    <left>watson (1999). biology and ecology of the brown</left>
+    <kwic> sea_trout</kwic>
+    <right>. springer praxis books. isbn 1852331178. &lt;/p&gt;</right>
+  </line>
+  <line refs="doc#350" num="170" label="_">
+    <left>species, salmo_trutta, which also includes</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta trutta) and a lacustrine trout (</right>
+  </line>
+  <line refs="doc#350" num="171" label="_">
+    <left>4.4 lb). they can live for up to 18 years. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> is the common name usually applied to</right>
+  </line>
+  <line refs="doc#350" num="172" label="_">
+    <left>) and salmon_trout (culinary). the term</left>
+    <kwic> sea_trout</kwic>
+    <right> is also used to describe other anadromous</right>
+  </line>
+  <line refs="doc#350" num="173" label="_">
+    <left>species are also commonly known as</left>
+    <kwic> sea_trout</kwic>
+    <right>–northern pikeminnow (ptychocheilus</right>
+  </line>
+  <line refs="doc#351" num="174" label="_">
+    <left>in rivers, lochs, estuaries, or the sea ( see</left>
+    <kwic> sea_trout</kwic>
+    <right>), and eventually return to their natal areas to</right>
+  </line>
+  <line refs="doc#351" num="175" label="_">
+    <left>in both habit and appearance. large migratory</left>
+    <kwic> sea_trout</kwic>
+    <right>, for example, differ markedly in most respects</right>
+  </line>
+  <line refs="doc#356" num="176" label="_">
+    <left>following fish species is not allowed: salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right>, burbot, brook lamprey, stone loach, lake</right>
+  </line>
+  <line refs="doc#384" num="177" label="_">
+    <left>for game fish, i.e. brown, rainbow, brook and</left>
+    <kwic> sea_trout</kwic>
+    <right>, salmon and in some cases grayling (game status</right>
+  </line>
+  <line refs="doc#392" num="178" label="_">
+    <left>to the sea) migrate to feed in coastal waters (</left>
+    <kwic>sea_trout</kwic>
+    <right>), while others (mainly males) mature and</right>
+  </line>
+  <line refs="doc#392" num="179" label="_">
+    <left>have been concerned about the plight of</left>
+    <kwic> sea_trout</kwic>
+    <right> in north-west scotland for some time (anon.</right>
+  </line>
+  <line refs="doc#392" num="180" label="_">
+    <left>so dramatic that the general consensus is that</left>
+    <kwic> sea_trout</kwic>
+    <right> are disappearing in north-west scotland (anon</right>
+  </line>
+  <line refs="doc#392" num="181" label="_">
+    <left>of this decline for the future of local</left>
+    <kwic> sea_trout</kwic>
+    <right> fisheries are grave (butler 1998). another</right>
+  </line>
+  <line refs="doc#392" num="182" label="_">
+    <left>that during the past decade, average weights of</left>
+    <kwic> sea_trout</kwic>
+    <right> have started to fall in some populations (</right>
+  </line>
+  <line refs="doc#392" num="183" label="_">
+    <left>populations (walker 1993, butler 1998). most</left>
+    <kwic> sea_trout</kwic>
+    <right> caught in north-west river systems are female,</right>
+  </line>
+  <line refs="doc#392" num="184" label="_">
+    <left>reduce the potential fecundity of local</left>
+    <kwic> sea_trout</kwic>
+    <right> populations, and consequently affect their</right>
+  </line>
+  <line refs="doc#392" num="185" label="_">
+    <left>, and in some areas they may even be increasing as</left>
+    <kwic> sea_trout</kwic>
+    <right> stocks collapse (butler 1998). salmon catches</right>
+  </line>
+  <line refs="doc#392" num="186" label="_">
+    <left>1.the coincidental declines in catches of</left>
+    <kwic> sea_trout</kwic>
+    <right> and salmon, and increasing loss of freshwater</right>
+  </line>
+  <line refs="doc#392" num="187" label="_">
+    <left>programmes. despite the dramatic decline of</left>
+    <kwic> sea_trout</kwic>
+    <right> catches over the past 50 years, very few</right>
+  </line>
+  <line refs="doc#392" num="188" label="_">
+    <left>in the long term (hastie &amp; cosgrove 2001). adult</left>
+    <kwic> sea_trout</kwic>
+    <right> only return to rivers to spawn and therefore are</right>
+  </line>
+  <line refs="doc#392" num="189" label="_">
+    <left>resources. since brown_trout (and smaller</left>
+    <kwic> sea_trout</kwic>
+    <right>) produce far fewer eggs, the decline in</right>
+  </line>
+  <line refs="doc#392" num="190" label="_">
+    <left>fewer eggs, the decline in abundance and size of</left>
+    <kwic> sea_trout</kwic>
+    <right> has resulted in substantial reductions in the</right>
+  </line>
+  <line refs="doc#392" num="191" label="_">
+    <left>for considerable concern. unless salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> stocks recover, then the long-term survival of</right>
+  </line>
+  <line refs="doc#392" num="192" label="_">
+    <left>12 references anon. (1993). problems with</left>
+    <kwic> sea_trout</kwic>
+    <right> and salmon in the western highlands. atlantic</right>
+  </line>
+  <line refs="doc#392" num="193" label="_">
+    <left>strasbourg,t-pvs 34, 59–63. walker af (1993).</left>
+    <kwic> sea_trout</kwic>
+    <right> and salmon stocks in the western highlands. in:</right>
+  </line>
+  <line refs="doc#392" num="194" label="_">
+    <left>highlands. in: anon. (ed). problems with</left>
+    <kwic> sea_trout</kwic>
+    <right> and salmon in the western highlands. atlantic</right>
+  </line>
+  <line refs="doc#392" num="195" label="_">
+    <left>scotland. in: anon. (ed). problems with</left>
+    <kwic> sea_trout</kwic>
+    <right> and salmon in the western highlands. atlantic</right>
+  </line>
+  <line refs="doc#436" num="196" label="_">
+    <left>salmo_trutta (including the anadromous form,</left>
+    <kwic> sea_trout</kwic>
+    <right>) and arctic charr salvelinus_alpinus (</right>
+  </line>
+  <line refs="doc#436" num="197" label="_">
+    <left>, brown_trout (including the anadromous form,</left>
+    <kwic> sea_trout</kwic>
+    <right>) salmo_trutta l. and arctic charr</right>
+  </line>
+  <line refs="doc#436" num="198" label="_">
+    <left>et al. (2001) for s. trutta (including</left>
+    <kwic> sea_trout</kwic>
+    <right>); brännäs &amp; wiklund (1992), lyytikäinen et al.</right>
+  </line>
+  <line refs="doc#436" num="199" label="_">
+    <left>forseth et al. (2009) for s. trutta (including</left>
+    <kwic> sea_trout</kwic>
+    <right>); larsson &amp; berglund (1998, 2005) and larsson</right>
+  </line>
+  <line refs="doc#436" num="200" label="_">
+    <left>&amp; maberly, s. c. (2000). the emergence period of</left>
+    <kwic> sea_trout</kwic>
+    <right> fry in a lake district stream correlates with</right>
+  </line>
+  <line refs="doc#438" num="201" label="_">
+    <left>a world without hunger &lt;/p&gt; &lt;p&gt; fao names: en -</left>
+    <kwic> sea_trout</kwic>
+    <right>, fr - truite de mer, es - trucha marina &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#438" num="202" label="_">
+    <left>phase of atlantic salmon compared to young</left>
+    <kwic> sea_trout</kwic>
+    <right>, and adult atlantic salmon compared to</right>
+  </line>
+  <line refs="doc#438" num="203" label="_">
+    <left>, and adult atlantic salmon compared to</left>
+    <kwic> sea_trout</kwic>
+    <right>. distinguishing features: upper maxilla</right>
+  </line>
+  <line refs="doc#438" num="204" label="_">
+    <left>: upper maxilla extends mostly after the eye in</left>
+    <kwic> sea_trout</kwic>
+    <right> while it extends to below the rear part of the eye</right>
+  </line>
+  <line refs="doc#438" num="205" label="_">
+    <left>adipose margin versus a red adipose margin in</left>
+    <kwic> sea_trout</kwic>
+    <right>. adult sea_trout have spots under the lateral</right>
+  </line>
+  <line refs="doc#438" num="206" label="_">
+    <left>versus a red adipose margin in sea_trout. adult</left>
+    <kwic> sea_trout</kwic>
+    <right> have spots under the lateral line but atlantic</right>
+  </line>
+  <line refs="doc#438" num="207" label="_">
+    <left>salmon do not. &lt;/p&gt; &lt;p&gt; images gallery &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> rearing in freshwater &lt;/p&gt; &lt;p&gt; rearing of</right>
+  </line>
+  <line refs="doc#438" num="208" label="_">
+    <left>rearing in freshwater &lt;/p&gt; &lt;p&gt; rearing of</left>
+    <kwic> sea_trout</kwic>
+    <right> in sea water &lt;/p&gt; &lt;p&gt; sea_trout being</right>
+  </line>
+  <line refs="doc#438" num="209" label="_">
+    <left>&lt;p&gt; rearing of sea_trout in sea water &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> being vaccinated against vibriosis before</right>
+  </line>
+  <line refs="doc#438" num="210" label="_">
+    <left>vibriosis before transfer to sea &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> after 13 months of sea farming &lt;/p&gt; &lt;p&gt; profile</right>
+  </line>
+  <line refs="doc#438" num="211" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; historical background &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> is probably the first species of fish for which</right>
+  </line>
+  <line refs="doc#438" num="212" label="_">
+    <left>occurred in germany around 1739 and the first</left>
+    <kwic> sea_trout</kwic>
+    <right> hatchery was established in 1841 in the uk. the</right>
+  </line>
+  <line refs="doc#438" num="213" label="_">
+    <left>was optimized in the 1850s. since then,</left>
+    <kwic> sea_trout</kwic>
+    <right> has been produced extensively in europe and</right>
+  </line>
+  <line refs="doc#438" num="214" label="_">
+    <left>as a sport fish. however, in north america</left>
+    <kwic> sea_trout</kwic>
+    <right> is considered as invasive in many places as it</right>
+  </line>
+  <line refs="doc#438" num="215" label="_">
+    <left>(salvelinus_fontinalis). &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> was never really domesticated for food fish</right>
+  </line>
+  <line refs="doc#438" num="216" label="_">
+    <left>food fish production, as the principal aim of</left>
+    <kwic> sea_trout</kwic>
+    <right> culture was always the restocking of natural</right>
+  </line>
+  <line refs="doc#438" num="217" label="_">
+    <left>waters. at the end of the 1980s the culture of</left>
+    <kwic> sea_trout</kwic>
+    <right> in sea cages was seen as an alternative to salmon</right>
+  </line>
+  <line refs="doc#438" num="218" label="_">
+    <left>of brittany. this led to the development of</left>
+    <kwic> sea_trout</kwic>
+    <right> strains selected for fast growth but the</right>
+  </line>
+  <line refs="doc#438" num="219" label="_">
+    <left>selected for fast growth but the production of</left>
+    <kwic> sea_trout</kwic>
+    <right> as a food fish never developed to a level other</right>
+  </line>
+  <line refs="doc#438" num="220" label="_">
+    <left>than for niche markets. fao statistics for '</left>
+    <kwic>sea_trout</kwic>
+    <right>' include the aquaculture production of</right>
+  </line>
+  <line refs="doc#438" num="221" label="_">
+    <left>under the statistical category of '</left>
+    <kwic>sea_trout</kwic>
+    <right>'), the main producers (&gt;100 tonnes/year) of</right>
+  </line>
+  <line refs="doc#438" num="222" label="_">
+    <left>to the countries reported by fao statiscs,</left>
+    <kwic> sea_trout</kwic>
+    <right> production has also been recorded in albania,</right>
+  </line>
+  <line refs="doc#438" num="223" label="_">
+    <left>zimbabwe. &lt;/p&gt; &lt;p&gt; habitat and biology &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> live in cold rivers and lakes, and spawn in</right>
+  </line>
+  <line refs="doc#438" num="224" label="_">
+    <left>non-migrating fish in the same river. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> usually spawn in late autumn (</right>
+  </line>
+  <line refs="doc#438" num="225" label="_">
+    <left>for incubation is 8 °c (range 4-12 °c).</left>
+    <kwic> sea_trout</kwic>
+    <right> can tolerate water temperatures between 1-27 °</right>
+  </line>
+  <line refs="doc#438" num="226" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; production systems &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> are almost exclusively produced in intensive</right>
+  </line>
+  <line refs="doc#438" num="227" label="_">
+    <left>trout farms (e.g. in denmark) is not observed in</left>
+    <kwic> sea_trout</kwic>
+    <right> culture. &lt;/p&gt; &lt;p&gt; seed supply &lt;/p&gt; &lt;p&gt; seed</right>
+  </line>
+  <line refs="doc#438" num="228" label="_">
+    <left>&lt;p&gt; seed supply is an important component of</left>
+    <kwic> sea_trout</kwic>
+    <right> culture because an important part of the</right>
+  </line>
+  <line refs="doc#438" num="229" label="_">
+    <left>diversity of the natural populations of</left>
+    <kwic> sea_trout</kwic>
+    <right>, and the fact that restocking with exogenous</right>
+  </line>
+  <line refs="doc#438" num="230" label="_">
+    <left>depth of 0.8-1 m are best suited for farming</left>
+    <kwic> sea_trout</kwic>
+    <right>. a circular tank provides a better water flow</right>
+  </line>
+  <line refs="doc#438" num="231" label="_">
+    <left>months. &lt;/p&gt; &lt;p&gt; ongrowing in sea water &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> rearing can be an alternative to the culture of</right>
+  </line>
+  <line refs="doc#438" num="232" label="_">
+    <left>operation. unlike the atlantic salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right> does not really smoltify in culture (no changes</right>
+  </line>
+  <line refs="doc#438" num="233" label="_">
+    <left>osmotic and physiological imbalances.</left>
+    <kwic> sea_trout</kwic>
+    <right> withstand these changes if their</right>
+  </line>
+  <line refs="doc#438" num="234" label="_">
+    <left>with these conditions, the transfer of</left>
+    <kwic> sea_trout</kwic>
+    <right> to sea water occurs without excessive</right>
+  </line>
+  <line refs="doc#438" num="235" label="_">
+    <left>) if the transfer went well, the behaviour of</left>
+    <kwic> sea_trout</kwic>
+    <right> at sea changes radically. it almost resembles</right>
+  </line>
+  <line refs="doc#438" num="236" label="_">
+    <left>that is considered to be the optimum (16 °c for</left>
+    <kwic> sea_trout</kwic>
+    <right>) and then decreases. other factors may be</right>
+  </line>
+  <line refs="doc#438" num="237" label="_">
+    <left>on a large commercial farm and, in the case of the</left>
+    <kwic> sea_trout</kwic>
+    <right>, it is very difficult to practice due to the low</right>
+  </line>
+  <line refs="doc#438" num="238" label="_">
+    <left>to improve fcr. an interesting alternative for</left>
+    <kwic> sea_trout</kwic>
+    <right> is to use a demand feeder system. this allows the</right>
+  </line>
+  <line refs="doc#438" num="239" label="_">
+    <left>of the rearing tank, pond or raceway. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> are fed the same commercially available feeds</right>
+  </line>
+  <line refs="doc#438" num="240" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; diseases and control measures &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> are affected by several bacterial diseases.</right>
+  </line>
+  <line refs="doc#438" num="241" label="_">
+    <left>vibriosis. the main viral diseases affecting</left>
+    <kwic> sea_trout</kwic>
+    <right> are vhs, ihn and ipn. they are moderately</right>
+  </line>
+  <line refs="doc#438" num="242" label="_">
+    <left>disease, caused by a salmonid togavirus.</left>
+    <kwic> sea_trout</kwic>
+    <right> may also suffer from fungal infections,</right>
+  </line>
+  <line refs="doc#438" num="243" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; production statistics &lt;/p&gt; &lt;p&gt; of the</left>
+    <kwic> sea_trout</kwic>
+    <right> total global production in 2010 (2 417 tonnes)</right>
+  </line>
+  <line refs="doc#438" num="244" label="_">
+    <left>was reared in sea water. most production of</left>
+    <kwic> sea_trout</kwic>
+    <right> is directed towards restocking for</right>
+  </line>
+  <line refs="doc#438" num="245" label="_">
+    <left>to other information, french production of</left>
+    <kwic> sea_trout</kwic>
+    <right> was 1 248 tonnes in 1991, 1 868 tonnes in 1997 and</right>
+  </line>
+  <line refs="doc#438" num="246" label="_">
+    <left>2007 (when 338 sites were recorded as producing</left>
+    <kwic> sea_trout</kwic>
+    <right>). in great britain in 1997, 74 sites produced</right>
+  </line>
+  <line refs="doc#438" num="247" label="_">
+    <left>in 1989, and there is no production of table size</left>
+    <kwic> sea_trout</kwic>
+    <right> in that country afterwards. &lt;/p&gt; &lt;p&gt; market and</right>
+  </line>
+  <line refs="doc#438" num="248" label="_">
+    <left>afterwards. &lt;/p&gt; &lt;p&gt; market and trade &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> production is small; generally, production is</right>
+  </line>
+  <line refs="doc#438" num="249" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; no market statistics are available. as</left>
+    <kwic> sea_trout</kwic>
+    <right> are mostly sold live, they are subject to</right>
+  </line>
+  <line refs="doc#438" num="250" label="_">
+    <left>&lt;p&gt; more care is being taken in the use of farmed</left>
+    <kwic> sea_trout</kwic>
+    <right> for restocking, either by using local strains</right>
+  </line>
+  <line refs="doc#438" num="251" label="_">
+    <left>fish (as in the united kingdom). &lt;/p&gt; &lt;p&gt; today,</left>
+    <kwic> sea_trout</kwic>
+    <right> reared in seawater cannot outcompete salmon;</right>
+  </line>
+  <line refs="doc#438" num="252" label="_">
+    <left>global warming, in the long term, may favour</left>
+    <kwic> sea_trout</kwic>
+    <right> again. &lt;/p&gt; &lt;p&gt; restocking activities are more</right>
+  </line>
+  <line refs="doc#438" num="253" label="_">
+    <left>. it is therefore predicted that, for some time,</left>
+    <kwic> sea_trout</kwic>
+    <right> will remain a niche species in aquaculture</right>
+  </line>
+  <line refs="doc#438" num="254" label="_">
+    <left>stocks have been extensively studied in</left>
+    <kwic> sea_trout</kwic>
+    <right>, especially in the mediterranean area, where</right>
+  </line>
+  <line refs="doc#438" num="255" label="_">
+    <left>responsible aquaculture practices &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> farming is generally conducted responsibly.</right>
+  </line>
+  <line refs="doc#438" num="256" label="_">
+    <left>ruckeri infection of rainbow trout and</left>
+    <kwic> sea_trout</kwic>
+    <right>. journal of aquatic animal health 13:334-339.</right>
+  </line>
+  <line refs="doc#438" num="257" label="_">
+    <left>. the specific nutritional requirements of</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta). búvísindi, icelandic</right>
+  </line>
+  <line refs="doc#438" num="258" label="_">
+    <left>guillaume, j. 1997. the protein requirement of</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta) fry. aquaculture 130:67-78.</right>
+  </line>
+  <line refs="doc#438" num="259" label="_">
+    <left>expense of carbohydrate and lipid in triploid</left>
+    <kwic> sea_trout</kwic>
+    <right> fry, salmo_trutta. aquaculture 162: 259-268.</right>
+  </line>
+  <line refs="doc#438" num="260" label="_">
+    <left>and mediterranean native populations of</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta l.). aquatic living resources 2</right>
+  </line>
+  <line refs="doc#438" num="261" label="_">
+    <left>disease in atlantic salmon, rainbow trout and</left>
+    <kwic> sea_trout</kwic>
+    <right>. diseases of aquatic organisms 22:19-24. &lt;/p&gt;</right>
+  </line>
+  <line refs="doc#438" num="262" label="_">
+    <left>b. 2003. fillet texture and muscle structure in</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta) subjected to long-term</right>
+  </line>
+  <line refs="doc#438" num="263" label="_">
+    <left>of large-scale stocking of early stages of</left>
+    <kwic> sea_trout</kwic>
+    <right>, salmo_trutta, to angler catches in the</right>
+  </line>
+  <line refs="doc#438" num="264" label="_">
+    <left>between anadromus and resident sympatric</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta) in a normandy population.</right>
+  </line>
+  <line refs="doc#438" num="265" label="_">
+    <left>: the &quot;prosper&quot; method, with application on</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta fario). génétique, selection,</right>
+  </line>
+  <line refs="doc#438" num="266" label="_">
+    <left>. improved mass selection for growth rate in</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta fario): the &quot;prosper&quot; process.</right>
+  </line>
+  <line refs="doc#438" num="267" label="_">
+    <left>, j.m. 1994. quantitative ecology and the</left>
+    <kwic> sea_trout</kwic>
+    <right>. oxford university press, oxford, 304 pp. &lt;/p&gt;</right>
+  </line>
+  <line refs="doc#438" num="268" label="_">
+    <left>. genetic monitoring of supportive breeding in</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta l.), using microsatellite dna</right>
+  </line>
+  <line refs="doc#438" num="269" label="_">
+    <left>of stocking domesticated trout into wild</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta) populations: an approach</right>
+  </line>
+  <line refs="doc#438" num="270" label="_">
+    <left>introgression between native and introduced</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta l. populations in the rhône river</right>
+  </line>
+  <line refs="doc#438" num="271" label="_">
+    <left>boujard, t. 2006. response of growth-selected</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta) to challenging feeding</right>
+  </line>
+  <line refs="doc#438" num="272" label="_">
+    <left>introduced trout and their hybrids in a stocked</left>
+    <kwic> sea_trout</kwic>
+    <right> population. journal of fish biology 59:</right>
+  </line>
+  <line refs="doc#438" num="273" label="_">
+    <left>metailler, r. &amp; boeuf, g. 1992. the potential of</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta l.) for mariculture. búvísindi</right>
+  </line>
+  <line refs="doc#465" num="274" label="_">
+    <left>and migratory populations known as</left>
+    <kwic> sea_trout</kwic>
+    <right>. brown_trout are present throughout the annan</right>
+  </line>
+  <line refs="doc#465" num="275" label="_">
+    <left>downstream migration of brown_trout and</left>
+    <kwic> sea_trout</kwic>
+    <right> as although populations may exist above</right>
+  </line>
+  <line refs="doc#465" num="276" label="_">
+    <left>is particularly true with regards to returning</left>
+    <kwic> sea_trout</kwic>
+    <right> not being able to reach potentially good</right>
+  </line>
+  <line refs="doc#465" num="277" label="_">
+    <left>that the river is capable of producing. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> are the migratory form of brown_trout which at a</right>
+  </line>
+  <line refs="doc#465" num="278" label="_">
+    <left>in freshwater before smolting and how long a</left>
+    <kwic> sea_trout</kwic>
+    <right> will remain at sea before returning to spawn.</right>
+  </line>
+  <line refs="doc#465" num="279" label="_">
+    <left>large and during spawning the fertilization of</left>
+    <kwic> sea_trout</kwic>
+    <right> eggs may be carried out by resident brown_trout</right>
+  </line>
+  <line refs="doc#465" num="280" label="_">
+    <left>may be carried out by resident brown_trout,</left>
+    <kwic> sea_trout</kwic>
+    <right> or sometimes small precocious parr. trout</right>
+  </line>
+  <line refs="doc#473" num="281" label="_">
+    <left>, speckled ttrout, eastern brook_trout,</left>
+    <kwic> sea_trout</kwic>
+    <right>, redspotted trout, mud trout, harness trout,</right>
+  </line>
+  <line refs="doc#473" num="282" label="_">
+    <left>trout, spotted trout, liberty trout, salters,</left>
+    <kwic> sea_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; no &lt;/p&gt; &lt;p&gt; chinook salmon &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#473" num="283" label="_">
+    <left>no &lt;/p&gt; &lt;p&gt; coho salmon &lt;/p&gt; &lt;p&gt; silver salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right>, blueback, hooknose, silversides, white</right>
+  </line>
+  <line refs="doc#492" num="284" label="_">
+    <left>lacustris, and anadromous forms known as the</left>
+    <kwic> sea_trout</kwic>
+    <right>, s. trutta morpha trutta. the latter migrates</right>
+  </line>
+  <line refs="doc#492" num="285" label="_">
+    <left>life and returns to freshwater only to spawn.</left>
+    <kwic> sea_trout</kwic>
+    <right> in the uk and ireland have many regional names,</right>
+  </line>
+  <line refs="doc#506" num="286" label="_">
+    <left>makrakis 16:20 upstream passage of adult</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta ) at a low-head weir 17:00 with an</right>
+  </line>
+  <line refs="doc#507" num="287" label="_">
+    <left>, michael love 52777: upstream passage of adult</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo 52787: dam removal: when less is more,</right>
+  </line>
+  <line refs="doc#511" num="288" label="_">
+    <left>tench trout – brown_trout rainbow trout</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_salar barbus barbus abramis brama</right>
+  </line>
+  <line refs="doc#511" num="289" label="_">
+    <left>) brown_trout are the same species as</left>
+    <kwic> sea_trout</kwic>
+    <right>. in this case 'brown' trout is used to describe</right>
+  </line>
+  <line refs="doc#511" num="290" label="_">
+    <left>as bullheads and minnows. both the brown and</left>
+    <kwic> sea_trout</kwic>
+    <right> are protected species. they are intolerant of</right>
+  </line>
+  <line refs="doc#511" num="291" label="_">
+    <left>animal, is consumed in winter months.</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta) a type of brown_trout that</right>
+  </line>
+  <line refs="doc#511" num="292" label="_">
+    <left>freshwater, but which later migrate to sea. the</left>
+    <kwic> sea_trout</kwic>
+    <right> is a sea-going version of the brown_trout,</right>
+  </line>
+  <line refs="doc#511" num="293" label="_">
+    <left>. they are also similar in appearance but the</left>
+    <kwic> sea_trout</kwic>
+    <right> tends to have spots below as well as above the</right>
+  </line>
+  <line refs="doc#511" num="294" label="_">
+    <left>slightly convex. like the salmon however, the</left>
+    <kwic> sea_trout</kwic>
+    <right> is bright silver when it enters the river and</right>
+  </line>
+  <line refs="doc#511" num="295" label="_">
+    <left>typical of brown_trout. unlike the salmon, the</left>
+    <kwic> sea_trout</kwic>
+    <right> does not die after spawning but instead returns</right>
+  </line>
+  <line refs="doc#511" num="296" label="_">
+    <left>will feed spasmodically whilst in freshwater.</left>
+    <kwic> sea_trout</kwic>
+    <right> weigh typically over 10 lbs but exceptional</right>
+  </line>
+  <line refs="doc#511" num="297" label="_">
+    <left>twenty pounds in weight. the collapse of the</left>
+    <kwic> sea_trout</kwic>
+    <right> populations on the west coast of scotland (and</right>
+  </line>
+  <line refs="doc#511" num="298" label="_">
+    <left>– in particular due to lethal infestations of</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts with sea lice transmitted from the</right>
+  </line>
+  <line refs="doc#519" num="299" label="_">
+    <left>, j.-f. 1998. survival and emergence pattern of</left>
+    <kwic> sea_trout</kwic>
+    <right> fry in substrata of different compositions. j.</right>
+  </line>
+  <line refs="doc#524" num="300" label="_">
+    <left>smolts of atlantic salmon (salmo_salar l.) and</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta l.) in a chalktstream. env. biol</right>
+  </line>
+  <line refs="doc#529" num="301" label="_">
+    <left>our products... the smolt</left>
+    <kwic> sea_trout</kwic>
+    <right>, salmo_trutta trutta, length 51cm, gp-175280</right>
+  </line>
+  <line refs="doc#529" num="302" label="_">
+    <left>trutta, length 51cm, gp-175280 the</left>
+    <kwic> sea_trout</kwic>
+    <right>, salmo_trutta trutta, length 110cm,</right>
+  </line>
+  <line refs="doc#530" num="303" label="_">
+    <left>29§ open access note temporal variation in</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta life history traits in the erriff</right>
+  </line>
+  <line refs="doc#530" num="304" label="_">
+    <left>and life history characteristics of</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta l. populations can be changed by a</right>
+  </line>
+  <line refs="doc#530" num="305" label="_">
+    <left>a 20 yr time series (1985−2004) using 15</left>
+    <kwic> sea_trout</kwic>
+    <right> population response variables in the erriff</right>
+  </line>
+  <line refs="doc#530" num="306" label="_">
+    <left>decreases in the number and length of</left>
+    <kwic> sea_trout</kwic>
+    <right> kelts, the estimated number of eggs deposited,</right>
+  </line>
+  <line refs="doc#530" num="307" label="_">
+    <left>, the estimated number of eggs deposited, the</left>
+    <kwic> sea_trout</kwic>
+    <right> rod catch, the proportion of older (1+ and 2+ sea</right>
+  </line>
+  <line refs="doc#530" num="308" label="_">
+    <left>local salmon farm and the number of lice found on</left>
+    <kwic> sea_trout</kwic>
+    <right> collected contemporaneously in local rivers.</right>
+  </line>
+  <line refs="doc#530" num="309" label="_">
+    <left>demonstrate that significant changes in</left>
+    <kwic> sea_trout</kwic>
+    <right> population structure with respect to</right>
+  </line>
+  <line refs="doc#530" num="310" label="_">
+    <left>likely contributed to the observed changes in</left>
+    <kwic> sea_trout</kwic>
+    <right> population dynamics. key words: sea_trout ·</right>
+  </line>
+  <line refs="doc#530" num="311" label="_">
+    <left>in sea_trout population dynamics. key words:</left>
+    <kwic> sea_trout</kwic>
+    <right> · salmo_trutta · fish population dynamics ·</right>
+  </line>
+  <line refs="doc#530" num="312" label="_">
+    <left>indicators introduction long-term data on</left>
+    <kwic> sea_trout</kwic>
+    <right> population dynamics are rare. previous</right>
+  </line>
+  <line refs="doc#530" num="313" label="_">
+    <left>. previous studies have described the nature of</left>
+    <kwic> sea_trout</kwic>
+    <right> populations and their life history</right>
+  </line>
+  <line refs="doc#530" num="314" label="_">
+    <left>possible underlying causes. a salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> research programme began on the erriff</right>
+  </line>
+  <line refs="doc#530" num="315" label="_">
+    <left>harbour, has been an important salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> angling fishery since the early 20th century. a</right>
+  </line>
+  <line refs="doc#530" num="316" label="_">
+    <left>tawnyard lough, to collect information on</left>
+    <kwic> sea_trout</kwic>
+    <right> smolt and kelt (i.e. fish surviving after</right>
+  </line>
+  <line refs="doc#530" num="317" label="_">
+    <left>. concurrently, by 1989, all of the major</left>
+    <kwic> sea_trout</kwic>
+    <right> fisheries in the mid-west region had suffered</right>
+  </line>
+  <line refs="doc#530" num="318" label="_">
+    <left>was started prior to the observed collapse in</left>
+    <kwic> sea_trout</kwic>
+    <right> rod catch, provides an opportunity to examine</right>
+  </line>
+  <line refs="doc#530" num="319" label="_">
+    <left>an opportunity to examine and document</left>
+    <kwic> sea_trout</kwic>
+    <right> population responses to environmental change</right>
+  </line>
+  <line refs="doc#530" num="320" label="_">
+    <left>describe the life history characteristics of</left>
+    <kwic> sea_trout</kwic>
+    <right> follow the international standard n</right>
+  </line>
+  <line refs="doc#530" num="321" label="_">
+    <left>and post-smolt life history stages of</left>
+    <kwic> sea_trout</kwic>
+    <right> are based on the conventions adopted by nall (</right>
+  </line>
+  <line refs="doc#530" num="322" label="_">
+    <left>migratory fish on the system, is the principal</left>
+    <kwic> sea_trout</kwic>
+    <right> fishery. it joins the main stem of the erriff</right>
+  </line>
+  <line refs="doc#530" num="323" label="_">
+    <left>, western ireland gargan et al: long-term</left>
+    <kwic> sea_trout</kwic>
+    <right> population dynamics tary, the glendavock (6 km</right>
+  </line>
+  <line refs="doc#530" num="324" label="_">
+    <left>is a major salmon spawning channel with little</left>
+    <kwic> sea_trout</kwic>
+    <right> production and some sea_trout angling</right>
+  </line>
+  <line refs="doc#530" num="325" label="_">
+    <left>with little sea_trout production and some</left>
+    <kwic> sea_trout</kwic>
+    <right> angling potential. the erriff river flows into</right>
+  </line>
+  <line refs="doc#530" num="326" label="_">
+    <left>catchment to the southwest (fig. 1), and annual</left>
+    <kwic> sea_trout</kwic>
+    <right> rod catch data from 18 rod fisheries in the</right>
+  </line>
+  <line refs="doc#530" num="327" label="_">
+    <left>1975−2004 period (fig. 2). the burrishoole</left>
+    <kwic> sea_trout</kwic>
+    <right> fishery enters clew bay, approximately 35 km</right>
+  </line>
+  <line refs="doc#530" num="328" label="_">
+    <left>density (no. lice fish–1) on erriff and delphi</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta (n ≥ 5). blank: no data year 1986</right>
+  </line>
+  <line refs="doc#530" num="329" label="_">
+    <left>farm l. salmonis april l. salmonis may erriff</left>
+    <kwic> sea_trout</kwic>
+    <right> delphi sea_trout mean l. salmonis mean l.</right>
+  </line>
+  <line refs="doc#530" num="330" label="_">
+    <left>april l. salmonis may erriff sea_trout delphi</left>
+    <kwic> sea_trout</kwic>
+    <right> mean l. salmonis mean l. salmonis 78.2 37 0.51</right>
+  </line>
+  <line refs="doc#530" num="331" label="_">
+    <left>the number and size of downstream migrating</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts and kelts was recorded at the trap over</right>
+  </line>
+  <line refs="doc#530" num="332" label="_">
+    <left>over the march to may period and reflected</left>
+    <kwic> sea_trout</kwic>
+    <right> which migrated to sea in previous years and</right>
+  </line>
+  <line refs="doc#530" num="333" label="_">
+    <left>over-wintered finnock were recorded as</left>
+    <kwic> sea_trout</kwic>
+    <right> kelts. sea_trout were categorised as kelts on</right>
+  </line>
+  <line refs="doc#530" num="334" label="_">
+    <left>finnock were recorded as sea_trout kelts.</left>
+    <kwic> sea_trout</kwic>
+    <right> were categorised as kelts on the basis of being</right>
+  </line>
+  <line refs="doc#530" num="335" label="_">
+    <left>1995 1996 1997 1998 1999 2000 2001 2002 2003 2004</left>
+    <kwic> sea_trout</kwic>
+    <right> rod catch 12 mm spacing and was in operation</right>
+  </line>
+  <line refs="doc#530" num="336" label="_">
+    <left>june each year to allow ascending salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> to enter tawnyard lough. no sampling of</right>
+  </line>
+  <line refs="doc#530" num="337" label="_">
+    <left>recorded in 1986, year b) connemara district</left>
+    <kwic> sea_trout</kwic>
+    <right> rod catch 14000 12000 10000 connemara on its own</right>
+  </line>
+  <line refs="doc#530" num="338" label="_">
+    <left>2000 2001 2002 2003 2004 0 year fig. 2. number of</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta rod catches for (a) the erriff</right>
+  </line>
+  <line refs="doc#530" num="339" label="_">
+    <left>from 1990 onwards gargan et al: long-term</left>
+    <kwic> sea_trout</kwic>
+    <right> population dynamics of length and condition.</right>
+  </line>
+  <line refs="doc#530" num="340" label="_">
+    <left>and condition. over the period 1986−1999,</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts and kelts were marked with coloured dye</right>
+  </line>
+  <line refs="doc#530" num="341" label="_">
+    <left>distinguish smolts from kelts. a subsample of</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts and kelts were measured (total length,</right>
+  </line>
+  <line refs="doc#530" num="342" label="_">
+    <left>study, scales were examined from a total of 1122</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts and 2710 kelts. age was determined using</right>
+  </line>
+  <line refs="doc#530" num="343" label="_">
+    <left>in the sea, and spawning marks were recorded.</left>
+    <kwic> sea_trout</kwic>
+    <right> rod catch for the erriff catchment and for 18</right>
+  </line>
+  <line refs="doc#530" num="344" label="_">
+    <left>fisheries. however, based on analysis of</left>
+    <kwic> sea_trout</kwic>
+    <right> rod catch per unit effort (cpue) data for 4</right>
+  </line>
+  <line refs="doc#530" num="345" label="_">
+    <left>in cpue had occurred. the cumulative number of</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts recorded from 1985 to 2004 indicates</right>
+  </line>
+  <line refs="doc#530" num="346" label="_">
+    <left>run in all years. records indicate that the main</left>
+    <kwic> sea_trout</kwic>
+    <right> kelt run occurs between late march and mid-may</right>
+  </line>
+  <line refs="doc#530" num="347" label="_">
+    <left>run occurs approximately 2 wk earlier than the</left>
+    <kwic> sea_trout</kwic>
+    <right> smolt run. as part of the sea_trout</right>
+  </line>
+  <line refs="doc#530" num="348" label="_">
+    <left>than the sea_trout smolt run. as part of the</left>
+    <kwic> sea_trout</kwic>
+    <right> rehabilitation programme (poole et al. 2002),</right>
+  </line>
+  <line refs="doc#530" num="349" label="_">
+    <left>as a management response to the collapse in the</left>
+    <kwic> sea_trout</kwic>
+    <right> fishery, a sea_trout smolt and kelt</right>
+  </line>
+  <line refs="doc#530" num="350" label="_">
+    <left>to the collapse in the sea_trout fishery, a</left>
+    <kwic> sea_trout</kwic>
+    <right> smolt and kelt reconditioning programme was</right>
+  </line>
+  <line refs="doc#530" num="351" label="_">
+    <left>programme was initiated using erriff</left>
+    <kwic> sea_trout</kwic>
+    <right>. erriff sea_trout fry were stocked into</right>
+  </line>
+  <line refs="doc#530" num="352" label="_">
+    <left>was initiated using erriff sea_trout. erriff</left>
+    <kwic> sea_trout</kwic>
+    <right> fry were stocked into tawnyard streams in 1992</right>
+  </line>
+  <line refs="doc#530" num="353" label="_">
+    <left>, and stocking is assumed to have contributed to</left>
+    <kwic> sea_trout</kwic>
+    <right> smolt production between 1994 and 2003. an</right>
+  </line>
+  <line refs="doc#530" num="354" label="_">
+    <left>on the erriff river, and cumulative number of</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta smolts and kelts over a 20 yr</right>
+  </line>
+  <line refs="doc#530" num="355" label="_">
+    <left>to provide an estimate of the annual numbers of</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts, without the influence of stocking (see</right>
+  </line>
+  <line refs="doc#530" num="356" label="_">
+    <left>(see table 3). calculation of potential</left>
+    <kwic> sea_trout</kwic>
+    <right> egg deposition table 2. summary of sea_trout</right>
+  </line>
+  <line refs="doc#530" num="357" label="_">
+    <left>sea_trout egg deposition table 2. summary of</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta population descriptor time</right>
+  </line>
+  <line refs="doc#530" num="358" label="_">
+    <left>number of rod catch mean number of lice on</left>
+    <kwic> sea_trout</kwic>
+    <right> 95th percentile of length of smolts 95th</right>
+  </line>
+  <line refs="doc#530" num="359" label="_">
+    <left>= 60.67 × length − 1238.49, derived for erriff</left>
+    <kwic> sea_trout</kwic>
+    <right> in 1985 (o'farrell et al. 1989). (2)</right>
+  </line>
+  <line refs="doc#530" num="360" label="_">
+    <left>estimates were raised to the annual number of</left>
+    <kwic> sea_trout</kwic>
+    <right> kelts counted in each 1 cm length class, and then</right>
+  </line>
+  <line refs="doc#530" num="361" label="_">
+    <left>at 1 sea age and 100% at 2 sea age based on tawnyard</left>
+    <kwic> sea_trout</kwic>
+    <right> in 1983 and 1984) using a recorded kelt</right>
+  </line>
+  <line refs="doc#530" num="362" label="_">
+    <left>. (4) 36% was added to this value to account for</left>
+    <kwic> sea_trout</kwic>
+    <right> overwinter mortality based on average</right>
+  </line>
+  <line refs="doc#530" num="363" label="_">
+    <left>(mills et al. 1990). (5) the annual number of</left>
+    <kwic> sea_trout</kwic>
+    <right> killed in tawnyard lough was added to provide a</right>
+  </line>
+  <line refs="doc#530" num="364" label="_">
+    <left>. also, monitoring of sea lice levels on wild</left>
+    <kwic> sea_trout</kwic>
+    <right>, generally covering the period 1 may to 15 june,</right>
+  </line>
+  <line refs="doc#530" num="365" label="_">
+    <left>gargan et al. (2003). data analysis the erriff</left>
+    <kwic> sea_trout</kwic>
+    <right> data comprised several different time series (</right>
+  </line>
+  <line refs="doc#530" num="366" label="_">
+    <left>, c: 1995−1999, d: 2000− gargan et al: long-term</left>
+    <kwic> sea_trout</kwic>
+    <right> population dynamics 2004). exceptions were</right>
+  </line>
+  <line refs="doc#530" num="367" label="_">
+    <left>2004). exceptions were the 'number of lice on</left>
+    <kwic> sea_trout</kwic>
+    <right>' (the data commenced in 1991 such that data for</right>
+  </line>
+  <line refs="doc#530" num="368" label="_">
+    <left>records of annual mean number of salmon lice per</left>
+    <kwic> sea_trout</kwic>
+    <right> were available for the erriff and the</right>
+  </line>
+  <line refs="doc#530" num="369" label="_">
+    <left>river. the models of number of salmon lice on</left>
+    <kwic> sea_trout</kwic>
+    <right> included data from both rivers (erriff and</right>
+  </line>
+  <line refs="doc#530" num="370" label="_">
+    <left>, and a separate model of number of lice per</left>
+    <kwic> sea_trout</kwic>
+    <right> was implemented for each. all count population</right>
+  </line>
+  <line refs="doc#530" num="371" label="_">
+    <left>, eggs deposited, rod catch and salmon lice on</left>
+    <kwic> sea_trout</kwic>
+    <right>) were modelled using negative binomial models</right>
+  </line>
+  <line refs="doc#530" num="372" label="_">
+    <left>lice lepeophtheirus salmonis recorded on</left>
+    <kwic> sea_trout</kwic>
+    <right> captured from the erriff and delphi rivers</right>
+  </line>
+  <line refs="doc#530" num="373" label="_">
+    <left>(z = 2.47, p = 0.01), and the number of lice on wild</left>
+    <kwic> sea_trout</kwic>
+    <right> in the delphi and erriff rivers in may and june.</right>
+  </line>
+  <line refs="doc#530" num="374" label="_">
+    <left>rivers in may and june. the number of lice on</left>
+    <kwic> sea_trout</kwic>
+    <right> increased significantly (z = 2.42, p &lt; 0.05)</right>
+  </line>
+  <line refs="doc#530" num="375" label="_">
+    <left>a significant negative period effect on erriff</left>
+    <kwic> sea_trout</kwic>
+    <right> rod catch, with catch being significantly</right>
+  </line>
+  <line refs="doc#530" num="376" label="_">
+    <left>significantly over the time series (p &gt; 0.05).</left>
+    <kwic> sea_trout</kwic>
+    <right> smolt length varied from 14.5 to 29.9 cm, while</right>
+  </line>
+  <line refs="doc#530" num="377" label="_">
+    <left>length from period a to period b. the majority of</left>
+    <kwic> sea_trout</kwic>
+    <right> smolt scales examined in this study were from 2</right>
+  </line>
+  <line refs="doc#530" num="378" label="_">
+    <left>mean of 37 and 58% for 2 and 3 yr old table 3. annual</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta smolt run, percentage smolt age</right>
+  </line>
+  <line refs="doc#530" num="379" label="_">
+    <left>15 yr examined. sea age table 4. percentage of</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta in each sea age class, percentage</right>
+  </line>
+  <line refs="doc#530" num="380" label="_">
+    <left>sea age class, percentage previous spawned</left>
+    <kwic> sea_trout</kwic>
+    <right> and percentage sea_trout kelts &gt; 35 cm. –: no</right>
+  </line>
+  <line refs="doc#530" num="381" label="_">
+    <left>previous spawned sea_trout and percentage</left>
+    <kwic> sea_trout</kwic>
+    <right> kelts &gt; 35 cm. –: no data year % trout per age class</right>
+  </line>
+  <line refs="doc#530" num="382" label="_">
+    <left>2003 − − − 2004 85.7 14.3 0.0 the proportion of 0+</left>
+    <kwic> sea_trout</kwic>
+    <right> increased significantly over time (table 4),</right>
+  </line>
+  <line refs="doc#530" num="383" label="_">
+    <left>21 21 22 27 12 13 16 kelt data the annual number of</left>
+    <kwic> sea_trout</kwic>
+    <right> kelts recorded in the tawnyard trap since 1985</right>
+  </line>
+  <line refs="doc#530" num="384" label="_">
+    <left>= −3.22, p = 0.005) than fig. 4. annual numbers of</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta kelts migrating downstream and</right>
+  </line>
+  <line refs="doc#530" num="385" label="_">
+    <left>between 1985 and 2004 gargan et al: long-term</left>
+    <kwic> sea_trout</kwic>
+    <right> population dynamics 683 fig. 5. mean (± sd)</right>
+  </line>
+  <line refs="doc#530" num="386" label="_">
+    <left>dynamics 683 fig. 5. mean (± sd) length of</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta kelts recorded from the black</right>
+  </line>
+  <line refs="doc#530" num="387" label="_">
+    <left>line) were collected prior to salmon farming</left>
+    <kwic> sea_trout</kwic>
+    <right> fecundity the potential sea_trout egg</right>
+  </line>
+  <line refs="doc#530" num="388" label="_">
+    <left>farming sea_trout fecundity the potential</left>
+    <kwic> sea_trout</kwic>
+    <right> egg deposition in the tawnyard subcatchment is</right>
+  </line>
+  <line refs="doc#530" num="389" label="_">
+    <left>) in period a. over the 1985−1988 period, the</left>
+    <kwic> sea_trout</kwic>
+    <right> kelt population structure comprised a finnock</right>
+  </line>
+  <line refs="doc#530" num="390" label="_">
+    <left>population structure is also evident from mean</left>
+    <kwic> sea_trout</kwic>
+    <right> kelt length data (fig. 5). over the 1985−1988</right>
+  </line>
+  <line refs="doc#530" num="391" label="_">
+    <left>&gt; 34 cm, ranging from 34.2 to 35.6 cm. after the</left>
+    <kwic> sea_trout</kwic>
+    <right> stock collapse, the mean length decreased to &lt;</right>
+  </line>
+  <line refs="doc#530" num="392" label="_">
+    <left>size and mean sea age after 1990. prior to 1990,</left>
+    <kwic> sea_trout</kwic>
+    <right> kelts &gt; 35 cm in length comprised more than 35% of</right>
+  </line>
+  <line refs="doc#530" num="393" label="_">
+    <left>35% of the population (table 4). in 1990, only 13</left>
+    <kwic> sea_trout</kwic>
+    <right> (21%) were recorded &gt; 35 cm in length (table 4),</right>
+  </line>
+  <line refs="doc#530" num="394" label="_">
+    <left>the 35 1998−2001 period, the percentage of 30</left>
+    <kwic> sea_trout</kwic>
+    <right> kelts &gt; 35 cm captured in 25 the trap increased,</right>
+  </line>
+  <line refs="doc#530" num="395" label="_">
+    <left>composition and abundance of the erriff</left>
+    <kwic> sea_trout</kwic>
+    <right> population. a summary of the model outputs for</right>
+  </line>
+  <line refs="doc#530" num="396" label="_">
+    <left>life history characteristics of erriff</left>
+    <kwic> sea_trout</kwic>
+    <right>. period b (covering the 5 yr after salmon</right>
+  </line>
+  <line refs="doc#530" num="397" label="_">
+    <left>period a (1985−1988) in the number and length of</left>
+    <kwic> sea_trout</kwic>
+    <right> 15 10 5 0 year fig. 6. estimated potential</right>
+  </line>
+  <line refs="doc#530" num="398" label="_">
+    <left>15 10 5 0 year fig. 6. estimated potential</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta egg deposition, tawnyard</right>
+  </line>
+  <line refs="doc#530" num="399" label="_">
+    <left>in the tawnyard subcatchment and in the</left>
+    <kwic> sea_trout</kwic>
+    <right> rod catch and the proportion of older (1+ and 2+</right>
+  </line>
+  <line refs="doc#530" num="400" label="_">
+    <left>farm and the numbers of lice counted on wild</left>
+    <kwic> sea_trout</kwic>
+    <right> occurring in the delphi and erriff rivers</right>
+  </line>
+  <line refs="doc#530" num="401" label="_">
+    <left>in the local salmon farm and number of lice on</left>
+    <kwic> sea_trout</kwic>
+    <right> in both tested months (table 5). we also found</right>
+  </line>
+  <line refs="doc#530" num="402" label="_">
+    <left>5). we also found that the number of lice on wild</left>
+    <kwic> sea_trout</kwic>
+    <right> in these rivers increased between periods b and</right>
+  </line>
+  <line refs="doc#530" num="403" label="_">
+    <left>of statistical models (see 'data analysis') of</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta population descriptors (see</right>
+  </line>
+  <line refs="doc#530" num="404" label="_">
+    <left>lice in the salmon farm in april (may) and on</left>
+    <kwic> sea_trout</kwic>
+    <right> in rivers erriff or delphi. for the models '</right>
+  </line>
+  <line refs="doc#530" num="405" label="_">
+    <left>environ interact 8: 675–689, 2016 684 fifteen</left>
+    <kwic> sea_trout</kwic>
+    <right> population descriptors (response variables)</right>
+  </line>
+  <line refs="doc#530" num="406" label="_">
+    <left>and abundance variation in the tawnyard</left>
+    <kwic> sea_trout</kwic>
+    <right> population over a 20 yr period. in the period</right>
+  </line>
+  <line refs="doc#530" num="407" label="_">
+    <left>were significant decreases in the numbers of</left>
+    <kwic> sea_trout</kwic>
+    <right> caught, the estimated number of eggs deposited</right>
+  </line>
+  <line refs="doc#530" num="408" label="_">
+    <left>of eggs deposited, the number and length of</left>
+    <kwic> sea_trout</kwic>
+    <right> kelts, the proportion of older maiden spawners</right>
+  </line>
+  <line refs="doc#530" num="409" label="_">
+    <left>system. the erriff data indicate that a stable</left>
+    <kwic> sea_trout</kwic>
+    <right> population structure typical of western</right>
+  </line>
+  <line refs="doc#530" num="410" label="_">
+    <left>maidens (length up to gargan et al: long-term</left>
+    <kwic> sea_trout</kwic>
+    <right> population dynamics ~40 cm) and some older and</right>
+  </line>
+  <line refs="doc#530" num="411" label="_">
+    <left>and previous spawners. subsequent to the 1989</left>
+    <kwic> sea_trout</kwic>
+    <right> rod catch collapse in western ireland (</right>
+  </line>
+  <line refs="doc#530" num="412" label="_">
+    <left>rod catch collapse in western ireland (</left>
+    <kwic>sea_trout</kwic>
+    <right> task force 1994), this typical population</right>
+  </line>
+  <line refs="doc#530" num="413" label="_">
+    <left>by very low returns of finnock and fewer veteran</left>
+    <kwic> sea_trout</kwic>
+    <right> in the older age classes indicating a collapse</right>
+  </line>
+  <line refs="doc#530" num="414" label="_">
+    <left>both fisheries. gargan et al. (2006a) assessed</left>
+    <kwic> sea_trout</kwic>
+    <right> rod cpue data and found that the sea_trout catch</right>
+  </line>
+  <line refs="doc#530" num="415" label="_">
+    <left>sea_trout rod cpue data and found that the</left>
+    <kwic> sea_trout</kwic>
+    <right> catch collapse recorded in western irish</right>
+  </line>
+  <line refs="doc#530" num="416" label="_">
+    <left>structure was not maintained, and the tawnyard</left>
+    <kwic> sea_trout</kwic>
+    <right> kelt population structure evident before 1989</right>
+  </line>
+  <line refs="doc#530" num="417" label="_">
+    <left>studies have documented long-term changes in</left>
+    <kwic> sea_trout</kwic>
+    <right> population structure. butler &amp; walker (2006)</right>
+  </line>
+  <line refs="doc#530" num="418" label="_">
+    <left>. butler &amp; walker (2006) recorded a collapse in</left>
+    <kwic> sea_trout</kwic>
+    <right> rod catch in the river ewe/loch maree system in</right>
+  </line>
+  <line refs="doc#530" num="419" label="_">
+    <left>that the structure and composition of a</left>
+    <kwic> sea_trout</kwic>
+    <right> population will determine its ability to</right>
+  </line>
+  <line refs="doc#530" num="420" label="_">
+    <left>. harris (2006) described a robust</left>
+    <kwic> sea_trout</kwic>
+    <right> stock as having a range of smolt classes, sea age</right>
+  </line>
+  <line refs="doc#530" num="421" label="_">
+    <left>identified in the current study. the</left>
+    <kwic> sea_trout</kwic>
+    <right> population structure evident over the 1985−</right>
+  </line>
+  <line refs="doc#530" num="422" label="_">
+    <left>in the estimated number of eggs deposited by</left>
+    <kwic> sea_trout</kwic>
+    <right> after 1989, suggesting that the impact on the</right>
+  </line>
+  <line refs="doc#530" num="423" label="_">
+    <left>et al. (2006b) recorded a substantial output of</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts after an observed reduction in adult</right>
+  </line>
+  <line refs="doc#530" num="424" label="_">
+    <left>smolts after an observed reduction in adult</left>
+    <kwic> sea_trout</kwic>
+    <right> runs in 2 other western irish fisheries after</right>
+  </line>
+  <line refs="doc#530" num="425" label="_">
+    <left>trout population was a major contributor to</left>
+    <kwic> sea_trout</kwic>
+    <right> smolt output in these years. whelan et al. (1993</right>
+  </line>
+  <line refs="doc#530" num="426" label="_">
+    <left>influencing the migration and survival of</left>
+    <kwic> sea_trout</kwic>
+    <right> stocks in the burrishoole system during the</right>
+  </line>
+  <line refs="doc#530" num="427" label="_">
+    <left>with high mortality of all age classes of adult</left>
+    <kwic> sea_trout</kwic>
+    <right>, therefore indicating a primarily</right>
+  </line>
+  <line refs="doc#530" num="428" label="_">
+    <left>for shifts in the population dynamics of erriff</left>
+    <kwic> sea_trout</kwic>
+    <right> observed here. however, there is little</right>
+  </line>
+  <line refs="doc#530" num="429" label="_">
+    <left>natural variation in marine survival of</left>
+    <kwic> sea_trout</kwic>
+    <right> (thorstad et al. 2016). in coastal habitats</right>
+  </line>
+  <line refs="doc#530" num="430" label="_">
+    <left>would be expected to drive strong changes among</left>
+    <kwic> sea_trout</kwic>
+    <right> passing their marine phase in these waters. in</right>
+  </line>
+  <line refs="doc#530" num="431" label="_">
+    <left>. in contrast, the strong period effect in</left>
+    <kwic> sea_trout</kwic>
+    <right> life history traits observed in the current</right>
+  </line>
+  <line refs="doc#530" num="432" label="_">
+    <left>environmental change. the change in</left>
+    <kwic> sea_trout</kwic>
+    <right> population dynamics observed in the present</right>
+  </line>
+  <line refs="doc#530" num="433" label="_">
+    <left>took place over the study period, and while some</left>
+    <kwic> sea_trout</kwic>
+    <right> were captured as a bycatch in commercial salmon</right>
+  </line>
+  <line refs="doc#530" num="434" label="_">
+    <left>, there was a ban from 1990 on the sale of</left>
+    <kwic> sea_trout</kwic>
+    <right> and consequently commercial fishermen were</right>
+  </line>
+  <line refs="doc#530" num="435" label="_">
+    <left>fishermen were obliged to return all</left>
+    <kwic> sea_trout</kwic>
+    <right> to the water under the conditions of the</right>
+  </line>
+  <line refs="doc#530" num="436" label="_">
+    <left>harbour where drift netting for salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> was prohibited (sea_trout task force 1994).</right>
+  </line>
+  <line refs="doc#530" num="437" label="_">
+    <left>for salmon and sea_trout was prohibited (</left>
+    <kwic>sea_trout</kwic>
+    <right> task force 1994). the change in sea_trout</right>
+  </line>
+  <line refs="doc#530" num="438" label="_">
+    <left>(sea_trout task force 1994). the change in</left>
+    <kwic> sea_trout</kwic>
+    <right> population dynamics observed in the tawnyard</right>
+  </line>
+  <line refs="doc#530" num="439" label="_">
+    <left>a relatively stable catch up until 1988. the</left>
+    <kwic> sea_trout</kwic>
+    <right> rod catch collapse evident in the connemara rod</right>
+  </line>
+  <line refs="doc#530" num="440" label="_">
+    <left>significantly reduced both the total number of</left>
+    <kwic> sea_trout</kwic>
+    <right> eggs deposited and subsequent levels of</right>
+  </line>
+  <line refs="doc#530" num="441" label="_">
+    <left>al. 2006). o'farrell et al. (1989) showed that</left>
+    <kwic> sea_trout</kwic>
+    <right> ≥35 cm (1+ and 2+ sea age fish) make the greatest</right>
+  </line>
+  <line refs="doc#530" num="442" label="_">
+    <left>relationship between lice infestation on</left>
+    <kwic> sea_trout</kwic>
+    <right> and distance to the nearest salmon farm in</right>
+  </line>
+  <line refs="doc#530" num="443" label="_">
+    <left>farm and the numbers of lice occurring on wild</left>
+    <kwic> sea_trout</kwic>
+    <right> collected in the erriff and delphi rivers. a</right>
+  </line>
+  <line refs="doc#530" num="444" label="_">
+    <left>al. (2003) examined the relationship between</left>
+    <kwic> sea_trout</kwic>
+    <right> marine survival and the mean abundance of lice</right>
+  </line>
+  <line refs="doc#530" num="445" label="_">
+    <left>the mean abundance of lice infestation in the</left>
+    <kwic> sea_trout</kwic>
+    <right> population in 4 bays in western ireland (</right>
+  </line>
+  <line refs="doc#530" num="446" label="_">
+    <left>a significant negative relationship between</left>
+    <kwic> sea_trout</kwic>
+    <right> survival and the level of lice infestation.</right>
+  </line>
+  <line refs="doc#530" num="447" label="_">
+    <left>increased the level of sea lice infestation on</left>
+    <kwic> sea_trout</kwic>
+    <right> post smolts in ireland. similar findings have</right>
+  </line>
+  <line refs="doc#530" num="448" label="_">
+    <left>farmed n orwegian coastline and found that</left>
+    <kwic> sea_trout</kwic>
+    <right> from the majority of sampled sites had salmon</right>
+  </line>
+  <line refs="doc#530" num="449" label="_">
+    <left>or high mortality gargan et al: long-term</left>
+    <kwic> sea_trout</kwic>
+    <right> population dynamics risk of sea_trout. in an</right>
+  </line>
+  <line refs="doc#530" num="450" label="_">
+    <left>sea_trout population dynamics risk of</left>
+    <kwic> sea_trout</kwic>
+    <right>. in an extensive review of the impacts of the</right>
+  </line>
+  <line refs="doc#530" num="451" label="_">
+    <left>review of the impacts of the salmon louse on</left>
+    <kwic> sea_trout</kwic>
+    <right>, thorstad et al. (2015) concluded that salmon</right>
+  </line>
+  <line refs="doc#530" num="452" label="_">
+    <left>farmed areas have negatively impacted wild</left>
+    <kwic> sea_trout</kwic>
+    <right> populations by increasing marine mortality,</right>
+  </line>
+  <line refs="doc#530" num="453" label="_">
+    <left>erriff demonstrate that significant change in</left>
+    <kwic> sea_trout</kwic>
+    <right> population life history composition and</right>
+  </line>
+  <line refs="doc#530" num="454" label="_">
+    <left>changes. recent data indicate that the</left>
+    <kwic> sea_trout</kwic>
+    <right> population structure and sea age composition</right>
+  </line>
+  <line refs="doc#530" num="455" label="_">
+    <left>undertaking detailed assessments of tawnyard</left>
+    <kwic> sea_trout</kwic>
+    <right> stocks over the early study period. dr. david</right>
+  </line>
+  <line refs="doc#530" num="456" label="_">
+    <left>for previous advice on calculation of</left>
+    <kwic> sea_trout</kwic>
+    <right> fecundity estimates. the staff of the former</right>
+  </line>
+  <line refs="doc#530" num="457" label="_">
+    <left>of premature return to rivers and estuaries by</left>
+    <kwic> sea_trout</kwic>
+    <right>, salmo_trutta, juveniles. environ biol</right>
+  </line>
+  <line refs="doc#530" num="458" label="_">
+    <left>r (2001) salmon lice infection of wild</left>
+    <kwic> sea_trout</kwic>
+    <right> and arctic char in marine and freshwaters: the</right>
+  </line>
+  <line refs="doc#530" num="459" label="_">
+    <left>jra, walker af (2006) characteristics of the</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta (l.) stock collapse in the river</right>
+  </line>
+  <line refs="doc#530" num="460" label="_">
+    <left>), in 1988-2001. in: harris g, milner n (eds)</left>
+    <kwic> sea_trout</kwic>
+    <right>: biology, conservation and management.</right>
+  </line>
+  <line refs="doc#530" num="461" label="_">
+    <left>in age composition, growth and abundance of</left>
+    <kwic> sea_trout</kwic>
+    <right> returning to the river dee at chester, 1991–</right>
+  </line>
+  <line refs="doc#530" num="462" label="_">
+    <left>, 1991–2003. in: harris g, milner n (eds)</left>
+    <kwic> sea_trout</kwic>
+    <right>: biology, conservation and management.</right>
+  </line>
+  <line refs="doc#530" num="463" label="_">
+    <left>sea lice infestation, sea lice production and</left>
+    <kwic> sea_trout</kwic>
+    <right> survival in ireland, 1992-2001. in: mills d (ed</right>
+  </line>
+  <line refs="doc#530" num="464" label="_">
+    <left>, forde gp (2006a) a review of the status of irish</left>
+    <kwic> sea_trout</kwic>
+    <right> stocks. in: harris g, milner n (eds) sea_trout</right>
+  </line>
+  <line refs="doc#530" num="465" label="_">
+    <left>sea_trout stocks. in: harris g, milner n (eds)</left>
+    <kwic> sea_trout</kwic>
+    <right> biology, conservation and management.</right>
+  </line>
+  <line refs="doc#530" num="466" label="_">
+    <left>gp, ferguson a (2006b) characteristics of the</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta l.) stocks from the owengowla</right>
+  </line>
+  <line refs="doc#530" num="467" label="_">
+    <left>in marine survival. in: harris g, milner n (eds)</left>
+    <kwic> sea_trout</kwic>
+    <right>: biology, conservation and management.</right>
+  </line>
+  <line refs="doc#530" num="468" label="_">
+    <left>of salmon lice on atlantic salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right> and charr in 1999. nina oppdragsmeld 634:1−34 (</right>
+  </line>
+  <line refs="doc#530" num="469" label="_">
+    <left>–689, 2016 english abstract) harris gs (2006)</left>
+    <kwic> sea_trout</kwic>
+    <right> stock descriptions in england and wales. in:</right>
+  </line>
+  <line refs="doc#530" num="470" label="_">
+    <left>england and wales. in: harris g, milner n (eds)</left>
+    <kwic> sea_trout</kwic>
+    <right>: biology, conservation and management.</right>
+  </line>
+  <line refs="doc#530" num="471" label="_">
+    <left>lett 406:1−6 le cren ed (1985) the biology of the</left>
+    <kwic> sea_trout</kwic>
+    <right>. summary of a symposium held at plas menai,</right>
+  </line>
+  <line refs="doc#530" num="472" label="_">
+    <left>(1998) sea lice (copepoda: caligidae) on wild</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta l.) in scotland. ices j mar sci 55</right>
+  </line>
+  <line refs="doc#530" num="473" label="_">
+    <left>(2013) relationship between sea lice levels on</left>
+    <kwic> sea_trout</kwic>
+    <right> and fish farm activity in western scotland.</right>
+  </line>
+  <line refs="doc#530" num="474" label="_">
+    <left>cpr, piggins dj, cross tf (1990) burrishoole</left>
+    <kwic> sea_trout</kwic>
+    <right>: a twenty year study. 20th annual study course</right>
+  </line>
+  <line refs="doc#530" num="475" label="_">
+    <left>, london, p 61−78 nall gh (1930) the life of the</left>
+    <kwic> sea_trout</kwic>
+    <right>: especially in scottish waters. seeley,</right>
+  </line>
+  <line refs="doc#530" num="476" label="_">
+    <left>, cooke dj, matthews m (1996) the performance of</left>
+    <kwic> sea_trout</kwic>
+    <right>, salmo_trutta l., stocks from the burrishoole</right>
+  </line>
+  <line refs="doc#530" num="477" label="_">
+    <left>mg, whelan kf, gargan pg (2002) the irish</left>
+    <kwic> sea_trout</kwic>
+    <right> enhancement programme: a review of the</right>
+  </line>
+  <line refs="doc#530" num="478" label="_">
+    <left>k (2006) characteristics of the burrishoole</left>
+    <kwic> sea_trout</kwic>
+    <right> population: census, marine survival,</right>
+  </line>
+  <line refs="doc#530" num="479" label="_">
+    <left>, 1971–2003. in: harris g, milner n (eds)</left>
+    <kwic> sea_trout</kwic>
+    <right>: biology, conservation and management.</right>
+  </line>
+  <line refs="doc#530" num="480" label="_">
+    <left>in an exploited species. n ature 465:609−612</left>
+    <kwic> sea_trout</kwic>
+    <right> task force (1994) report of the sea_trout task</right>
+  </line>
+  <line refs="doc#530" num="481" label="_">
+    <left>−612 sea_trout task force (1994) report of the</left>
+    <kwic> sea_trout</kwic>
+    <right> task force. department of the marine, dublin</right>
+  </line>
+  <line refs="doc#530" num="482" label="_">
+    <left>salmon lice infestation and body condition in</left>
+    <kwic> sea_trout</kwic>
+    <right>. aquacult environ interact 8:597−610 solomon</right>
+  </line>
+  <line refs="doc#530" num="483" label="_">
+    <left>environ interact 8:597−610 solomon dj (1995)</left>
+    <kwic> sea_trout</kwic>
+    <right> stocks in england and wales. r&amp;d report 25.</right>
+  </line>
+  <line refs="doc#530" num="484" label="_">
+    <left>of salmon lice lepeophtheirus salmonis on wild</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta–a literature review. aquacult</right>
+  </line>
+  <line refs="doc#530" num="485" label="_">
+    <left>i, bjørn pa and others (2016) marine life of the</left>
+    <kwic> sea_trout</kwic>
+    <right>. mar biol 163:47 trenkel vm, huse g, mackenzie</right>
+  </line>
+  <line refs="doc#530" num="486" label="_">
+    <left>(krøyer) (copepoda: caligidae) parasitic on</left>
+    <kwic> sea_trout</kwic>
+    <right>, salmo_trutta l., off the west coast of ireland</right>
+  </line>
+  <line refs="doc#530" num="487" label="_">
+    <left>and temporal variation in the infestation of</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta l.) by the caligid copepod</right>
+  </line>
+  <line refs="doc#530" num="488" label="_">
+    <left>. parasitology 119:41−51 went aej (1962) irish</left>
+    <kwic> sea_trout</kwic>
+    <right>, a review of investigations to date. sci proc r</right>
+  </line>
+  <line refs="doc#530" num="489" label="_">
+    <left>influencing the migration and survival of</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta l.) smolts. ices 1993/m48. ices</right>
+  </line>
+  <line refs="doc#530" num="490" label="_">
+    <left>am fish soc 80:41−45 gargan et al: long-term</left>
+    <kwic> sea_trout</kwic>
+    <right> population dynamics 689 appendix table a1.</right>
+  </line>
+  <line refs="doc#536" num="491" label="_">
+    <left>of the system. the lake is now best known as a</left>
+    <kwic> sea_trout</kwic>
+    <right> fishery, even though numbers have declined in</right>
+  </line>
+  <line refs="doc#536" num="492" label="_">
+    <left>species richness a total of five fish species (</left>
+    <kwic>sea_trout</kwic>
+    <right> are included as a separate 'variety' of trout)</right>
+  </line>
+  <line refs="doc#536" num="493" label="_">
+    <left>composition was recorded with the exception of</left>
+    <kwic> sea_trout</kwic>
+    <right>, which were not captured during the 2010 survey</right>
+  </line>
+  <line refs="doc#536" num="494" label="_">
+    <left>name brown_trout arctic char minnow salmon</left>
+    <kwic> sea_trout</kwic>
+    <right> european eel benthic mono multimesh gill nets</right>
+  </line>
+  <line refs="doc#536" num="495" label="_">
+    <left>anguilla brown_trout arctic char salmon</left>
+    <kwic> sea_trout</kwic>
+    <right> minnow european eel* 0.137 (0.032) 0.081 (0.</right>
+  </line>
+  <line refs="doc#536" num="496" label="_">
+    <left>anguilla brown_trout arctic char salmon</left>
+    <kwic> sea_trout</kwic>
+    <right> minnow european eel* 19.451 (6.019) 3.802 (1.</right>
+  </line>
+  <line refs="doc#536" num="497" label="_">
+    <left>0.00 brown_trout arctic char minnow salmon</left>
+    <kwic> sea_trout</kwic>
+    <right> eel fig. 1.2. mean (±s.e.) cpue for all fish</right>
+  </line>
+  <line refs="doc#536" num="498" label="_">
+    <left>15 10 5 0 brown_trout arctic char minnow salmon</left>
+    <kwic> sea_trout</kwic>
+    <right> eel fig. 1.3. mean (±s.e.) bpue for all fish</right>
+  </line>
+  <line refs="doc#536" num="499" label="_">
+    <left>1+ and ranged in length from 8.0cm to 13.5cm. one</left>
+    <kwic> sea_trout</kwic>
+    <right> measuring 23.5cm was aged at 2.0+. 8 2010 2013 14</right>
+  </line>
+  <line refs="doc#547" num="500" label="_">
+    <left>small grayling and parr but i did lose a small</left>
+    <kwic> sea_trout</kwic>
+    <right> opposite the gravel slope just above the start</right>
+  </line>
+  <line refs="doc#565" num="501" label="_">
+    <left>, helsinki. 40 pp. helcom (2011). salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> populations and rivers in the baltic sea –</right>
+  </line>
+  <line refs="doc#565" num="502" label="_">
+    <left>helcom assessment of salmon (salmo_salar) and</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta) populations and habitats in</right>
+  </line>
+  <line refs="doc#566" num="503" label="_">
+    <left>but noted that anadromous part of populations (</left>
+    <kwic>sea_trout</kwic>
+    <right>) and many lacustrine stocks have in many cases</right>
+  </line>
+  <line refs="doc#566" num="504" label="_">
+    <left>and status in the baltic sea region</left>
+    <kwic> sea_trout</kwic>
+    <right> is an anadromous form of brown_trout (</right>
+  </line>
+  <line refs="doc#566" num="505" label="_">
+    <left>(ices 2011a,b). although still numerous, the</left>
+    <kwic> sea_trout</kwic>
+    <right> populations have been affected by migration</right>
+  </line>
+  <line refs="doc#566" num="506" label="_">
+    <left>noted that the anadromous part of populations (</left>
+    <kwic>sea_trout</kwic>
+    <right>) and many lacustrine stocks have in many cases</right>
+  </line>
+  <line refs="doc#566" num="507" label="_">
+    <left>sheet salmo_trutta habitat and ecology</left>
+    <kwic> sea_trout</kwic>
+    <right> usually lives in the same water system with</right>
+  </line>
+  <line refs="doc#566" num="508" label="_">
+    <left>another part stays in the river as residents.</left>
+    <kwic> sea_trout</kwic>
+    <right> spawn in rivers and smaller streams, often in</right>
+  </line>
+  <line refs="doc#566" num="509" label="_">
+    <left>there are no data to follow trends in stocks of</left>
+    <kwic> sea_trout</kwic>
+    <right>. although there is no question that the gulf of</right>
+  </line>
+  <line refs="doc#566" num="510" label="_">
+    <left>the species according to the meeting of</left>
+    <kwic> sea_trout</kwic>
+    <right> specialists and managers around the baltic in</right>
+  </line>
+  <line refs="doc#566" num="511" label="_">
+    <left>, helsinki. 40 pp. helcom (2011). salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> populations and rivers in the baltic sea –</right>
+  </line>
+  <line refs="doc#566" num="512" label="_">
+    <left>helcom assessment of salmon (salmo_salar) and</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta) populations and habitats in</right>
+  </line>
+  <line refs="doc#566" num="513" label="_">
+    <left>, t. (eds.) (2012). workshop on baltic</left>
+    <kwic> sea_trout</kwic>
+    <right>. dtu aqua report 248, 95 pp. red book of nature of</right>
+  </line>
+  <line refs="doc#567" num="514" label="_">
+    <left>(salmo_trutta macrostigma) and black</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta labrax). turkish journal of</right>
+  </line>
+  <line refs="doc#568" num="515" label="_">
+    <left>. 1995. fecundity and egg density in the redd for</left>
+    <kwic> sea_trout</kwic>
+    <right>. journal of fish biology 47(5):893-901.</right>
+  </line>
+  <line refs="doc#573" num="516" label="_">
+    <left>to catch some fish on the alyn. do you know if</left>
+    <kwic> sea_trout</kwic>
+    <right> are being caught on the alyn at the moment.</right>
+  </line>
+  <line refs="doc#580" num="517" label="_">
+    <left>c &amp; tully o 1999. metazoan parasite structure of</left>
+    <kwic> sea_trout</kwic>
+    <right> on the west coast of ireland. journal of fish</right>
+  </line>
+  <line refs="doc#580" num="518" label="_">
+    <left>c &amp; poole r 1993. helminth parasites of brown and</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta l. from the west coast of ireland.</right>
+  </line>
+  <line refs="doc#588" num="519" label="_">
+    <left>of fish, including cod, sturgeon, haddock,</left>
+    <kwic> sea_trout</kwic>
+    <right> and salmon.they have even been seen attached to</right>
+  </line>
+  <line refs="doc#588" num="520" label="_">
+    <left>(melanogrammus aeglefinus). salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta) entering rivers often bear</right>
+  </line>
+  <line refs="doc#629" num="521" label="_">
+    <left>lakes, but also migratory fish such as salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right> and eel. &lt;/p&gt; &lt;p&gt; the laboratory of fish age</right>
+  </line>
+  <line refs="doc#629" num="522" label="_">
+    <left>the age of most species, except for salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> for wich only the scales are used. the otoliths</right>
+  </line>
+  <line refs="doc#629" num="523" label="_">
+    <left>for age determination, except for salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right>. when possible or if necessar, each perch,</right>
+  </line>
+  <line refs="doc#629" num="524" label="_">
+    <left>of whitefish, vendace, pikeperch, salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> intercalibration is performed every two to</right>
+  </line>
+  <line refs="doc#672" num="525" label="_">
+    <left>&lt;p&gt; sewin [sewen](salmo_trutta trutta),or</left>
+    <kwic> sea_trout</kwic>
+    <right>, are a migratory form of the resident</right>
+  </line>
+  <line refs="doc#676" num="526" label="_">
+    <left>service provided by atlantic salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right> and other fish species in the river spey,</right>
+  </line>
+  <line refs="doc#676" num="527" label="_">
+    <left>, g. (eds.), biology and ecology of the brown and</left>
+    <kwic> sea_trout</kwic>
+    <right>, pp. 37-89, praxis publishing, chicester.</right>
+  </line>
+  <line refs="doc#700" num="528" label="_">
+    <left>fish include atlantic salmon (salmo_salar),</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta), whitefish or powan (</right>
+  </line>
+  <line refs="doc#700" num="529" label="_">
+    <left>migratory fish species (e.g. salmon, eel,</left>
+    <kwic> sea_trout</kwic>
+    <right> and sturgeon), no later than by 2012. the</right>
+  </line>
+  <line refs="doc#700" num="530" label="_">
+    <left>and restocking practices for salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> to safeguard the genetic variability of native</right>
+  </line>
+  <line refs="doc#700" num="531" label="_">
+    <left>are aware that many of the baltic salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> stocks are unlikely to achieve msy by 2015,</right>
+  </line>
+  <line refs="doc#700" num="532" label="_">
+    <left>) conservation goals for the baltic salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> to be met by 2015, based on helcom</right>
+  </line>
+  <line refs="doc#700" num="533" label="_">
+    <left>of baltic salmon (salmo_salar) and</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta) populations by the</right>
+  </line>
+  <line refs="doc#700" num="534" label="_">
+    <left>follow-up initiatives addressing salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> restoration activities and further</right>
+  </line>
+  <line refs="doc#700" num="535" label="_">
+    <left>for breeding, rearing and releasing salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> as reintroductions in potential salmonid</right>
+  </line>
+  <line refs="doc#704" num="536" label="_">
+    <left>atlantic salmon (salmo_salar); brown/</left>
+    <kwic>sea_trout</kwic>
+    <right> (salmo_trutta); eel (anguilla anguilla;</right>
+  </line>
+  <line refs="doc#704" num="537" label="_">
+    <left>introductions of non-natives. salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> management is by the nairn district salmon</right>
+  </line>
+  <line refs="doc#704" num="538" label="_">
+    <left>catches showing an increase in recent years.</left>
+    <kwic> sea_trout</kwic>
+    <right> are also captured although recent years have</right>
+  </line>
+  <line refs="doc#704" num="539" label="_">
+    <left>tributary sites which are accessible to adult</left>
+    <kwic> sea_trout</kwic>
+    <right> within the river nairn 2012. table 5 and figure 6</right>
+  </line>
+  <line refs="doc#704" num="540" label="_">
+    <left>they would be a resident population with no</left>
+    <kwic> sea_trout</kwic>
+    <right> input. clearly improving access through a</right>
+  </line>
+  <line refs="doc#704" num="541" label="_">
+    <left>and juvenile habitat for both salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right>. further assessment of the structure is</right>
+  </line>
+  <line refs="doc#704" num="542" label="_">
+    <left>burn was considered impassable to salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> although under certain flow conditions</right>
+  </line>
+  <line refs="doc#704" num="543" label="_">
+    <left>although under certain flow conditions</left>
+    <kwic> sea_trout</kwic>
+    <right> may ascend at the left bank side. the 2010 survey</right>
+  </line>
+  <line refs="doc#704" num="544" label="_">
+    <left>there may be some access above the structure by</left>
+    <kwic> sea_trout</kwic>
+    <right>. however, the habitat was excellent with good</right>
+  </line>
+  <line refs="doc#731" num="545" label="_">
+    <left>&quot;, insjööring &quot;lake_trout&quot; and havsöring &quot;</left>
+    <kwic>sea_trout</kwic>
+    <right>&quot;), so in north american descriptions of o.</right>
+  </line>
+  <line refs="doc#734" num="546" label="_">
+    <left>salmon (salmo &lt;/p&gt; &lt;p&gt; [...] &lt;/p&gt; &lt;p&gt; salar),</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo &lt;/p&gt; &lt;p&gt; [...] trutta) and rainbow trout</right>
+  </line>
+  <line refs="doc#749" num="547" label="_">
+    <left>associated with the seaward migration of</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta l.) and atlantic salmon (</right>
+  </line>
+  <line refs="doc#788" num="548" label="_">
+    <left>between brown_trout, salmo_trutta, and</left>
+    <kwic> sea_trout</kwic>
+    <right>, salmo_trutta, from prey remains, and so these</right>
+  </line>
+  <line refs="doc#793" num="549" label="_">
+    <left>, campbell, r.n. &amp; lucas, m.c. (2016) salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> spawning migration in the river tweed:</right>
+  </line>
+  <line refs="doc#793" num="550" label="_">
+    <left>efficiency of a nature-like bypass channel for</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta) ascending a small danish</right>
+  </line>
+  <line refs="doc#810" num="551" label="_">
+    <left>smolts in spring time and go to sea to become</left>
+    <kwic> sea_trout</kwic>
+    <right>. (picture – salmon smolt) adult salmon and</right>
+  </line>
+  <line refs="doc#810" num="552" label="_">
+    <left>. (picture – salmon smolt) adult salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> typically return from the sea after 1 or 2</right>
+  </line>
+  <line refs="doc#810" num="553" label="_">
+    <left>from the sea after 1 or 2 winters, although some</left>
+    <kwic> sea_trout</kwic>
+    <right> may return after the first summer (&quot;blacktails</right>
+  </line>
+  <line refs="doc#810" num="554" label="_">
+    <left>. (picture – adult salmon (top), adult</left>
+    <kwic> sea_trout</kwic>
+    <right> (bottom)) other fish species the presence/</right>
+  </line>
+  <line refs="doc#810" num="555" label="_">
+    <left>fish. the composition of brown_trout and</left>
+    <kwic> sea_trout</kwic>
+    <right> copyright the tweed foundation 2014; not to be</right>
+  </line>
+  <line refs="doc#810" num="556" label="_">
+    <left>spatial patterns. adult trout, particularly</left>
+    <kwic> sea_trout</kwic>
+    <right>, are known to be more agile than salmon, so this</right>
+  </line>
+  <line refs="doc#813" num="557" label="_">
+    <left>thought to exist. notes: the migratory form,</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta trutta, has not definitely been</right>
+  </line>
+  <line refs="doc#816" num="558" label="_">
+    <left>tenbury) chub dace gudgeon barbel roach brown /</left>
+    <kwic> sea_trout</kwic>
+    <right> atlantic salmon grayling european eels &gt;</right>
+  </line>
+  <line refs="doc#816" num="559" label="_">
+    <left>tenbury) chub dace gudgeon barbel roach brown /</left>
+    <kwic> sea_trout</kwic>
+    <right> atlantic salmon grayling european eels &gt;</right>
+  </line>
+  <line refs="doc#817" num="560" label="_">
+    <left>salmo_salar linnaeus 1758 brown_trout/</left>
+    <kwic>sea_trout</kwic>
+    <right> salmo_trutta linnaeus 1758 rainbow trout</right>
+  </line>
+  <line refs="doc#817" num="561" label="_">
+    <left>shad x atlantic salmon x x brown_trout/</left>
+    <kwic>sea_trout</kwic>
+    <right> x x arctic char x pollan x smelt x european eel x x</right>
+  </line>
+  <line refs="doc#817" num="562" label="_">
+    <left>such forms as 'gilaroo', 'ferox', 'croneen',</left>
+    <kwic> sea_trout</kwic>
+    <right> and others. similar application of genetic</right>
+  </line>
+  <line refs="doc#817" num="563" label="_">
+    <left>linnaeus, 1758 common name: brown_trout;</left>
+    <kwic> sea_trout</kwic>
+    <right>; trout irish name: breac irish status: least</right>
+  </line>
+  <line refs="doc#817" num="564" label="_">
+    <left>are serious concerns about the declines in</left>
+    <kwic> sea_trout</kwic>
+    <right> stocks, particularly in the mid-west.</right>
+  </line>
+  <line refs="doc#817" num="565" label="_">
+    <left>of estuaries (slob trout) and anadromous (</left>
+    <kwic>sea_trout</kwic>
+    <right>) populations occur in many river systems all</right>
+  </line>
+  <line refs="doc#817" num="566" label="_">
+    <left>a single species. the anadromous form of trout,</left>
+    <kwic> sea_trout</kwic>
+    <right>, spends up to four years in freshwater before</right>
+  </line>
+  <line refs="doc#817" num="567" label="_">
+    <left>, large adult brown_trout. the migratory form,</left>
+    <kwic> sea_trout</kwic>
+    <right>, has been impacted by water quality issues</right>
+  </line>
+  <line refs="doc#817" num="568" label="_">
+    <left>devastated the marine survival of the local</left>
+    <kwic> sea_trout</kwic>
+    <right> stocks. a bye-law prohibiting the retention of</right>
+  </line>
+  <line refs="doc#817" num="569" label="_">
+    <left>prohibiting the retention of rod caught</left>
+    <kwic> sea_trout</kwic>
+    <right> from galway bay to achill head is in place to</right>
+  </line>
+  <line refs="doc#817" num="570" label="_">
+    <left>forde, g. (2006). a review of the status of irish</left>
+    <kwic> sea_trout</kwic>
+    <right> stocks. in: sea_trout: biology, conservation</right>
+  </line>
+  <line refs="doc#817" num="571" label="_">
+    <left>of the status of irish sea_trout stocks. in:</left>
+    <kwic> sea_trout</kwic>
+    <right>: biology, conservation and management (</right>
+  </line>
+  <line refs="doc#817" num="572" label="_">
+    <left>, eds). proceedings of the first international</left>
+    <kwic> sea_trout</kwic>
+    <right> symposium, july 2004, cardiff, wales, uk.</right>
+  </line>
+  <line refs="doc#817" num="573" label="_">
+    <left>; loughs salmo_trutta linnaeus brown_trout/</left>
+    <kwic>sea_trout</kwic>
+    <right> lc lc roi; ni; loughs salvelinus_alpinus</right>
+  </line>
+  <line refs="doc#884" num="574" label="_">
+    <left>bones from atlantic salmonid, brown_trout/</left>
+    <kwic>sea_trout</kwic>
+    <right> (salmo_trutta/salmo_trutta l.), whitefish,</right>
+  </line>
+  <line refs="doc#884" num="575" label="_">
+    <left>november8. the anadromous brown_trout (</left>
+    <kwic>sea_trout</kwic>
+    <right>) found in northern fennoscandia rivers are</right>
+  </line>
+  <line refs="doc#884" num="576" label="_">
+    <left>brown_trout (salmo_trutta n = 3; anadromous</left>
+    <kwic> sea_trout</kwic>
+    <right> variety salmo_trutta l. n = 3), whitefish (</right>
+  </line>
+  <line refs="doc#904" num="577" label="_">
+    <left>) brook_trout (salvelinus_fontinalis)</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta trutta) &lt;/p&gt; &lt;p&gt; salmon are</right>
+  </line>
+  <line refs="doc#911" num="578" label="_">
+    <left>morpha lacustris) are known as brown_trout.</left>
+    <kwic> sea_trout</kwic>
+    <right> is the anadromous morph which migrates between</right>
+  </line>
+  <line refs="doc#911" num="579" label="_">
+    <left>forage in pelagic and littoral habitats,</left>
+    <kwic> sea_trouts</kwic>
+    <right> mostly close to coast, not very far from estuary</right>
+  </line>
+  <line refs="doc#911" num="580" label="_">
+    <left>spring (5-70 % repetitive spawners in norway).</left>
+    <kwic> sea_trouts</kwic>
+    <right> generally feed in freshwater. eggs are covered</right>
+  </line>
+  <line refs="doc#911" num="581" label="_">
+    <left>part of the diet. after at least 18 month at sea,</left>
+    <kwic> sea_trouts</kwic>
+    <right> start to return to rivers to spawn. the pattern</right>
+  </line>
+  <line refs="doc#911" num="582" label="_">
+    <left>, individual trouts may spawn again as large</left>
+    <kwic> sea_trout</kwic>
+    <right>. the factors triggering the 'choice' to</right>
+  </line>
+  <line refs="doc#911" num="583" label="_">
+    <left>. however, anadromous part of populations (</left>
+    <kwic>sea_trout</kwic>
+    <right>) and many lacustrine stocks have in many cases</right>
+  </line>
+  <line refs="doc#918" num="584" label="_">
+    <left>salmon (s. salar – both freshwater and marine),</left>
+    <kwic> sea_trout</kwic>
+    <right> (s. trutta trutta), brown_trout (s. trutta</right>
+  </line>
+  <line refs="doc#918" num="585" label="_">
+    <left>2001; loch arkaig, scotland, uk, march 2001. 2.</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta trutta l.) – kursiu marios,</right>
+  </line>
+  <line refs="doc#918" num="586" label="_">
+    <left>cage culture and wild populations (fig. 1a,b),</left>
+    <kwic> sea_trout</kwic>
+    <right> (s. trutta trutta) (fig. 1c), brown_trout (s.</right>
+  </line>
+  <line refs="doc#918" num="587" label="_">
+    <left>) metazoan parasite community structure of</left>
+    <kwic> sea_trout</kwic>
+    <right> on the west coast of ireland. journal of fish</right>
+  </line>
+  <line refs="doc#918" num="588" label="_">
+    <left>., dillane, m.g. &amp; whelan, k.f. (2002) the irish</left>
+    <kwic> sea_trout</kwic>
+    <right> enhancement programme: an assessment of the</right>
+  </line>
+  <line refs="doc#918" num="589" label="_">
+    <left>, r. (1993) helminth parasites of brown and</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta l. from the west coast of ireland.</right>
+  </line>
+  <line refs="doc#926" num="590" label="_">
+    <left>to varying degrees, including brown_trout (</left>
+    <kwic>sea_trout</kwic>
+    <right>: salmo_trutta), arctic char (</right>
+  </line>
+  <line refs="doc#926" num="591" label="_">
+    <left>salmon migrating to sea are highly vulnerable.</left>
+    <kwic> sea_trout</kwic>
+    <right> populations in recent years may have seriously</right>
+  </line>
+  <line refs="doc#928" num="592" label="_">
+    <left>collected more than three years ago. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> and brown_trout are the same species (</right>
+  </line>
+  <line refs="doc#928" num="593" label="_">
+    <left>called an 'anadromous' lifestyle. &lt;/p&gt; &lt;p&gt; the</left>
+    <kwic> sea_trout</kwic>
+    <right> lifecycle diagram is available as a pdf to</right>
+  </line>
+  <line refs="doc#928" num="594" label="_">
+    <left>trout access to a much richer source of food, so</left>
+    <kwic> sea_trout</kwic>
+    <right> will often be substantially bigger than the</right>
+  </line>
+  <line refs="doc#928" num="595" label="_">
+    <left>is known to produce the largest averaged size of</left>
+    <kwic> sea_trout</kwic>
+    <right> of any river in england and wales (based on ea</right>
+  </line>
+  <line refs="doc#928" num="596" label="_">
+    <left>based on ea angler catch return data). &lt;/p&gt; &lt;p&gt; a</left>
+    <kwic> sea_trout</kwic>
+    <right> in the river cothi. photo by david miller. &lt;/p&gt;</right>
+  </line>
+  <line refs="doc#928" num="597" label="_">
+    <left>miller. &lt;/p&gt; &lt;p&gt; in many rivers, the majority of</left>
+    <kwic> sea_trout</kwic>
+    <right> are female, and their larger size means that</right>
+  </line>
+  <line refs="doc#928" num="598" label="_">
+    <left>size can also vary but in general larger, older</left>
+    <kwic> sea_trout</kwic>
+    <right> will produce more and larger eggs, and hence</right>
+  </line>
+  <line refs="doc#928" num="599" label="_">
+    <left>– and not take home to eat! &lt;/p&gt; &lt;p&gt; large male</left>
+    <kwic> sea_trout</kwic>
+    <right> will develop a prominent 'kype' or hooked lower</right>
+  </line>
+  <line refs="doc#928" num="600" label="_">
+    <left>jaw as they prepare for spawning. &lt;/p&gt; &lt;p&gt; a male</left>
+    <kwic> sea_trout</kwic>
+    <right> showing a large kype. photo by nick zoll. &lt;/p&gt;</right>
+  </line>
+  <line refs="doc#928" num="601" label="_">
+    <left>a large kype. photo by nick zoll. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> will return to their natal river to spawn, and</right>
+  </line>
+  <line refs="doc#928" num="602" label="_">
+    <left>to the river after only a few months at sea. small</left>
+    <kwic> sea_trout</kwic>
+    <right> are variously called finnock, peal, herling</right>
+  </line>
+  <line refs="doc#928" num="603" label="_">
+    <left>whitling is a term generally used for small</left>
+    <kwic> sea_trout</kwic>
+    <right> in estuaries). &lt;/p&gt; &lt;p&gt; sea_trout can enter the</right>
+  </line>
+  <line refs="doc#928" num="604" label="_">
+    <left>for small sea_trout in estuaries). &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> can enter the river at any time from april</right>
+  </line>
+  <line refs="doc#928" num="605" label="_">
+    <left>tend to move at night. often the only clue that</left>
+    <kwic> sea_trout</kwic>
+    <right> are in the river at all is a large 'splosh' as they</right>
+  </line>
+  <line refs="doc#928" num="606" label="_">
+    <left>' as they jump. &lt;/p&gt; &lt;p&gt; unlike most salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right> do not usually die after spawning. around 75% of</right>
+  </line>
+  <line refs="doc#928" num="607" label="_">
+    <left>do not usually die after spawning. around 75% of</left>
+    <kwic> sea_trout</kwic>
+    <right> will return to the sea to feed and then come back</right>
+  </line>
+  <line refs="doc#928" num="608" label="_">
+    <left>back again to the river to spawn. like salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right> do not generally feed in fresh water, even</right>
+  </line>
+  <line refs="doc#928" num="609" label="_">
+    <left>spawning. when they first enter the river,</left>
+    <kwic> sea_trout</kwic>
+    <right> are very silver in colour. once in the river for a</right>
+  </line>
+  <line refs="doc#928" num="610" label="_">
+    <left>on the rich food in the sea. &lt;/p&gt; &lt;p&gt; salmon or</left>
+    <kwic> sea_trout</kwic>
+    <right>? &lt;/p&gt; &lt;p&gt; there are some subtle differences</right>
+  </line>
+  <line refs="doc#928" num="611" label="_">
+    <left>between the appearances salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right>. the 'fish cam' video below illustrates them</right>
+  </line>
+  <line refs="doc#928" num="612" label="_">
+    <left>perfectly: &lt;/p&gt; &lt;p&gt; click here for a guide to</left>
+    <kwic> sea_trout</kwic>
+    <right> recognition, produced by the atlantic salmon</right>
+  </line>
+  <line refs="doc#928" num="613" label="_">
+    <left>produced by the atlantic salmon trust. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> and salmon can suffer considerable stress pre-</right>
+  </line>
+  <line refs="doc#928" num="614" label="_">
+    <left>post- spawning, so it not unusual to see</left>
+    <kwic> sea_trout</kwic>
+    <right> with white or reddish fungal growths in the</right>
+  </line>
+  <line refs="doc#928" num="615" label="_">
+    <left>to sea and recover to spawn again. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> suffering from a bad fungus infection during</right>
+  </line>
+  <line refs="doc#929" num="616" label="_">
+    <left>known by this label, see weakfish. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> is the common name usually applied to</right>
+  </line>
+  <line refs="doc#929" num="617" label="_">
+    <left>) and salmon_trout (culinary).[2] the term</left>
+    <kwic> sea_trout</kwic>
+    <right> is also used to describe other anadromous</right>
+  </line>
+  <line refs="doc#929" num="618" label="_">
+    <left>species are also commonly known as</left>
+    <kwic> sea_trout</kwic>
+    <right>–northern pikeminnow (ptychocheilus</right>
+  </line>
+  <line refs="doc#929" num="619" label="_">
+    <left>).[3] &lt;/p&gt; &lt;p&gt; as treated here, the anadromous</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta morpha trutta is not</right>
+  </line>
+  <line refs="doc#929" num="620" label="_">
+    <left>[7] early angling literature often referred to</left>
+    <kwic> sea_trout</kwic>
+    <right> as white trout or bull trout.[8] &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#929" num="621" label="_">
+    <left>brown_trout in preparation for spawning.</left>
+    <kwic> sea_trout</kwic>
+    <right> kelts (post spawn) return to their silvery</right>
+  </line>
+  <line refs="doc#929" num="622" label="_">
+    <left>. the belly is white. like all trout species the</left>
+    <kwic> sea_trout</kwic>
+    <right> has an adipose fin. &lt;/p&gt; &lt;p&gt; sea_trout feed</right>
+  </line>
+  <line refs="doc#929" num="623" label="_">
+    <left>the sea_trout has an adipose fin. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> feed mainly on fish, small crabs, shrimps and</right>
+  </line>
+  <line refs="doc#929" num="624" label="_">
+    <left>colouring. &lt;/p&gt; &lt;p&gt; the surviving young of</left>
+    <kwic> sea_trout</kwic>
+    <right> will generally migrate back to the sea, to feed</right>
+  </line>
+  <line refs="doc#929" num="625" label="_">
+    <left>. &lt;/p&gt; &lt;p&gt; in many rivers of central europe, the</left>
+    <kwic> sea_trout</kwic>
+    <right> have been extirpated because hydropower</right>
+  </line>
+  <line refs="doc#929" num="626" label="_">
+    <left>backflooding of rivers. in more recent times,</left>
+    <kwic> sea_trout</kwic>
+    <right> have succeeded in re-establishing themselves</right>
+  </line>
+  <line refs="doc#929" num="627" label="_">
+    <left>enabled again, albeit in a limited way. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> are popular with anglers and as food. the close</right>
+  </line>
+  <line refs="doc#929" num="628" label="_">
+    <left>on river authority regulations. like salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right> are protected by law in the rhine river system</right>
+  </line>
+  <line refs="doc#929" num="629" label="_">
+    <left>in the coastal waters of schleswig-holstein,</left>
+    <kwic> sea_trout</kwic>
+    <right> is protected from 1 october to 31 december. this</right>
+  </line>
+  <line refs="doc#929" num="630" label="_">
+    <left>, there is a general prohibition on fishing for</left>
+    <kwic> sea_trout</kwic>
+    <right> from 15 september to 14 december. this applies</right>
+  </line>
+  <line refs="doc#929" num="631" label="_">
+    <left>term absteiger is used by anglers to describe a</left>
+    <kwic> sea_trout</kwic>
+    <right> after spawning. the removal of absteigers is a</right>
+  </line>
+  <line refs="doc#929" num="632" label="_">
+    <left>among anglers. most anglers refuse to take</left>
+    <kwic> sea_trout</kwic>
+    <right> that have spawned because their meat is</right>
+  </line>
+  <line refs="doc#929" num="633" label="_">
+    <left>runs of migratory trout, otherwise known as</left>
+    <kwic> sea_trout</kwic>
+    <right> or, locally, sewin . sewin generally refers to</right>
+  </line>
+  <line refs="doc#929" num="634" label="_">
+    <left>, sewin . sewin generally refers to smaller</left>
+    <kwic> sea_trout</kwic>
+    <right> up to around 30 – 40 cm in length. fishing (</right>
+  </line>
+  <line refs="doc#929" num="635" label="_">
+    <left>30 – 40 cm in length. fishing (angling) for</left>
+    <kwic> sea_trout</kwic>
+    <right> is usually carried out at night using fly</right>
+  </line>
+  <line refs="doc#929" num="636" label="_">
+    <left>, but only when the rivers are running clear.</left>
+    <kwic> sea_trout</kwic>
+    <right> are very easily &quot;spooked&quot; by bankside</right>
+  </line>
+  <line refs="doc#929" num="637" label="_">
+    <left>following heavy rain, it is possible to catch</left>
+    <kwic> sea_trout</kwic>
+    <right> during the day with artificial lures or</right>
+  </line>
+  <line refs="doc#929" num="638" label="_">
+    <left>lures or spinners. the fishing season for</left>
+    <kwic> sea_trout</kwic>
+    <right> in the clwyd catchment is from march 20 to</right>
+  </line>
+  <line refs="doc#929" num="639" label="_">
+    <left>fishermen would agree that night fishing for</left>
+    <kwic> sea_trout</kwic>
+    <right> can be one of the most exciting forms of the sport</right>
+  </line>
+  <line refs="doc#929" num="640" label="_">
+    <left>&quot;. biology and ecology of the brown and</left>
+    <kwic> sea_trout</kwic>
+    <right>. chichester, uk: praxis publishing. pp. 1–14.</right>
+  </line>
+  <line refs="doc#930" num="641" label="_">
+    <left>again as distinctly as in the salmon; fresh-run</left>
+    <kwic> sea_trout</kwic>
+    <right> are blue or green and silver with small,</right>
+  </line>
+  <line refs="doc#930" num="642" label="_">
+    <left>to distinguish with certainty between salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right> and brown_trout (it reveals differences in age</right>
+  </line>
+  <line refs="doc#930" num="643" label="_">
+    <left>; migratory form of brown_trout1; juvenile</left>
+    <kwic> sea_trout</kwic>
+    <right> are indistinguishable from juvenile</right>
+  </line>
+  <line refs="doc#930" num="644" label="_">
+    <left>from juvenile brown_trout, but juvenile</left>
+    <kwic> sea_trout</kwic>
+    <right> migrate to sea as silvered smolts between april</right>
+  </line>
+  <line refs="doc#930" num="645" label="_">
+    <left>one year or more later (known as maidens); adult</left>
+    <kwic> sea_trout</kwic>
+    <right> return to sea after a winter in freshwater; they</right>
+  </line>
+  <line refs="doc#930" num="646" label="_">
+    <left>variation in the recorded life history of</left>
+    <kwic> sea_trout</kwic>
+    <right> 10; &lt;/p&gt; &lt;p&gt; european distribution &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#930" num="647" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; irish legislation status &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> &gt; 40 cm forklength are classified as salmon in</right>
+  </line>
+  <line refs="doc#930" num="648" label="_">
+    <left>; approximately one third of irish salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> fisheries are open for harvest, with the</right>
+  </line>
+  <line refs="doc#930" num="649" label="_">
+    <left>angling or closed to angling; fisheries for</left>
+    <kwic> sea_trout</kwic>
+    <right> &lt; 40 cm are open in many areas - more information</right>
+  </line>
+  <line refs="doc#932" num="650" label="_">
+    <left>areas 1.3 results a total of 27 fish species (</left>
+    <kwic>sea_trout</kwic>
+    <right> are included as a separate 'variety' of trout)</right>
+  </line>
+  <line refs="doc#932" num="651" label="_">
+    <left>ross, co. wexford. a total of nine fish species (</left>
+    <kwic>sea_trout</kwic>
+    <right> are included as a separate 'variety' of trout)</right>
+  </line>
+  <line refs="doc#932" num="652" label="_">
+    <left>to new ross. a total of 10 fish species (</left>
+    <kwic>sea_trout</kwic>
+    <right> are included as a separate 'variety' of trout)</right>
+  </line>
+  <line refs="doc#932" num="653" label="_">
+    <left>of waterford city. a total of 12 fish species (</left>
+    <kwic>sea_trout</kwic>
+    <right> are included as a separate 'variety' of trout)</right>
+  </line>
+  <line refs="doc#932" num="654" label="_">
+    <left>brown_trout - - - - 1 - salmo_trutta</left>
+    <kwic> sea_trout</kwic>
+    <right> - - - - - - scardinius erythrophthalmus rudd - - - -</right>
+  </line>
+  <line refs="doc#932" num="655" label="_">
+    <left>brown_trout - 6 - - 2 - salmo_trutta</left>
+    <kwic> sea_trout</kwic>
+    <right> - - 1 - - - scardinius erythrophthalmus rudd 2 1 - -</right>
+  </line>
+  <line refs="doc#932" num="656" label="_">
+    <left>brown_trout - 10 - 4 - - salmo_trutta</left>
+    <kwic> sea_trout</kwic>
+    <right> - - - - 1 - scardinius erythrophthalmus rudd - - - -</right>
+  </line>
+  <line refs="doc#932" num="657" label="_">
+    <left>brown_trout 1 - - - - - salmo_trutta</left>
+    <kwic> sea_trout</kwic>
+    <right> - 3 - - - - scardinius erythrophthalmus rudd - - - -</right>
+  </line>
+  <line refs="doc#933" num="658" label="_">
+    <left>brama, asp aspius aspius (mileriene, 1992) and</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta (repecka, 2003) have been</right>
+  </line>
+  <line refs="doc#933" num="659" label="_">
+    <left>national tagging experiments of vimba and</left>
+    <kwic> sea_trout</kwic>
+    <right> are taking place in the nemunas river basin and</right>
+  </line>
+  <line refs="doc#933" num="660" label="_">
+    <left>in biological indices and abundance of salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right>, smelt, vimba and twaite shad in the coastal</right>
+  </line>
+  <line refs="doc#933" num="661" label="_">
+    <left>q1-q4 pikeperch, perch, european whitefish,</left>
+    <kwic> sea_trout</kwic>
+    <right> ibssp, eu data collection catch composition no</right>
+  </line>
+  <line refs="doc#950" num="662" label="_">
+    <left>likely to be derived from the migratory form,</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta trutta). ï· the principal</right>
+  </line>
+  <line refs="doc#950" num="663" label="_">
+    <left>for atlantic salmon (salmo_salar) and</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta trutta) that is of importance to</right>
+  </line>
+  <line refs="doc#950" num="664" label="_">
+    <left>eel was relatively wide. unlike salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> this migratory species utilises freshwaters</right>
+  </line>
+  <line refs="doc#950" num="665" label="_">
+    <left>, the progeny of sea-run adults. unlike salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right> post-smolts tend to remain relatively close in</right>
+  </line>
+  <line refs="doc#950" num="666" label="_">
+    <left>that the current local marine survival of</left>
+    <kwic> sea_trout</kwic>
+    <right> in the south argyll region is sufficient to</right>
+  </line>
+  <line refs="doc#950" num="667" label="_">
+    <left>wider marine survival of post-smolt salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> associated with climate change are less well</right>
+  </line>
+  <line refs="doc#950" num="668" label="_">
+    <left>are now being collected on sea lice burdens of</left>
+    <kwic> sea_trout</kwic>
+    <right> as part of the area management agreement</right>
+  </line>
+  <line refs="doc#950" num="669" label="_">
+    <left>reduction of sea lice burdens of post-smolt</left>
+    <kwic> sea_trout</kwic>
+    <right> in loch riddon following recent</right>
+  </line>
+  <line refs="doc#950" num="670" label="_">
+    <left>salmon, brown_trout and the migratory form,</left>
+    <kwic> sea_trout</kwic>
+    <right>, which also have potential to support</right>
+  </line>
+  <line refs="doc#950" num="671" label="_">
+    <left>some potential for sustainable fisheries for</left>
+    <kwic> sea_trout</kwic>
+    <right> at this time. however, it is understood that</right>
+  </line>
+  <line refs="doc#950" num="672" label="_">
+    <left>at this time. however, it is understood that</left>
+    <kwic> sea_trout</kwic>
+    <right> numbers have only recently begun to stabilise</right>
+  </line>
+  <line refs="doc#950" num="673" label="_">
+    <left>; reported catches of atlantic salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> (1952 to 2001). argyll fisheries trust,</right>
+  </line>
+  <line refs="doc#950" num="674" label="_">
+    <left>working group (2009). summary of loch riddon</left>
+    <kwic> sea_trout</kwic>
+    <right> sampling. draft report of the regional</right>
+  </line>
+  <line refs="doc#950" num="675" label="_">
+    <left>restoration guidance for west coast salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> fisheries. tripartite working group. 31p. 86</right>
+  </line>
+  <line refs="doc#961" num="676" label="_">
+    <left>, cutties, cutts, harvest trout,</left>
+    <kwic> sea_trout</kwic>
+    <right>. &lt;/p&gt; &lt;p&gt; size: &lt;/p&gt; &lt;p&gt; resident fish: &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#970" num="677" label="_">
+    <left>oxygen concentration and emergence of</left>
+    <kwic> sea_trout</kwic>
+    <right> fry from natural redds in tributaries of the</right>
+  </line>
+  <line refs="doc#970" num="678" label="_">
+    <left>rubin, j.f. (1998). survival and emergence of</left>
+    <kwic> sea_trout</kwic>
+    <right> fry in substrata of different compositions. j.</right>
+  </line>
+  <line refs="doc#985" num="679" label="_">
+    <left>journey to and from the ocean is unprecedented.</left>
+    <kwic> sea_trout</kwic>
+    <right> too face a range of challenges and in some areas</right>
+  </line>
+  <line refs="doc#985" num="680" label="_">
+    <left>too face a range of challenges and in some areas</left>
+    <kwic> sea_trout</kwic>
+    <right> numbers have been decimated and individual</right>
+  </line>
+  <line refs="doc#985" num="681" label="_">
+    <left>working on the biology of both salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts to present their latest findings and to</right>
+  </line>
+  <line refs="doc#985" num="682" label="_">
+    <left>, from the headwaters of our salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> rivers to the headlands of the estuaries they</right>
+  </line>
+  <line refs="doc#985" num="683" label="_">
+    <left>influence on the overall survival of salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts can be profound. the nasco salsea</right>
+  </line>
+  <line refs="doc#985" num="684" label="_">
+    <left>important phase in the lives of salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right>. sarah bayley slater ceo, atlantic salmon</right>
+  </line>
+  <line refs="doc#985" num="685" label="_">
+    <left>to headlands&quot; a key objective of salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> fisheries management should be to maximise the</right>
+  </line>
+  <line refs="doc#985" num="686" label="_">
+    <left>state of scientific knowledge about salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts and considering the implications of</right>
+  </line>
+  <line refs="doc#985" num="687" label="_">
+    <left>is a critical life stage for atlantic salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right>. it is fraught with many perils along the way,</right>
+  </line>
+  <line refs="doc#985" num="688" label="_">
+    <left>management and conservation of both salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right>. the benefits of migrating to exploit a new</right>
+  </line>
+  <line refs="doc#985" num="689" label="_">
+    <left>and data on this critical topic in relation to</left>
+    <kwic> sea_trout</kwic>
+    <right> was presented by andy king (university of</right>
+  </line>
+  <line refs="doc#985" num="690" label="_">
+    <left>to headlands population structure and</left>
+    <kwic> sea_trout</kwic>
+    <right> migration in scandinavia sigurd stefansson</right>
+  </line>
+  <line refs="doc#985" num="691" label="_">
+    <left>and habitat-based stock assessment of</left>
+    <kwic> sea_trout</kwic>
+    <right> stocks in the baltic, which addressed a number</right>
+  </line>
+  <line refs="doc#985" num="692" label="_">
+    <left>by the conference. population structure of</left>
+    <kwic> sea_trout</kwic>
+    <right> along the swedish coast had been assessed using</right>
+  </line>
+  <line refs="doc#985" num="693" label="_">
+    <left>, suggesting a degree of straying among the</left>
+    <kwic> sea_trout</kwic>
+    <right> populations in a particular fjord. tracking</right>
+  </line>
+  <line refs="doc#985" num="694" label="_">
+    <left>the habitat-based stock assessment of</left>
+    <kwic> sea_trout</kwic>
+    <right> stocks that was being developed in sweden. if</right>
+  </line>
+  <line refs="doc#985" num="695" label="_">
+    <left>the initial marine migration of salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> on the west coast of scotland. the studies in</right>
+  </line>
+  <line refs="doc#985" num="696" label="_">
+    <left>- smolt tracking ● inner loch linnhe - salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> smolt tracking ● smolt movement around the isle</right>
+  </line>
+  <line refs="doc#985" num="697" label="_">
+    <left>was observed. inner loch linnhe salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> smolt tracking few studies have directly</right>
+  </line>
+  <line refs="doc#985" num="698" label="_">
+    <left>the movements and behaviour of salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts as they emigrate from rivers during the</right>
+  </line>
+  <line refs="doc#985" num="699" label="_">
+    <left>first comparative information on salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts behaviour from the same loch in scotland</right>
+  </line>
+  <line refs="doc#985" num="700" label="_">
+    <left>left the rivers. once in the sea, the majority of</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts stayed in the local area, while salmon</right>
+  </line>
+  <line refs="doc#985" num="701" label="_">
+    <left>to assess the survival of migrating salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts in danish rivers, impoundments, lakes</right>
+  </line>
+  <line refs="doc#985" num="702" label="_">
+    <left>factor regulating overall salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> abundance in danish rivers. in one example</right>
+  </line>
+  <line refs="doc#985" num="703" label="_">
+    <left>are to maximise the output of healthy salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts from our rivers, it is clear that we need</right>
+  </line>
+  <line refs="doc#985" num="704" label="_">
+    <left>brps not alone for salmon smolts but also for</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts. the description and understanding of</right>
+  </line>
+  <line refs="doc#985" num="705" label="_">
+    <left>–based, smolt production models for salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right>. barriers to migration ø man-made barriers to</right>
+  </line>
+  <line refs="doc#985" num="706" label="_">
+    <left>on migrating smolts, particularly on smaller</left>
+    <kwic> sea_trout</kwic>
+    <right> streams. further work on the impact of barriers</right>
+  </line>
+  <line refs="doc#985" num="707" label="_">
+    <left>andy king, university of exeter the sex ratio of</left>
+    <kwic> sea_trout</kwic>
+    <right> smolts: preliminary results from the rivers</right>
+  </line>
+  <line refs="doc#985" num="708" label="_">
+    <left>structure and migratory patterns of</left>
+    <kwic> sea_trout</kwic>
+    <right> in scandinavia angus lothian, university of</right>
+  </line>
+  <line refs="doc#985" num="709" label="_">
+    <left>, k., &amp; koed, a. (2003). survival of migrating</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta) and atlantic salmon (</right>
+  </line>
+  <line refs="doc#985" num="710" label="_">
+    <left>. d.j. and cross, t.f. (1990). burrishoole</left>
+    <kwic> sea_trout</kwic>
+    <right> - a \ twenty year study., proceedings of the</right>
+  </line>
+  <line refs="doc#985" num="711" label="_">
+    <left>to the conservation of wild atlantic salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right>. the trust facilitates research, partners</right>
+  </line>
+  <line refs="doc#988" num="712" label="_">
+    <left>to: &quot;conserve and improve wild stocks of trout,</left>
+    <kwic> sea_trout</kwic>
+    <right>, char and grayling, while enhancing the</right>
+  </line>
+  <line refs="doc#988" num="713" label="_">
+    <left>of brown_trout but very little opportunity for</left>
+    <kwic> sea_trout</kwic>
+    <right> or salmon to migrate into the head waters due to</right>
+  </line>
+  <line refs="doc#989" num="714" label="_">
+    <left>. &lt;/p&gt; &lt;p&gt; that's all fine, but would we miss the</left>
+    <kwic> sea_trout</kwic>
+    <right> for example? should management focus on</right>
+  </line>
+  <line refs="doc#989" num="715" label="_">
+    <left>as a single species and forget about the</left>
+    <kwic> sea_trout</kwic>
+    <right>? &lt;/p&gt; &lt;p&gt; the conservation status of river</right>
+  </line>
+  <line refs="doc#989" num="716" label="_">
+    <left>'s all fine, and may be so, but would we miss the</left>
+    <kwic> sea_trout</kwic>
+    <right> for example? should management focus on</right>
+  </line>
+  <line refs="doc#989" num="717" label="_">
+    <left>as a single species and forget about the</left>
+    <kwic> sea_trout</kwic>
+    <right>? at the moment l. planeri and l. fluviatilis are</right>
+  </line>
+  <line refs="doc#989" num="718" label="_">
+    <left>different varieties of brown_trout (i.e.</left>
+    <kwic> sea_trout</kwic>
+    <right>, brown_trout, croneen, ferox, gillaroo,</right>
+  </line>
+  <line refs="doc#989" num="719" label="_">
+    <left>, as has happened in ireland. you can't manage</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta and brown_trout, also</right>
+  </line>
+  <line refs="doc#989" num="720" label="_">
+    <left>different varieties of brown_trout (i.e.</left>
+    <kwic> sea_trout</kwic>
+    <right>, brown_trout, croneen, ferox, gillaroo,</right>
+  </line>
+  <line refs="doc#1007" num="721" label="_">
+    <left>of various similar or related fishes, such as a</left>
+    <kwic> sea_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; 3. (animals) austral any of various</right>
+  </line>
+  <line refs="doc#1007" num="722" label="_">
+    <left>from salt to fresh water &lt;/p&gt; &lt;p&gt; salmon_trout,</left>
+    <kwic> sea_trout</kwic>
+    <right> - flesh of marine trout that migrate from salt to</right>
+  </line>
+  <line refs="doc#1008" num="723" label="_">
+    <left>holding them in the current to recover. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; whilst not recognised as a premier</right>
+  </line>
+  <line refs="doc#1008" num="724" label="_">
+    <left>&lt;p&gt; whilst not recognised as a premier welsh</left>
+    <kwic> sea_trout</kwic>
+    <right> water in the mould of the dovey, towy, teifi or</right>
+  </line>
+  <line refs="doc#1008" num="725" label="_">
+    <left>trap at chester weir indicate that number of</left>
+    <kwic> sea_trout</kwic>
+    <right> entering the river are many times the number of</right>
+  </line>
+  <line refs="doc#1008" num="726" label="_">
+    <left>are that where time is spent fishing for</left>
+    <kwic> sea_trout</kwic>
+    <right>, returns can be rewarding. indeed several club</right>
+  </line>
+  <line refs="doc#1008" num="727" label="_">
+    <left>. indeed several club members have taken</left>
+    <kwic> sea_trout</kwic>
+    <right> of up to 3 pounds during the past few seasons.</right>
+  </line>
+  <line refs="doc#1008" num="728" label="_">
+    <left>to 3 pounds during the past few seasons. &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> run the river from late winter through the</right>
+  </line>
+  <line refs="doc#1008" num="729" label="_">
+    <left>august sees large numbers of 3/4 - 1 lb fish. most</left>
+    <kwic> sea_trout</kwic>
+    <right> will have entered the catchment by the</right>
+  </line>
+  <line refs="doc#1008" num="730" label="_">
+    <left>weir. &lt;/p&gt; &lt;p&gt; with a little application, the</left>
+    <kwic> sea_trout</kwic>
+    <right> fishing on the dee should prove very rewarding.</right>
+  </line>
+  <line refs="doc#1008" num="731" label="_">
+    <left>on beat 3 has been known to hold large shoals of</left>
+    <kwic> sea_trout</kwic>
+    <right>. &lt;/p&gt; &lt;p&gt; given the nature of the banks and river</right>
+  </line>
+  <line refs="doc#1008" num="732" label="_">
+    <left>placed mepps. &lt;/p&gt; &lt;p&gt; equipment &lt;/p&gt; &lt;p&gt; for</left>
+    <kwic> sea_trout</kwic>
+    <right>, equipment should be stouter than for trout. a</right>
+  </line>
+  <line refs="doc#1008" num="733" label="_">
+    <left>be in sizes 2 and 3. &lt;/p&gt; &lt;p&gt; a few of the best</left>
+    <kwic> sea_trout</kwic>
+    <right> waters described above, such as joby's and the</right>
+  </line>
+  <line refs="doc#1012" num="734" label="_">
+    <left>here. be aware this is a large file! &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> sea_trout</kwic>
+    <right> (also called sewin or peel) and brown_trout are</right>
+  </line>
+  <line refs="doc#1012" num="735" label="_">
+    <left>are the same species (salmo_trutta) but</left>
+    <kwic> sea_trout</kwic>
+    <right> adults go to sea to feed and return to freshwater</right>
+  </line>
+  <line refs="doc#1012" num="736" label="_">
+    <left>to feed and return to freshwater to spawn. the</left>
+    <kwic> sea_trout</kwic>
+    <right> lifecycle is slightly different – check the</right>
+  </line>
+  <line refs="doc#1012" num="737" label="_">
+    <left>lifecycle is slightly different – check the</left>
+    <kwic> sea_trout</kwic>
+    <right> page for details. &lt;/p&gt; &lt;p&gt; spawning &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#1012" num="738" label="_">
+    <left>it is often easy to see trout. below is a video of</left>
+    <kwic> sea_trout</kwic>
+    <right> on a redd in the dorset frome, courtesy of john</right>
+  </line>
+  <line refs="doc#1012" num="739" label="_">
+    <left>create smaller redds in finer gravel, and big</left>
+    <kwic> sea_trout</kwic>
+    <right> can create redds the size of a kitchen table top</right>
+  </line>
+  <line refs="doc#1012" num="740" label="_">
+    <left>normally be distinguished from young brown/</left>
+    <kwic>sea_trout</kwic>
+    <right> (ii) by the more streamlined shape, deeply</right>
+  </line>
+  <line refs="doc#1016" num="741" label="_">
+    <left>), atlantic salmon (salmo_salar), brown and</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta) &lt;/p&gt; &lt;p&gt; 'whitey','tarpie','</right>
+  </line>
+  <line refs="doc#1017" num="742" label="_">
+    <left>','eurasian minnow','atlantic talmon','</left>
+    <kwic>sea_trout</kwic>
+    <right>','brown_trout','arctic char', 'eel','</right>
+  </line>
+  <line refs="doc#1033" num="743" label="_">
+    <left>, brown_trout, bullhead, common eel, salmon,</left>
+    <kwic> sea_trout</kwic>
+    <right>, stone loach, three-spined stickleback) * = uk</right>
+  </line>
+  <line refs="doc#1033" num="744" label="_">
+    <left>eel anguilla anguilla • salmon salmo_salar •</left>
+    <kwic> sea_trout</kwic>
+    <right> salmo_trutta relevant legislation/species</right>
+  </line>
+  <line refs="doc#1033" num="745" label="_">
+    <left>fish species such as the common eel, salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right>. it is vitally important that river channels,</right>
+  </line>
+  <line refs="doc#1033" num="746" label="_">
+    <left>in migratory fish populations. both salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> are declining nationally. most salmon and</right>
+  </line>
+  <line refs="doc#1033" num="747" label="_">
+    <left>are declining nationally. most salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right> rivers in england and wales are in the northeast</right>
+  </line>
+  <line refs="doc#1033" num="748" label="_">
+    <left>tributary streams of the river rhymney. 2.2.3</left>
+    <kwic> sea_trout</kwic>
+    <right> sea_trout are the migratory form of the</right>
+  </line>
+  <line refs="doc#1033" num="749" label="_">
+    <left>streams of the river rhymney. 2.2.3 sea_trout</left>
+    <kwic> sea_trout</kwic>
+    <right> are the migratory form of the brown_trout (see</right>
+  </line>
+  <line refs="doc#1033" num="750" label="_">
+    <left>mainly genetic, for example, the offspring of</left>
+    <kwic> sea_trout</kwic>
+    <right> will also be migratory, and environmental; the</right>
+  </line>
+  <line refs="doc#1033" num="751" label="_">
+    <left>rhymney rivers now also see moderate numbers of</left>
+    <kwic> sea_trout</kwic>
+    <right> (or 'sewin') within caerphilly county borough</right>
+  </line>
+  <line refs="doc#1043" num="752" label="_">
+    <left>in other baltic sea fish species such as</left>
+    <kwic> sea_trout</kwic>
+    <right> (salmo_trutta; limburg et al., 2001) and pike (</right>
+  </line>
+  <line refs="doc#1043" num="753" label="_">
+    <left>p. (2001). flexible modes of anadromy in baltic</left>
+    <kwic> sea_trout</kwic>
+    <right>: making the most of marginal spawning streams.</right>
+  </line>
+  <line refs="doc#1045" num="754" label="_">
+    <left>by extensive stocking, including french</left>
+    <kwic> sea_trout</kwic>
+    <right> procured from huningue by smee himself before</right>
+  </line>
+  <line refs="doc#1045" num="755" label="_">
+    <left>also prevented recolonisation of the wandle by</left>
+    <kwic> sea_trout</kwic>
+    <right> from the river thames. future work to remove or</right>
+  </line>
+  <line refs="doc#1045" num="756" label="_">
+    <left>(and obstructing fish passage for salmon and</left>
+    <kwic> sea_trout</kwic>
+    <right>) from 1371 (steel and coleman, 2012).</right>
+  </line>
+  <line refs="doc#1069" num="757" label="_">
+    <left>salmo_trutta m. trutta pstruh morský</left>
+    <kwic> sea_trout</kwic>
+    <right> oncorhynchus_mykiss pstruh dúhový rainbow</right>
+  </line>
+</concordance>
+</export>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rerio</keyword>
+  <gramrel name="modifiers of X" hits="23" score="82.140">
+    <coll hits="18" score="13.810" query="w1615409920">Danio</coll>
+    <coll hits="4" score="12.240" query="w1615409921">Brachydanio</coll>
+    <coll hits="1" score="9.870" query="w1615409922">rutilus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="3.570">
+    <coll hits="1" score="11.300" query="w1615442048">Lucius</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="3.570">
+    <coll hits="1" score="9.190" query="w1615453824">challenge</coll>
+  </gramrel>
+</wordsketch>
+</export>

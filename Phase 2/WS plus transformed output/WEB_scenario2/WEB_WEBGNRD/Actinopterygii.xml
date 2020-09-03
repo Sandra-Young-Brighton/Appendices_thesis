@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Actinopterygii</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="10.000">
+    <coll hits="1" score="12.410" query="w1649209474">Achiridae</coll>
+    <coll hits="1" score="12.410" query="w1649209473">Hemiramphidae</coll>
+    <coll hits="1" score="12.190" query="w1649209475">Trichomycteridae</coll>
+    <coll hits="2" score="11.750" query="w1649209472">Cyprinidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="5" score="10.000">
+    <coll hits="1" score="12.410" query="w1649174530">Achiridae</coll>
+    <coll hits="1" score="12.410" query="w1649174529">Hemiramphidae</coll>
+    <coll hits="1" score="12.190" query="w1649174531">Trichomycteridae</coll>
+    <coll hits="2" score="11.910" query="w1649174528">Cyprinidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

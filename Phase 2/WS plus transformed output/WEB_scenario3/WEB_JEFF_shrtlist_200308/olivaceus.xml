@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">olivaceus</keyword>
+  <gramrel name="modifiers of X" hits="23" score="79.310">
+    <coll hits="22" score="13.620">Paralichthys</coll>
+    <coll hits="1" score="10.410">heteroclitus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="3.450">
+    <coll hits="1" score="6.530">coast</coll>
+  </gramrel>
+</wordsketch>
+</export>

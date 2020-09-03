@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">ohione</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="50.000">
+    <coll hits="1" score="12.190" query="w1972214595">Rome</coll>
+    <coll hits="1" score="10.820" query="w1972214594">Mississippi</coll>
+    <coll hits="1" score="4.370" query="w1972214593">system</coll>
+    <coll hits="1" score="3.750" query="w1972214592">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

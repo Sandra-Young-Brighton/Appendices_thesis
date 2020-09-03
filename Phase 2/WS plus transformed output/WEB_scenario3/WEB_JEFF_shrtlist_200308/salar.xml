@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">salar</keyword>
+  <gramrel name="modifiers of X" hits="755" score="60.400">
+    <coll hits="750" score="13.290">Salmo</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="20" score="1.600">
+    <coll hits="2" score="11.090">Linneaus</coll>
+    <coll hits="7" score="10.680">Linnaeus</coll>
+    <coll hits="9" score="8.590">trutta</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="22" score="1.760">
+    <coll hits="16" score="12.890">trutta</coll>
+    <coll hits="3" score="11.720">Lucius</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="29" score="2.320">
+    <coll hits="3" score="11.450">Damselfly</coll>
+    <coll hits="2" score="9.790">clone</coll>
+    <coll hits="2" score="7.290">effort</coll>
+    <coll hits="5" score="5.860">river</coll>
+    <coll hits="2" score="4.800">stream</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="5" score="0.400">
+    <coll hits="3" score="11.770">Salmonidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Iris</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="8.330">
+    <coll hits="1" score="13.990" query="w1920039488">pseudacorus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="8.330">
+    <coll hits="1" score="6.240" query="w1920048448">month</coll>
+  </gramrel>
+</wordsketch>
+</export>

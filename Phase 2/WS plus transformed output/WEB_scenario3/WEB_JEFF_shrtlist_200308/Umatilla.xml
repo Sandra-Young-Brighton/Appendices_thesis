@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Umatilla</keyword>
+  <gramrel name="modifiers of X" hits="4" score="40.000">
+    <coll hits="3" score="11.300">Rhinichthys</coll>
+    <coll hits="1" score="9.140">Acipenser</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="10.000">
+    <coll hits="1" score="9.320">vitreus</coll>
+  </gramrel>
+</wordsketch>
+</export>

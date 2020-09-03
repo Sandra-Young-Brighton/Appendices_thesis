@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">poecilopus</keyword>
+  <gramrel name="modifiers of X" hits="24" score="70.590">
+    <coll hits="24" score="11.200">Cottus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="8.820">
+    <coll hits="1" score="8.980">otter</coll>
+    <coll hits="2" score="5.370">system</coll>
+  </gramrel>
+</wordsketch>
+</export>

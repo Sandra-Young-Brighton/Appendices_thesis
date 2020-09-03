@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Phragmites</keyword>
+  <gramrel name="modifiers of X" hits="2" score="7.410">
+    <coll hits="1" score="13.000">Equisetum</coll>
+    <coll hits="1" score="11.990">Typha</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="9" score="33.330">
+    <coll hits="7" score="11.780">australis</coll>
+    <coll hits="1" score="11.670">Scirpus</coll>
+    <coll hits="1" score="11.300">Carex</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="7.410">
+    <coll hits="1" score="13.410">Scirpus</coll>
+    <coll hits="1" score="12.680">Carex</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="3.700">
+    <coll hits="1" score="5.520">food</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="3.700">
+    <coll hits="1" score="13.410">Cyperus</coll>
+  </gramrel>
+</wordsketch>
+</export>

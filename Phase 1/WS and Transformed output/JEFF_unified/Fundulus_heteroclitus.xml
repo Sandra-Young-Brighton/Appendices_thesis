@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Fundulus_heteroclitus</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="27.270">
+    <coll hits="2" score="12.830">Fundulus_spp</coll>
+    <coll hits="1" score="8.680">Linnaeus</coll>
+  </gramrel>
+</wordsketch>
+</export>

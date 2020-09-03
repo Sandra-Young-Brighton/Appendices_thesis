@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Percidae</keyword>
+  <gramrel name="modifiers of X" hits="4" score="4.600">
+    <coll hits="1" score="12.410">Gobiidae</coll>
+    <coll hits="1" score="12.190">Poeciliidae</coll>
+    <coll hits="1" score="11.540">Cyprinidae</coll>
+    <coll hits="1" score="8.130">Etheostoma</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="8" score="9.200">
+    <coll hits="2" score="11.540">Salmonidae</coll>
+    <coll hits="1" score="11.540">Siluridae</coll>
+    <coll hits="1" score="11.190">Teleostei</coll>
+    <coll hits="1" score="11.190">Perca</coll>
+    <coll hits="1" score="10.540">Cyprinidae</coll>
+    <coll hits="1" score="8.960">flavescens</coll>
+    <coll hits="1" score="6.800">fluviatilis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="3.450">
+    <coll hits="1" score="12.410">flavescens</coll>
+    <coll hits="1" score="11.830">Teleostei</coll>
+    <coll hits="1" score="11.410">Cyprinidae</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="2.300">
+    <coll hits="1" score="12.680">fluviatilis</coll>
+    <coll hits="1" score="12.680">Perca</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">gorbuscha</keyword>
+  <gramrel name="modifiers of X" hits="16" score="53.330">
+    <coll hits="1" score="10.350">Oncorhyncus</coll>
+    <coll hits="15" score="9.580">Oncorhynchus</coll>
+  </gramrel>
+</wordsketch>
+</export>

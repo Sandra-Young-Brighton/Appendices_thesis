@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Araneida</keyword>
+  <gramrel name="modifiers of X" hits="3" score="300.000">
+    <coll hits="1" score="13.000">Heteroptera</coll>
+    <coll hits="1" score="13.000">Psocoptera</coll>
+    <coll hits="1" score="10.000">Diptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

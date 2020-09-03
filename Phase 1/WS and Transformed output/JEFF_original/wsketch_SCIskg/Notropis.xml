@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Notropis</keyword>
+  <gramrel name="modifiers of X" hits="3" score="1.410">
+    <coll hits="1" score="13.000">baileyi</coll>
+    <coll hits="2" score="10.090">Notropis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="57" score="26.760">
+    <coll hits="7" score="11.780">hudsonius</coll>
+    <coll hits="6" score="11.610">lutipinnis</coll>
+    <coll hits="6" score="11.520">stramineus</coll>
+    <coll hits="4" score="11.060">baileyi</coll>
+    <coll hits="4" score="11.060">buccula</coll>
+    <coll hits="4" score="10.870">texanus</coll>
+    <coll hits="3" score="10.680">oxyrhynchus</coll>
+    <coll hits="3" score="10.680">venustus</coll>
+    <coll hits="3" score="10.470">lutrensis</coll>
+    <coll hits="2" score="10.110">shumardi</coll>
+    <coll hits="2" score="10.110">blennius</coll>
+    <coll hits="2" score="10.090">Notropis</coll>
+    <coll hits="1" score="9.140">lutippinis</coll>
+    <coll hits="1" score="9.140">caeruleus</coll>
+    <coll hits="1" score="9.140">roseipinnis</coll>
+    <coll hits="1" score="9.140">spilopterus</coll>
+    <coll hits="1" score="9.140">volucellus</coll>
+    <coll hits="1" score="9.140">dorsalis</coll>
+    <coll hits="1" score="9.060">cornutus</coll>
+    <coll hits="1" score="9.000">Percina</coll>
+    <coll hits="1" score="7.590">egg</coll>
+    <coll hits="2" score="7.190">larva</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.470">
+    <coll hits="1" score="6.580">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

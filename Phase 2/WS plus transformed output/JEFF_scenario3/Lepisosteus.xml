@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lepisosteus</keyword>
+  <gramrel name="nouns modified by X" hits="25" score="53.190">
+    <coll hits="11" score="13.250">osseus</coll>
+    <coll hits="10" score="13.150">oculatus</coll>
+    <coll hits="2" score="11.240">platostomus</coll>
+    <coll hits="2" score="11.000">Hiodon</coll>
+  </gramrel>
+</wordsketch>
+</export>

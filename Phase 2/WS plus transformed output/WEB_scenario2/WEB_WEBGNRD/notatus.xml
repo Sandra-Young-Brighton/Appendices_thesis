@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">notatus</keyword>
+  <gramrel name="modifiers of X" hits="17" score="56.670">
+    <coll hits="12" score="12.830" query="w1151744448">Pimephales</coll>
+    <coll hits="1" score="10.820" query="w1151744451">Porichthys</coll>
+    <coll hits="1" score="10.820" query="w1151744450">neogaeus</coll>
+    <coll hits="3" score="10.540" query="w1151744449">Fundulus</coll>
+  </gramrel>
+</wordsketch>
+</export>

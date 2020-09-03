@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">arcticus</keyword>
+  <gramrel name="modifiers of X" hits="81" score="81.820">
+    <coll hits="72" score="13.180" query="w1790788864">Thymallus</coll>
+    <coll hits="5" score="10.730" query="w1790788866">Myxobolus</coll>
+    <coll hits="4" score="10.540" query="w1790788865">truttae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="2.020">
+    <coll hits="1" score="12.680" query="w1790831104">Lampetra</coll>
+    <coll hits="1" score="11.300" query="w1790831105">Gadidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.010">
+    <coll hits="1" score="13.000" query="w1790776448">clarki</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.010">
+    <coll hits="1" score="3.560" query="w1790850880">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

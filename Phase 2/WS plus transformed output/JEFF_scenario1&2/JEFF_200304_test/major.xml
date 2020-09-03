@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">major</keyword>
+  <gramrel name="X and/or ..." hits="80" score="12.070">
+    <coll hits="4" score="10.570">fungal</coll>
+    <coll hits="3" score="9.950">South</coll>
+    <coll hits="5" score="9.930">dietary</coll>
+    <coll hits="5" score="9.720">littoral</coll>
+    <coll hits="2" score="9.060">human</coll>
+    <coll hits="2" score="9.020">developmental</coll>
+    <coll hits="5" score="8.960">ecological</coll>
+    <coll hits="2" score="8.940">tributary</coll>
+    <coll hits="1" score="8.650">naturally-occurring</coll>
+    <coll hits="1" score="8.650">Myriophyllum</coll>
+    <coll hits="1" score="8.650">Ugandan</coll>
+    <coll hits="1" score="8.650">wadable</coll>
+    <coll hits="1" score="8.650">coherent</coll>
+    <coll hits="1" score="8.640">ecotonal</coll>
+    <coll hits="1" score="8.620">Scottish</coll>
+    <coll hits="1" score="8.620">ontogenic</coll>
+    <coll hits="1" score="8.600">contributing</coll>
+    <coll hits="1" score="8.600">catastrophic</coll>
+    <coll hits="1" score="8.600">ancestral</coll>
+    <coll hits="1" score="8.600">northwest</coll>
+    <coll hits="1" score="8.520">avian</coll>
+    <coll hits="2" score="8.490">physiological</coll>
+    <coll hits="1" score="8.460">macroinvertebrate</coll>
+    <coll hits="7" score="8.440">environmental</coll>
+    <coll hits="1" score="8.440">French</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="0.450">
+    <coll hits="2" score="6.940">zone</coll>
+    <coll hits="1" score="3.730">habitat</coll>
+  </gramrel>
+</wordsketch>
+</export>

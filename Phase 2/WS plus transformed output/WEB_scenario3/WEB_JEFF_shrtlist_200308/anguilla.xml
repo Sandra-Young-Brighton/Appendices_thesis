@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">anguilla</keyword>
+  <gramrel name="modifiers of X" hits="59" score="32.960">
+    <coll hits="59" score="11.930">Anguilla</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="48" score="26.820">
+    <coll hits="3" score="10.540">Asi</coll>
+    <coll hits="3" score="10.090">Lithuania</coll>
+    <coll hits="1" score="9.380">SeaMar</coll>
+    <coll hits="1" score="9.380">heartland</coll>
+    <coll hits="1" score="9.270">Meuse</coll>
+    <coll hits="5" score="9.150">country</coll>
+    <coll hits="2" score="9.040">Canal</coll>
+    <coll hits="1" score="8.930">Shannon</coll>
+    <coll hits="1" score="8.890">waterbodie</coll>
+    <coll hits="1" score="8.130">check</coll>
+    <coll hits="1" score="7.500">Sweden</coll>
+    <coll hits="2" score="7.090">watershed</coll>
+    <coll hits="3" score="6.920">Sea</coll>
+    <coll hits="1" score="6.820">Sr</coll>
+    <coll hits="1" score="6.810">salinity</coll>
+    <coll hits="1" score="6.700">acid</coll>
+    <coll hits="3" score="6.430">stage</coll>
+    <coll hits="2" score="6.200">region</coll>
+    <coll hits="1" score="6.080">history</coll>
+    <coll hits="1" score="5.890">Europe</coll>
+    <coll hits="6" score="5.650">water</coll>
+    <coll hits="1" score="5.340">migration</coll>
+    <coll hits="1" score="5.340">freshwater</coll>
+    <coll hits="2" score="4.760">habitat</coll>
+    <coll hits="1" score="3.750">study</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.560">
+    <coll hits="1" score="7.510">Cyprinidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

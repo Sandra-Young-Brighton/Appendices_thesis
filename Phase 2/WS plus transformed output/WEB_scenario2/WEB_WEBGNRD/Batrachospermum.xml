@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Batrachospermum</keyword>
+  <gramrel name="modifiers of X" hits="1" score="50.000">
+    <coll hits="1" score="9.190" query="w2190924928">Potamogeton</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="50.000">
+    <coll hits="1" score="13.000" query="w2190934528">Nuphar</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="50.000">
+    <coll hits="1" score="12.680" query="w2190915136">Nuphar</coll>
+  </gramrel>
+</wordsketch>
+</export>

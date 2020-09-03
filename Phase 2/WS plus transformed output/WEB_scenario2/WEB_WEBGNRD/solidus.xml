@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">solidus</keyword>
+  <gramrel name="modifiers of X" hits="13" score="65.000">
+    <coll hits="13" score="13.990" query="w1618674688">Schistocephalus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="35.000">
+    <coll hits="1" score="11.990" query="w1618684609">Host</coll>
+    <coll hits="3" score="8.550" query="w1618684608">host</coll>
+    <coll hits="1" score="6.500" query="w1618684612">stomach</coll>
+    <coll hits="1" score="5.320" query="w1618684610">stickleback</coll>
+    <coll hits="1" score="5.290" query="w1618684611">summer</coll>
+  </gramrel>
+</wordsketch>
+</export>

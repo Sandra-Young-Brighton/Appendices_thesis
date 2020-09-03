@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Coleoptera</keyword>
+  <gramrel name="modifiers of X" hits="8" score="2.860">
+    <coll hits="2" score="12.680">Brachycentridae</coll>
+    <coll hits="2" score="12.410">Orthoptera</coll>
+    <coll hits="1" score="11.830">Hydropsychidae</coll>
+    <coll hits="1" score="10.540">Diptera</coll>
+    <coll hits="1" score="10.190">Trichoptera</coll>
+    <coll hits="1" score="9.710">Ephemeroptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="16" score="5.710">
+    <coll hits="2" score="11.830">Lepidoptera</coll>
+    <coll hits="3" score="11.260">Diptera</coll>
+    <coll hits="1" score="10.910">Hydrophilidae</coll>
+    <coll hits="1" score="10.910">Carabidae</coll>
+    <coll hits="1" score="10.820">Gyrinidae</coll>
+    <coll hits="1" score="10.820">Haliplidae</coll>
+    <coll hits="1" score="10.750">Dytiscidae</coll>
+    <coll hits="1" score="10.680">Hemiptera</coll>
+    <coll hits="1" score="10.600">Heteroptera</coll>
+    <coll hits="1" score="10.600">Elmidae</coll>
+    <coll hits="1" score="10.600">Odonata</coll>
+    <coll hits="1" score="9.610">Trichoptera</coll>
+    <coll hits="1" score="9.480">Plecoptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="14" score="5.000">
+    <coll hits="2" score="11.990">Lepidoptera</coll>
+    <coll hits="3" score="11.450">Diptera</coll>
+    <coll hits="1" score="11.090">Formicidae</coll>
+    <coll hits="1" score="11.090">Hydrophilidae</coll>
+    <coll hits="1" score="11.090">Carabidae</coll>
+    <coll hits="1" score="11.000">Gyrinidae</coll>
+    <coll hits="1" score="11.000">Haliplidae</coll>
+    <coll hits="1" score="10.910">Dytiscidae</coll>
+    <coll hits="1" score="10.820">Hemiptera</coll>
+    <coll hits="1" score="10.750">Elmidae</coll>
+    <coll hits="1" score="10.750">Odonata</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.360">
+    <coll hits="1" score="12.410">Diptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

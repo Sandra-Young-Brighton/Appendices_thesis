@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Monogenea</keyword>
+  <gramrel name="modifiers of X" hits="12" score="11.430">
+    <coll hits="5" score="13.070">Trematoda</coll>
+    <coll hits="4" score="13.000">Platyhelminthes</coll>
+    <coll hits="3" score="12.680">Gyrodactylidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="16" score="15.240">
+    <coll hits="13" score="13.840">Gyrodactylidae</coll>
+    <coll hits="1" score="10.910">Platyhelminthes</coll>
+    <coll hits="1" score="10.910">Digenea</coll>
+    <coll hits="1" score="10.750">Annelida</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="18" score="17.140">
+    <coll hits="13" score="13.750">Gyrodactylidae</coll>
+    <coll hits="2" score="11.670">Digenea</coll>
+    <coll hits="1" score="10.750">Platyhelminthes</coll>
+    <coll hits="1" score="10.540">Annelida</coll>
+    <coll hits="1" score="9.320">Copepoda</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="2" score="1.900">
+    <coll hits="2" score="13.990">truttae</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Abramis</keyword>
+  <gramrel name="nouns modified by X" hits="88" score="59.460">
+    <coll hits="84" score="13.930">brama</coll>
+    <coll hits="3" score="10.040">ballerus</coll>
+    <coll hits="1" score="8.150">bjoerkna</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="2.030">
+    <coll hits="1" score="11.540">fluviatilis</coll>
+    <coll hits="1" score="11.540">Perca</coll>
+    <coll hits="1" score="7.500">Cyprinidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

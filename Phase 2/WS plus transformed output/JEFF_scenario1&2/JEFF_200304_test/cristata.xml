@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cristata</keyword>
+  <gramrel name="modifiers of X" hits="2" score="66.670">
+    <coll hits="2" score="11.240">Daphnia</coll>
+  </gramrel>
+</wordsketch>
+</export>

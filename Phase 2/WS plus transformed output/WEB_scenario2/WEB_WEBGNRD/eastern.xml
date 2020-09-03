@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">eastern</keyword>
+  <gramrel name="X and/or ..." hits="49" score="9.650">
+    <coll hits="9" score="11.600" query="w237383105">western</coll>
+    <coll hits="4" score="11.090" query="w237383119">Russian</coll>
+    <coll hits="6" score="10.790" query="w237383117">Baltic</coll>
+    <coll hits="6" score="10.770" query="w237383112">southern</coll>
+    <coll hits="2" score="10.320" query="w237383122">continent</coll>
+    <coll hits="3" score="10.240" query="w237383113">central</coll>
+    <coll hits="3" score="10.170" query="w237383115">North</coll>
+    <coll hits="2" score="10.000" query="w237383110">Pacific</coll>
+    <coll hits="4" score="9.400" query="w237383104">northern</coll>
+    <coll hits="1" score="9.320" query="w237383120">equatorial</coll>
+    <coll hits="1" score="9.320" query="w237383107">Siberian</coll>
+    <coll hits="1" score="9.300" query="w237383121">Georgian</coll>
+    <coll hits="1" score="9.300" query="w237383116">Western</coll>
+    <coll hits="1" score="8.910" query="w237383111">upland</coll>
+    <coll hits="1" score="8.710" query="w237383108">Canadian</coll>
+    <coll hits="1" score="8.380" query="w237383114">upper</coll>
+    <coll hits="1" score="8.340" query="w237383109">arctic</coll>
+    <coll hits="1" score="8.180" query="w237383118">tropical</coll>
+    <coll hits="1" score="6.640" query="w237383106">coastal</coll>
+  </gramrel>
+</wordsketch>
+</export>

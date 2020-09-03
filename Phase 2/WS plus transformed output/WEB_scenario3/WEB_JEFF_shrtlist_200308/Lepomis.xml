@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lepomis</keyword>
+  <gramrel name="nouns modified by X" hits="226" score="60.590">
+    <coll hits="97" score="13.250">macrochirus</coll>
+    <coll hits="81" score="13.050">gibbosus</coll>
+    <coll hits="21" score="11.440">cyanellus</coll>
+    <coll hits="7" score="9.940">microlophus</coll>
+    <coll hits="7" score="9.880">gulosus</coll>
+    <coll hits="4" score="9.150">humilis</coll>
+    <coll hits="2" score="8.160">megalotis</coll>
+    <coll hits="2" score="8.160">Pomoxis</coll>
+    <coll hits="2" score="7.560">Linnaeus</coll>
+    <coll hits="1" score="7.170">auritus</coll>
+    <coll hits="1" score="7.160">marginatus</coll>
+    <coll hits="1" score="7.020">spp</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="0.540">
+    <coll hits="2" score="13.990">Pomoxis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="0.540">
+    <coll hits="1" score="12.410">Opinicon</coll>
+    <coll hits="1" score="10.090">Number</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="0.540">
+    <coll hits="1" score="12.680">flavescens</coll>
+    <coll hits="1" score="9.350">Perca</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.270">
+    <coll hits="1" score="11.830">Centrarchidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

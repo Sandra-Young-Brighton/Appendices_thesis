@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">black</keyword>
+  <gramrel name="X and/or ..." hits="83" score="10.150">
+    <coll hits="16" score="11.090" query="w816089858">white</coll>
+    <coll hits="7" score="11.090" query="w816089872">solid</coll>
+    <coll hits="9" score="11.070" query="w816089862">horizontal</coll>
+    <coll hits="7" score="10.950" query="w816089870">silver</coll>
+    <coll hits="3" score="10.080" query="w816089875">dotted</coll>
+    <coll hits="2" score="9.580" query="w816089881">knotted</coll>
+    <coll hits="2" score="9.300" query="w816089871">inner</coll>
+    <coll hits="2" score="9.300" query="w816089864">gray</coll>
+    <coll hits="2" score="9.190" query="w816089877">grey</coll>
+    <coll hits="2" score="9.170" query="w816089879">orange</coll>
+    <coll hits="2" score="8.860" query="w816089876">outer</coll>
+    <coll hits="3" score="8.810" query="w816089859">dark</coll>
+    <coll hits="8" score="8.700" query="w816089868">brown</coll>
+    <coll hits="1" score="8.600" query="w816089884">sulfurous</coll>
+    <coll hits="1" score="8.600" query="w816089883">throated</coll>
+    <coll hits="1" score="8.590" query="w816089880">ceramic</coll>
+    <coll hits="1" score="8.520" query="w816089861">various</coll>
+    <coll hits="1" score="8.500" query="w816089882">gold</coll>
+    <coll hits="1" score="8.490" query="w816089878">rectangular</coll>
+    <coll hits="1" score="8.460" query="w816089873">olive</coll>
+    <coll hits="1" score="8.370" query="w816089869">continuous</coll>
+    <coll hits="1" score="8.370" query="w816089866">golden</coll>
+    <coll hits="2" score="8.120" query="w816089857">red</coll>
+    <coll hits="1" score="8.110" query="w816089865">blue</coll>
+    <coll hits="1" score="8.030" query="w816089874">plastic</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="19" score="2.320">
+    <coll hits="1" score="10.680" query="w816344522">coloring</coll>
+    <coll hits="1" score="9.060" query="w816344524">building</coll>
+    <coll hits="2" score="8.910" query="w816344519">spot</coll>
+    <coll hits="1" score="8.640" query="w816344525">brown</coll>
+    <coll hits="1" score="8.130" query="w816344526">color</coll>
+    <coll hits="1" score="8.130" query="w816344528">back</coll>
+    <coll hits="1" score="7.970" query="w816344527">top</coll>
+    <coll hits="2" score="7.070" query="w816344513">side</coll>
+    <coll hits="1" score="6.660" query="w816344523">nest</coll>
+    <coll hits="1" score="6.560" query="w816344518">fin</coll>
+    <coll hits="1" score="5.910" query="w816344521">surface</coll>
+    <coll hits="1" score="5.860" query="w816344517">body</coll>
+    <coll hits="1" score="4.860" query="w816344520">range</coll>
+    <coll hits="1" score="4.760" query="w816344512">day</coll>
+    <coll hits="1" score="3.070" query="w816344516">water</coll>
+    <coll hits="1" score="2.690" query="w816344514">specie</coll>
+    <coll hits="1" score="1.750" query="w816344515">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">glanis</keyword>
+  <gramrel name="modifiers of X" hits="13" score="48.150">
+    <coll hits="11" score="13.330">Silurus</coll>
+    <coll hits="1" score="11.190">taenia</coll>
+    <coll hits="1" score="10.090">Cobitis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="3.700">
+    <coll hits="1" score="9.790">erythrophthalmus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="3.700">
+    <coll hits="1" score="11.300">erythrophthalmus</coll>
+  </gramrel>
+</wordsketch>
+</export>

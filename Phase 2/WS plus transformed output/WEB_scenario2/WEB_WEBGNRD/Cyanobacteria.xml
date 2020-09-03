@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cyanobacteria</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="6.930">
+    <coll hits="1" score="11.090" query="w1941116869">Microcystis</coll>
+    <coll hits="1" score="8.410" query="w1941116868">grazing</coll>
+    <coll hits="1" score="6.570" query="w1941116867">assemblage</coll>
+    <coll hits="1" score="5.550" query="w1941116866">zooplankton</coll>
+    <coll hits="1" score="5.510" query="w1941116864">food</coll>
+    <coll hits="2" score="3.890" query="w1941116865">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

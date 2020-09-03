@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Percidae</keyword>
+  <gramrel name="modifiers of X" hits="3" score="4.920">
+    <coll hits="1" score="13.000">Centrarchidae</coll>
+    <coll hits="1" score="12.410">Percidae</coll>
+    <coll hits="1" score="9.570">Etheostoma</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="4.920">
+    <coll hits="1" score="12.410">Percidae</coll>
+    <coll hits="1" score="12.190">Gasterosteidae</coll>
+    <coll hits="1" score="9.830">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.640">
+    <coll hits="1" score="10.820">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.640">
+    <coll hits="1" score="6.020">Europe</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lavaretus</keyword>
+  <gramrel name="modifiers of X" hits="219" score="65.770">
+    <coll hits="217" score="13.280">Coregonus</coll>
+    <coll hits="1" score="7.200">alpinus</coll>
+    <coll hits="1" score="7.120">Lucius</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.300">
+    <coll hits="1" score="8.760">clupeaformis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="12" score="3.600">
+    <coll hits="1" score="11.190">Annecy</coll>
+    <coll hits="5" score="9.750">Britain</coll>
+    <coll hits="1" score="9.210">Constance</coll>
+    <coll hits="1" score="8.110">Arctic</coll>
+    <coll hits="1" score="7.310">England</coll>
+    <coll hits="1" score="6.710">L</coll>
+    <coll hits="1" score="6.330">feeding</coll>
+    <coll hits="1" score="2.890">lake</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="7" score="2.100">
+    <coll hits="3" score="12.880">lavaretus</coll>
+    <coll hits="3" score="12.880">Coregonus</coll>
+    <coll hits="1" score="11.830">whitefish</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="6" score="1.800">
+    <coll hits="3" score="12.880">lavaretus</coll>
+    <coll hits="3" score="12.190">Coregonus</coll>
+  </gramrel>
+</wordsketch>
+</export>

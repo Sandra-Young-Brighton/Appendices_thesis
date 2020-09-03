@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fluviatilis</keyword>
+  <gramrel name="modifiers of X" hits="757" score="74.140">
+    <coll hits="526" score="13.550" query="w896020736">Perca</coll>
+    <coll hits="204" score="12.600" query="w896020740">Lampetra</coll>
+    <coll hits="4" score="7.420" query="w896020746">Anopheles</coll>
+    <coll hits="5" score="7.340" query="w896020738">Petromyzon</coll>
+    <coll hits="3" score="7.010" query="w896020750">Sotalia</coll>
+    <coll hits="2" score="6.430" query="w896020749">Locustella</coll>
+    <coll hits="2" score="6.430" query="w896020747">Perea</coll>
+    <coll hits="2" score="6.430" query="w896020745">erythrophthalmus</coll>
+    <coll hits="2" score="6.430" query="w896020739">lucioperca</coll>
+    <coll hits="2" score="6.270" query="w896020743">Neogobius</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="11" score="1.080">
+    <coll hits="2" score="9.370" query="w896174850">brama</coll>
+    <coll hits="2" score="7.880" query="w896174851">rutilus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="21" score="2.060">
+    <coll hits="5" score="12.270" query="w895907907">rutilus</coll>
+    <coll hits="4" score="12.190" query="w895907906">brama</coll>
+    <coll hits="3" score="11.940" query="w895907912">planeri</coll>
+    <coll hits="2" score="10.870" query="w895907910">cernua</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="45" score="4.410">
+    <coll hits="43" score="12.930" query="w896429376">Cyprinidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="15" score="1.470">
+    <coll hits="2" score="9.750" query="w896268297">Lomond</coll>
+    <coll hits="2" score="7.530" query="w896268293">field</coll>
+    <coll hits="2" score="4.740" query="w896268292">area</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="11" score="1.080">
+    <coll hits="2" score="12.090" query="w896379847">Psetta</coll>
+    <coll hits="2" score="12.090" query="w896379846">maxima</coll>
+  </gramrel>
+</wordsketch>
+</export>

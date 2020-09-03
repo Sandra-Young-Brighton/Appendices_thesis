@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">poutassou</keyword>
+  <gramrel name="modifiers of X" hits="3" score="75.000">
+    <coll hits="2" score="13.410" query="w2084973441">Micromesistius</coll>
+    <coll hits="1" score="12.680" query="w2084973440">merlangus</coll>
+  </gramrel>
+</wordsketch>
+</export>

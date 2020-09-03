@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">trichopterans</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="21.880">
+    <coll hits="1" score="7.590">case</coll>
+    <coll hits="1" score="6.900">comparison</coll>
+    <coll hits="1" score="6.040">June</coll>
+    <coll hits="1" score="5.810">source</coll>
+    <coll hits="2" score="5.300">period</coll>
+    <coll hits="1" score="4.340">diet</coll>
+  </gramrel>
+</wordsketch>
+</export>

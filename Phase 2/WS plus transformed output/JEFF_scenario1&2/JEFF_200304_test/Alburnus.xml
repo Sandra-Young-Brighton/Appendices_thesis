@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Alburnus</keyword>
+  <gramrel name="nouns modified by X" hits="28" score="54.900">
+    <coll hits="28" score="13.920">alburnus</coll>
+  </gramrel>
+</wordsketch>
+</export>

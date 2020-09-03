@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Oreochromis</keyword>
+  <gramrel name="nouns modified by X" hits="92" score="72.440">
+    <coll hits="29" score="12.870" query="w1381383040">mossambicus</coll>
+    <coll hits="35" score="12.790" query="w1381383042">niloticus</coll>
+    <coll hits="15" score="12.130" query="w1381383041">aureus</coll>
+    <coll hits="8" score="11.340" query="w1381383043">aurea</coll>
+    <coll hits="2" score="9.440" query="w1381383045">mortimeri</coll>
+    <coll hits="1" score="8.460" query="w1381383047">macrochir</coll>
+    <coll hits="1" score="8.460" query="w1381383046">andersonii</coll>
+    <coll hits="1" score="8.460" query="w1381383044">Sarotherodon</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="1.570">
+    <coll hits="2" score="13.990" query="w1381373568">Sarotherodon</coll>
+  </gramrel>
+</wordsketch>
+</export>

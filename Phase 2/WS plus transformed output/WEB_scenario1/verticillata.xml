@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">verticillata</keyword>
+  <gramrel name="modifiers of X" hits="28" score="47.460">
+    <coll hits="28" score="13.970">Hydrilla</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.690">
+    <coll hits="1" score="12.410">spicatum</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="11" score="18.640">
+    <coll hits="1" score="11.190">invasiveness</coll>
+    <coll hits="2" score="10.270">building</coll>
+    <coll hits="2" score="8.190">gradient</coll>
+    <coll hits="1" score="6.300">sediment</coll>
+    <coll hits="2" score="6.130">ecosystem</coll>
+    <coll hits="2" score="5.890">stage</coll>
+    <coll hits="1" score="4.820">Lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

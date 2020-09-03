@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">holbrooki</keyword>
+  <gramrel name="modifiers of X" hits="19" score="79.170">
+    <coll hits="19" score="13.090" query="w1922404352">Gambusia</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="4.170">
+    <coll hits="1" score="13.410" query="w1922393600">latipinna</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="8.330">
+    <coll hits="1" score="13.410" query="w1922415616">Aurea</coll>
+    <coll hits="1" score="13.000" query="w1922415617">spa</coll>
+  </gramrel>
+</wordsketch>
+</export>

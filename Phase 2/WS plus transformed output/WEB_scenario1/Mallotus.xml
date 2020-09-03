@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Mallotus</keyword>
+  <gramrel name="nouns modified by X" hits="12" score="70.590">
+    <coll hits="12" score="13.990">villosus</coll>
+  </gramrel>
+</wordsketch>
+</export>

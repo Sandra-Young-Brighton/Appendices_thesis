@@ -1,0 +1,4 @@
+TAXRANK_target,target,source,TAXRANK_source,relations,score.1,data_source_y
+,MARGARITIFERA,MARGARITIFERA,,,13.94,WEB corpus
+,SPICATUM,MYRIOPHYLLUM,,,13.75,WEB corpus
+,GAIRDNERI,SALMO,,,11.45,WEB corpus

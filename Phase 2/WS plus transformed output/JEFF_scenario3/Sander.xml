@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sander</keyword>
+  <gramrel name="nouns modified by X" hits="67" score="72.830">
+    <coll hits="36" score="13.480">vitreus</coll>
+    <coll hits="24" score="12.440">lucioperca</coll>
+    <coll hits="4" score="10.600">canadensis</coll>
+    <coll hits="2" score="9.560">vitreum</coll>
+    <coll hits="1" score="8.870">canadense</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="4" score="4.350">
+    <coll hits="1" score="12.410">Teleostei</coll>
+    <coll hits="1" score="11.990">Lontra</coll>
+    <coll hits="1" score="11.990">Gobioidei</coll>
+    <coll hits="1" score="11.990">canadensis</coll>
+  </gramrel>
+</wordsketch>
+</export>

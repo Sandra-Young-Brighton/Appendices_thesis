@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">pallasii</keyword>
+  <gramrel name="modifiers of X" hits="17" score="85.000">
+    <coll hits="17" score="12.130" query="w2056732992">Clupea</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.000">
+    <coll hits="1" score="13.410" query="w2056746496">Catostomidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

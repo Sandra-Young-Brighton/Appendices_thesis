@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Clausocalanus</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="66.670">
+    <coll hits="2" score="11.910" query="w2074455488">furcatus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="66.670">
+    <coll hits="1" score="11.670" query="w2074465089">amazonicum</coll>
+    <coll hits="1" score="11.540" query="w2074465088">Macrobrachium</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Paralichthys</keyword>
+  <gramrel name="nouns modified by X" hits="33" score="84.620">
+    <coll hits="22" score="13.620" query="w1984805953">olivaceus</coll>
+    <coll hits="11" score="13.000" query="w1984805952">dentatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

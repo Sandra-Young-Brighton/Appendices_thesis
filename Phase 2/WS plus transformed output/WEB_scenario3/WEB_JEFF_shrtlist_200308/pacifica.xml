@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">pacifica</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="13.640">
+    <coll hits="2" score="11.410">Vietnam</coll>
+    <coll hits="1" score="6.680">mouth</coll>
+    <coll hits="1" score="6.670">phase</coll>
+    <coll hits="1" score="6.040">estuary</coll>
+    <coll hits="1" score="3.750">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

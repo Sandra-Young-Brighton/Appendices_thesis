@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Aplodinotus</keyword>
+  <gramrel name="nouns modified by X" hits="6" score="40.000">
+    <coll hits="6" score="13.770">grunniens</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="6.670">
+    <coll hits="1" score="6.580">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

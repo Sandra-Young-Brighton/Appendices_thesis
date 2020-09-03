@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Alburnus</keyword>
+  <gramrel name="nouns modified by X" hits="28" score="54.900">
+    <coll hits="28" score="13.900">alburnus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="1.960">
+    <coll hits="1" score="6.510">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

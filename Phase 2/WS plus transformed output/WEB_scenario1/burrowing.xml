@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">burrowing</keyword>
+  <gramrel name="X and/or ..." hits="1" score="1.160">
+    <coll hits="1" score="12.410">spend</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="25" score="29.070">
+    <coll hits="1" score="10.300">Polygonum</coll>
+    <coll hits="1" score="10.140">bark</coll>
+    <coll hits="2" score="9.530">mud</coll>
+    <coll hits="1" score="8.850">ear</coll>
+    <coll hits="1" score="8.500">silt</coll>
+    <coll hits="1" score="8.400">ammocoete</coll>
+    <coll hits="2" score="8.350">sand</coll>
+    <coll hits="1" score="8.330">margin</coll>
+    <coll hits="4" score="8.250">sediment</coll>
+    <coll hits="1" score="8.230">transfer</coll>
+    <coll hits="1" score="7.970">stone</coll>
+    <coll hits="3" score="7.620">bottom</coll>
+    <coll hits="2" score="7.220">substrate</coll>
+    <coll hits="1" score="6.630">gravel</coll>
+    <coll hits="1" score="6.220">goby</coll>
+    <coll hits="1" score="5.670">plant</coll>
+    <coll hits="1" score="3.730">area</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">marmorata</keyword>
+  <gramrel name="modifiers of X" hits="55" score="39.010">
+    <coll hits="50" score="11.630" query="w1915622208">Anguilla</coll>
+    <coll hits="3" score="10.700" query="w1915622211">Oxyeleotris</coll>
+    <coll hits="1" score="9.190" query="w1915622210">giuris</coll>
+    <coll hits="1" score="9.190" query="w1915622209">Actinemys</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.710">
+    <coll hits="1" score="12.190" query="w1915658240">Gobiidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="16" score="11.350">
+    <coll hits="1" score="10.820" query="w1915670407">Chino</coll>
+    <coll hits="2" score="10.750" query="w1915670408">Philippine</coll>
+    <coll hits="1" score="9.060" query="w1915670402">discussion</coll>
+    <coll hits="5" score="8.940" query="w1915670404">Pacific</coll>
+    <coll hits="1" score="7.970" query="w1915670405">island</coll>
+    <coll hits="1" score="7.860" query="w1915670406">Islands</coll>
+    <coll hits="2" score="4.750" query="w1915670401">River</coll>
+    <coll hits="2" score="4.080" query="w1915670400">water</coll>
+    <coll hits="1" score="2.880" query="w1915670403">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

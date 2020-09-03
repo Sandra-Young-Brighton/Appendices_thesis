@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gobiomorphus</keyword>
+  <gramrel name="nouns modified by X" hits="9" score="40.910">
+    <coll hits="4" score="13.300">cotidianus</coll>
+    <coll hits="3" score="13.000">hubbsi</coll>
+    <coll hits="2" score="12.540">huttoni</coll>
+  </gramrel>
+</wordsketch>
+</export>

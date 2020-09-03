@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">thymallus</keyword>
+  <gramrel name="modifiers of X" hits="71" score="64.550">
+    <coll hits="67" score="13.610">Thymallus</coll>
+    <coll hits="1" score="8.820">Thamallus</coll>
+    <coll hits="1" score="8.820">souffia</coll>
+    <coll hits="1" score="8.810">Telestes</coll>
+    <coll hits="1" score="8.540">trutta</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="5" score="4.550">
+    <coll hits="2" score="11.750">Salmonidae</coll>
+    <coll hits="2" score="10.790">tinca</coll>
+    <coll hits="1" score="7.990">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="1.820">
+    <coll hits="2" score="13.990">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="4.550">
+    <coll hits="1" score="8.690">́</coll>
+    <coll hits="3" score="5.170">river</coll>
+    <coll hits="1" score="3.260">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

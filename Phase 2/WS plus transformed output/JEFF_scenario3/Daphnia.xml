@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Daphnia</keyword>
+  <gramrel name="modifiers of X" hits="2" score="1.060">
+    <coll hits="2" score="9.460">Gambusia</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="25" score="13.300">
+    <coll hits="10" score="13.190">galeata</coll>
+    <coll hits="5" score="12.110">pulex</coll>
+    <coll hits="3" score="11.770">magna</coll>
+    <coll hits="2" score="11.240">Drosophila</coll>
+    <coll hits="2" score="11.240">cristata</coll>
+    <coll hits="1" score="10.300">lumholtzi</coll>
+    <coll hits="1" score="10.300">hyalina</coll>
+    <coll hits="1" score="10.190">Rotifera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="7" score="3.720">
+    <coll hits="3" score="13.260">Drosophila</coll>
+    <coll hits="3" score="13.260">Gammarus</coll>
+    <coll hits="1" score="11.830">Bosmina</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="14" score="7.450">
+    <coll hits="1" score="9.610">illumination</coll>
+    <coll hits="1" score="8.540">centre</coll>
+    <coll hits="1" score="7.970">series</coll>
+    <coll hits="5" score="7.530">prey</coll>
+    <coll hits="1" score="7.040">enclosure</coll>
+    <coll hits="2" score="5.090">period</coll>
+    <coll hits="1" score="4.990">change</coll>
+    <coll hits="1" score="3.520">size</coll>
+    <coll hits="1" score="3.150">specie</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.530">
+    <coll hits="1" score="13.990">Cladocera</coll>
+  </gramrel>
+</wordsketch>
+</export>

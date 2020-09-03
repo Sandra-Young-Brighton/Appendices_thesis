@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Rotifera</keyword>
+  <gramrel name="modifiers of X" hits="3" score="4.620">
+    <coll hits="1" score="11.990">Chaoborus</coll>
+    <coll hits="1" score="11.410">Copepoda</coll>
+    <coll hits="1" score="10.540">Cladocera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.540">
+    <coll hits="1" score="13.990">Protozoa</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="3.080">
+    <coll hits="1" score="13.410">Protozoa</coll>
+    <coll hits="1" score="11.830">Cladocera</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="4.620">
+    <coll hits="1" score="7.500">plankton</coll>
+    <coll hits="1" score="5.970">season</coll>
+    <coll hits="1" score="2.890">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

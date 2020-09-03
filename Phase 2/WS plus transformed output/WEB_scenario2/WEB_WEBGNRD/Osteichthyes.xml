@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Osteichthyes</keyword>
+  <gramrel name="modifiers of X" hits="3" score="12.000">
+    <coll hits="1" score="12.410" query="w505321729">niloticus</coll>
+    <coll hits="1" score="11.990" query="w505321728">Salmonidae</coll>
+    <coll hits="1" score="11.090" query="w505321730">Labeo</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="10" score="40.000">
+    <coll hits="2" score="12.410" query="w505344837">Scorpaeniformes</coll>
+    <coll hits="2" score="12.190" query="w505344838">Hypophthalmidae</coll>
+    <coll hits="1" score="11.540" query="w505344839">Parodontidae</coll>
+    <coll hits="1" score="11.540" query="w505344836">Characiformes</coll>
+    <coll hits="1" score="11.540" query="w505344835">Perciformes</coll>
+    <coll hits="1" score="11.090" query="w505344834">Sciaenidae</coll>
+    <coll hits="1" score="11.000" query="w505344833">Gobiidae</coll>
+    <coll hits="1" score="9.570" query="w505344832">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="10" score="40.000">
+    <coll hits="2" score="12.410" query="w505253893">Scorpaeniformes</coll>
+    <coll hits="2" score="12.190" query="w505253894">Hypophthalmidae</coll>
+    <coll hits="1" score="11.540" query="w505253895">Parodontidae</coll>
+    <coll hits="1" score="11.540" query="w505253892">Characiformes</coll>
+    <coll hits="1" score="11.540" query="w505253891">Perciformes</coll>
+    <coll hits="1" score="11.190" query="w505253889">Gobiidae</coll>
+    <coll hits="1" score="11.000" query="w505253890">Sciaenidae</coll>
+    <coll hits="1" score="10.240" query="w505253888">Salmonidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

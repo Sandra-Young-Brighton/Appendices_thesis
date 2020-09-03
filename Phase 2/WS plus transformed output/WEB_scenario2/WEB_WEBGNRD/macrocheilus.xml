@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">macrocheilus</keyword>
+  <gramrel name="modifiers of X" hits="10" score="76.920">
+    <coll hits="2" score="11.990" query="w2051962050">Catastomus</coll>
+    <coll hits="1" score="11.540" query="w2051962049">bairdii</coll>
+    <coll hits="7" score="11.330" query="w2051962048">Catostomus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Melanoides</keyword>
+  <gramrel name="nouns modified by X" hits="9" score="100.000">
+    <coll hits="8" score="13.830" query="w2067767808">tuberculata</coll>
+    <coll hits="1" score="11.670" query="w2067767809">tuberculala</coll>
+  </gramrel>
+</wordsketch>
+</export>

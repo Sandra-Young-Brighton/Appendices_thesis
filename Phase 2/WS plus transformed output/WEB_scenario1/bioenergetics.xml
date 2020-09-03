@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">bioenergetics</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="24" score="12.310">
+    <coll hits="1" score="10.240">non-piscivory</coll>
+    <coll hits="1" score="9.610">isopod</coll>
+    <coll hits="6" score="7.440">pike</coll>
+    <coll hits="1" score="7.080">Figure</coll>
+    <coll hits="1" score="6.350">animal</coll>
+    <coll hits="1" score="5.660">factor</coll>
+    <coll hits="3" score="4.680">trout</coll>
+    <coll hits="1" score="4.360">system</coll>
+    <coll hits="1" score="4.310">temperature</coll>
+    <coll hits="1" score="4.280">period</coll>
+    <coll hits="2" score="4.200">salmon</coll>
+    <coll hits="5" score="4.070">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

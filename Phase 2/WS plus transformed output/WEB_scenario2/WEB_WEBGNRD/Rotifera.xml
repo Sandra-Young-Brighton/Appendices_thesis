@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Rotifera</keyword>
+  <gramrel name="modifiers of X" hits="2" score="3.080">
+    <coll hits="1" score="11.830" query="w1469419201">Chaoborus</coll>
+    <coll hits="1" score="10.820" query="w1469419200">Cladocera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.540">
+    <coll hits="1" score="13.990" query="w1469435328">Protozoa</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="3.080">
+    <coll hits="1" score="13.410" query="w1469402625">Protozoa</coll>
+    <coll hits="1" score="11.990" query="w1469402624">Cladocera</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="4.620">
+    <coll hits="1" score="7.500" query="w1469444226">plankton</coll>
+    <coll hits="1" score="5.970" query="w1469444224">season</coll>
+    <coll hits="1" score="2.890" query="w1469444225">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

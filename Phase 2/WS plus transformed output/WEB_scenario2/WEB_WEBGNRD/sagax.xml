@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">sagax</keyword>
+  <gramrel name="modifiers of X" hits="22" score="68.750">
+    <coll hits="22" score="13.960" query="w1871037952">Sardinops</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="6.250">
+    <coll hits="1" score="12.190" query="w1871048065">fimbria</coll>
+    <coll hits="1" score="9.120" query="w1871048064">mordax</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="3.130">
+    <coll hits="1" score="13.990" query="w1871027840">mordax</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="15.630">
+    <coll hits="2" score="9.560" query="w1871070402">Chile</coll>
+    <coll hits="2" score="6.140" query="w1871070401">ecosystem</coll>
+    <coll hits="1" score="4.560" query="w1871070400">analysis</coll>
+  </gramrel>
+</wordsketch>
+</export>

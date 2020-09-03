@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gadus</keyword>
+  <gramrel name="nouns modified by X" hits="102" score="60.000">
+    <coll hits="100" score="13.980">morhua</coll>
+    <coll hits="1" score="8.240">Gadidae</coll>
+    <coll hits="1" score="7.210">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="2" score="1.180">
+    <coll hits="2" score="9.870">[number]</coll>
+  </gramrel>
+</wordsketch>
+</export>

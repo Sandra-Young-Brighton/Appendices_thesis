@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Barbus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="2.940">
+    <coll hits="1" score="13.410">Squalius</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="2.940">
+    <coll hits="1" score="13.410">Tropidophoxinellus_alburnoides</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.940">
+    <coll hits="1" score="13.990">Chondrostoma</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.940">
+    <coll hits="1" score="8.870">assem</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="2.940">
+    <coll hits="1" score="10.680">species</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="2.940">
+    <coll hits="1" score="6.810">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

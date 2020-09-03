@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ictalarus</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="100.000">
+    <coll hits="2" score="9.870" query="w1611850240">punctatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

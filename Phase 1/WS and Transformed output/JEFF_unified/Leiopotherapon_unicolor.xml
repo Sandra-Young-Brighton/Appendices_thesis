@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Leiopotherapon_unicolor</keyword>
+  <gramrel name="modifiers of X" hits="2" score="28.570">
+    <coll hits="1" score="13.410">Hephaestus_fuliginosus</coll>
+    <coll hits="1" score="7.620">perch</coll>
+  </gramrel>
+</wordsketch>
+</export>

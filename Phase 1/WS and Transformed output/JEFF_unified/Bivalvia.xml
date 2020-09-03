@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Bivalvia</keyword>
+  <gramrel name="modifiers of X" hits="1" score="6.670">
+    <coll hits="1" score="13.000">Mollusca</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="6.670">
+    <coll hits="1" score="12.190">Cladocera</coll>
+  </gramrel>
+</wordsketch>
+</export>

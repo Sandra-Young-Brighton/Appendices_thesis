@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hirudinea</keyword>
+  <gramrel name="modifiers of X" hits="7" score="24.140">
+    <coll hits="2" score="12.090">Oligochaeta</coll>
+    <coll hits="1" score="11.990">Nemertea</coll>
+    <coll hits="1" score="11.830">Acanthocephala</coll>
+    <coll hits="1" score="11.410">Hydracarina</coll>
+    <coll hits="1" score="11.190">Nematoda</coll>
+    <coll hits="1" score="10.240">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="7" score="24.140">
+    <coll hits="1" score="11.830">Tabanidae</coll>
+    <coll hits="1" score="11.410">Crustacea</coll>
+    <coll hits="1" score="11.410">Mollusca</coll>
+    <coll hits="2" score="11.040">Diptera</coll>
+    <coll hits="1" score="10.910">Hymenoptera</coll>
+    <coll hits="1" score="9.950">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="10.340">
+    <coll hits="1" score="12.680">Tabanidae</coll>
+    <coll hits="1" score="11.990">Crustacea</coll>
+    <coll hits="1" score="11.830">Mollusca</coll>
+  </gramrel>
+</wordsketch>
+</export>

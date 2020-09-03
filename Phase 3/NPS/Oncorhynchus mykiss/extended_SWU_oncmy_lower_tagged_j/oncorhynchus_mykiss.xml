@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">oncorhynchus_mykiss</keyword>
+  <gramrel name="modifiers of X" hits="142" score="19.920">
+    <coll hits="74" score="13.140">rainbow_trout</coll>
+    <coll hits="48" score="12.880">rainbow_trout</coll>
+    <coll hits="10" score="10.710">steelhead</coll>
+    <coll hits="2" score="8.780">steelhead_trout</coll>
+    <coll hits="2" score="8.590">salmo_trutta</coll>
+    <coll hits="3" score="8.080">trout</coll>
+    <coll hits="1" score="7.820">oncorhynchus_mykiss</coll>
+    <coll hits="1" score="7.810">oncorhynchus_nerka</coll>
+    <coll hits="1" score="7.770">salmonidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="16" score="2.240">
+    <coll hits="2" score="11.300">rainbow</coll>
+    <coll hits="1" score="10.750">salvelinus_alpinus</coll>
+    <coll hits="1" score="10.680">oncorhynchus_kisutch</coll>
+    <coll hits="2" score="10.510">rainbow_trout</coll>
+    <coll hits="8" score="10.080">salmo_trutta</coll>
+    <coll hits="2" score="10.070">salmo_gairdneri</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="22" score="3.090">
+    <coll hits="18" score="11.840">salmo_trutta</coll>
+    <coll hits="1" score="10.410">oncorhynchus_kisutch</coll>
+    <coll hits="2" score="10.160">salmo_gairdneri</coll>
+    <coll hits="1" score="9.140">rainbow_trout</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="22" score="3.090">
+    <coll hits="1" score="10.470">derjavini</coll>
+    <coll hits="1" score="10.470">opataceum</coll>
+    <coll hits="2" score="9.010">swimming</coll>
+    <coll hits="1" score="8.460">medium</coll>
+    <coll hits="1" score="8.180">course</coll>
+    <coll hits="1" score="8.040">network</coll>
+    <coll hits="1" score="7.880">fork</coll>
+    <coll hits="1" score="6.910">capture</coll>
+    <coll hits="2" score="6.460">dam</coll>
+    <coll hits="1" score="6.350">catch</coll>
+    <coll hits="2" score="6.230">sample</coll>
+    <coll hits="1" score="5.340">development</coll>
+    <coll hits="1" score="4.800">community</coll>
+    <coll hits="1" score="4.360">predator</coll>
+    <coll hits="3" score="4.200">river</coll>
+    <coll hits="1" score="4.180">fishery</coll>
+    <coll hits="1" score="3.750">stream</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="5" score="0.700">
+    <coll hits="1" score="12.190">market</coll>
+    <coll hits="4" score="11.570">salaris</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="0.280">
+    <coll hits="2" score="12.410">brown_trout</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="0.280">
+    <coll hits="1" score="11.540">brown_trout</coll>
+    <coll hits="1" score="10.090">salmonidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

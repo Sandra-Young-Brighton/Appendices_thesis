@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gobioidei</keyword>
+  <gramrel name="X and/or ..." hits="1" score="2.700">
+    <coll hits="1" score="8.620">specie</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="5" score="13.510">
+    <coll hits="1" score="12.190">predator-prey</coll>
+    <coll hits="1" score="11.990">Sicyopterus</coll>
+    <coll hits="1" score="11.990">fish</coll>
+    <coll hits="2" score="11.410">species</coll>
+  </gramrel>
+</wordsketch>
+</export>

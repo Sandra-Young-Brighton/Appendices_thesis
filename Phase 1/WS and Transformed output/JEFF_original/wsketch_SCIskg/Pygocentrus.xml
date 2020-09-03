@@ -1,0 +1,61 @@
+<!--: spam
+Content-Type: text/html
+
+<body bgcolor="#f0f0f8"><font color="#f0f0f8" size="-5"> -->
+<body bgcolor="#f0f0f8"><font color="#f0f0f8" size="-5"> --> -->
+</font> </font> </font> </script> </object> </blockquote> </pre>
+</table> </table> </table> </table> </table> </font> </font> </font><body bgcolor="#f0f0f8">
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#6622aa">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>&lt;type 'exceptions.Exception'&gt;</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial">Python 2.7.15: /usr/bin/python<br>Wed Jan  2 13:49:13 2019</font></td></tr></table>
+    
+<p>A problem occurred in a Python script.  Here is the sequence of
+function calls leading up to the error, in the order they occurred.</p>
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="file:///var/www/bonito/run.cgi">/var/www/bonito/run.cgi</a> in <strong><module></strong>()</td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;113</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print&nbsp;"&lt;/pre&gt;"<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;114</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;else:<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt>=&gt;<small>&nbsp;&nbsp;115</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BonitoCGI(user=username).run_unprotected&nbsp;(selectorname='corpname')<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;116</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;117</small>&nbsp;#&nbsp;vim:&nbsp;ts=4&nbsp;sw=4&nbsp;sta&nbsp;et&nbsp;sts=4&nbsp;si&nbsp;tw=80:<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090"><strong>BonitoCGI</strong>&nbsp;= &lt;class __main__.BonitoCGI&gt;, user <em>undefined</em>, <strong>username</strong>&nbsp;= None, ).run_unprotected <em>undefined</em>, selectorname <em>undefined</em></font></small></td></tr></table>
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="file:///usr/lib/python2.7/site-packages/bonito/CGIPublisher.py">/usr/lib/python2.7/site-packages/bonito/CGIPublisher.py</a> in <strong>run_unprotected</strong>(self=&lt;__main__.BonitoCGI instance&gt;, path=['savews'], selectorname='corpname', outf=&lt;open file '&lt;stdout&gt;', mode 'w'&gt;)</td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;238</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self._headers['Status']&nbsp;=&nbsp;'500&nbsp;Internal&nbsp;Server&nbsp;Error'<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;239</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.output_headers()<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt>=&gt;<small>&nbsp;&nbsp;240</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;raise&nbsp;Exception(e)<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;241</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.set_localisation()<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;242</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;self._has_access&nbsp;or&nbsp;path[0]&nbsp;==&nbsp;'feedback':<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090"><em>builtin</em> <strong>Exception</strong>&nbsp;= &lt;type 'exceptions.Exception'&gt;, <strong>e</strong>&nbsp;= URLError(error(111, 'Connection refused'),)</font></small></td></tr></table><p><strong>&lt;type 'exceptions.Exception'&gt;</strong>: &lt;urlopen error [Errno 111] Connection refused&gt;
+<br><tt><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</small>&nbsp;</tt>args&nbsp;=
+(URLError(error(111, 'Connection refused'),),)
+<br><tt><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</small>&nbsp;</tt>message&nbsp;=
+URLError(error(111, 'Connection refused'),)
+
+
+<!-- The above is a description of an error in a Python program, formatted
+     for a Web browser because the 'cgitb' module was enabled.  In case you
+     are not reading this in a Web browser, here is the original traceback:
+
+Traceback (most recent call last):
+  File "/var/www/bonito/run.cgi", line 115, in &lt;module&gt;
+    BonitoCGI(user=username).run_unprotected (selectorname='corpname')
+  File "/usr/lib/python2.7/site-packages/bonito/CGIPublisher.py", line 240, in run_unprotected
+    raise Exception(e)
+Exception: &lt;urlopen error [Errno 111] Connection refused&gt;
+
+-->
+

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">exalbescens</keyword>
+  <gramrel name="modifiers of X" hits="5" score="100.000">
+    <coll hits="1" score="12.410" query="w2004133889">richardsonii</coll>
+    <coll hits="4" score="10.710" query="w2004133888">Myriophyllum</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="60.000">
+    <coll hits="1" score="13.000" query="w2004153409">Haloragaceae</coll>
+    <coll hits="1" score="12.410" query="w2004153408">Najas</coll>
+    <coll hits="1" score="12.190" query="w2004153410">variegatum</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="40.000">
+    <coll hits="1" score="13.410" query="w2004115713">variegatum</coll>
+    <coll hits="1" score="13.410" query="w2004115712">Haloragaceae</coll>
+  </gramrel>
+</wordsketch>
+</export>

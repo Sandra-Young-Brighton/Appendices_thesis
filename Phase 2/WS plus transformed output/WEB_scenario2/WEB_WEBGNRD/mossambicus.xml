@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">mossambicus</keyword>
+  <gramrel name="modifiers of X" hits="35" score="72.920">
+    <coll hits="29" score="12.870" query="w1381464512">Oreochromis</coll>
+    <coll hits="2" score="10.710" query="w1381464515">Sarotherodon</coll>
+    <coll hits="3" score="9.980" query="w1381464513">Clarias</coll>
+    <coll hits="1" score="9.830" query="w1381464514">Cichlidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="2.080">
+    <coll hits="1" score="7.950" query="w1381499392">Carpio</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.080">
+    <coll hits="1" score="11.990" query="w1381454656">Carpio</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="8.330">
+    <coll hits="1" score="8.490" query="w1381509826">lagoon</coll>
+    <coll hits="2" score="8.330" query="w1381509825">Africa</coll>
+    <coll hits="1" score="3.750" query="w1381509824">area</coll>
+  </gramrel>
+</wordsketch>
+</export>

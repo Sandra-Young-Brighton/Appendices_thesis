@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Mastacembelus_aculeatus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="50.000">
+    <coll hits="1" score="13.410">Mastacembelidae</coll>
+    <coll hits="1" score="11.670">Perciformes</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="25.000">
+    <coll hits="1" score="10.350">left</coll>
+  </gramrel>
+</wordsketch>
+</export>

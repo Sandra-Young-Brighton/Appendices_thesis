@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Myxosporidia</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="33.330">
+    <coll hits="2" score="8.480" query="w2016565952">fauna</coll>
+  </gramrel>
+</wordsketch>
+</export>

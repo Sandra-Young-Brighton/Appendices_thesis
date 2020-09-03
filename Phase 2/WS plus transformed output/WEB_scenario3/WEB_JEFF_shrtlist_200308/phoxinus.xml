@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">phoxinus</keyword>
+  <gramrel name="modifiers of X" hits="49" score="74.240">
+    <coll hits="46" score="13.890">Phoxinus</coll>
+    <coll hits="2" score="10.240">gobio</coll>
+    <coll hits="1" score="9.140">thymallus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="4.550">
+    <coll hits="2" score="12.830">barbatulus</coll>
+    <coll hits="1" score="12.680">bipunctatus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="4.550">
+    <coll hits="2" score="13.670">barbatulus</coll>
+    <coll hits="1" score="13.000">bipunctatus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="3.030">
+    <coll hits="1" score="13.000">phoxini</coll>
+    <coll hits="1" score="2.890">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

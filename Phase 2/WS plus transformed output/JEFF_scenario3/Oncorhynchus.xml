@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Oncorhynchus</keyword>
+  <gramrel name="modifiers of X" hits="7" score="0.780">
+    <coll hits="5" score="6.820">Salmo</coll>
+    <coll hits="2" score="6.700">Oncorhynchus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="621" score="69.230">
+    <coll hits="212" score="12.990">mykiss</coll>
+    <coll hits="138" score="12.520">kisutch</coll>
+    <coll hits="105" score="12.200">nerka</coll>
+    <coll hits="101" score="12.150">tshawytscha</coll>
+    <coll hits="15" score="9.580">gorbuscha</coll>
+    <coll hits="14" score="9.490">keta</coll>
+    <coll hits="12" score="9.270">clarki</coll>
+    <coll hits="5" score="8.000">clarkii</coll>
+    <coll hits="2" score="6.710">rhodurus</coll>
+    <coll hits="2" score="6.710">tschawytscha</coll>
+    <coll hits="2" score="6.710">kitsutch</coll>
+    <coll hits="2" score="6.710">masu</coll>
+    <coll hits="2" score="6.710">spp</coll>
+    <coll hits="2" score="6.700">Oncorhynchus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="0.670">
+    <coll hits="5" score="13.320">Salvelinus</coll>
+  </gramrel>
+</wordsketch>
+</export>

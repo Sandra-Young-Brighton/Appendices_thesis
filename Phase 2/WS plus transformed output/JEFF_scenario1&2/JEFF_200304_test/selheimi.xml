@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">selheimi</keyword>
+  <gramrel name="modifiers of X" hits="2" score="66.670">
+    <coll hits="1" score="13.000">lineolata</coll>
+    <coll hits="1" score="12.680">Oxyeleotris</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="33.330">
+    <coll hits="1" score="12.680">kreffti</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="33.330">
+    <coll hits="1" score="13.990">kreffti</coll>
+  </gramrel>
+</wordsketch>
+</export>

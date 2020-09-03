@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ambloplites</keyword>
+  <gramrel name="modifiers of X" hits="1" score="2.860">
+    <coll hits="1" score="9.790" query="w1656453952">Pomoxis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="21" score="60.000">
+    <coll hits="21" score="13.930" query="w1656462912">rupestris</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="2.860">
+    <coll hits="1" score="11.540" query="w1656476800">Centrarchidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

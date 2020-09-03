@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Helophoridae</keyword>
+  <gramrel name="modifiers of X" hits="2" score="100.000">
+    <coll hits="1" score="13.000" query="w2155417857">Haliplidae</coll>
+    <coll hits="1" score="13.000" query="w2155417856">Elmidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="100.000">
+    <coll hits="1" score="13.000" query="w2155434305">Hydraenidae</coll>
+    <coll hits="1" score="13.000" query="w2155434304">Hydrochidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="100.000">
+    <coll hits="1" score="13.000" query="w2155401409">Hydraenidae</coll>
+    <coll hits="1" score="13.000" query="w2155401408">Hydrochidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

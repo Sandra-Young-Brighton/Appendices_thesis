@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Mergus</keyword>
+  <gramrel name="nouns modified by X" hits="34" score="57.630">
+    <coll hits="28" score="13.850" query="w1963547072">merganser</coll>
+    <coll hits="6" score="12.260" query="w1963547073">serrator</coll>
+  </gramrel>
+</wordsketch>
+</export>

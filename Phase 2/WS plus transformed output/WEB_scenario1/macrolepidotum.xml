@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">macrolepidotum</keyword>
+  <gramrel name="modifiers of X" hits="6" score="42.860">
+    <coll hits="6" score="13.260">Moxostoma</coll>
+  </gramrel>
+</wordsketch>
+</export>

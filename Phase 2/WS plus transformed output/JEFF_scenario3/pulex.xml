@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">pulex</keyword>
+  <gramrel name="modifiers of X" hits="12" score="15.790">
+    <coll hits="3" score="12.410">Gammarus</coll>
+    <coll hits="2" score="12.190">Gummarus</coll>
+    <coll hits="5" score="12.110">Daphnia</coll>
+    <coll hits="1" score="11.300">Daphia</coll>
+    <coll hits="1" score="11.300">Gummurus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.320">
+    <coll hits="1" score="13.990">galeata</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="16" score="21.050">
+    <coll hits="4" score="7.320">pool</coll>
+    <coll hits="1" score="7.040">order</coll>
+    <coll hits="1" score="6.830">trial</coll>
+    <coll hits="1" score="6.160">treatment</coll>
+    <coll hits="1" score="6.020">presence</coll>
+    <coll hits="1" score="5.990">response</coll>
+    <coll hits="2" score="5.620">day</coll>
+    <coll hits="4" score="5.250">stream</coll>
+    <coll hits="1" score="4.710">rate</coll>
+  </gramrel>
+</wordsketch>
+</export>

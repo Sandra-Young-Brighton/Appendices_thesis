@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Coregonus_pusillus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="50.000">
+    <coll hits="1" score="9.830">species</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="50.000">
+    <coll hits="1" score="11.090">species</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="50.000">
+    <coll hits="1" score="8.000">Alaska</coll>
+  </gramrel>
+</wordsketch>
+</export>

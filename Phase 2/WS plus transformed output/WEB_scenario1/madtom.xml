@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">madtom</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="6.670">
+    <coll hits="1" score="11.830">Hexagenia</coll>
+    <coll hits="2" score="9.690">slope</coll>
+    <coll hits="1" score="6.290">goby</coll>
+    <coll hits="1" score="5.180">predation</coll>
+    <coll hits="1" score="4.770">day</coll>
+  </gramrel>
+</wordsketch>
+</export>

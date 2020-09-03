@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Centrarchidae</keyword>
+  <gramrel name="modifiers of X" hits="4" score="8.890">
+    <coll hits="2" score="13.190">Ambloplites_rupestris</coll>
+    <coll hits="1" score="12.410">Anguillidae</coll>
+    <coll hits="1" score="10.350">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="6" score="13.330">
+    <coll hits="3" score="12.580">Lepomis_spp</coll>
+    <coll hits="2" score="12.410">Lepomis_gibbosus</coll>
+    <coll hits="1" score="12.190">Lepomisgibbosus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.220">
+    <coll hits="1" score="13.990">Clupeidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

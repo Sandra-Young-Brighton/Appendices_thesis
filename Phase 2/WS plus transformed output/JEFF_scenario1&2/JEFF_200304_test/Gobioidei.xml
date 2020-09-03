@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gobioidei</keyword>
+  <gramrel name="X is the generic of..." hits="4" score="10.810">
+    <coll hits="1" score="12.680">aiensis</coll>
+    <coll hits="1" score="12.410">Sicyopterus</coll>
+    <coll hits="1" score="11.990">vitreus</coll>
+    <coll hits="1" score="11.990">Sander</coll>
+  </gramrel>
+</wordsketch>
+</export>

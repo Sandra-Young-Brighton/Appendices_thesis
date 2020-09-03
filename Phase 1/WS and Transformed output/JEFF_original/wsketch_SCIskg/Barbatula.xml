@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Barbatula</keyword>
+  <gramrel name="nouns modified by X" hits="17" score="53.130">
+    <coll hits="16" score="13.950">barbatula</coll>
+    <coll hits="1" score="7.740">Linnaeus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Epibenthic</keyword>
+  <gramrel name="X and/or ..." hits="1" score="16.670">
+    <coll hits="1" score="6.960" query="w1969166272">invertebrate</coll>
+  </gramrel>
+</wordsketch>
+</export>

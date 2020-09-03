@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">obscura</keyword>
+  <gramrel name="modifiers of X" hits="9" score="40.910">
+    <coll hits="1" score="11.670" query="w1921597443">Chimarra</coll>
+    <coll hits="1" score="11.670" query="w1921597442">Nephelopsis</coll>
+    <coll hits="3" score="10.970" query="w1921597441">Nannoperca</coll>
+    <coll hits="4" score="8.120" query="w1921597440">Anguilla</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="4.550">
+    <coll hits="1" score="12.190" query="w1921641024">lacustris</coll>
+  </gramrel>
+</wordsketch>
+</export>

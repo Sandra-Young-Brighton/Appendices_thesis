@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">clarki</keyword>
+  <gramrel name="modifiers of X" hits="41" score="32.800">
+    <coll hits="2" score="10.240">mykiss</coll>
+    <coll hits="31" score="9.490">Oncorhynchus</coll>
+    <coll hits="1" score="8.930">Onchorhynchus</coll>
+    <coll hits="7" score="7.050">Salmo</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.800">
+    <coll hits="1" score="6.660">States</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="0.800">
+    <coll hits="1" score="11.670">Salvelinus</coll>
+  </gramrel>
+</wordsketch>
+</export>

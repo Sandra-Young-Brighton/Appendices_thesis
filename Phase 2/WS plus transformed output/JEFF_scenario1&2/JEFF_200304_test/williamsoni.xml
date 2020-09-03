@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">williamsoni</keyword>
+  <gramrel name="modifiers of X" hits="11" score="100.000">
+    <coll hits="10" score="13.860">Prosopium</coll>
+    <coll hits="1" score="11.410">Proposium</coll>
+  </gramrel>
+</wordsketch>
+</export>

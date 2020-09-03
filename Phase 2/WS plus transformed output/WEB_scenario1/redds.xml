@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">redds</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="74" score="12.890">
+    <coll hits="3" score="9.890">riverbed</coll>
+    <coll hits="4" score="9.270">supply</coll>
+    <coll hits="7" score="9.240">gravel</coll>
+    <coll hits="1" score="8.750">Gorge</coll>
+    <coll hits="1" score="8.680">intruder</coll>
+    <coll hits="1" score="8.620">Sieg</coll>
+    <coll hits="1" score="8.620">digging</coll>
+    <coll hits="1" score="8.490">Frome</coll>
+    <coll hits="1" score="8.460">centimeter</coll>
+    <coll hits="1" score="8.440">susceptibility</coll>
+    <coll hits="1" score="8.440">couple</coll>
+    <coll hits="2" score="8.290">February</coll>
+    <coll hits="1" score="8.070">Fork</coll>
+    <coll hits="2" score="7.860">km</coll>
+    <coll hits="1" score="7.820">sac</coll>
+    <coll hits="1" score="7.790">s</coll>
+    <coll hits="1" score="7.740">segment</coll>
+    <coll hits="1" score="7.640">County</coll>
+    <coll hits="1" score="7.640">percentage</coll>
+    <coll hits="2" score="7.340">pool</coll>
+    <coll hits="1" score="7.280">cost</coll>
+    <coll hits="2" score="7.010">reach</coll>
+    <coll hits="1" score="6.930">origin</coll>
+    <coll hits="4" score="6.920">salmonid</coll>
+    <coll hits="2" score="6.790">tributary</coll>
+  </gramrel>
+</wordsketch>
+</export>

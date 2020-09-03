@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">truttae</keyword>
+  <gramrel name="modifiers of X" hits="33" score="56.900">
+    <coll hits="12" score="12.940" query="w1994042435">Sphaerospora</coll>
+    <coll hits="5" score="12.030" query="w1994042436">Chloromyxum</coll>
+    <coll hits="5" score="12.030" query="w1994042434">Myxidium</coll>
+    <coll hits="3" score="11.410" query="w1994042439">Echinorhynchus</coll>
+    <coll hits="2" score="10.680" query="w1994042433">truttae</coll>
+    <coll hits="1" score="9.910" query="w1994042442">Cryptobia</coll>
+    <coll hits="1" score="9.910" query="w1994042441">Spaerospora</coll>
+    <coll hits="1" score="9.910" query="w1994042440">Dentitruncus</coll>
+    <coll hits="1" score="9.910" query="w1994042438">schurovi</coll>
+    <coll hits="1" score="9.910" query="w1994042437">bryosalmonae</coll>
+    <coll hits="1" score="9.830" query="w1994042432">Myxozoa</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="7" score="12.070">
+    <coll hits="1" score="11.830" query="w1994148610">schurovi</coll>
+    <coll hits="2" score="10.680" query="w1994148609">truttae</coll>
+    <coll hits="4" score="10.540" query="w1994148608">arcticus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="7" score="12.070">
+    <coll hits="4" score="13.540" query="w1994000576">arcticus</coll>
+    <coll hits="2" score="12.540" query="w1994000577">truttae</coll>
+    <coll hits="1" score="11.990" query="w1994000578">schurovi</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="5.170">
+    <coll hits="1" score="4.900" query="w1994191361">stage</coll>
+    <coll hits="2" score="4.210" query="w1994191360">salmon</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="2" score="3.450">
+    <coll hits="2" score="13.990" query="w1994211456">Monogenea</coll>
+  </gramrel>
+</wordsketch>
+</export>

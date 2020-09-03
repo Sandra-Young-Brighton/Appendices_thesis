@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Anguilla_dieffenbachii</keyword>
+  <gramrel name="modifiers of X" hits="3" score="16.670">
+    <coll hits="3" score="8.780">eel</coll>
+  </gramrel>
+  <gramrel name="X is a ..." hits="1" score="5.560">
+    <coll hits="1" score="9.500">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

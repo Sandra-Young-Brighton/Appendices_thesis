@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ephemeroptera</keyword>
+  <gramrel name="modifiers of X" hits="14" score="7.220">
+    <coll hits="6" score="12.490">Trichoptera</coll>
+    <coll hits="2" score="11.240">Plecoptera</coll>
+    <coll hits="2" score="11.090">Gastropoda</coll>
+    <coll hits="1" score="11.090">Insecta</coll>
+    <coll hits="1" score="10.820">Bivalvia</coll>
+    <coll hits="1" score="10.600">Amphipoda</coll>
+    <coll hits="1" score="10.540">Oligochaeta</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="31" score="15.980">
+    <coll hits="19" score="13.310">Plecoptera</coll>
+    <coll hits="4" score="11.170">Trichoptera</coll>
+    <coll hits="2" score="10.910">Limnephilidae</coll>
+    <coll hits="1" score="9.950">Isopoda</coll>
+    <coll hits="1" score="9.830">Odonata</coll>
+    <coll hits="1" score="9.790">Megaloptera</coll>
+    <coll hits="1" score="9.710">Coleoptera</coll>
+    <coll hits="1" score="9.240">pulex</coll>
+    <coll hits="1" score="9.210">Diptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="36" score="18.560">
+    <coll hits="19" score="13.290">Plecoptera</coll>
+    <coll hits="3" score="11.230">Odonata</coll>
+    <coll hits="4" score="11.120">Trichoptera</coll>
+    <coll hits="3" score="10.750">Diptera</coll>
+    <coll hits="2" score="10.710">Limnephilidae</coll>
+    <coll hits="1" score="9.790">Megaloptera</coll>
+    <coll hits="1" score="9.790">pulex</coll>
+    <coll hits="1" score="9.710">Isopoda</coll>
+    <coll hits="1" score="9.480">Coleoptera</coll>
+    <coll hits="1" score="9.380">Chironomidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="2.060">
+    <coll hits="1" score="9.830">Stream</coll>
+    <coll hits="1" score="4.160">site</coll>
+    <coll hits="1" score="3.810">stream</coll>
+    <coll hits="1" score="3.750">River</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="1.030">
+    <coll hits="1" score="13.410">terrestrial</coll>
+    <coll hits="1" score="12.410">Trichoptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

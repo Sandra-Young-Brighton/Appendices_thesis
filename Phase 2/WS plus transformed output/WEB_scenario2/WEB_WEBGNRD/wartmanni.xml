@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">wartmanni</keyword>
+  <gramrel name="modifiers of X" hits="10" score="90.910">
+    <coll hits="1" score="11.410" query="w2073883586">sapa</coll>
+    <coll hits="8" score="8.860" query="w2073883584">Coregonus</coll>
+    <coll hits="1" score="8.330" query="w2073883585">Abramis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="9.090">
+    <coll hits="1" score="10.540" query="w2073912576">Austria</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">auratus</keyword>
+  <gramrel name="modifiers of X" hits="64" score="37.430">
+    <coll hits="52" score="13.520">Carassius</coll>
+    <coll hits="9" score="11.960">Pagrus</coll>
+    <coll hits="1" score="8.980">lutrensis</coll>
+    <coll hits="1" score="8.960">barbatula</coll>
+    <coll hits="1" score="8.080">Galaxias</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="1.170">
+    <coll hits="1" score="9.640">tinca</coll>
+    <coll hits="1" score="7.380">namaycush</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="1.750">
+    <coll hits="1" score="9.410">Taiwan</coll>
+    <coll hits="1" score="6.900">aquarium</coll>
+    <coll hits="1" score="5.640">winter</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pomatoschistus</keyword>
+  <gramrel name="nouns modified by X" hits="7" score="63.640">
+    <coll hits="6" score="13.880">minutus</coll>
+    <coll hits="1" score="11.990">inutes</coll>
+  </gramrel>
+</wordsketch>
+</export>

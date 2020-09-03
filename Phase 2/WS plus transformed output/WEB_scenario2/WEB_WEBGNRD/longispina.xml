@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">longispina</keyword>
+  <gramrel name="modifiers of X" hits="13" score="34.210">
+    <coll hits="9" score="11.810" query="w1706210304">Daphnia</coll>
+    <coll hits="1" score="11.190" query="w1706210307">Kellicotia</coll>
+    <coll hits="1" score="11.190" query="w1706210306">Kellicottia</coll>
+    <coll hits="2" score="10.440" query="w1706210305">Bosmina</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="2.630">
+    <coll hits="1" score="13.000" query="w1706239360">pediculus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.630">
+    <coll hits="1" score="13.990" query="w1706199808">pediculus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="10.530">
+    <coll hits="1" score="7.890" query="w1706250048">D</coll>
+    <coll hits="2" score="7.650" query="w1706250050">night</coll>
+    <coll hits="1" score="5.120" query="w1706250049">density</coll>
+  </gramrel>
+</wordsketch>
+</export>

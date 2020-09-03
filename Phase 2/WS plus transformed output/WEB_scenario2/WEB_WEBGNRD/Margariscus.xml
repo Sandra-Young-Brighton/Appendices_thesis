@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Margariscus</keyword>
+  <gramrel name="nouns modified by X" hits="8" score="72.730">
+    <coll hits="6" score="13.770" query="w2119128256">margarita</coll>
+    <coll hits="2" score="12.410" query="w2119128257">nachtriebi</coll>
+  </gramrel>
+</wordsketch>
+</export>

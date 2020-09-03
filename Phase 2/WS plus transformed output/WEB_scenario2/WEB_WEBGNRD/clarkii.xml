@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">clarkii</keyword>
+  <gramrel name="modifiers of X" hits="18" score="31.030">
+    <coll hits="5" score="12.680" query="w1657218179">Procambarus</coll>
+    <coll hits="1" score="10.300" query="w1657218178">trutta</coll>
+    <coll hits="11" score="8.010" query="w1657218176">Oncorhynchus</coll>
+    <coll hits="1" score="4.220" query="w1657218177">Salmo</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="3.450">
+    <coll hits="1" score="5.980" query="w1657261249">tributary</coll>
+    <coll hits="1" score="3.560" query="w1657261248">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

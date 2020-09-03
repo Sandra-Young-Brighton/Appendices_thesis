@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_untagged</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="21">[lc=&quot;salmon_trout&quot; | lemma_lc=&quot;salmon_trout&quot;]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#350" num="0" label="_">
+    <left>finnock (scotland), white trout (ireland) and</left>
+    <kwic> salmon_trout</kwic>
+    <right> (culinary). the term sea_trout is also used to</right>
+  </line>
+  <line refs="doc#392" num="1" label="_">
+    <left>kry) 3 3 3 3 5 5 5 5 3+5 3+5 3+5 species salmon</left>
+    <kwic> salmon_trout</kwic>
+    <right> trout salmon salmon_trout trout salmon</right>
+  </line>
+  <line refs="doc#392" num="2" label="_">
+    <left>5 3+5 species salmon salmon_trout trout salmon</left>
+    <kwic> salmon_trout</kwic>
+    <right> trout salmon salmon_trout age 0+ 1++ 0+ 1++ 0+ 1</right>
+  </line>
+  <line refs="doc#392" num="3" label="_">
+    <left>trout salmon salmon_trout trout salmon</left>
+    <kwic> salmon_trout</kwic>
+    <right> age 0+ 1++ 0+ 1++ 0+ 1++ 0+ 1++ 0+ 1++</right>
+  </line>
+  <line refs="doc#392" num="4" label="_">
+    <left>+2a+4 2+2a+4 2+2a+4 2+2a+4 species salmon</left>
+    <kwic> salmon_trout</kwic>
+    <right> trout salmon salmon_trout trout salmon</right>
+  </line>
+  <line refs="doc#392" num="5" label="_">
+    <left>2a+4 species salmon salmon_trout trout salmon</left>
+    <kwic> salmon_trout</kwic>
+    <right> trout salmon salmon_trout trout age 0+ 1++ 0+ 1</right>
+  </line>
+  <line refs="doc#392" num="6" label="_">
+    <left>trout salmon salmon_trout trout salmon</left>
+    <kwic> salmon_trout</kwic>
+    <right> trout age 0+ 1++ 0+ 1++ 0+ 1++ 0+ 1++ 0+ 1</right>
+  </line>
+  <line refs="doc#392" num="7" label="_">
+    <left>4 0 0 45 0 38 6 0 0 0 0 0 103 108 4 0 0 22 0 0 salmon</left>
+    <kwic> salmon_trout</kwic>
+    <right> trout 0+ 1++ 0+ 1++ 100 m-1 100 m-1 100 m-1 100 m-1</right>
+  </line>
+  <line refs="doc#464" num="8" label="_">
+    <left>gurnard, gurnet coal-fish salmon, atlantic</left>
+    <kwic> salmon_trout</kwic>
+    <right> ling capelin allice/twite shad, alose</right>
+  </line>
+  <line refs="doc#481" num="9" label="_">
+    <left>are the same species. the fish are often called</left>
+    <kwic> salmon_trout</kwic>
+    <right>. several other fish in the salmonid family are</right>
+  </line>
+  <line refs="doc#482" num="10" label="_">
+    <left>are the same species. the fish are often called</left>
+    <kwic> salmon_trout</kwic>
+    <right>. several other fish in the salmonid family are</right>
+  </line>
+  <line refs="doc#492" num="11" label="_">
+    <left>are the same species. the fish are often called</left>
+    <kwic> salmon_trout</kwic>
+    <right>.[1] several other fish in the salmonid family</right>
+  </line>
+  <line refs="doc#777" num="12" label="_">
+    <left>, redfish, saithe, sardine, seaweed, squid,</left>
+    <kwic> salmon_trout</kwic>
+    <right>, salmon, pilchards, sardinella, scottish &amp;</right>
+  </line>
+  <line refs="doc#777" num="13" label="_">
+    <left>carp, big head, grass carp), rainbow trout,</left>
+    <kwic> salmon_trout</kwic>
+    <right>, sturgeon, cat fish, kutum fish, fitofag,</right>
+  </line>
+  <line refs="doc#781" num="14" label="_">
+    <left>carp, big head, grass carp), rainbow trout,</left>
+    <kwic> salmon_trout</kwic>
+    <right>, sturgeon, cat fish, kutum fish, fitofag,</right>
+  </line>
+  <line refs="doc#816" num="15" label="_">
+    <left>). chub dace roach gudgeon barbel grayling</left>
+    <kwic> salmon_trout</kwic>
+    <right> eel stanford bridge fry site ds powick</right>
+  </line>
+  <line refs="doc#929" num="16" label="_">
+    <left>finnock (scotland), white trout (ireland) and</left>
+    <kwic> salmon_trout</kwic>
+    <right> (culinary).[2] the term sea_trout is also used</right>
+  </line>
+  <line refs="doc#930" num="17" label="_">
+    <left>river, co. down) native species: yes hybrids:</left>
+    <kwic> salmon_trout</kwic>
+    <right> hybrid &lt;/p&gt; &lt;p&gt; identifying features &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#950" num="18" label="_">
+    <left>upper loch long trout trout / salmon ford 6 0 0</left>
+    <kwic> salmon_trout</kwic>
+    <right> salmon braid bend braid / pool 6 10 trout / salmon</right>
+  </line>
+  <line refs="doc#950" num="19" label="_">
+    <left>/ pool 2400 4 16 13 439 7 6 31 28 804 1168 14 21 11 5</left>
+    <kwic> salmon_trout</kwic>
+    <right> / salmon salmon salmon 6 317 6 0 trout 18 18 15 2 2</right>
+  </line>
+  <line refs="doc#1007" num="20" label="_">
+    <left>that migrate from salt to fresh water &lt;/p&gt; &lt;p&gt;</left>
+    <kwic> salmon_trout</kwic>
+    <right>, sea_trout - flesh of marine trout that migrate</right>
+  </line>
+</concordance>
+</export>

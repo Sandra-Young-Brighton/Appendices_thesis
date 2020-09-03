@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">chironomids</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="21" score="7.870">
+    <coll hits="2" score="10.910">Spring</coll>
+    <coll hits="1" score="10.540">Suwa</coll>
+    <coll hits="1" score="10.540">rine</coll>
+    <coll hits="1" score="10.540">Målsjøen</coll>
+    <coll hits="1" score="10.470">EL2</coll>
+    <coll hits="1" score="10.300">Mere</coll>
+    <coll hits="1" score="10.190">HSI</coll>
+    <coll hits="1" score="10.090">lily</coll>
+    <coll hits="2" score="8.980">kill</coll>
+    <coll hits="1" score="8.730">hand</coll>
+    <coll hits="1" score="7.180">layer</coll>
+    <coll hits="1" score="6.980">Reservoir</coll>
+    <coll hits="1" score="6.770">week</coll>
+    <coll hits="1" score="6.170">month</coll>
+    <coll hits="1" score="5.960">relation</coll>
+    <coll hits="1" score="5.860">sculpin</coll>
+    <coll hits="1" score="5.700">experiment</coll>
+    <coll hits="1" score="5.480">food</coll>
+    <coll hits="1" score="4.330">diet</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.370">
+    <coll hits="1" score="10.820">diet</coll>
+  </gramrel>
+</wordsketch>
+</export>

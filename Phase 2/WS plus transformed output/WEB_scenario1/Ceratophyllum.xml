@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ceratophyllum</keyword>
+  <gramrel name="modifiers of X" hits="2" score="4.760">
+    <coll hits="1" score="11.300">Potamogeton</coll>
+    <coll hits="1" score="8.980">Myriophyllum</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="20" score="47.620">
+    <coll hits="18" score="13.880">demersum</coll>
+    <coll hits="1" score="10.600">Egeria</coll>
+    <coll hits="1" score="10.540">Nuphar</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="9.520">
+    <coll hits="1" score="12.680">Spirogyra</coll>
+    <coll hits="1" score="12.680">Egeria</coll>
+    <coll hits="1" score="12.410">Nuphar</coll>
+    <coll hits="1" score="11.410">Myriophyllum</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.380">
+    <coll hits="1" score="9.270">shallow</coll>
+  </gramrel>
+</wordsketch>
+</export>

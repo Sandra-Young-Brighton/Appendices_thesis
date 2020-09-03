@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Diptera</keyword>
+  <gramrel name="modifiers of X" hits="24" score="3.990">
+    <coll hits="4" score="11.710">Chironomidae</coll>
+    <coll hits="3" score="11.260">Coleoptera</coll>
+    <coll hits="2" score="11.240">Hydrophilidae</coll>
+    <coll hits="3" score="11.120">Trichoptera</coll>
+    <coll hits="2" score="11.040">Amphipoda</coll>
+    <coll hits="2" score="11.040">Hirudinea</coll>
+    <coll hits="2" score="10.790">Plecoptera</coll>
+    <coll hits="1" score="10.350">Staphylinidae</coll>
+    <coll hits="1" score="10.350">Hymenoptera</coll>
+    <coll hits="1" score="10.300">Hemiptera</coll>
+    <coll hits="1" score="10.240">Simuliidae</coll>
+    <coll hits="1" score="10.190">Orthoptera</coll>
+    <coll hits="1" score="9.210">Ephemeroptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="14" score="2.330">
+    <coll hits="2" score="11.750">Heteroptera</coll>
+    <coll hits="2" score="11.750">Odonata</coll>
+    <coll hits="2" score="11.540">Chironomidae</coll>
+    <coll hits="3" score="11.260">Trichoptera</coll>
+    <coll hits="1" score="11.090">Nematocera</coll>
+    <coll hits="1" score="11.000">Culicidae</coll>
+    <coll hits="1" score="11.000">Araneida</coll>
+    <coll hits="1" score="10.680">melanogaster</coll>
+    <coll hits="1" score="10.540">Coleoptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="12" score="2.000">
+    <coll hits="2" score="11.350">Chironomidae</coll>
+    <coll hits="2" score="11.300">Ephemeroptera</coll>
+    <coll hits="1" score="11.300">Heteroptera</coll>
+    <coll hits="1" score="11.300">Araneida</coll>
+    <coll hits="1" score="11.300">Nematocera</coll>
+    <coll hits="1" score="11.190">Culicidae</coll>
+    <coll hits="2" score="10.870">Trichoptera</coll>
+    <coll hits="1" score="10.820">Mollusca</coll>
+    <coll hits="1" score="10.540">Coleoptera</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="5" score="0.830">
+    <coll hits="1" score="12.410">Pisidium</coll>
+    <coll hits="1" score="12.410">Chironomid</coll>
+    <coll hits="1" score="12.410">Lepidoptera</coll>
+    <coll hits="1" score="12.410">Coleoptera</coll>
+    <coll hits="1" score="11.990">Copepoda</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="0.670">
+    <coll hits="1" score="11.990">Australasian</coll>
+    <coll hits="1" score="11.830">Part</coll>
+    <coll hits="1" score="8.110">drift</coll>
+    <coll hits="1" score="6.060">adult</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.170">
+    <coll hits="1" score="12.680">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.170">
+    <coll hits="1" score="11.670">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

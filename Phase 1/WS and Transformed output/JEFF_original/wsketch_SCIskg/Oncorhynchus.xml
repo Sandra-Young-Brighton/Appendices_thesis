@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Oncorhynchus</keyword>
+  <gramrel name="modifiers of X" hits="9" score="1.000">
+    <coll hits="2" score="6.900">trout</coll>
+    <coll hits="5" score="6.790">Salmo</coll>
+    <coll hits="2" score="6.680">Oncorhynchus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="625" score="69.680">
+    <coll hits="212" score="12.920">mykiss</coll>
+    <coll hits="138" score="12.480">kisutch</coll>
+    <coll hits="105" score="12.160">nerka</coll>
+    <coll hits="101" score="12.110">tshawytscha</coll>
+    <coll hits="15" score="9.580">gorbuscha</coll>
+    <coll hits="14" score="9.480">keta</coll>
+    <coll hits="12" score="9.260">clarki</coll>
+    <coll hits="5" score="7.990">clarkii</coll>
+    <coll hits="2" score="6.710">rhodurus</coll>
+    <coll hits="2" score="6.710">kitsutch</coll>
+    <coll hits="2" score="6.710">masu</coll>
+    <coll hits="2" score="6.700">tschawytscha</coll>
+    <coll hits="2" score="6.700">spp</coll>
+    <coll hits="2" score="6.680">Oncorhynchus</coll>
+    <coll hits="4" score="6.070">specie</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="0.670">
+    <coll hits="5" score="13.320">Salvelinus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="14" score="1.560">
+    <coll hits="3" score="11.580">salmon</coll>
+    <coll hits="7" score="9.260">specie</coll>
+    <coll hits="4" score="8.530">fish</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="4" score="0.450">
+    <coll hits="2" score="10.270">salmon</coll>
+    <coll hits="2" score="9.060">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Dreissena</keyword>
+  <gramrel name="nouns modified by X" hits="35" score="62.500">
+    <coll hits="30" score="13.880">polymorpha</coll>
+    <coll hits="5" score="11.990">bugensis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="3.570">
+    <coll hits="2" score="8.130">dynamics</coll>
+  </gramrel>
+</wordsketch>
+</export>

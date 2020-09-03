@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Florida</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="2.130">
+    <coll hits="1" score="12.410">Campeche</coll>
+    <coll hits="1" score="11.540">southward</coll>
+    <coll hits="1" score="9.020">1950</coll>
+    <coll hits="1" score="8.470">Mexico</coll>
+    <coll hits="1" score="6.840">April</coll>
+  </gramrel>
+</wordsketch>
+</export>

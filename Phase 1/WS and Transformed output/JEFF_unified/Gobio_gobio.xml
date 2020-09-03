@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gobio_gobio</keyword>
+  <gramrel name="modifiers of X" hits="3" score="7.500">
+    <coll hits="1" score="11.990">Cyprinus_carpio</coll>
+    <coll hits="1" score="11.990">Linnaeus</coll>
+    <coll hits="1" score="8.960">specie</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="2.500">
+    <coll hits="1" score="8.960">Rutilus_rutilus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="7.500">
+    <coll hits="2" score="7.800">specie</coll>
+    <coll hits="1" score="6.820">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

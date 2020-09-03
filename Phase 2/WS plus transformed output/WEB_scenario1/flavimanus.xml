@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">flavimanus</keyword>
+  <gramrel name="modifiers of X" hits="9" score="75.000">
+    <coll hits="9" score="13.990">Acanthogobius</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="8.330">
+    <coll hits="1" score="13.410">latipinna</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="8.330">
+    <coll hits="1" score="11.670">mudflat</coll>
+  </gramrel>
+</wordsketch>
+</export>

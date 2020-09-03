@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">californiensis</keyword>
+  <gramrel name="modifiers of X" hits="6" score="54.550">
+    <coll hits="4" score="12.830" query="w2087008128">Salmincola</coll>
+    <coll hits="1" score="12.190" query="w2087008130">Atherinopsis</coll>
+    <coll hits="1" score="12.190" query="w2087008129">Xenohaliotis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="18.180">
+    <coll hits="1" score="3.210" query="w2087037632">salmon</coll>
+    <coll hits="1" score="3.100" query="w2087037633">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

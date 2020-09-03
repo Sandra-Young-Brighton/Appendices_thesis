@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Transversotrema</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="55.560">
+    <coll hits="3" score="13.410" query="w2068456832">haasi</coll>
+    <coll hits="1" score="12.410" query="w2068456834">laurei</coll>
+    <coll hits="1" score="12.410" query="w2068456833">patialensis</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">plasma</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="1.150">
+    <coll hits="1" score="12.410" query="w1373939716">gamitana</coll>
+    <coll hits="1" score="6.650" query="w1373939713">parr</coll>
+    <coll hits="1" score="6.100" query="w1373939714">organism</coll>
+    <coll hits="1" score="5.890" query="w1373939715">male</coll>
+    <coll hits="1" score="1.750" query="w1373939712">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

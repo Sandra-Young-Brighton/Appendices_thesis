@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Diphyllobothrium</keyword>
+  <gramrel name="nouns modified by X" hits="16" score="31.370">
+    <coll hits="7" score="13.280" query="w1692143616">dendriticum</coll>
+    <coll hits="5" score="12.860" query="w1692143618">latum</coll>
+    <coll hits="4" score="12.680" query="w1692143617">ditremum</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="7.840">
+    <coll hits="1" score="8.500" query="w1692175617">Park</coll>
+    <coll hits="1" score="7.500" query="w1692175619">Britain</coll>
+    <coll hits="1" score="6.520" query="w1692175618">Trout</coll>
+    <coll hits="1" score="3.100" query="w1692175616">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

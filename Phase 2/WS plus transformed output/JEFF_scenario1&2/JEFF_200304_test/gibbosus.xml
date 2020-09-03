@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">gibbosus</keyword>
+  <gramrel name="modifiers of X" hits="65" score="73.860">
+    <coll hits="60" score="13.180">Lepomis</coll>
+    <coll hits="2" score="9.930">Centrarchidae</coll>
+    <coll hits="1" score="8.960">Eupomis</coll>
+    <coll hits="1" score="8.960">Lecithaster</coll>
+    <coll hits="1" score="8.960">gibelio</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="4.550">
+    <coll hits="1" score="10.000">parva</coll>
+    <coll hits="3" score="9.580">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="4.550">
+    <coll hits="1" score="12.680">varicus</coll>
+    <coll hits="1" score="12.680">parva</coll>
+    <coll hits="1" score="11.410">Linnaeus</coll>
+    <coll hits="1" score="10.300">trutta</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="3.410">
+    <coll hits="1" score="9.300">Park</coll>
+    <coll hits="1" score="6.950">Europe</coll>
+    <coll hits="1" score="6.790">pond</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">aeglefinus</keyword>
+  <gramrel name="modifiers of X" hits="22" score="68.750">
+    <coll hits="21" score="13.960">Melanogrammus</coll>
+    <coll hits="1" score="10.350">morhua</coll>
+  </gramrel>
+</wordsketch>
+</export>

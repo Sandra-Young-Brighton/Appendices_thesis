@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gymnocephalus_cernuus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="4.260">
+    <coll hits="1" score="13.000">Perca_fluviatilis</coll>
+    <coll hits="1" score="7.620">perch</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="4.260">
+    <coll hits="1" score="13.000">Gadus_morhua</coll>
+    <coll hits="1" score="12.410">Neogobius_melanostomus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.130">
+    <coll hits="1" score="13.410">Gadus_morhua</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.130">
+    <coll hits="1" score="4.810">condition</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="2.130">
+    <coll hits="1" score="6.810">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Prosopium</keyword>
+  <gramrel name="nouns modified by X" hits="36" score="61.020">
+    <coll hits="18" score="13.360" query="w1656935105">williamsoni</coll>
+    <coll hits="6" score="12.190" query="w1656935106">cylindraceum</coll>
+    <coll hits="5" score="11.960" query="w1656935108">coulteri</coll>
+    <coll hits="5" score="11.830" query="w1656935109">coulterii</coll>
+    <coll hits="1" score="9.710" query="w1656935107">alpenae</coll>
+    <coll hits="1" score="9.350" query="w1656935104">Salmo</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.690">
+    <coll hits="1" score="12.190" query="w1656926528">Salmo</coll>
+  </gramrel>
+</wordsketch>
+</export>

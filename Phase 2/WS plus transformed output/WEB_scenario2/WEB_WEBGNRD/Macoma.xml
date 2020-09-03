@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Macoma</keyword>
+  <gramrel name="nouns modified by X" hits="7" score="70.000">
+    <coll hits="7" score="13.990" query="w1956195392">balthica</coll>
+  </gramrel>
+</wordsketch>
+</export>

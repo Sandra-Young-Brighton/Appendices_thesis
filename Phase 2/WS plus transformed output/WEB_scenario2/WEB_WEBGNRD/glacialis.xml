@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">glacialis</keyword>
+  <gramrel name="modifiers of X" hits="4" score="57.140">
+    <coll hits="3" score="13.770" query="w2029618304">Arctogadus</coll>
+    <coll hits="1" score="12.680" query="w2029618305">Fulmarus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="14.290">
+    <coll hits="1" score="12.680" query="w2029640128">Pleuronectidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

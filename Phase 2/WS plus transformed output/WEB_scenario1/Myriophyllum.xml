@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Myriophyllum</keyword>
+  <gramrel name="modifiers of X" hits="4" score="1.320">
+    <coll hits="1" score="12.410">Sagittaria</coll>
+    <coll hits="1" score="11.090">Potamogeton</coll>
+    <coll hits="1" score="9.950">Hydrilla</coll>
+    <coll hits="1" score="8.930">Myriophyllum</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="63" score="20.720">
+    <coll hits="57" score="13.880">spicatum</coll>
+    <coll hits="4" score="10.930">exalbescens</coll>
+    <coll hits="1" score="8.980">Ceratophyllum</coll>
+    <coll hits="1" score="8.930">Myriophyllum</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="0.660">
+    <coll hits="1" score="13.000">Ceratophyllum</coll>
+    <coll hits="1" score="13.000">Potamogeton</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="11" score="3.620">
+    <coll hits="4" score="11.950">Triglochin</coll>
+    <coll hits="1" score="10.600">PC2</coll>
+    <coll hits="2" score="10.380">Eleocharis</coll>
+    <coll hits="1" score="7.990">1970</coll>
+    <coll hits="1" score="6.690">nest</coll>
+    <coll hits="1" score="4.690">prey</coll>
+    <coll hits="1" score="3.960">time</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="3" score="0.990">
+    <coll hits="1" score="13.000">refuge</coll>
+    <coll hits="1" score="13.000">alga</coll>
+    <coll hits="1" score="12.680">detritus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="0.660">
+    <coll hits="2" score="13.410">Nitella</coll>
+  </gramrel>
+</wordsketch>
+</export>

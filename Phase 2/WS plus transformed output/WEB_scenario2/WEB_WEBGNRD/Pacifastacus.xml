@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pacifastacus</keyword>
+  <gramrel name="nouns modified by X" hits="18" score="94.740">
+    <coll hits="16" score="13.910" query="w1915512640">leniusculus</coll>
+    <coll hits="1" score="10.750" query="w1915512641">lenisculus</coll>
+    <coll hits="1" score="10.600" query="w1915512642">Astacidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

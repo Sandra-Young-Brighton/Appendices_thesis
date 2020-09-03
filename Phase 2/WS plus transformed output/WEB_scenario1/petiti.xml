@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">petiti</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="50.000">
+    <coll hits="1" score="9.350">subspecies</coll>
+    <coll hits="1" score="5.400">part</coll>
+  </gramrel>
+</wordsketch>
+</export>

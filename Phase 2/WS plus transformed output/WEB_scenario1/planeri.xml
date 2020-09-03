@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">planeri</keyword>
+  <gramrel name="modifiers of X" hits="69" score="53.080">
+    <coll hits="68" score="12.580">Lampetra</coll>
+    <coll hits="1" score="8.570">fluviatilis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="1.540">
+    <coll hits="1" score="11.830">Lucius</coll>
+    <coll hits="1" score="10.410">fluviatilis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="9" score="6.920">
+    <coll hits="1" score="11.670">Hebride</coll>
+    <coll hits="2" score="9.870">Lomond</coll>
+    <coll hits="1" score="7.570">case</coll>
+    <coll hits="1" score="6.560">field</coll>
+    <coll hits="1" score="6.000">Europe</coll>
+    <coll hits="1" score="4.340">number</coll>
+    <coll hits="1" score="3.960">time</coll>
+    <coll hits="1" score="3.810">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

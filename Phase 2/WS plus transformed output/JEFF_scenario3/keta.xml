@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">keta</keyword>
+  <gramrel name="modifiers of X" hits="15" score="48.390">
+    <coll hits="1" score="10.410">Oncorhyncus</coll>
+    <coll hits="14" score="9.490">Oncorhynchus</coll>
+  </gramrel>
+</wordsketch>
+</export>

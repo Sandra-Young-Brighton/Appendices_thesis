@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">kindtii</keyword>
+  <gramrel name="modifiers of X" hits="7" score="100.000">
+    <coll hits="6" score="13.880">Leptodora</coll>
+    <coll hits="1" score="11.830">gibberum</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="28.570">
+    <coll hits="1" score="13.000">pediculus</coll>
+    <coll hits="1" score="11.410">longimanus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="28.570">
+    <coll hits="1" score="13.410">pediculus</coll>
+    <coll hits="1" score="13.000">longimanus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">pumpkinseed</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="21" score="9.810">
+    <coll hits="1" score="10.300">Boringwheel</coll>
+    <coll hits="1" score="10.140">addi</coll>
+    <coll hits="1" score="9.020">UK</coll>
+    <coll hits="1" score="8.790">pop</coll>
+    <coll hits="1" score="8.730">country</coll>
+    <coll hits="1" score="8.650">condi</coll>
+    <coll hits="1" score="8.650">invader</coll>
+    <coll hits="1" score="8.050">England</coll>
+    <coll hits="2" score="7.850">Europe</coll>
+    <coll hits="1" score="7.770">crayfish</coll>
+    <coll hits="1" score="7.360">spe</coll>
+    <coll hits="1" score="7.160">body</coll>
+    <coll hits="1" score="7.050">strategy</coll>
+    <coll hits="1" score="7.010">order</coll>
+    <coll hits="1" score="6.980">function</coll>
+    <coll hits="1" score="5.970">response</coll>
+    <coll hits="1" score="5.690">region</coll>
+    <coll hits="1" score="5.230">Lake</coll>
+    <coll hits="1" score="3.480">lake</coll>
+    <coll hits="1" score="3.260">population</coll>
+  </gramrel>
+</wordsketch>
+</export>

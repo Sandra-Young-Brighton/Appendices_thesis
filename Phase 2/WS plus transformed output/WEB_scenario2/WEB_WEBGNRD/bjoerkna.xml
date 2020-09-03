@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">bjoerkna</keyword>
+  <gramrel name="modifiers of X" hits="27" score="84.380">
+    <coll hits="24" score="13.880" query="w2044120771">Blicca</coll>
+    <coll hits="1" score="10.140" query="w2044120770">aspius</coll>
+    <coll hits="1" score="9.710" query="w2044120769">rutilus</coll>
+    <coll hits="1" score="8.100" query="w2044120768">Abramis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="6.250">
+    <coll hits="1" score="12.680" query="w2044162433">sapa</coll>
+    <coll hits="1" score="10.410" query="w2044162432">carassius</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="12.500">
+    <coll hits="1" score="12.680" query="w2044082499">sapa</coll>
+    <coll hits="1" score="12.680" query="w2044082497">delineatus</coll>
+    <coll hits="1" score="12.410" query="w2044082498">carassius</coll>
+    <coll hits="1" score="10.350" query="w2044082496">fluviatilis</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">geometra</keyword>
+  <gramrel name="modifiers of X" hits="5" score="25.000">
+    <coll hits="5" score="13.990" query="w2113248704">Piscicola</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="10.000">
+    <coll hits="1" score="13.000" query="w2113262913">sieboldi</coll>
+    <coll hits="1" score="13.000" query="w2113262912">Ergasilus</coll>
+  </gramrel>
+</wordsketch>
+</export>

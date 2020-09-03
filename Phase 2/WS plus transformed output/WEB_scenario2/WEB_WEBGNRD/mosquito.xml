@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">mosquito</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="10" score="7.250">
+    <coll hits="1" score="11.540" query="w1864633799">immunoelectrophoresis9</coll>
+    <coll hits="1" score="11.090" query="w1864633800">Himalayas</coll>
+    <coll hits="2" score="10.820" query="w1864633798">village</coll>
+    <coll hits="1" score="9.270" query="w1864633797">container</coll>
+    <coll hits="1" score="8.960" query="w1864633793">plot</coll>
+    <coll hits="1" score="8.710" query="w1864633796">marsh</coll>
+    <coll hits="1" score="6.600" query="w1864633795">pool</coll>
+    <coll hits="1" score="6.000" query="w1864633792">presence</coll>
+    <coll hits="1" score="5.700" query="w1864633794">response</coll>
+  </gramrel>
+</wordsketch>
+</export>

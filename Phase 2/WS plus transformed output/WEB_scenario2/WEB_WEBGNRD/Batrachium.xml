@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Batrachium</keyword>
+  <gramrel name="modifiers of X" hits="2" score="16.670">
+    <coll hits="1" score="13.410" query="w1954742593">subgenus</coll>
+    <coll hits="1" score="12.680" query="w1954742592">Ranunculus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="5" score="41.670">
+    <coll hits="2" score="13.190" query="w1954759617">penicillatum</coll>
+    <coll hits="2" score="13.190" query="w1954759616">trichophyllum</coll>
+    <coll hits="1" score="12.410" query="w1954759618">penniculatum</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="8.330">
+    <coll hits="1" score="3.560" query="w1954782976">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

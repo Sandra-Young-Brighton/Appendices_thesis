@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">aquaticus</keyword>
+  <gramrel name="modifiers of X" hits="14" score="45.160">
+    <coll hits="14" score="13.990" query="w1953670208">Asellus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="3.230">
+    <coll hits="1" score="13.990" query="w1953659200">antipodarum</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="6.450">
+    <coll hits="1" score="10.140" query="w1953680577">reed</coll>
+    <coll hits="1" score="2.890" query="w1953680576">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

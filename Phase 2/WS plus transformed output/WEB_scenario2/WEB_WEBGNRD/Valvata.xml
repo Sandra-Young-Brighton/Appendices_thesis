@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Valvata</keyword>
+  <gramrel name="nouns modified by X" hits="11" score="61.110">
+    <coll hits="3" score="12.770" query="w2114783361">piscinalis</coll>
+    <coll hits="2" score="12.190" query="w2114783360">cristata</coll>
+    <coll hits="6" score="9.220" query="w2114783362">indet</coll>
+  </gramrel>
+</wordsketch>
+</export>

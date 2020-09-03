@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">oualaniensis</keyword>
+  <gramrel name="modifiers of X" hits="2" score="66.670">
+    <coll hits="1" score="13.410" query="w2166026945">Sthenotheutis</coll>
+    <coll hits="1" score="13.410" query="w2166026944">Sthenoteuthis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="66.670">
+    <coll hits="1" score="10.410" query="w2166042689">Hawaii</coll>
+    <coll hits="1" score="5.540" query="w2166042688">depth</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">oncorhynchus_mykiss</keyword>
+  <gramrel name="modifiers of X" hits="45" score="21.530">
+    <coll hits="27" score="13.390">rainbow_trout</coll>
+    <coll hits="9" score="12.240">rainbow_trout</coll>
+    <coll hits="3" score="10.940">steelhead_trout</coll>
+    <coll hits="3" score="10.820">steelhead</coll>
+    <coll hits="1" score="9.480">steelhead_trout</coll>
+    <coll hits="1" score="9.350">salmo_trutta</coll>
+    <coll hits="1" score="7.490">trout</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.480">
+    <coll hits="1" score="11.190">salvelinus_fontinalis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="21" score="10.050">
+    <coll hits="4" score="11.950">kamchatka</coll>
+    <coll hits="1" score="8.220">sympatry</coll>
+    <coll hits="1" score="7.700">course</coll>
+    <coll hits="3" score="6.820">creek</coll>
+    <coll hits="1" score="6.780">category</coll>
+    <coll hits="4" score="6.570">system</coll>
+    <coll hits="1" score="6.010">June</coll>
+    <coll hits="3" score="4.240">river</coll>
+    <coll hits="2" score="4.200">stream</coll>
+    <coll hits="1" score="3.240">population</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="0.960">
+    <coll hits="1" score="12.680">rainbow_trout</coll>
+    <coll hits="1" score="11.990">brown_trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

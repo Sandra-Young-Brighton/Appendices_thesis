@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fluviatilis</keyword>
+  <gramrel name="modifiers of X" hits="740" score="72.480">
+    <coll hits="526" score="13.560">Perca</coll>
+    <coll hits="204" score="12.650">Lampetra</coll>
+    <coll hits="2" score="6.460">erythrophthalmus</coll>
+    <coll hits="2" score="6.460">lucioperca</coll>
+    <coll hits="2" score="6.300">Neogobius</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="17" score="1.670">
+    <coll hits="7" score="10.710">Linnaeus</coll>
+    <coll hits="2" score="9.280">brama</coll>
+    <coll hits="2" score="7.850">rutilus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="20" score="1.960">
+    <coll hits="5" score="12.410">rutilus</coll>
+    <coll hits="4" score="12.190">brama</coll>
+    <coll hits="3" score="11.990">planeri</coll>
+    <coll hits="2" score="10.910">cernua</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="45" score="4.410">
+    <coll hits="43" score="12.620">Cyprinidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="15" score="1.470">
+    <coll hits="2" score="9.750">Lomond</coll>
+    <coll hits="2" score="7.530">field</coll>
+    <coll hits="2" score="4.740">area</coll>
+  </gramrel>
+</wordsketch>
+</export>

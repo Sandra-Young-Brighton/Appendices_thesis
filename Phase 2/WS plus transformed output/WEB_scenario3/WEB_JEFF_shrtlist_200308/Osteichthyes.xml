@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Osteichthyes</keyword>
+  <gramrel name="modifiers of X" hits="2" score="8.000">
+    <coll hits="1" score="13.410">Labeo</coll>
+    <coll hits="1" score="12.410">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="7" score="28.000">
+    <coll hits="2" score="12.830">Scorpaeniformes</coll>
+    <coll hits="1" score="11.990">Characiformes</coll>
+    <coll hits="1" score="11.990">Perciformes</coll>
+    <coll hits="1" score="11.830">Gobiidae</coll>
+    <coll hits="1" score="11.410">Sciaenidae</coll>
+    <coll hits="1" score="9.670">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="7" score="28.000">
+    <coll hits="2" score="12.830">Scorpaeniformes</coll>
+    <coll hits="1" score="11.990">Characiformes</coll>
+    <coll hits="1" score="11.990">Perciformes</coll>
+    <coll hits="1" score="11.990">Gobiidae</coll>
+    <coll hits="1" score="11.300">Sciaenidae</coll>
+    <coll hits="1" score="10.410">Salmonidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

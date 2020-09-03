@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">crockeri</keyword>
+  <gramrel name="modifiers of X" hits="17" score="10.970">
+    <coll hits="16" score="13.950" query="w2047809536">Normanichthys</coll>
+    <coll hits="1" score="10.820" query="w2047809537">Acanthemblemaria</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="36" score="23.230">
+    <coll hits="10" score="11.440" query="w2047829319">Chile</coll>
+    <coll hits="2" score="10.600" query="w2047829323">Talcahuano</coll>
+    <coll hits="2" score="9.800" query="w2047829320">plane</coll>
+    <coll hits="4" score="9.300" query="w2047829317">November</coll>
+    <coll hits="2" score="9.210" query="w2047829318">spawn</coll>
+    <coll hits="2" score="9.150" query="w2047829321">ontogeny</coll>
+    <coll hits="2" score="8.460" query="w2047829322">bay</coll>
+    <coll hits="2" score="7.360" query="w2047829316">net</coll>
+    <coll hits="4" score="7.090" query="w2047829314">ecosystem</coll>
+    <coll hits="2" score="6.520" query="w2047829313">spring</coll>
+    <coll hits="2" score="4.730" query="w2047829315">area</coll>
+    <coll hits="2" score="4.070" query="w2047829312">water</coll>
+  </gramrel>
+</wordsketch>
+</export>

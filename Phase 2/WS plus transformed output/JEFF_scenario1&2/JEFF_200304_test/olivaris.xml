@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">olivaris</keyword>
+  <gramrel name="modifiers of X" hits="7" score="53.850">
+    <coll hits="7" score="13.720">Pylodictis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="15.380">
+    <coll hits="2" score="12.830">Morone</coll>
+  </gramrel>
+</wordsketch>
+</export>

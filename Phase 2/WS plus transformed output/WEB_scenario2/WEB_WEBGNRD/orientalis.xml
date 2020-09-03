@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">orientalis</keyword>
+  <gramrel name="modifiers of X" hits="5" score="83.330">
+    <coll hits="3" score="12.410" query="w2029975296">Thunnus</coll>
+    <coll hits="1" score="12.410" query="w2029975298">Blatta</coll>
+    <coll hits="1" score="12.190" query="w2029975297">Anarhichas</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="33.330">
+    <coll hits="1" score="5.960" query="w2030000449">Canada</coll>
+    <coll hits="1" score="5.420" query="w2030000448">Sea</coll>
+  </gramrel>
+</wordsketch>
+</export>

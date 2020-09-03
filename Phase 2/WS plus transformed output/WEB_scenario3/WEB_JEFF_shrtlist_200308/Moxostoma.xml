@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Moxostoma</keyword>
+  <gramrel name="nouns modified by X" hits="14" score="23.730">
+    <coll hits="6" score="13.260">macrolepidotum</coll>
+    <coll hits="3" score="12.490">duquesnei</coll>
+    <coll hits="3" score="12.490">erythrurum</coll>
+    <coll hits="2" score="11.990">valenciennesi</coll>
+  </gramrel>
+</wordsketch>
+</export>

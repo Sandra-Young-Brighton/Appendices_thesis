@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">oceanicus</keyword>
+  <gramrel name="modifiers of X" hits="5" score="125.000">
+    <coll hits="4" score="12.830" query="w2034521153">Conger</coll>
+    <coll hits="1" score="12.410" query="w2034521152">rostrata</coll>
+  </gramrel>
+</wordsketch>
+</export>

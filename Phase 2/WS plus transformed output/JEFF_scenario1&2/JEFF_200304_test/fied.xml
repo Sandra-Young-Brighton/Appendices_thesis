@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fied</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="16" score="42.110">
+    <coll hits="1" score="10.750">associate</coll>
+    <coll hits="1" score="10.750">Cowx</coll>
+    <coll hits="1" score="10.750">chasing</coll>
+    <coll hits="1" score="10.240">herbivore</coll>
+    <coll hits="1" score="10.040">enhancement</coll>
+    <coll hits="1" score="9.910">omnivore</coll>
+    <coll hits="1" score="8.250">adaptation</coll>
+    <coll hits="1" score="7.370">sculpin</coll>
+    <coll hits="1" score="7.290">Australia</coll>
+    <coll hits="1" score="6.820">category</coll>
+    <coll hits="1" score="6.740">field</coll>
+    <coll hits="1" score="6.470">night</coll>
+    <coll hits="1" score="5.100">abundance</coll>
+    <coll hits="1" score="3.920">area</coll>
+    <coll hits="1" score="3.770">site</coll>
+    <coll hits="1" score="3.720">habitat</coll>
+  </gramrel>
+</wordsketch>
+</export>

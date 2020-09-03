@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">data</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="13" score="3.450">
+    <coll hits="2" score="11.610" query="w751264902">Kidd</coll>
+    <coll hits="1" score="11.000" query="w751264906">Mubamba</coll>
+    <coll hits="1" score="10.090" query="w751264905">digenean</coll>
+    <coll hits="1" score="8.080" query="w751264898">Institute</coll>
+    <coll hits="2" score="8.020" query="w751264897">Department</coll>
+    <coll hits="1" score="7.290" query="w751264903">Washington</coll>
+    <coll hits="1" score="6.730" query="w751264904">report</coll>
+    <coll hits="1" score="5.240" query="w751264899">sample</coll>
+    <coll hits="1" score="3.780" query="w751264896">study</coll>
+    <coll hits="1" score="3.220" query="w751264901">population</coll>
+    <coll hits="1" score="3.100" query="w751264900">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

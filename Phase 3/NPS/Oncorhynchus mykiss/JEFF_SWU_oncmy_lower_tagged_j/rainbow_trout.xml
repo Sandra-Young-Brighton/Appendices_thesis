@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rainbow_trout</keyword>
+  <gramrel name="modifiers of X" hits="3" score="0.600">
+    <coll hits="1" score="13.000">redband</coll>
+    <coll hits="1" score="11.410">steelhead</coll>
+    <coll hits="1" score="8.460">brown_trout</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="37" score="7.390">
+    <coll hits="27" score="13.390">oncorhynchus_mykiss</coll>
+    <coll hits="7" score="12.250">salmo_gairdneri</coll>
+    <coll hits="2" score="10.380">brown_trout</coll>
+    <coll hits="1" score="9.440">oncorhynchus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="41" score="8.180">
+    <coll hits="18" score="13.060">oncorhynchus_mykiss</coll>
+    <coll hits="7" score="12.130">salmo_gairdneri</coll>
+    <coll hits="5" score="11.190">brown_trout</coll>
+    <coll hits="9" score="10.560">trout</coll>
+    <coll hits="1" score="9.570">steelhead</coll>
+    <coll hits="1" score="9.380">oncorhynchus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="55" score="10.980">
+    <coll hits="2" score="9.390">tailwater</coll>
+    <coll hits="1" score="9.160">Norway</coll>
+    <coll hits="2" score="9.120">taimen</coll>
+    <coll hits="1" score="8.960">concealment</coll>
+    <coll hits="1" score="8.500">ssrb</coll>
+    <coll hits="1" score="8.310">west</coll>
+    <coll hits="1" score="7.830">s</coll>
+    <coll hits="1" score="7.720">tl</coll>
+    <coll hits="1" score="7.710">head</coll>
+    <coll hits="1" score="7.530">dace</coll>
+    <coll hits="3" score="7.220">winter</coll>
+    <coll hits="3" score="7.040">tributary</coll>
+    <coll hits="1" score="7.020">web</coll>
+    <coll hits="1" score="7.020">cue</coll>
+    <coll hits="2" score="6.930">relation</coll>
+    <coll hits="1" score="6.800">feeding</coll>
+    <coll hits="1" score="6.250">watershed</coll>
+    <coll hits="8" score="6.190">stream</coll>
+    <coll hits="2" score="6.160">range</coll>
+    <coll hits="1" score="6.150">survival</coll>
+    <coll hits="2" score="6.080">diet</coll>
+    <coll hits="1" score="5.770">channel</coll>
+    <coll hits="1" score="5.560">spring</coll>
+    <coll hits="1" score="5.320">salmonid</coll>
+    <coll hits="1" score="5.060">use</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="0.200">
+    <coll hits="1" score="13.000">rainbow_trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Channa</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="25.000">
+    <coll hits="1" score="12.680">marulius</coll>
+    <coll hits="3" score="10.490">punctatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

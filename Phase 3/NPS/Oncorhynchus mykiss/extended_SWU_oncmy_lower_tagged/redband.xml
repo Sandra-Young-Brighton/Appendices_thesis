@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">redband</keyword>
+  <gramrel name="modifiers of X" hits="3" score="7.140">
+    <coll hits="2" score="13.190">redband</coll>
+    <coll hits="1" score="7.990">rainbow_trout</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="9.520">
+    <coll hits="2" score="13.190">redband</coll>
+    <coll hits="1" score="11.190">rainbow</coll>
+    <coll hits="1" score="11.190">steelhead</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="9.520">
+    <coll hits="2" score="13.190">redband</coll>
+    <coll hits="1" score="11.190">rainbow</coll>
+    <coll hits="1" score="7.470">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">salmo</keyword>
+  <gramrel name="modifiers of X" hits="9" score="2.250">
+    <coll hits="3" score="12.880">oncorhynchus</coll>
+    <coll hits="1" score="11.540">prosopium</coll>
+    <coll hits="1" score="11.090">salvelinus_alpinus</coll>
+    <coll hits="1" score="10.750">salmo</coll>
+    <coll hits="3" score="8.460">trout</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="10" score="2.500">
+    <coll hits="6" score="13.260">salvelinus</coll>
+    <coll hits="1" score="11.410">hucho</coll>
+    <coll hits="1" score="10.820">coregonus</coll>
+    <coll hits="1" score="10.750">salmo</coll>
+    <coll hits="1" score="10.040">salmonidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="14" score="3.500">
+    <coll hits="10" score="13.460">salvelinus</coll>
+    <coll hits="3" score="12.330">oncorhynchus</coll>
+    <coll hits="1" score="7.910">trout</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.250">
+    <coll hits="1" score="10.240">alpinus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.250">
+    <coll hits="1" score="13.410">salmon</coll>
+  </gramrel>
+</wordsketch>
+</export>

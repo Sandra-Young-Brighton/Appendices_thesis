@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">thompsonii</keyword>
+  <gramrel name="modifiers of X" hits="29" score="93.550">
+    <coll hits="27" score="13.110">Myoxocephalus</coll>
+    <coll hits="1" score="10.090">ricei</coll>
+    <coll hits="1" score="6.590">Cottus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="6.450">
+    <coll hits="2" score="7.410">Michigan</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cercariae</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="12" score="25.530">
+    <coll hits="2" score="12.190" query="w2068524361">strigeoid</coll>
+    <coll hits="2" score="12.190" query="w2068524358">tilapiae</coll>
+    <coll hits="1" score="11.300" query="w2068524359">patialense</coll>
+    <coll hits="1" score="11.300" query="w2068524357">Allocreadium</coll>
+    <coll hits="1" score="11.090" query="w2068524356">simplex</coll>
+    <coll hits="1" score="11.000" query="w2068524360">10oC</coll>
+    <coll hits="1" score="10.750" query="w2068524355">Diplostomum</coll>
+    <coll hits="1" score="8.520" query="w2068524354">snail</coll>
+    <coll hits="1" score="5.750" query="w2068524353">C</coll>
+    <coll hits="1" score="3.860" query="w2068524352">species</coll>
+  </gramrel>
+</wordsketch>
+</export>

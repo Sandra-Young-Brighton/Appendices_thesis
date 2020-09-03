@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">brama</keyword>
+  <gramrel name="modifiers of X" hits="59" score="45.380">
+    <coll hits="54" score="13.810">Abramis</coll>
+    <coll hits="2" score="9.850">rutilus</coll>
+    <coll hits="1" score="9.090">amarus</coll>
+    <coll hits="1" score="8.960">Cyprinidae</coll>
+    <coll hits="1" score="8.820">fluviatilis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="3.080">
+    <coll hits="1" score="10.090">bjoerkna</coll>
+    <coll hits="1" score="9.870">alburnus</coll>
+    <coll hits="1" score="8.960">barbus</coll>
+    <coll hits="1" score="7.250">rutilus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="3.080">
+    <coll hits="1" score="12.410">barbus</coll>
+    <coll hits="1" score="12.190">bjoerkna</coll>
+    <coll hits="1" score="11.990">alburnus</coll>
+    <coll hits="1" score="11.090">rutilus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="2.310">
+    <coll hits="1" score="9.530">Speldrop</coll>
+    <coll hits="1" score="7.140">R</coll>
+    <coll hits="1" score="5.070">sample</coll>
+  </gramrel>
+</wordsketch>
+</export>

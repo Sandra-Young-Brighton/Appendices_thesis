@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Clupea</keyword>
+  <gramrel name="nouns modified by X" hits="107" score="61.490">
+    <coll hits="83" score="13.800" query="w1438480705">harengus</coll>
+    <coll hits="17" score="12.130" query="w1438480708">pallasii</coll>
+    <coll hits="5" score="10.510" query="w1438480706">pallasi</coll>
+    <coll hits="1" score="8.230" query="w1438480707">Catostomidae</coll>
+    <coll hits="1" score="8.080" query="w1438480704">Salmo</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.570">
+    <coll hits="1" score="11.830" query="w1438534080">fishery</coll>
+  </gramrel>
+</wordsketch>
+</export>

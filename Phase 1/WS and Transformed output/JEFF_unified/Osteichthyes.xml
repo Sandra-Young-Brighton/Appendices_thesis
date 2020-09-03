@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Osteichthyes</keyword>
+  <gramrel name="modifiers of X" hits="1" score="9.090">
+    <coll hits="1" score="13.000">Pimephales_promelas</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="27.270">
+    <coll hits="1" score="13.000">Siluriformes</coll>
+    <coll hits="1" score="12.680">Cypinidae</coll>
+    <coll hits="1" score="12.190">Characidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="27.270">
+    <coll hits="1" score="13.000">Cypinidae</coll>
+    <coll hits="1" score="13.000">Siluriformes</coll>
+    <coll hits="1" score="12.190">Characidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

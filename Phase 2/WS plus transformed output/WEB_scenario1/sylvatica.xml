@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">sylvatica</keyword>
+  <gramrel name="modifiers of X" hits="9" score="60.000">
+    <coll hits="7" score="13.800">Fagus</coll>
+    <coll hits="2" score="11.470">Rana</coll>
+  </gramrel>
+</wordsketch>
+</export>

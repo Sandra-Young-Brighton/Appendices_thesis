@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Trutta</keyword>
+  <gramrel name="modifiers of X" hits="13" score="72.220">
+    <coll hits="2" score="12.090" query="w2065590657">Trutta</coll>
+    <coll hits="2" score="11.350" query="w2065590658">Arripis</coll>
+    <coll hits="9" score="7.400" query="w2065590656">Salmo</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="2" score="11.110" query="w2065630784">nouns modified by &quot;%w&quot;</coll>
+  </gramrel>
+</wordsketch>
+</export>

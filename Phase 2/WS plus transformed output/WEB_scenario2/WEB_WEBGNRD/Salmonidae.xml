@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salmonidae</keyword>
+  <gramrel name="modifiers of X" hits="33" score="12.410">
+    <coll hits="6" score="12.190" query="w400288523">thymallus</coll>
+    <coll hits="5" score="12.070" query="w400288524">Salmoniformes</coll>
+    <coll hits="4" score="11.640" query="w400288528">Catostomidae</coll>
+    <coll hits="2" score="10.820" query="w400288530">Umbridae</coll>
+    <coll hits="1" score="9.910" query="w400288531">Esocidae</coll>
+    <coll hits="1" score="9.910" query="w400288517">clupeaformis</coll>
+    <coll hits="1" score="9.870" query="w400288529">Ictaluridae</coll>
+    <coll hits="1" score="9.870" query="w400288526">pacificus</coll>
+    <coll hits="1" score="9.870" query="w400288521">keta</coll>
+    <coll hits="1" score="9.830" query="w400288527">Percidae</coll>
+    <coll hits="1" score="9.790" query="w400288520">fontinalis</coll>
+    <coll hits="1" score="9.750" query="w400288516">namaycush</coll>
+    <coll hits="1" score="9.570" query="w400288515">Osteichthyes</coll>
+    <coll hits="1" score="9.530" query="w400288518">salar</coll>
+    <coll hits="1" score="9.480" query="w400288519">Cyprinidae</coll>
+    <coll hits="1" score="9.440" query="w400288525">Thaleichthys</coll>
+    <coll hits="1" score="7.310" query="w400288522">Thymallus</coll>
+    <coll hits="1" score="5.810" query="w400288514">Coregonus</coll>
+    <coll hits="1" score="4.880" query="w400288512">Salvelinus</coll>
+    <coll hits="1" score="4.530" query="w400288513">Oncorhynchus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="5" score="1.880">
+    <coll hits="1" score="12.410" query="w400458817">Coregonidae</coll>
+    <coll hits="1" score="11.990" query="w400458818">Osteichthyes</coll>
+    <coll hits="1" score="11.300" query="w400458820">peregra</coll>
+    <coll hits="1" score="10.910" query="w400458819">Cottidae</coll>
+    <coll hits="1" score="5.520" query="w400458816">mykiss</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="5" score="1.880">
+    <coll hits="1" score="12.410" query="w400254722">Osteichthyes</coll>
+    <coll hits="1" score="12.410" query="w400254721">Coregonidae</coll>
+    <coll hits="1" score="12.190" query="w400254723">Thymallus</coll>
+    <coll hits="1" score="11.990" query="w400254724">Cottidae</coll>
+    <coll hits="1" score="11.990" query="w400254720">Gasterosteidae</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="28" score="10.530">
+    <coll hits="5" score="12.070" query="w400517255">Salmo</coll>
+    <coll hits="5" score="11.890" query="w400517253">Coregonus</coll>
+    <coll hits="3" score="11.540" query="w400517256">salar</coll>
+    <coll hits="2" score="11.090" query="w400517251">genus</coll>
+    <coll hits="2" score="10.950" query="w400517257">trutta</coll>
+    <coll hits="1" score="10.140" query="w400517263">anaulorum</coll>
+    <coll hits="1" score="10.140" query="w400517262">gutturosus</coll>
+    <coll hits="1" score="10.140" query="w400517261">nelsonii</coll>
+    <coll hits="1" score="10.140" query="w400517260">baicalensis</coll>
+    <coll hits="1" score="10.140" query="w400517259">thymallus</coll>
+    <coll hits="1" score="10.140" query="w400517258">Thymallus</coll>
+    <coll hits="1" score="10.140" query="w400517252">leucomaenis</coll>
+    <coll hits="1" score="10.140" query="w400517250">mykiss</coll>
+    <coll hits="1" score="10.140" query="w400517249">Oncorhynchus</coll>
+    <coll hits="1" score="10.040" query="w400517254">alpinus</coll>
+    <coll hits="1" score="9.790" query="w400517248">Salvelinus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="0.750">
+    <coll hits="1" score="7.340" query="w400496193">Africa</coll>
+    <coll hits="1" score="6.380" query="w400496192">catchment</coll>
+  </gramrel>
+</wordsketch>
+</export>

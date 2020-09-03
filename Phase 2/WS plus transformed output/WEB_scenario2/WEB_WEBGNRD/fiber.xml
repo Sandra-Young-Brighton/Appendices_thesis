@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fiber</keyword>
+  <gramrel name="modifiers of X" hits="1" score="2.380">
+    <coll hits="1" score="13.990" query="w1523511616">Castor</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="14.290">
+    <coll hits="1" score="12.190" query="w1523520260">sarcolemma</coll>
+    <coll hits="2" score="11.470" query="w1523520258">envelope</coll>
+    <coll hits="1" score="8.850" query="w1523520256">tilapia</coll>
+    <coll hits="1" score="7.920" query="w1523520257">epithelium</coll>
+    <coll hits="1" score="6.370" query="w1523520259">catchment</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,33 @@
+name,TAXRANK,name,TAXRANK
+ taxonomic_rank,0, series,31
+ phylum,1, bio-variety,32
+ class,2, candidate,33
+ order,3, cultivar,34
+ family,4, cultivar-group,35
+ genus,5, denominationclass,36
+ species,6, domain,37
+ subclass,7, graft-chimaera,38
+ subphylum,8, grex,39
+ subgenus,9, infraphylum,40
+ species_group,10, infrafamily,41
+ species_subgroup,11, infragenerictaxon,42
+ species_complex,12, infragenus,43
+ infraorder,13, infrakingdom,44
+ suborder,14, infraspecies,45
+ superclass,15, infraspecificTaxon,46
+ varietas,16, infratribe,47
+ kingdom,17, patho-variety,48
+ superfamily,18, specialform,49
+ infraclass,19, speciesaggregate,50
+ superorder,20, subvariety,51
+ parvorder,21, subsubvariety,52
+ superkingdom,22, subsection,53
+ subspecies,23, subseries,54
+ subfamily,24, subspecificaggregate,55
+ tribe,25, subsubform,56
+ forma,26, supertribe,57
+ superphylum,27, supragenerictaxon,58
+ subtribe,28, subform,59
+ subkingdom,29, no_rank,60
+ section,30,,
+,,,

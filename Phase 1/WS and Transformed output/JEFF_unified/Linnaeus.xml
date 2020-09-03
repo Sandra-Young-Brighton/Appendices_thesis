@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Linnaeus</keyword>
+  <gramrel name="modifiers of X" hits="77" score="38.500">
+    <coll hits="14" score="12.280">Esox_lucius</coll>
+    <coll hits="9" score="11.640">Salmo_trutta</coll>
+    <coll hits="7" score="11.380">Perca</coll>
+    <coll hits="5" score="10.930">Gasterosteus_aculeatus</coll>
+    <coll hits="4" score="10.440">Salmo</coll>
+    <coll hits="3" score="10.260">Petromyzon_marinus</coll>
+    <coll hits="3" score="10.220">Cyprinus_carpio</coll>
+    <coll hits="6" score="9.670">perch</coll>
+    <coll hits="2" score="9.620">Lepomis_gibbosus</coll>
+    <coll hits="2" score="9.610">Salmo_salar</coll>
+    <coll hits="1" score="8.710">Phalaris_arundinacea</coll>
+    <coll hits="1" score="8.710">Rana_temporaria</coll>
+    <coll hits="1" score="8.710">Lepomis_auritus</coll>
+    <coll hits="1" score="8.710">Mugil_cephalus</coll>
+    <coll hits="1" score="8.710">Silurus</coll>
+    <coll hits="1" score="8.710">Petromyzon</coll>
+    <coll hits="1" score="8.690">Salmo_trutta_trutta</coll>
+    <coll hits="1" score="8.690">Oreochromis_niloticus</coll>
+    <coll hits="1" score="8.690">Cottus_gobio</coll>
+    <coll hits="1" score="8.690">Barbatula_barbatula</coll>
+    <coll hits="1" score="8.690">Lucius</coll>
+    <coll hits="1" score="8.680">Salmo_trutta_fario</coll>
+    <coll hits="1" score="8.680">Fundulus_heteroclitus</coll>
+    <coll hits="1" score="8.680">Lepomis</coll>
+    <coll hits="1" score="8.640">Thymallus_thymallus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="5" score="2.500">
+    <coll hits="1" score="11.990">Scardinius_erythrophthalmus</coll>
+    <coll hits="1" score="11.990">Gobio_gobio</coll>
+    <coll hits="1" score="11.670">Gambusia_affinis</coll>
+    <coll hits="1" score="10.300">Phoxinus_phoxinus</coll>
+    <coll hits="1" score="9.710">Oncorhynchus_mykiss</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="10" score="5.000">
+    <coll hits="4" score="12.240">Linnaeus</coll>
+    <coll hits="1" score="11.540">Gambusia_affinis</coll>
+    <coll hits="1" score="11.410">Leuciscus_leuciscus</coll>
+    <coll hits="1" score="11.300">Gobio_gobio</coll>
+    <coll hits="1" score="11.090">Scardinius_erythrophthalmus</coll>
+    <coll hits="1" score="10.350">Phoxinus_phoxinus</coll>
+    <coll hits="1" score="10.000">Oncorhynchus_mykiss</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="1.000">
+    <coll hits="1" score="6.830">fish</coll>
+    <coll hits="1" score="6.800">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">nana</keyword>
+  <gramrel name="modifiers of X" hits="3" score="100.000">
+    <coll hits="1" score="13.000">pediculus</coll>
+    <coll hits="1" score="13.000">Betula</coll>
+    <coll hits="1" score="12.680">Alonella</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="33.330">
+    <coll hits="1" score="9.870">rostrata</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="33.330">
+    <coll hits="1" score="13.990">rostrata</coll>
+  </gramrel>
+</wordsketch>
+</export>

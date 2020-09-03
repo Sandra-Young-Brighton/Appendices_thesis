@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Percina</keyword>
+  <gramrel name="modifiers of X" hits="7" score="9.330">
+    <coll hits="1" score="11.990">phoxocephala</coll>
+    <coll hits="1" score="11.990">volucellus</coll>
+    <coll hits="1" score="11.990">exilis</coll>
+    <coll hits="1" score="11.990">cornutus</coll>
+    <coll hits="1" score="11.830">Noturus</coll>
+    <coll hits="1" score="10.090">Percina</coll>
+    <coll hits="1" score="9.000">Notropis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="23" score="30.670">
+    <coll hits="8" score="13.040">aurolineata</coll>
+    <coll hits="7" score="12.900">tanasi</coll>
+    <coll hits="3" score="11.830">caprodes</coll>
+    <coll hits="1" score="10.410">patherina</coll>
+    <coll hits="1" score="10.410">palmaris</coll>
+    <coll hits="1" score="10.410">evides</coll>
+    <coll hits="1" score="10.350">roanoka</coll>
+    <coll hits="1" score="10.090">Percina</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="2.670">
+    <coll hits="1" score="6.580">fish</coll>
+    <coll hits="1" score="6.500">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Redia</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="40.000">
+    <coll hits="2" score="13.410" query="w2068033153">denticulatum</coll>
+    <coll hits="2" score="6.780" query="w2068033152">C</coll>
+  </gramrel>
+</wordsketch>
+</export>

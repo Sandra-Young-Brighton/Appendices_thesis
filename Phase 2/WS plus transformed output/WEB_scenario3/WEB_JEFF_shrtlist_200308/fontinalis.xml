@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fontinalis</keyword>
+  <gramrel name="modifiers of X" hits="220" score="78.010">
+    <coll hits="208" score="12.350">Salvelinus</coll>
+    <coll hits="4" score="9.180">namaycush</coll>
+    <coll hits="3" score="8.680">trutta</coll>
+    <coll hits="2" score="8.190">Linnaeus</coll>
+    <coll hits="1" score="7.200">malma</coll>
+    <coll hits="1" score="7.130">mykiss</coll>
+    <coll hits="1" score="4.100">Salmo</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="1.420">
+    <coll hits="1" score="9.790">Salmonidae</coll>
+    <coll hits="1" score="5.800">alpinus</coll>
+    <coll hits="1" score="5.450">trutta</coll>
+    <coll hits="1" score="5.420">salar</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="5" score="1.770">
+    <coll hits="1" score="12.410">salar</coll>
+    <coll hits="1" score="11.830">alpinus</coll>
+    <coll hits="1" score="10.540">Salmonidae</coll>
+    <coll hits="2" score="10.300">trutta</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="1.060">
+    <coll hits="1" score="10.090">pre</coll>
+    <coll hits="1" score="8.130">lack</coll>
+    <coll hits="1" score="5.300">summer</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="0.710">
+    <coll hits="1" score="12.190">trutta</coll>
+    <coll hits="1" score="11.410">Salmo</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.350">
+    <coll hits="1" score="13.410">Salvelinus</coll>
+  </gramrel>
+</wordsketch>
+</export>

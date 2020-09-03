@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Paracentrotus</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="50.000">
+    <coll hits="1" score="13.990" query="w2145335808">lividus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Fisheries</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="0.030">
+    <coll hits="1" score="7.370" query="w519755008">namaycush</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="40" score="1.010">
+    <coll hits="3" score="10.560" query="w519763288">Abundance</coll>
+    <coll hits="1" score="9.640" query="w519763293">Shropshire</coll>
+    <coll hits="1" score="9.500" query="w519763294">Catchment</coll>
+    <coll hits="1" score="9.500" query="w519763267">Moscow</coll>
+    <coll hits="1" score="9.380" query="w519763287">Secretary</coll>
+    <coll hits="1" score="9.300" query="w519763291">Year</coll>
+    <coll hits="1" score="9.120" query="w519763289">NMFS</coll>
+    <coll hits="1" score="9.040" query="w519763290">proposal</coll>
+    <coll hits="1" score="9.020" query="w519763273">funding</coll>
+    <coll hits="1" score="8.980" query="w519763279">Maryland</coll>
+    <coll hits="1" score="8.980" query="w519763278">No.</coll>
+    <coll hits="3" score="8.930" query="w519763286">Victoria</coll>
+    <coll hits="1" score="8.590" query="w519763277">Station</coll>
+    <coll hits="4" score="8.440" query="w519763270">Alaska</coll>
+    <coll hits="1" score="8.130" query="w519763283">U.S.</coll>
+    <coll hits="2" score="8.050" query="w519763285">Australia</coll>
+    <coll hits="1" score="7.970" query="w519763274">assistance</coll>
+    <coll hits="1" score="7.640" query="w519763275">support</coll>
+    <coll hits="1" score="7.500" query="w519763276">determination</coll>
+    <coll hits="2" score="7.380" query="w519763266">University</coll>
+    <coll hits="1" score="7.340" query="w519763281">Species</coll>
+    <coll hits="1" score="7.270" query="w519763284">purpose</coll>
+    <coll hits="1" score="7.240" query="w519763268">E</coll>
+    <coll hits="1" score="6.890" query="w519763292">SRKW</coll>
+    <coll hits="1" score="6.600" query="w519763272">assessment</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="9" score="0.230">
+    <coll hits="9" score="12.840" query="w520035904">Resources</coll>
+  </gramrel>
+</wordsketch>
+</export>

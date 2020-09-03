@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pleuronectes</keyword>
+  <gramrel name="nouns modified by X" hits="31" score="51.670">
+    <coll hits="22" score="13.700" query="w1931210497">platessa</coll>
+    <coll hits="6" score="11.610" query="w1931210496">americanus</coll>
+    <coll hits="1" score="9.950" query="w1931210498">yokohamae</coll>
+    <coll hits="1" score="9.910" query="w1931210499">vetulus</coll>
+    <coll hits="1" score="9.870" query="w1931210500">Pleuronectidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

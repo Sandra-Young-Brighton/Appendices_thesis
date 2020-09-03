@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">atricostalis</keyword>
+  <gramrel name="modifiers of X" hits="1" score="4.550">
+    <coll hits="1" score="10.140" query="w2159061568">Nanexila</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="4.550">
+    <coll hits="1" score="11.410" query="w2159071104">Nanexila</coll>
+  </gramrel>
+</wordsketch>
+</export>

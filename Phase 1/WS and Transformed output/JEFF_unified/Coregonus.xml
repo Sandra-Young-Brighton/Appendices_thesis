@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Coregonus</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="4.630">
+    <coll hits="2" score="13.190">Zavaretus</coll>
+    <coll hits="1" score="12.410">Iuvuretus</coll>
+    <coll hits="2" score="5.420">specie</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="2.780">
+    <coll hits="2" score="7.830">fish</coll>
+    <coll hits="1" score="6.790">specie</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.930">
+    <coll hits="1" score="3.480">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

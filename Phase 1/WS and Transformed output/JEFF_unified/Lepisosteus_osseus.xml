@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lepisosteus_osseus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="9.090">
+    <coll hits="1" score="13.990">Lepisosteus_oculatus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="18.180">
+    <coll hits="1" score="13.410">Atractosteus_spatula</coll>
+    <coll hits="1" score="9.790">predator</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="1" score="9.090">
+    <coll hits="1" score="13.990">catch</coll>
+  </gramrel>
+</wordsketch>
+</export>

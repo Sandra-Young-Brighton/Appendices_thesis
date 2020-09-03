@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">icon</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="50.000">
+    <coll hits="1" score="12.190" query="w2013010818">Malta</coll>
+    <coll hits="1" score="10.540" query="w2013010817">style</coll>
+    <coll hits="1" score="9.570" query="w2013010816">corner</coll>
+  </gramrel>
+</wordsketch>
+</export>

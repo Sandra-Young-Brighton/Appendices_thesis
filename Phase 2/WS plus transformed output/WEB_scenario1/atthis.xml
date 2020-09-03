@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">atthis</keyword>
+  <gramrel name="modifiers of X" hits="15" score="62.500">
+    <coll hits="15" score="13.990">Alcedo</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="4.170">
+    <coll hits="1" score="13.000">Iberia</coll>
+  </gramrel>
+</wordsketch>
+</export>

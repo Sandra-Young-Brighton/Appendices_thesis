@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">perryi</keyword>
+  <gramrel name="modifiers of X" hits="49" score="42.610">
+    <coll hits="27" score="13.480">Parahucho</coll>
+    <coll hits="22" score="13.100">Hucho</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="11" score="9.570">
+    <coll hits="1" score="11.410">Endangered</coll>
+    <coll hits="1" score="6.630">P</coll>
+    <coll hits="2" score="5.620">system</coll>
+    <coll hits="1" score="5.550">tributary</coll>
+    <coll hits="1" score="5.210">season</coll>
+    <coll hits="1" score="4.630">day</coll>
+    <coll hits="1" score="4.350">water</coll>
+    <coll hits="1" score="4.090">period</coll>
+    <coll hits="1" score="3.770">River</coll>
+    <coll hits="1" score="3.730">habitat</coll>
+  </gramrel>
+</wordsketch>
+</export>

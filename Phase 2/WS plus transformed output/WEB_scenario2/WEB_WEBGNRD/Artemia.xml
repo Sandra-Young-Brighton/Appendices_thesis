@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Artemia</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="3.150">
+    <coll hits="1" score="6.540" query="w1815858371">hatchery</coll>
+    <coll hits="1" score="5.510" query="w1815858368">food</coll>
+    <coll hits="1" score="4.690" query="w1815858370">growth</coll>
+    <coll hits="1" score="4.300" query="w1815858369">period</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.790">
+    <coll hits="1" score="13.990" query="w1815896000">BSN</coll>
+  </gramrel>
+</wordsketch>
+</export>

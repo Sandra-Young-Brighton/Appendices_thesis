@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Philometroides_sanguineus</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="50.000">
+    <coll hits="1" score="12.410">crucian</coll>
+    <coll hits="1" score="7.610">carp</coll>
+    <coll hits="1" score="6.890">comparison</coll>
+    <coll hits="1" score="6.660">mortality</coll>
+    <coll hits="1" score="5.060">sample</coll>
+  </gramrel>
+</wordsketch>
+</export>

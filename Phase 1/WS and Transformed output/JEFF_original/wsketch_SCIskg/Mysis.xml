@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Mysis</keyword>
+  <gramrel name="nouns modified by X" hits="24" score="32.880">
+    <coll hits="14" score="13.550">relicta</coll>
+    <coll hits="8" score="13.000">diluviana</coll>
+    <coll hits="1" score="10.350">relicata</coll>
+    <coll hits="1" score="10.350">diluvania</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="9.590">
+    <coll hits="1" score="10.600">Morph</coll>
+    <coll hits="1" score="7.010">item</coll>
+    <coll hits="2" score="6.180">diet</coll>
+    <coll hits="1" score="6.160">July</coll>
+    <coll hits="1" score="5.160">summer</coll>
+    <coll hits="1" score="4.100">period</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="1.370">
+    <coll hits="1" score="6.510">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

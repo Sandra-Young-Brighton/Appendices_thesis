@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Caenidae</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="75.000">
+    <coll hits="2" score="13.670">Baetidae</coll>
+    <coll hits="1" score="13.000">Daphnidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="75.000">
+    <coll hits="2" score="13.670">Baetidae</coll>
+    <coll hits="1" score="13.000">Daphnidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

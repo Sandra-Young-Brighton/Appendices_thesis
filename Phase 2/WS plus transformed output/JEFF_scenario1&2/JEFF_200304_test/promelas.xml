@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">promelas</keyword>
+  <gramrel name="modifiers of X" hits="11" score="52.380">
+    <coll hits="11" score="13.060">Pimephales</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="4.760">
+    <coll hits="1" score="13.990">Osteichthyes</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="4.760">
+    <coll hits="1" score="13.990">Osteichthyes</coll>
+  </gramrel>
+</wordsketch>
+</export>

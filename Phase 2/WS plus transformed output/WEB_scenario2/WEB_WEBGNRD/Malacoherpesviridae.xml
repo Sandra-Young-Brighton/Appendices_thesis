@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Malacoherpesviridae</keyword>
+  <gramrel name="X has part..." hits="6" score="100.000">
+    <coll hits="2" score="13.000" query="w2097034113">herpesvirus</coll>
+    <coll hits="2" score="13.000" query="w2097034112">Davison</coll>
+    <coll hits="1" score="12.190" query="w2097034115">Ostreid</coll>
+    <coll hits="1" score="11.830" query="w2097034114">herpesviruse</coll>
+  </gramrel>
+</wordsketch>
+</export>

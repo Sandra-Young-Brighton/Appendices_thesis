@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pungitius</keyword>
+  <gramrel name="nouns modified by X" hits="46" score="65.710">
+    <coll hits="45" score="13.830">pungitius</coll>
+    <coll hits="1" score="9.210">Cottidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.430">
+    <coll hits="1" score="7.110">series</coll>
+  </gramrel>
+</wordsketch>
+</export>

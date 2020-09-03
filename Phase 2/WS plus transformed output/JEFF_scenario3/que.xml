@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">que</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="8" score="1.420">
+    <coll hits="1" score="11.830">segundo</coll>
+    <coll hits="1" score="11.830">debido</coll>
+    <coll hits="1" score="11.830">comunidade</coll>
+    <coll hits="1" score="11.670">Ijssel</coll>
+    <coll hits="1" score="11.540">jaula</coll>
+    <coll hits="1" score="11.190">la</coll>
+    <coll hits="1" score="11.090">o</coll>
+    <coll hits="1" score="10.240">lago</coll>
+  </gramrel>
+</wordsketch>
+</export>

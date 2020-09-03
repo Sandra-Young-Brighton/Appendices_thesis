@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fosteri</keyword>
+  <gramrel name="modifiers of X" hits="6" score="50.000">
+    <coll hits="3" score="13.410" query="w1754618370">Cheimarrichthys</coll>
+    <coll hits="1" score="12.190" query="w1754618371">Cheimarricthys</coll>
+    <coll hits="1" score="12.190" query="w1754618369">brevipinnis</coll>
+    <coll hits="1" score="12.190" query="w1754618368">Cheimarrichthyes</coll>
+  </gramrel>
+</wordsketch>
+</export>

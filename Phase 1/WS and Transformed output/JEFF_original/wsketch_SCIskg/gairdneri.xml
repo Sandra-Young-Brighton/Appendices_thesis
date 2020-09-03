@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">gairdneri</keyword>
+  <gramrel name="modifiers of X" hits="66" score="98.510">
+    <coll hits="53" score="10.140">Salmo</coll>
+    <coll hits="2" score="9.910">Sdmo</coll>
+    <coll hits="10" score="9.080">trout</coll>
+    <coll hits="1" score="8.380">species</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="2.990">
+    <coll hits="1" score="12.190">Lucius</coll>
+    <coll hits="1" score="10.140">mykiss</coll>
+  </gramrel>
+</wordsketch>
+</export>

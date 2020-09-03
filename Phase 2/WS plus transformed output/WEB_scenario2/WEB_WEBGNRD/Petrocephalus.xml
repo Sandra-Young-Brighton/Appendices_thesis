@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Petrocephalus</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="25.000">
+    <coll hits="1" score="13.990" query="w2086380800">catostoma</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="75.000">
+    <coll hits="2" score="11.910" query="w2086389761">Guinea</coll>
+    <coll hits="1" score="7.330" query="w2086389760">Africa</coll>
+  </gramrel>
+</wordsketch>
+</export>

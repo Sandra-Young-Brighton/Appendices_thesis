@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">hippoglossus</keyword>
+  <gramrel name="modifiers of X" hits="6" score="54.550">
+    <coll hits="6" score="13.990">Hippoglossus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="9.090">
+    <coll hits="1" score="11.540">Salmo</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cataractae</keyword>
+  <gramrel name="modifiers of X" hits="15" score="48.390">
+    <coll hits="13" score="13.050" query="w1806908290">Rhinichthys</coll>
+    <coll hits="1" score="10.820" query="w1806908289">promelas</coll>
+    <coll hits="1" score="8.430" query="w1806908288">Micropterus</coll>
+  </gramrel>
+</wordsketch>
+</export>

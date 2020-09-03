@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">bairdi</keyword>
+  <gramrel name="modifiers of X" hits="17" score="20.000">
+    <coll hits="17" score="11.580">Cottus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.180">
+    <coll hits="1" score="12.680">cognatus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="5.880">
+    <coll hits="1" score="12.190">Lo</coll>
+    <coll hits="1" score="10.680">Harbor</coll>
+    <coll hits="1" score="10.410">acclimation</coll>
+    <coll hits="1" score="4.790">group</coll>
+    <coll hits="1" score="4.330">temperature</coll>
+  </gramrel>
+</wordsketch>
+</export>

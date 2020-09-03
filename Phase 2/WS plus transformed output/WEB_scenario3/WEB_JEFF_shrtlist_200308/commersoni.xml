@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">commersoni</keyword>
+  <gramrel name="modifiers of X" hits="28" score="49.120">
+    <coll hits="26" score="13.050">Catostomus</coll>
+    <coll hits="2" score="11.090">Catastomus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.750">
+    <coll hits="1" score="12.190">Perca</coll>
+  </gramrel>
+</wordsketch>
+</export>

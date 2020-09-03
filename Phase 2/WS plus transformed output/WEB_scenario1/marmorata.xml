@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">marmorata</keyword>
+  <gramrel name="modifiers of X" hits="50" score="35.460">
+    <coll hits="50" score="11.720">Anguilla</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="16" score="11.350">
+    <coll hits="1" score="10.820">Chino</coll>
+    <coll hits="2" score="10.750">Philippine</coll>
+    <coll hits="1" score="9.060">discussion</coll>
+    <coll hits="5" score="8.940">Pacific</coll>
+    <coll hits="1" score="7.970">island</coll>
+    <coll hits="1" score="7.860">Islands</coll>
+    <coll hits="2" score="4.750">River</coll>
+    <coll hits="2" score="4.080">water</coll>
+    <coll hits="1" score="2.880">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

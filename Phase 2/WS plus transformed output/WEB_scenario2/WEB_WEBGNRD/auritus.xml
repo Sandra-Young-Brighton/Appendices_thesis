@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">auritus</keyword>
+  <gramrel name="modifiers of X" hits="14" score="93.330">
+    <coll hits="13" score="13.790" query="w2008992449">Phalacrocorax</coll>
+    <coll hits="1" score="7.080" query="w2008992448">Lepomis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="6.670">
+    <coll hits="1" score="7.310" query="w2009010624">Island</coll>
+  </gramrel>
+</wordsketch>
+</export>

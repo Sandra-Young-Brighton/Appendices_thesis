@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">white</keyword>
+  <gramrel name="X and/or ..." hits="57" score="6.460">
+    <coll hits="5" score="10.890" query="w299647893">grey</coll>
+    <coll hits="3" score="10.430" query="w299647891">spotted</coll>
+    <coll hits="2" score="10.110" query="w299647894">firm</coll>
+    <coll hits="7" score="10.100" query="w299647874">red</coll>
+    <coll hits="2" score="10.040" query="w299647892">coordinate</coll>
+    <coll hits="2" score="9.970" query="w299647896">conical</coll>
+    <coll hits="2" score="9.950" query="w299647878">inverted</coll>
+    <coll hits="2" score="9.690" query="w299647887">pink</coll>
+    <coll hits="4" score="9.210" query="w299647877">black</coll>
+    <coll hits="1" score="9.140" query="w299647902">amorphous</coll>
+    <coll hits="1" score="9.140" query="w299647901">2-gal</coll>
+    <coll hits="1" score="9.140" query="w299647900">mushy</coll>
+    <coll hits="1" score="9.140" query="w299647899">bone-free</coll>
+    <coll hits="1" score="9.140" query="w299647898">crisp</coll>
+    <coll hits="1" score="9.120" query="w299647895">fibrous</coll>
+    <coll hits="1" score="9.120" query="w299647890">diagonal</coll>
+    <coll hits="2" score="9.100" query="w299647876">ventral</coll>
+    <coll hits="1" score="9.090" query="w299647889">epoxy</coll>
+    <coll hits="1" score="9.090" query="w299647884">swollen</coll>
+    <coll hits="1" score="9.020" query="w299647888">patchy</coll>
+    <coll hits="2" score="8.980" query="w299647881">green</coll>
+    <coll hits="1" score="8.930" query="w299647897">reddish</coll>
+    <coll hits="1" score="8.930" query="w299647875">yellowish</coll>
+    <coll hits="5" score="8.900" query="w299647880">yellow</coll>
+    <coll hits="1" score="8.810" query="w299647879">golden</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="16" score="1.810">
+    <coll hits="7" score="11.970" query="w299899329">belly</coll>
+    <coll hits="2" score="11.670" query="w299899334">print</coll>
+    <coll hits="1" score="10.470" query="w299899336">olive</coll>
+    <coll hits="1" score="9.910" query="w299899333">pink</coll>
+    <coll hits="1" score="9.500" query="w299899335">underside</coll>
+    <coll hits="1" score="8.650" query="w299899331">version</coll>
+    <coll hits="1" score="7.020" query="w299899332">series</coll>
+    <coll hits="1" score="6.550" query="w299899330">steelhead</coll>
+    <coll hits="1" score="5.870" query="w299899328">body</coll>
+  </gramrel>
+</wordsketch>
+</export>

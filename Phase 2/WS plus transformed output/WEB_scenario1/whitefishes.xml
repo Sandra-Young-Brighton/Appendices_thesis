@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">whitefishes</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="159" score="7.020">
+    <coll hits="9" score="10.340">Salmonidae</coll>
+    <coll hits="4" score="9.340">Constance</coll>
+    <coll hits="3" score="9.200">principal</coll>
+    <coll hits="3" score="8.960">Muddusjärvi</coll>
+    <coll hits="3" score="8.950">Fyresvatn</coll>
+    <coll hits="2" score="8.660">systems16</coll>
+    <coll hits="2" score="8.550">Baikal</coll>
+    <coll hits="5" score="8.360">Alaska</coll>
+    <coll hits="6" score="7.820">resource</coll>
+    <coll hits="1" score="7.670">Enisey</coll>
+    <coll hits="1" score="7.670">Pulmankijarvi</coll>
+    <coll hits="1" score="7.670">may</coll>
+    <coll hits="1" score="7.670">Boulder</coll>
+    <coll hits="1" score="7.670">Prosopium</coll>
+    <coll hits="1" score="7.640">Skrukkebukta</coll>
+    <coll hits="1" score="7.640">coupler</coll>
+    <coll hits="4" score="7.580">reservoir</coll>
+    <coll hits="4" score="7.530">Bay</coll>
+    <coll hits="1" score="7.500">FL</coll>
+    <coll hits="1" score="7.450">profundal</coll>
+    <coll hits="1" score="7.430">subfamily</coll>
+    <coll hits="4" score="7.400">zone</coll>
+    <coll hits="1" score="7.400">lab</coll>
+    <coll hits="1" score="7.380">Coregonus</coll>
+    <coll hits="5" score="7.360">region</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="0.090">
+    <coll hits="1" score="11.830">lavaretus</coll>
+    <coll hits="1" score="10.910">Coregonus</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="2" score="0.090">
+    <coll hits="1" score="13.410">form</coll>
+    <coll hits="1" score="13.000">Mjøsa</coll>
+  </gramrel>
+</wordsketch>
+</export>

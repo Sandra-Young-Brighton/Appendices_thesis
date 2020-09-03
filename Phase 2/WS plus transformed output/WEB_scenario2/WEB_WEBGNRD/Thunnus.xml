@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Thunnus</keyword>
+  <gramrel name="modifiers of X" hits="3" score="11.540">
+    <coll hits="3" score="13.990" query="w2001037504">Cynoglossidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="13" score="50.000">
+    <coll hits="6" score="13.260" query="w2001052417">thynnus</coll>
+    <coll hits="3" score="12.410" query="w2001052418">orientalis</coll>
+    <coll hits="2" score="12.090" query="w2001052419">alalunga</coll>
+    <coll hits="2" score="12.090" query="w2001052416">obesus</coll>
+  </gramrel>
+</wordsketch>
+</export>

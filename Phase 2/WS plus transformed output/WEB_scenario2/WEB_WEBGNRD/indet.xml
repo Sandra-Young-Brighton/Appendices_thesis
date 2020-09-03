@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">indet</keyword>
+  <gramrel name="modifiers of X" hits="318" score="117.780">
+    <coll hits="12" score="10.210" query="w2188922834">Orthocladiinae</coll>
+    <coll hits="12" score="10.210" query="w2188922833">stagnalis</coll>
+    <coll hits="12" score="10.200" query="w2188922822">Cladocera</coll>
+    <coll hits="6" score="9.240" query="w2188922865">Nemata</coll>
+    <coll hits="6" score="9.240" query="w2188922864">tricarinata</coll>
+    <coll hits="6" score="9.240" query="w2188922863">Oribatida</coll>
+    <coll hits="6" score="9.240" query="w2188922862">udekemianus</coll>
+    <coll hits="6" score="9.240" query="w2188922861">Pisidiidae</coll>
+    <coll hits="6" score="9.240" query="w2188922860">Uenoidae</coll>
+    <coll hits="6" score="9.240" query="w2188922859">Pentaneurini</coll>
+    <coll hits="6" score="9.240" query="w2188922858">Oxidae</coll>
+    <coll hits="6" score="9.240" query="w2188922857">Tubificinae</coll>
+    <coll hits="6" score="9.240" query="w2188922856">Naidinae</coll>
+    <coll hits="6" score="9.240" query="w2188922855">Naididae</coll>
+    <coll hits="6" score="9.240" query="w2188922854">Lumbriculidae</coll>
+    <coll hits="6" score="9.240" query="w2188922853">Crangonyctidae</coll>
+    <coll hits="6" score="9.240" query="w2188922852">Chironomini</coll>
+    <coll hits="6" score="9.240" query="w2188922851">Taeniopterygidae</coll>
+    <coll hits="6" score="9.240" query="w2188922850">Tanypodinae</coll>
+    <coll hits="6" score="9.240" query="w2188922849">Auchenorrhyncha</coll>
+    <coll hits="6" score="9.240" query="w2188922847">Leptoceridae</coll>
+    <coll hits="6" score="9.240" query="w2188922846">Lymnaeidae</coll>
+    <coll hits="6" score="9.240" query="w2188922845">Hexagenia</coll>
+    <coll hits="6" score="9.240" query="w2188922844">Bryozoa</coll>
+    <coll hits="6" score="9.240" query="w2188922843">Limnodrilus</coll>
+  </gramrel>
+</wordsketch>
+</export>

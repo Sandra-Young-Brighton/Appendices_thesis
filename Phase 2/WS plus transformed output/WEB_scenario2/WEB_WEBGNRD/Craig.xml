@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Craig</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="0.650">
+    <coll hits="1" score="13.410" query="w1369297728">przewalskii</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.650">
+    <coll hits="1" score="8.220" query="w1369306560">facility</coll>
+  </gramrel>
+</wordsketch>
+</export>

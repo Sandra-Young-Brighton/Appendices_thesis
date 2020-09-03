@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">variifolium</keyword>
+  <gramrel name="modifiers of X" hits="7" score="87.500">
+    <coll hits="7" score="11.480" query="w2190430656">Myriophyllum</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="12.500">
+    <coll hits="1" score="11.670" query="w2190441152">sphacelata</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="12.500">
+    <coll hits="1" score="13.410" query="w2190419328">sphacelata</coll>
+  </gramrel>
+</wordsketch>
+</export>

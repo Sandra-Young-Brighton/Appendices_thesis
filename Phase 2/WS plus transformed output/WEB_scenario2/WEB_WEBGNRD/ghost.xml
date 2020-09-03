@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">ghost</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="30.000">
+    <coll hits="3" score="10.370" query="w1968880064">past</coll>
+    <coll hits="3" score="6.770" query="w1968880065">predation</coll>
+  </gramrel>
+</wordsketch>
+</export>

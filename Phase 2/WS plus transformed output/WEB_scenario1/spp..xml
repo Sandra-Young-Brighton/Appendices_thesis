@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">spp.</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="61" score="6.710">
+    <coll hits="2" score="9.660">East</coll>
+    <coll hits="2" score="9.170">c</coll>
+    <coll hits="2" score="9.040">front</coll>
+    <coll hits="1" score="9.020">daphnia</coll>
+    <coll hits="1" score="9.000">Nigeria</coll>
+    <coll hits="1" score="8.980">dosage</coll>
+    <coll hits="1" score="8.910">Spey</coll>
+    <coll hits="1" score="8.850">microcosm</coll>
+    <coll hits="1" score="8.730">Mediterranean</coll>
+    <coll hits="1" score="8.550">identity</coll>
+    <coll hits="1" score="8.340">emphasis</coll>
+    <coll hits="1" score="8.270">conjunction</coll>
+    <coll hits="1" score="8.030">locality</coll>
+    <coll hits="3" score="7.890">stomach</coll>
+    <coll hits="1" score="7.880">reserve</coll>
+    <coll hits="1" score="7.790">Mexico</coll>
+    <coll hits="1" score="7.420">influence</coll>
+    <coll hits="1" score="7.230">addition</coll>
+    <coll hits="1" score="6.890">N</coll>
+    <coll hits="1" score="6.790">laboratory</coll>
+    <coll hits="1" score="6.730">genus</coll>
+    <coll hits="1" score="6.700">host</coll>
+    <coll hits="2" score="6.600">S</coll>
+    <coll hits="1" score="6.520">point</coll>
+    <coll hits="1" score="6.500">L</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.110">
+    <coll hits="1" score="11.830">fishery</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">harengus</keyword>
+  <gramrel name="modifiers of X" hits="84" score="64.120">
+    <coll hits="83" score="13.800" query="w1438557824">Clupea</coll>
+    <coll hits="1" score="8.540" query="w1438557825">masquinongy</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="1.530">
+    <coll hits="1" score="11.000" query="w1438580865">Salmo</coll>
+    <coll hits="1" score="7.290" query="w1438580864">kisutch</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.760">
+    <coll hits="1" score="13.990" query="w1438547456">mixta</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.760">
+    <coll hits="1" score="5.420" query="w1438598976">Sea</coll>
+  </gramrel>
+</wordsketch>
+</export>

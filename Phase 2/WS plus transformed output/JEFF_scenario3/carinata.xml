@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">carinata</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="43.750">
+    <coll hits="1" score="8.890">calculation</coll>
+    <coll hits="2" score="7.920">stomach</coll>
+    <coll hits="1" score="5.180">diet</coll>
+    <coll hits="1" score="4.630">day</coll>
+    <coll hits="2" score="2.960">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

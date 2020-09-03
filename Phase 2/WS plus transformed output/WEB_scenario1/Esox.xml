@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Esox</keyword>
+  <gramrel name="nouns modified by X" hits="407" score="65.430">
+    <coll hits="366" score="13.900">Lucius</coll>
+    <coll hits="18" score="10.430">masquinongy</coll>
+    <coll hits="10" score="9.610">lucius</coll>
+    <coll hits="7" score="8.760">Linnaeus</coll>
+    <coll hits="4" score="8.240">americanus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="47" score="7.560">
+    <coll hits="43" score="12.610">Cyprinidae</coll>
+    <coll hits="2" score="10.320">Esocidae</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="45" score="7.230">
+    <coll hits="42" score="13.930">Cyprinidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

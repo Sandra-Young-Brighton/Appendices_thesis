@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">herpesvirus</keyword>
+  <gramrel name="modifiers of X" hits="4" score="1.620">
+    <coll hits="4" score="13.990" query="w2085543872">Acipenserid</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="24" score="9.720">
+    <coll hits="2" score="11.240" query="w2085554382">eperlanus</coll>
+    <coll hits="2" score="11.040" query="w2085554383">anguillae</coll>
+    <coll hits="1" score="10.300" query="w2085554381">transmontanus</coll>
+    <coll hits="1" score="10.240" query="w2085554378">Formosa</coll>
+    <coll hits="2" score="10.110" query="w2085554380">bivalve</coll>
+    <coll hits="3" score="8.460" query="w2085554370">host</coll>
+    <coll hits="1" score="8.100" query="w2085554376">regard</coll>
+    <coll hits="1" score="8.040" query="w2085554368">Anguilla</coll>
+    <coll hits="1" score="8.020" query="w2085554377">particle</coll>
+    <coll hits="1" score="7.900" query="w2085554379">smelt</coll>
+    <coll hits="1" score="7.740" query="w2085554375">epithelium</coll>
+    <coll hits="1" score="7.360" query="w2085554374">catfish</coll>
+    <coll hits="4" score="6.470" query="w2085554369">eel</coll>
+    <coll hits="1" score="6.230" query="w2085554373">tissue</coll>
+    <coll hits="1" score="3.200" query="w2085554372">salmon</coll>
+    <coll hits="1" score="1.750" query="w2085554371">fish</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="2" score="0.810">
+    <coll hits="2" score="13.000" query="w2085723968">Malacoherpesviridae</coll>
+  </gramrel>
+</wordsketch>
+</export>

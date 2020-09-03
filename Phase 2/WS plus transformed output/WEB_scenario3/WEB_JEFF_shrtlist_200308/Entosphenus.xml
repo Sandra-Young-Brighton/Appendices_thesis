@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Entosphenus</keyword>
+  <gramrel name="nouns modified by X" hits="6" score="50.000">
+    <coll hits="5" score="13.860">tridentatus</coll>
+    <coll hits="1" score="11.990">Clupeidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

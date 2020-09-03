@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">affinis</keyword>
+  <gramrel name="modifiers of X" hits="58" score="79.450">
+    <coll hits="24" score="13.230" query="w1764696391">Gambusa</coll>
+    <coll hits="26" score="12.920" query="w1764696386">Gambusia</coll>
+    <coll hits="2" score="10.020" query="w1764696389">Alona</coll>
+    <coll hits="1" score="9.120" query="w1764696392">Monoporeia</coll>
+    <coll hits="1" score="9.120" query="w1764696390">Apareiodon</coll>
+    <coll hits="1" score="9.120" query="w1764696388">Synaphobranchus</coll>
+    <coll hits="1" score="9.120" query="w1764696387">nobilis</coll>
+    <coll hits="1" score="9.120" query="w1764696384">Atherinops</coll>
+    <coll hits="1" score="8.910" query="w1764696385">Ceriodaphnia</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="2.740">
+    <coll hits="1" score="10.600" query="w1764773185">reticulata</coll>
+    <coll hits="1" score="8.520" query="w1764773184">gibbosus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.370">
+    <coll hits="1" score="13.000" query="w1764686528">gibbosus</coll>
+  </gramrel>
+</wordsketch>
+</export>

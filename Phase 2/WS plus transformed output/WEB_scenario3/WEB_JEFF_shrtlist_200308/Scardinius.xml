@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Scardinius</keyword>
+  <gramrel name="nouns modified by X" hits="49" score="55.060">
+    <coll hits="47" score="13.940">erythrophthalmus</coll>
+    <coll hits="2" score="10.320">erythrophtalmus</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="2" score="2.250">
+    <coll hits="1" score="12.190">plant</coll>
+    <coll hits="1" score="11.830">food</coll>
+  </gramrel>
+</wordsketch>
+</export>

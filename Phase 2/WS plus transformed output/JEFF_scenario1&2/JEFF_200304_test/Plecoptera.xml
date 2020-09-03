@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Plecoptera</keyword>
+  <gramrel name="modifiers of X" hits="9" score="23.680">
+    <coll hits="7" score="13.280">Ephemeroptera</coll>
+    <coll hits="1" score="11.300">Odonata</coll>
+    <coll hits="1" score="11.000">Plecoptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="7" score="18.420">
+    <coll hits="4" score="12.290">Trichoptera</coll>
+    <coll hits="2" score="11.750">Hemiptera</coll>
+    <coll hits="1" score="11.000">Plecoptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="15.790">
+    <coll hits="6" score="12.940">Trichoptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

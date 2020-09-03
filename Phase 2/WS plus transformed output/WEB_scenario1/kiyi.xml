@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">kiyi</keyword>
+  <gramrel name="modifiers of X" hits="3" score="21.430">
+    <coll hits="3" score="7.620">Coregonus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="14.290">
+    <coll hits="1" score="12.190">zenithicus</coll>
+    <coll hits="1" score="7.420">nerka</coll>
+  </gramrel>
+</wordsketch>
+</export>

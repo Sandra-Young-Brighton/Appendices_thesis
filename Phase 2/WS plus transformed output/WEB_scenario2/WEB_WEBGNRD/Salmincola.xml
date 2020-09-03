@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salmincola</keyword>
+  <gramrel name="modifiers of X" hits="6" score="20.690">
+    <coll hits="2" score="13.000" query="w1995189379">edwardsii</coll>
+    <coll hits="1" score="11.990" query="w1995189377">gracilis</coll>
+    <coll hits="2" score="11.830" query="w1995189378">Salmincola</coll>
+    <coll hits="1" score="10.750" query="w1995189376">Crustacea</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="12" score="41.380">
+    <coll hits="6" score="13.410" query="w1995226433">edwardsii</coll>
+    <coll hits="4" score="12.830" query="w1995226434">californiensis</coll>
+    <coll hits="2" score="11.830" query="w1995226432">Salmincola</coll>
+  </gramrel>
+</wordsketch>
+</export>

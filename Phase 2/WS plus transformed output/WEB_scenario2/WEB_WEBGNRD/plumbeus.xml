@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">plumbeus</keyword>
+  <gramrel name="modifiers of X" hits="31" score="83.780">
+    <coll hits="30" score="13.950" query="w1876966336">Couesius</coll>
+    <coll hits="1" score="10.000" query="w1876966337">Couesis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="2.700">
+    <coll hits="1" score="11.990" query="w1876986752">spiloptera</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="5.410">
+    <coll hits="1" score="12.190" query="w1877006145">catostomus</coll>
+    <coll hits="1" score="12.190" query="w1877006144">Catostomus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.700">
+    <coll hits="1" score="10.410" query="w1876996992">Illinois</coll>
+  </gramrel>
+</wordsketch>
+</export>

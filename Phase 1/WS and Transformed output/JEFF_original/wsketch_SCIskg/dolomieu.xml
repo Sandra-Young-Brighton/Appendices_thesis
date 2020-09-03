@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">dolomieu</keyword>
+  <gramrel name="modifiers of X" hits="36" score="76.600">
+    <coll hits="36" score="13.740">Micropterus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.130">
+    <coll hits="1" score="12.410">Lucius</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="2.130">
+    <coll hits="1" score="6.510">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

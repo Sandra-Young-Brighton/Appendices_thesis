@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Megaloptera</keyword>
+  <gramrel name="modifiers of X" hits="2" score="25.000">
+    <coll hits="1" score="10.190">Trichoptera</coll>
+    <coll hits="1" score="10.040">Diptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="50.000">
+    <coll hits="2" score="12.410">Ephemeroptera</coll>
+    <coll hits="1" score="11.090">Diptera</coll>
+    <coll hits="1" score="10.410">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="5" score="62.500">
+    <coll hits="2" score="11.300">Ephemeroptera</coll>
+    <coll hits="1" score="11.190">Odonata</coll>
+    <coll hits="1" score="10.820">Diptera</coll>
+    <coll hits="1" score="10.350">Trichoptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

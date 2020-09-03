@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Barbus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="0.590">
+    <coll hits="1" score="10.190">Squalius</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="92" score="54.440">
+    <coll hits="59" score="13.610">barbus</coll>
+    <coll hits="12" score="11.870">sclateri</coll>
+    <coll hits="6" score="10.950">haasi</coll>
+    <coll hits="5" score="10.720">petenyi</coll>
+    <coll hits="4" score="10.410">bocagei</coll>
+    <coll hits="3" score="10.010">microcephalus</coll>
+    <coll hits="1" score="8.460">brazzai</coll>
+    <coll hits="1" score="8.460">camptacanthus</coll>
+    <coll hits="1" score="8.460">comiza</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.590">
+    <coll hits="1" score="8.870">assem</coll>
+  </gramrel>
+</wordsketch>
+</export>

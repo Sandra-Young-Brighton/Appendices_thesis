@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fossilis</keyword>
+  <gramrel name="modifiers of X" hits="8" score="72.730">
+    <coll hits="4" score="13.410" query="w2083988353">Heteropneustes</coll>
+    <coll hits="3" score="13.120" query="w2083988354">Misgurnis</coll>
+    <coll hits="1" score="10.410" query="w2083988352">Misgurnus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">hubbsi</keyword>
+  <gramrel name="modifiers of X" hits="16" score="55.170">
+    <coll hits="3" score="12.330" query="w2049258499">Icthyomyzon</coll>
+    <coll hits="3" score="11.830" query="w2049258501">Gobiomorphus</coll>
+    <coll hits="2" score="11.830" query="w2049258502">Novumbra</coll>
+    <coll hits="3" score="11.150" query="w2049258498">Merluccius</coll>
+    <coll hits="1" score="10.910" query="w2049258500">Pteronotropis</coll>
+    <coll hits="2" score="9.910" query="w2049258497">Gambusia</coll>
+    <coll hits="2" score="7.310" query="w2049258496">Cottus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="10.340">
+    <coll hits="1" score="13.000" query="w2049328258">Chemin</coll>
+    <coll hits="1" score="5.400" query="w2049328257">Creek</coll>
+    <coll hits="1" score="3.760" query="w2049328256">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

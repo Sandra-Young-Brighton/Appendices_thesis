@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Morone</keyword>
+  <gramrel name="modifiers of X" hits="7" score="11.110">
+    <coll hits="3" score="13.260">Moronidae</coll>
+    <coll hits="2" score="12.830">olivaris</coll>
+    <coll hits="2" score="11.910">Pylodictis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="25" score="39.680">
+    <coll hits="21" score="13.860">saxatilis</coll>
+    <coll hits="3" score="11.770">mississippiensis</coll>
+    <coll hits="1" score="10.300">mississipiensis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.590">
+    <coll hits="1" score="13.990">Micropterus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.590">
+    <coll hits="1" score="8.200">south</coll>
+  </gramrel>
+</wordsketch>
+</export>

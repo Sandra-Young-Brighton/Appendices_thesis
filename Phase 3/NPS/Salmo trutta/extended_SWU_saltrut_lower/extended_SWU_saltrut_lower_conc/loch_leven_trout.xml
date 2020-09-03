@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_untagged</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="8">[lc=&quot;Loch_leven_trout&quot; | lemma_lc=&quot;Loch_leven_trout&quot;]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#388" num="0" label="_">
+    <left>other names: german brown_trout, brownie,</left>
+    <kwic> loch_leven_trout</kwic>
+    <right>, saibling scientific name: salmo_trutta</right>
+  </line>
+  <line refs="doc#457" num="1" label="_">
+    <left>: salmo_fario, s. lacustris; von behr trout,</left>
+    <kwic> loch_leven_trout</kwic>
+    <right>, german brown_trout &lt;/p&gt; &lt;p&gt; taxonomy:</right>
+  </line>
+  <line refs="doc#473" num="2" label="_">
+    <left>brown_trout, european brown_trout, brownie,</left>
+    <kwic> loch_leven_trout</kwic>
+    <right>, von behr trout, spotted trout, liberty trout,</right>
+  </line>
+  <line refs="doc#861" num="3" label="_">
+    <left>leven. in hutchinson, p. &amp; a. walker (eds), the</left>
+    <kwic> loch_leven_trout</kwic>
+    <right> fishery–its future. institute of fisheries</right>
+  </line>
+  <line refs="doc#861" num="4" label="_">
+    <left>&lt;p&gt; hutchinson, p. &amp; a. walker (eds), 1994. the</left>
+    <kwic> loch_leven_trout</kwic>
+    <right> fishery–its future. institute of fisheries</right>
+  </line>
+  <line refs="doc#861" num="5" label="_">
+    <left>&lt;p&gt; montgomery, d., 1994. management of the</left>
+    <kwic> loch_leven_trout</kwic>
+    <right> fishery. in hutchinson, p. &amp; a. walker (eds),</right>
+  </line>
+  <line refs="doc#861" num="6" label="_">
+    <left>. in hutchinson, p. &amp; a. walker (eds), the</left>
+    <kwic> loch_leven_trout</kwic>
+    <right> fishery–its future. institute of fisheries</right>
+  </line>
+  <line refs="doc#861" num="7" label="_">
+    <left>wright, g. a., 2003. impact of cormorants on the</left>
+    <kwic> loch_leven_trout</kwic>
+    <right> fishery and the effectiveness of shooting as</right>
+  </line>
+</concordance>
+</export>

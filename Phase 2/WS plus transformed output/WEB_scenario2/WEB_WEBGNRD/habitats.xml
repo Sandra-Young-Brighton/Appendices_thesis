@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">habitats</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1375" score="14.200">
+    <coll hits="36" score="9.370" query="w602588053">Ireland</coll>
+    <coll hits="29" score="8.330" query="w600838748">perch</coll>
+    <coll hits="45" score="8.230" query="w600290006">salmon</coll>
+    <coll hits="28" score="7.950" query="w599707263">stream</coll>
+    <coll hits="13" score="7.880" query="w601435758">watershed</coll>
+    <coll hits="76" score="7.810" query="w599707227">fish</coll>
+    <coll hits="16" score="7.780" query="w600289996">salmonid</coll>
+    <coll hits="24" score="7.560" query="w599707234">river</coll>
+    <coll hits="12" score="7.440" query="w601435712">macrophyte</coll>
+    <coll hits="20" score="7.420" query="w600290046">area</coll>
+    <coll hits="33" score="7.390" query="w599707223">specie</coll>
+    <coll hits="26" score="7.360" query="w600290012">trout</coll>
+    <coll hits="14" score="7.340" query="w599707201">eel</coll>
+    <coll hits="7" score="7.310" query="w603177441">ammocoete</coll>
+    <coll hits="12" score="7.280" query="w599707235">Lake</coll>
+    <coll hits="17" score="7.260" query="w599707220">species</coll>
+    <coll hits="8" score="7.250" query="w602588068">Dam</coll>
+    <coll hits="10" score="7.200" query="w599707224">region</coll>
+    <coll hits="11" score="7.190" query="w600838760">stage</coll>
+    <coll hits="9" score="7.180" query="w599707238">invertebrate</coll>
+    <coll hits="7" score="7.180" query="w600838783">bullhead</coll>
+    <coll hits="9" score="7.150" query="w599707233">basin</coll>
+    <coll hits="7" score="7.140" query="w600290042">insect</coll>
+    <coll hits="6" score="7.140" query="w603177464">ester</coll>
+    <coll hits="6" score="7.120" query="w603177420">Fyresvatn</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Alona</keyword>
+  <gramrel name="modifiers of X" hits="1" score="9.090">
+    <coll hits="1" score="12.410" query="w2045959936">Sida</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="5" score="45.450">
+    <coll hits="2" score="13.190" query="w2045969410">rectangula</coll>
+    <coll hits="1" score="11.990" query="w2045969409">Ceriodaphnia</coll>
+    <coll hits="2" score="10.020" query="w2045969408">affinis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="9.090">
+    <coll hits="1" score="12.680" query="w2045950720">Ceriodaphnia</coll>
+  </gramrel>
+</wordsketch>
+</export>

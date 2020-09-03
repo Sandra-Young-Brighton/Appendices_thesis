@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Herpesviridae</keyword>
+  <gramrel name="X has part..." hits="2" score="6.900">
+    <coll hits="1" score="13.410" query="w2097020608">host</coll>
+    <coll hits="1" score="12.680" query="w2097020609">herpesviruse</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="3.450">
+    <coll hits="1" score="8.870" query="w2097008512">property</coll>
+  </gramrel>
+</wordsketch>
+</export>

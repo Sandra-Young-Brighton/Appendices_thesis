@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Morone</keyword>
+  <gramrel name="nouns modified by X" hits="68" score="38.860">
+    <coll hits="52" score="13.770" query="w1123827392">saxatilis</coll>
+    <coll hits="16" score="12.600" query="w1123827393">chrysops</coll>
+  </gramrel>
+</wordsketch>
+</export>

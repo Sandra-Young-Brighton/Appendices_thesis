@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Juncus</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="26.320">
+    <coll hits="3" score="13.580" query="w1931452801">bulbosus</coll>
+    <coll hits="1" score="12.410" query="w1931452802">gerardii</coll>
+    <coll hits="1" score="12.410" query="w1931452800">Juncus</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="5.260" query="w1931442304">modifiers of &quot;%w&quot;</coll>
+  </gramrel>
+</wordsketch>
+</export>

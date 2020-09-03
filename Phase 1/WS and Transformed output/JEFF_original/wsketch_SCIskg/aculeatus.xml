@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">aculeatus</keyword>
+  <gramrel name="modifiers of X" hits="122" score="72.620">
+    <coll hits="99" score="13.800">Gasterosteus</coll>
+    <coll hits="22" score="11.990">stickleback</coll>
+    <coll hits="1" score="8.050">Aeshna</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="7" score="4.170">
+    <coll hits="1" score="10.540">stickleback</coll>
+    <coll hits="5" score="10.160">Linnaeus</coll>
+    <coll hits="1" score="8.870">pungitius</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="7" score="4.170">
+    <coll hits="3" score="12.680">pungitius</coll>
+    <coll hits="1" score="11.990">pungitus</coll>
+    <coll hits="2" score="11.240">stickleback</coll>
+    <coll hits="1" score="10.540">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="4.170">
+    <coll hits="1" score="11.670">Myvatn</coll>
+    <coll hits="1" score="10.680">Thingvallavatn</coll>
+    <coll hits="1" score="10.040">left</coll>
+    <coll hits="1" score="8.760">wetland</coll>
+    <coll hits="1" score="6.900">surface</coll>
+    <coll hits="1" score="6.080">relation</coll>
+    <coll hits="1" score="5.360">Creek</coll>
+  </gramrel>
+</wordsketch>
+</export>

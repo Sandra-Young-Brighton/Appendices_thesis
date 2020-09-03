@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">spec</keyword>
+  <gramrel name="modifiers of X" hits="9" score="17.310">
+    <coll hits="1" score="11.670" query="w1993865096">Nitellopsis</coll>
+    <coll hits="1" score="11.670" query="w1993865095">Isoetes</coll>
+    <coll hits="1" score="11.540" query="w1993865094">Azolla</coll>
+    <coll hits="1" score="11.410" query="w1993865093">Nitella</coll>
+    <coll hits="1" score="11.410" query="w1993865089">lucioperca</coll>
+    <coll hits="1" score="11.300" query="w1993865092">Ruppia</coll>
+    <coll hits="1" score="10.300" query="w1993865091">Chara</coll>
+    <coll hits="1" score="8.400" query="w1993865088">Stizostedion</coll>
+    <coll hits="1" score="6.340" query="w1993865090">Cottus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.920">
+    <coll hits="1" score="3.710" query="w1993933824">year</coll>
+  </gramrel>
+</wordsketch>
+</export>

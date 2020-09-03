@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Nematoda</keyword>
+  <gramrel name="modifiers of X" hits="21" score="33.870">
+    <coll hits="12" score="13.370">Gastropoda</coll>
+    <coll hits="6" score="12.580">Mollusca</coll>
+    <coll hits="2" score="11.140">Cestoda</coll>
+    <coll hits="1" score="10.470">Isopoda</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="7" score="11.290">
+    <coll hits="4" score="13.300">Acanthocephala</coll>
+    <coll hits="1" score="11.670">Annelida</coll>
+    <coll hits="1" score="11.190">Hirudinea</coll>
+    <coll hits="1" score="10.910">Hymenoptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="5" score="8.060">
+    <coll hits="4" score="13.540">Acanthocephala</coll>
+    <coll hits="1" score="11.830">Annelida</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.610">
+    <coll hits="1" score="4.170">site</coll>
+  </gramrel>
+</wordsketch>
+</export>

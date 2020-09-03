@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">marine</keyword>
+  <gramrel name="X and/or ..." hits="186" score="9.540">
+    <coll hits="19" score="11.500" query="w646978867">protected</coll>
+    <coll hits="21" score="11.280" query="w646978824">brackish</coll>
+    <coll hits="19" score="11.010" query="w646978855">estuarine</coll>
+    <coll hits="6" score="9.850" query="w646978853">teleost</coll>
+    <coll hits="11" score="9.530" query="w646978846">larval</coll>
+    <coll hits="4" score="9.380" query="w646978870">land-based</coll>
+    <coll hits="5" score="9.310" query="w646978823">fresh</coll>
+    <coll hits="5" score="9.260" query="w646978829">resident</coll>
+    <coll hits="3" score="9.010" query="w646978874">epifaunal</coll>
+    <coll hits="4" score="8.790" query="w646978838">terrestrial</coll>
+    <coll hits="5" score="8.510" query="w646978833">invertebrate</coll>
+    <coll hits="5" score="8.460" query="w646978826">coastal</coll>
+    <coll hits="2" score="8.440" query="w647463747">sweet</coll>
+    <coll hits="2" score="8.430" query="w647463749">deltaic</coll>
+    <coll hits="3" score="8.350" query="w646978831">riparian</coll>
+    <coll hits="2" score="8.340" query="w646978843">cultured</coll>
+    <coll hits="2" score="8.320" query="w646978869">subtidal</coll>
+    <coll hits="2" score="8.320" query="w646978822">three-spined</coll>
+    <coll hits="5" score="8.280" query="w646978849">pelagic</coll>
+    <coll hits="4" score="8.270" query="w646978832">benthic</coll>
+    <coll hits="2" score="8.270" query="w646978866">nearshore</coll>
+    <coll hits="2" score="8.240" query="w646978864">demersal</coll>
+    <coll hits="2" score="8.170" query="w646978834">mixed</coll>
+    <coll hits="3" score="8.000" query="w646978821">anadromous</coll>
+    <coll hits="2" score="7.540" query="w646978837">commercial</coll>
+  </gramrel>
+</wordsketch>
+</export>

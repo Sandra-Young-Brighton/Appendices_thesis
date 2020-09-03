@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Nematodes</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="15" score="13.270">
+    <coll hits="1" score="11.000" query="w1772069001">Spiruroidea</coll>
+    <coll hits="1" score="10.750" query="w1772068999">ruminant</coll>
+    <coll hits="1" score="10.300" query="w1772068998">stereomicroscope</coll>
+    <coll hits="1" score="9.500" query="w1772068997">dish</coll>
+    <coll hits="1" score="9.410" query="w1772069000">cyst</coll>
+    <coll hits="1" score="8.150" query="w1772068992">Anguilla</coll>
+    <coll hits="3" score="7.920" query="w1772068995">Fishes</coll>
+    <coll hits="1" score="6.470" query="w1772068994">stomach</coll>
+    <coll hits="1" score="6.330" query="w1772068996">consumption</coll>
+    <coll hits="4" score="3.750" query="w1772068993">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

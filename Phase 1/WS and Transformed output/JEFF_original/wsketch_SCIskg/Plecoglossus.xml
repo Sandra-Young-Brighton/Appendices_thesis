@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Plecoglossus</keyword>
+  <gramrel name="nouns modified by X" hits="14" score="42.420">
+    <coll hits="14" score="13.900">altivelis</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="6.060">
+    <coll hits="1" score="6.580">fish</coll>
+    <coll hits="1" score="6.500">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

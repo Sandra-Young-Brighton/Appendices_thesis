@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_sanluc_lower_tagged</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="5">[ws(2, 1640199042)]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#268" num="0" label="_">
+    <left>of zander (sander_lucioperca), a main predator in european brackish waters mattias hempel 1,2,*, rüdiger neukamm 2 and ralf thiel 1 1 2 university of hamburg, centre of natural history, zoological museum, martin-luther-king-platz 3, d-20146 hamburg, germany landessportfischerverband schleswig-holstein e.v., papenkamp 52, d-24114 kiel, germany *corresponding author e-mail: mattias.hempel@uni-hamburg.de received: 11 may 2015 / accepted: 16 december 2015 / published online: 19 january 2016 handling editor: kit magellan abstract we inspected diet and growth of zander</left>
+    <kwic>sander_lucioperca</kwic>
+    <right>, a main predator in north european brackish waters, from the kiel canal, northern germany, to analyse effects of the introduced round goby neogobius melanostomus as possible prey. round goby represented the most important fish prey taxon in the zander diet in 2011–2013 with 21.8% of relative importance index ( r i ) over all inspected specimens. in particular zander of total length ≥200 mm fed heavily on round goby, at least in the warmer quarters (2n d and 3 r d ) of the years under study.</right>
+  </line>
+  <line refs="doc#268" num="1" label="_">
+    <left>r i of young-of-the-year zander as prey for larger zander increased from 1.2% to 7.7% and round goby occurred as newly established prey taxon. zander also showed faster growth and a better condition factor. we assume that this development has the potential to enhance the situation of the local fisheries that are strongly related to the catch of zander. in addition, abundance control of round goby seems to result from the high predator abundance. key words: gobiidae, invasive species, diet shift, predator-prey relationships, kiel canal introduction the zander</left>
+    <kwic>sander_lucioperca</kwic>
+    <right>(linnaeus, 1758) is an important top predator (in terms of ecosystems and fisheries) of many brackish water ecosystems in northern europe (lehtonen et al. 1996; gröger et al. 2007). total catch from european inland fisheries reported to fao was 17,892 t in 1999 (fao 2014). the non-indigenous round goby neogobius melanostomus (pallas, 1814) has been introduced into many ecosystems in the northern hemisphere and continues to spread (kornis et al. 2012; kalchhauser et al. 2013). it is assumed that round goby</right>
+  </line>
+  <line refs="doc#529" num="2" label="_">
+    <left>, cyprinus carpio, length 100cm, gp-175860 the monster common carp, cyprinus carpio, length 160cm, gp-175402 www.gabyfishpillows.com 6 freshwater fish the mini carp, cyprinus carpio, length 36cm, gp-175129 our products... freshwater fish the mini grass carp, ctenopharyngodon idella, length 40cm, gp-175334 the grass carp, ctenopharyngodon idella, length 75cm, gp-175341 the giant grass carp, ctenopharyngodon idella, length 105cm, gp-175358 the catfish, silurus glanis, length 115cm, gp-175167 the monster catfish, silurus glanis, length 200cm, gp-175983 the mini zander ,</left>
+    <kwic>sander_lucioperca</kwic>
+    <right>, length 50cm, gp-175235 the zander, sander_lucioperca, length 75cm, gp-175068 7 www.gabyfishpillows.com freshwater our products... the flounder, platichthys flesus, length 41cm, gp-175099 the atlantic salmon, salmo salar, length 90cm, gp-175082 the atlantic bluefin tuna, thunnus thynnus, length 66cm, gp-175518 the monster atlantic bluefin tuna, thunnus thynnus, length 160cm, gp-175396 www.gabyfishpillows.com 8 sea fish the giant zander, sander_lucioperca, length 110cm, gp-175211 our products... sea fish the giant atlantic bluefin tuna, thunnus thynnus, length 100cm</right>
+  </line>
+  <line refs="doc#529" num="3" label="_">
+    <left>common carp, cyprinus carpio, length 160cm, gp-175402 www.gabyfishpillows.com 6 freshwater fish the mini carp, cyprinus carpio, length 36cm, gp-175129 our products... freshwater fish the mini grass carp, ctenopharyngodon idella, length 40cm, gp-175334 the grass carp, ctenopharyngodon idella, length 75cm, gp-175341 the giant grass carp, ctenopharyngodon idella, length 105cm, gp-175358 the catfish, silurus glanis, length 115cm, gp-175167 the monster catfish, silurus glanis, length 200cm, gp-175983 the mini zander, sander_lucioperca, length 50cm, gp-175235 the zander ,</left>
+    <kwic>sander_lucioperca</kwic>
+    <right>, length 75cm, gp-175068 7 www.gabyfishpillows.com freshwater our products... the flounder, platichthys flesus, length 41cm, gp-175099 the atlantic salmon, salmo salar, length 90cm, gp-175082 the atlantic bluefin tuna, thunnus thynnus, length 66cm, gp-175518 the monster atlantic bluefin tuna, thunnus thynnus, length 160cm, gp-175396 www.gabyfishpillows.com 8 sea fish the giant zander, sander_lucioperca, length 110cm, gp-175211 our products... sea fish the giant atlantic bluefin tuna, thunnus thynnus, length 100cm, gp-175525 the blue marlin, makaira nigricans, length</right>
+  </line>
+  <line refs="doc#529" num="4" label="_">
+    <left>glanis, length 115cm, gp-175167 the monster catfish, silurus glanis, length 200cm, gp-175983 the mini zander, sander_lucioperca, length 50cm, gp-175235 the zander, sander_lucioperca, length 75cm, gp-175068 7 www.gabyfishpillows.com freshwater our products... the flounder, platichthys flesus, length 41cm, gp-175099 the atlantic salmon, salmo salar, length 90cm, gp-175082 the atlantic bluefin tuna, thunnus thynnus, length 66cm, gp-175518 the monster atlantic bluefin tuna, thunnus thynnus, length 160cm, gp-175396 www.gabyfishpillows.com 8 sea fish the giant zander ,</left>
+    <kwic>sander_lucioperca</kwic>
+    <right>, length 110cm, gp-175211 our products... sea fish the giant atlantic bluefin tuna, thunnus thynnus, length 100cm, gp-175525 the blue marlin, makaira nigricans, length 118cm, gp-175587 the blue marlin lit up, makaira nigricans lit up, length 118cm, gp-175594 the monster blue marlin lit up, makaira nigricans lit up, length 200cm, gp-175273 the gilthead sea bream, sparus aurata, length 60cm, gp-175600 9 www.gabyfishpillows.com our products... the smolt sea trout, salmo trutta trutta, length 51cm, gp-175280 the sea trout, salmo</right>
+  </line>
+</concordance>
+</export>

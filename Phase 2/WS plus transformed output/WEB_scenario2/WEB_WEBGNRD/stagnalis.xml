@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">stagnalis</keyword>
+  <gramrel name="modifiers of X" hits="3" score="13.040">
+    <coll hits="3" score="12.880" query="w2004462080">Lymnaea</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="12" score="52.170">
+    <coll hits="12" score="10.210" query="w2004472448">indet</coll>
+  </gramrel>
+</wordsketch>
+</export>

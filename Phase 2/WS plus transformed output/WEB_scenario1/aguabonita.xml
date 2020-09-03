@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">aguabonita</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="10.000">
+    <coll hits="1" score="8.910">fork</coll>
+    <coll hits="1" score="3.870">species</coll>
+    <coll hits="1" score="3.760">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">verticillata</keyword>
+  <gramrel name="modifiers of X" hits="28" score="47.460">
+    <coll hits="28" score="13.970" query="w2083567168">Hydrilla</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.690">
+    <coll hits="1" score="13.410" query="w2083580800">spiralis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="3.390">
+    <coll hits="1" score="13.410" query="w2083546177">spiralis</coll>
+    <coll hits="1" score="11.830" query="w2083546176">spicatum</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="11" score="18.640">
+    <coll hits="1" score="11.190" query="w2083592070">invasiveness</coll>
+    <coll hits="2" score="10.270" query="w2083592069">building</coll>
+    <coll hits="2" score="8.190" query="w2083592068">gradient</coll>
+    <coll hits="1" score="6.300" query="w2083592067">sediment</coll>
+    <coll hits="2" score="6.130" query="w2083592065">ecosystem</coll>
+    <coll hits="2" score="5.890" query="w2083592066">stage</coll>
+    <coll hits="1" score="4.820" query="w2083592064">Lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

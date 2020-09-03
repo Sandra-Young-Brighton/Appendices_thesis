@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Digenea</keyword>
+  <gramrel name="modifiers of X" hits="1" score="3.330">
+    <coll hits="1" score="10.820" query="w1996528896">Monogenea</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="10.000">
+    <coll hits="2" score="13.190" query="w1996538880">Cestoda</coll>
+    <coll hits="1" score="13.000" query="w1996538881">Gorgoderidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="10.000">
+    <coll hits="2" score="13.190" query="w1996507904">Cestoda</coll>
+    <coll hits="1" score="13.000" query="w1996507905">Gorgoderidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

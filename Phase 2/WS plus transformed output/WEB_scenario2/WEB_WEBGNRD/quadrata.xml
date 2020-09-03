@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">quadrata</keyword>
+  <gramrel name="modifiers of X" hits="3" score="42.860">
+    <coll hits="1" score="12.680" query="w1706330241">longirostris</coll>
+    <coll hits="2" score="12.410" query="w1706330240">Keratella</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="14.290">
+    <coll hits="1" score="12.680" query="w1706347648">priodonta</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="14.290">
+    <coll hits="1" score="13.990" query="w1706319808">priodonta</coll>
+  </gramrel>
+</wordsketch>
+</export>

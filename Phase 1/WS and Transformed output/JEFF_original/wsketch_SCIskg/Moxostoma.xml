@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Moxostoma</keyword>
+  <gramrel name="nouns modified by X" hits="16" score="45.710">
+    <coll hits="6" score="13.120">valenciennesi</coll>
+    <coll hits="4" score="12.680">duquesnei</coll>
+    <coll hits="2" score="11.830">macrolepidotum</coll>
+    <coll hits="2" score="11.750">erythrurum</coll>
+    <coll hits="1" score="10.910">macrolepidum</coll>
+    <coll hits="1" score="6.330">larva</coll>
+  </gramrel>
+</wordsketch>
+</export>

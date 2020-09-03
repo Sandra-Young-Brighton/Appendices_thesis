@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Prosopium</keyword>
+  <gramrel name="nouns modified by X" hits="29" score="49.150">
+    <coll hits="18" score="13.550">williamsoni</coll>
+    <coll hits="6" score="12.450">cylindraceum</coll>
+    <coll hits="5" score="12.070">coulterii</coll>
+  </gramrel>
+</wordsketch>
+</export>

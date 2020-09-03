@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sicyopus_zosterophorum</keyword>
+  <gramrel name="modifiers of X" hits="1" score="14.290">
+    <coll hits="1" score="9.830">species</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="28.570">
+    <coll hits="2" score="13.670">Smilosicyopus_chloe</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="28.570">
+    <coll hits="2" score="13.670">Smilosicyopus_chloe</coll>
+  </gramrel>
+</wordsketch>
+</export>

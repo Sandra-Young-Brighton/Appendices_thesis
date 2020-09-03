@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rusticus</keyword>
+  <gramrel name="modifiers of X" hits="9" score="52.940">
+    <coll hits="2" score="12.540" query="w1967318785">Faxonius</coll>
+    <coll hits="7" score="12.410" query="w1967318784">Orconectes</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.880">
+    <coll hits="1" score="13.410" query="w1967339328">Cambaridae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.880">
+    <coll hits="1" score="13.990" query="w1967309376">Cambaridae</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="3" score="17.650">
+    <coll hits="1" score="13.000" query="w1967360066">cut</coll>
+    <coll hits="1" score="12.410" query="w1967360064">biomass</coll>
+    <coll hits="1" score="12.190" query="w1967360065">macrophyte</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="5.880">
+    <coll hits="1" score="5.730" query="w1967348928">zone</coll>
+  </gramrel>
+</wordsketch>
+</export>

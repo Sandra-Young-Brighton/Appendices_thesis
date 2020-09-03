@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">polymorpha</keyword>
+  <gramrel name="modifiers of X" hits="30" score="76.920">
+    <coll hits="30" score="13.840" query="w1676744000">Dreissena</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="7.690">
+    <coll hits="3" score="13.990" query="w1676728320">bugensis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.560">
+    <coll hits="1" score="4.380" query="w1676757568">system</coll>
+  </gramrel>
+</wordsketch>
+</export>

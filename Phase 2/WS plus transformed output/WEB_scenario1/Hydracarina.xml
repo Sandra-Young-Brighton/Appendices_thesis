@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hydracarina</keyword>
+  <gramrel name="modifiers of X" hits="2" score="12.500">
+    <coll hits="1" score="13.410">lacustris</coll>
+    <coll hits="1" score="13.000">Ostracoda</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="5" score="31.250">
+    <coll hits="2" score="12.540">Megaloptera</coll>
+    <coll hits="1" score="12.190">Tabanidae</coll>
+    <coll hits="1" score="11.410">Hirudinea</coll>
+    <coll hits="1" score="10.300">Copepoda</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="18.750">
+    <coll hits="1" score="12.680">Tabanidae</coll>
+    <coll hits="1" score="12.190">Hirudinea</coll>
+    <coll hits="1" score="9.830">Copepoda</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="3" score="18.750">
+    <coll hits="1" score="13.000">Calanoida</coll>
+    <coll hits="1" score="13.000">Cyclopoida</coll>
+    <coll hits="1" score="12.410">Copepoda</coll>
+  </gramrel>
+</wordsketch>
+</export>

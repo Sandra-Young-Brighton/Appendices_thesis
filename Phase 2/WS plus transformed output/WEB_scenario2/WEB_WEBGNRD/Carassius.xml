@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Carassius</keyword>
+  <gramrel name="nouns modified by X" hits="81" score="64.800">
+    <coll hits="52" score="13.410" query="w1613107264">auratus</coll>
+    <coll hits="20" score="12.630" query="w1613107267">carassius</coll>
+    <coll hits="7" score="11.340" query="w1613107268">gibelio</coll>
+    <coll hits="1" score="8.640" query="w1613107265">cuvieri</coll>
+    <coll hits="1" score="8.490" query="w1613107266">parva</coll>
+  </gramrel>
+</wordsketch>
+</export>

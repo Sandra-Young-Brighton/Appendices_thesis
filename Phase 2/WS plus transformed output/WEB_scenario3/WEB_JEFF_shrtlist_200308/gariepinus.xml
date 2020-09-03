@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">gariepinus</keyword>
+  <gramrel name="modifiers of X" hits="51" score="70.830">
+    <coll hits="51" score="13.980">Clarias</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.390">
+    <coll hits="1" score="13.410">Siluriformes</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="5" score="6.940">
+    <coll hits="3" score="12.880">mykiss</coll>
+    <coll hits="1" score="12.410">docmak</coll>
+    <coll hits="1" score="12.190">Siluriformes</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="10" score="13.890">
+    <coll hits="1" score="10.190">attention</coll>
+    <coll hits="1" score="9.570">India</coll>
+    <coll hits="2" score="8.280">Africa</coll>
+    <coll hits="2" score="7.520">Dam</coll>
+    <coll hits="1" score="6.270">term</coll>
+    <coll hits="1" score="4.880">community</coll>
+    <coll hits="1" score="2.890">lake</coll>
+    <coll hits="1" score="2.690">specie</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="2" score="2.780">
+    <coll hits="1" score="13.410">assemblage</coll>
+    <coll hits="1" score="10.600">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

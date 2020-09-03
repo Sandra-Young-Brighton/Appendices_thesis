@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pseudoplastystoma</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="100.000">
+    <coll hits="1" score="13.990">Zungaro</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="100.000">
+    <coll hits="1" score="13.990">Zungaro</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Nicola</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="4.650">
+    <coll hits="2" score="13.990">Elvira</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="4.650">
+    <coll hits="2" score="13.990">Elvira</coll>
+  </gramrel>
+</wordsketch>
+</export>

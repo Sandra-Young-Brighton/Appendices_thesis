@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Oncorhynchus_keta</keyword>
+  <gramrel name="modifiers of X" hits="5" score="38.460">
+    <coll hits="1" score="12.410">Lethenteron_camtschaticum</coll>
+    <coll hits="4" score="7.970">salmon</coll>
+  </gramrel>
+</wordsketch>
+</export>

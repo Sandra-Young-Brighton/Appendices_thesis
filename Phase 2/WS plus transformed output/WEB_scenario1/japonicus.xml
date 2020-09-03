@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">japonicus</keyword>
+  <gramrel name="modifiers of X" hits="6" score="17.650">
+    <coll hits="6" score="13.990">Lateolabrax</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="8.820">
+    <coll hits="1" score="10.410">Kuroshio</coll>
+    <coll hits="1" score="7.390">Ocean</coll>
+    <coll hits="1" score="5.890">Bay</coll>
+  </gramrel>
+</wordsketch>
+</export>

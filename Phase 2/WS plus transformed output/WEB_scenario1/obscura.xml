@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">obscura</keyword>
+  <gramrel name="modifiers of X" hits="4" score="18.180">
+    <coll hits="1" score="12.680">Nephelopsis</coll>
+    <coll hits="3" score="11.120">Nannoperca</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="4.550">
+    <coll hits="1" score="12.190">lacustris</coll>
+  </gramrel>
+</wordsketch>
+</export>

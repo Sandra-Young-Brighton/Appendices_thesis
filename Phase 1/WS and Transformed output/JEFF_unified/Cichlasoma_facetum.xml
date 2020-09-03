@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cichlasoma_facetum</keyword>
+  <gramrel name="modifiers of X" hits="4" score="200.000">
+    <coll hits="1" score="12.410">Anguillidae</coll>
+    <coll hits="1" score="12.190">Micropterus_salmoides</coll>
+    <coll hits="1" score="11.990">Cichlidae</coll>
+    <coll hits="1" score="11.000">Anguilla_anguilla</coll>
+  </gramrel>
+</wordsketch>
+</export>

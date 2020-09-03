@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Brycon</keyword>
+  <gramrel name="nouns modified by X" hits="15" score="71.430">
+    <coll hits="15" score="13.950">orbignyanus</coll>
+  </gramrel>
+</wordsketch>
+</export>

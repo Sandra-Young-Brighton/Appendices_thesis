@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salmon</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="199" score="9.210">
+    <coll hits="8" score="10.010" query="w1058417980">Waters</coll>
+    <coll hits="21" score="9.940" query="w1058417923">America</coll>
+    <coll hits="6" score="9.900" query="w1059039970">Llyw</coll>
+    <coll hits="6" score="9.870" query="w1059039938">Knowledge</coll>
+    <coll hits="6" score="8.970" query="w1058417977">Ocean</coll>
+    <coll hits="3" score="8.900" query="w1059039957">Highlands</coll>
+    <coll hits="4" score="8.880" query="w1058417973">Coast</coll>
+    <coll hits="3" score="8.570" query="w1059039948">Strait</coll>
+    <coll hits="5" score="8.510" query="w1059039942">Gulf</coll>
+    <coll hits="3" score="8.450" query="w1058417961">Northwest</coll>
+    <coll hits="4" score="8.380" query="w1058417947">Sound</coll>
+    <coll hits="9" score="8.260" query="w1058417930">Sea</coll>
+    <coll hits="2" score="8.260" query="w1059039949">Areas</coll>
+    <coll hits="5" score="8.190" query="w1058417968">California</coll>
+    <coll hits="2" score="8.160" query="w1058417938">System</coll>
+    <coll hits="2" score="8.050" query="w1058417974">erosion</coll>
+    <coll hits="6" score="8.000" query="w1058417965">Ontario</coll>
+    <coll hits="3" score="7.960" query="w1058417978">edge</coll>
+    <coll hits="2" score="7.860" query="w1059039945">Maine</coll>
+    <coll hits="3" score="7.790" query="w1058417975">project</coll>
+    <coll hits="2" score="7.780" query="w1058417964">York</coll>
+    <coll hits="2" score="7.540" query="w1058417979">Japan</coll>
+    <coll hits="1" score="7.350" query="w1059039968">Sentinels</coll>
+    <coll hits="1" score="7.350" query="w1059039967">Deduced</coll>
+    <coll hits="1" score="7.350" query="w1059039966">Discerned</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.050">
+    <coll hits="1" score="11.540" query="w1059372480">New</coll>
+  </gramrel>
+</wordsketch>
+</export>

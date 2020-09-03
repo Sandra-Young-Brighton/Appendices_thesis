@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">dubia</keyword>
+  <gramrel name="modifiers of X" hits="1" score="25.000">
+    <coll hits="1" score="13.990" query="w2006721984">Zosterella</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="25.000">
+    <coll hits="1" score="7.170" query="w2006730944">mg</coll>
+  </gramrel>
+</wordsketch>
+</export>

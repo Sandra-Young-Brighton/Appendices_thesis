@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Osmerus</keyword>
+  <gramrel name="nouns modified by X" hits="36" score="72.000">
+    <coll hits="20" score="13.510">eperlanus</coll>
+    <coll hits="16" score="13.140">mordax</coll>
+  </gramrel>
+</wordsketch>
+</export>

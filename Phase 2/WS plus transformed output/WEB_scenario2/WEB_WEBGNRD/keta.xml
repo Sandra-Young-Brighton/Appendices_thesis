@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">keta</keyword>
+  <gramrel name="modifiers of X" hits="60" score="63.160">
+    <coll hits="57" score="10.340" query="w1385566912">Oncorhynchus</coll>
+    <coll hits="1" score="9.060" query="w1385566915">Oncorhyunchus</coll>
+    <coll hits="1" score="9.060" query="w1385566914">Oncoryhchus</coll>
+    <coll hits="1" score="9.060" query="w1385566913">gorbuscha</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="2.110">
+    <coll hits="1" score="12.680" query="w1385602305">tschawytscha</coll>
+    <coll hits="1" score="9.870" query="w1385602304">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.050">
+    <coll hits="1" score="13.990" query="w1385556864">tschawytscha</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="3.160">
+    <coll hits="1" score="12.190" query="w1385620673">Conditions</coll>
+    <coll hits="1" score="11.090" query="w1385620674">Year</coll>
+    <coll hits="1" score="5.420" query="w1385620672">Sea</coll>
+  </gramrel>
+</wordsketch>
+</export>

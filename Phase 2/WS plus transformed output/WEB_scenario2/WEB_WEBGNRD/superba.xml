@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">superba</keyword>
+  <gramrel name="modifiers of X" hits="4" score="80.000">
+    <coll hits="4" score="13.990" query="w2024641984">Euphausia</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="20.000">
+    <coll hits="1" score="12.190" query="w2024653696">vannamei</coll>
+  </gramrel>
+</wordsketch>
+</export>

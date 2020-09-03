@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">phoxinus</keyword>
+  <gramrel name="modifiers of X" hits="49" score="74.240">
+    <coll hits="46" score="13.860" query="w1968154114">Phoxinus</coll>
+    <coll hits="2" score="10.210" query="w1968154113">gobio</coll>
+    <coll hits="1" score="9.140" query="w1968154112">thymallus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="4.550">
+    <coll hits="1" score="12.680" query="w1968190785">bipunctatus</coll>
+    <coll hits="2" score="12.290" query="w1968190784">barbatulus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="6.060">
+    <coll hits="2" score="13.410" query="w1968119424">barbatulus</coll>
+    <coll hits="1" score="12.680" query="w1968119426">bipunctatus</coll>
+    <coll hits="1" score="12.410" query="w1968119425">lozanoi</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="3.030">
+    <coll hits="1" score="13.000" query="w1968217089">phoxini</coll>
+    <coll hits="1" score="2.890" query="w1968217088">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

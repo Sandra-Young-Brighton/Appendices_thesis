@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salvelinus_malma</keyword>
+  <gramrel name="modifiers of X" hits="1" score="3.130">
+    <coll hits="1" score="4.310">fish</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="12.500">
+    <coll hits="1" score="8.090">Lakes</coll>
+    <coll hits="1" score="7.970">limit</coll>
+    <coll hits="1" score="5.460">basin</coll>
+    <coll hits="1" score="3.530">size</coll>
+  </gramrel>
+</wordsketch>
+</export>

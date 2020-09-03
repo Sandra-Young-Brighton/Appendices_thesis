@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">mixta</keyword>
+  <gramrel name="modifiers of X" hits="4" score="80.000">
+    <coll hits="4" score="11.870" query="w2114141824">Mysis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="20.000">
+    <coll hits="1" score="6.660" query="w2114151104">herring</coll>
+  </gramrel>
+</wordsketch>
+</export>

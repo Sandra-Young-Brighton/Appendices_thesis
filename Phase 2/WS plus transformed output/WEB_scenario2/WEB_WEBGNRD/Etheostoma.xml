@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Etheostoma</keyword>
+  <gramrel name="modifiers of X" hits="2" score="1.800">
+    <coll hits="1" score="13.410" query="w1152941441">pellucida</coll>
+    <coll hits="1" score="12.680" query="w1152941440">Ammocrypta</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="39" score="35.140">
+    <coll hits="7" score="12.250" query="w1152958528">exile</coll>
+    <coll hits="6" score="12.060" query="w1152958529">nigrum</coll>
+    <coll hits="5" score="11.830" query="w1152958539">zonale</coll>
+    <coll hits="4" score="11.540" query="w1152958532">caeruleum</coll>
+    <coll hits="3" score="11.190" query="w1152958536">chienense</coll>
+    <coll hits="2" score="10.640" query="w1152958535">olmstedi</coll>
+    <coll hits="2" score="10.600" query="w1152958533">flabellare</coll>
+    <coll hits="2" score="10.570" query="w1152958540">spectabile</coll>
+    <coll hits="1" score="9.670" query="w1152958542">nuchale</coll>
+    <coll hits="1" score="9.670" query="w1152958541">cragini</coll>
+    <coll hits="1" score="9.670" query="w1152958538">olmsteadi</coll>
+    <coll hits="1" score="9.670" query="w1152958537">microperca</coll>
+    <coll hits="1" score="9.670" query="w1152958531">asprigene</coll>
+    <coll hits="1" score="9.640" query="w1152958543">chlorosomum</coll>
+    <coll hits="1" score="9.610" query="w1152958530">Percidae</coll>
+    <coll hits="1" score="9.410" query="w1152958534">maculata</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.900">
+    <coll hits="1" score="12.410" query="w1152932544">Percidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

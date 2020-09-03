@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Nuphar</keyword>
+  <gramrel name="modifiers of X" hits="3" score="9.090">
+    <coll hits="1" score="13.000" query="w2006419202">Batrachospermum</coll>
+    <coll hits="1" score="11.670" query="w2006419200">Nymphaea</coll>
+    <coll hits="1" score="10.410" query="w2006419201">Ceratophyllum</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="17" score="51.520">
+    <coll hits="10" score="13.460" query="w2006444484">lutea</coll>
+    <coll hits="3" score="12.190" query="w2006444482">variegatum</coll>
+    <coll hits="1" score="10.820" query="w2006444485">advena</coll>
+    <coll hits="1" score="10.820" query="w2006444481">Nymphoides</coll>
+    <coll hits="1" score="10.750" query="w2006444480">zone</coll>
+    <coll hits="1" score="10.600" query="w2006444483">Carex</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="6.060">
+    <coll hits="1" score="13.410" query="w2006402368">Nymphoides</coll>
+    <coll hits="1" score="12.680" query="w2006402369">Carex</coll>
+  </gramrel>
+</wordsketch>
+</export>

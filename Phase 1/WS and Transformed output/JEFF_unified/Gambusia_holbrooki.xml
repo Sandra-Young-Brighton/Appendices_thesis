@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gambusia_holbrooki</keyword>
+  <gramrel name="modifiers of X" hits="5" score="8.930">
+    <coll hits="1" score="12.410">Poecilidae</coll>
+    <coll hits="4" score="6.310">fish</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.790">
+    <coll hits="1" score="6.730">fish</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="3.570">
+    <coll hits="1" score="13.000">Heterandria_formosa</coll>
+    <coll hits="1" score="7.450">fish</coll>
+  </gramrel>
+  <gramrel name="X is a ..." hits="2" score="3.570">
+    <coll hits="1" score="10.470">species</coll>
+    <coll hits="1" score="9.480">specie</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="7.140">
+    <coll hits="1" score="12.410">poeciliid</coll>
+    <coll hits="1" score="12.410">nucleotide</coll>
+    <coll hits="1" score="3.920">area</coll>
+    <coll hits="1" score="3.770">River</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="1.790">
+    <coll hits="1" score="6.810">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

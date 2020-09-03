@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sebastes</keyword>
+  <gramrel name="nouns modified by X" hits="28" score="38.360">
+    <coll hits="4" score="11.990" query="w1814398981">saxicola</coll>
+    <coll hits="4" score="11.710" query="w1814398980">jordani</coll>
+    <coll hits="3" score="11.630" query="w1814398976">ruberrimus</coll>
+    <coll hits="2" score="11.090" query="w1814398989">proriger</coll>
+    <coll hits="2" score="11.090" query="w1814398984">alutus</coll>
+    <coll hits="2" score="11.090" query="w1814398982">goodie</coll>
+    <coll hits="2" score="11.040" query="w1814398988">schlegelii</coll>
+    <coll hits="2" score="10.950" query="w1814398983">capensis</coll>
+    <coll hits="2" score="10.680" query="w1814398979">thompsoni</coll>
+    <coll hits="1" score="10.140" query="w1814398987">brevispinis</coll>
+    <coll hits="1" score="10.140" query="w1814398986">maliger</coll>
+    <coll hits="1" score="10.140" query="w1814398978">norvegicus</coll>
+    <coll hits="1" score="10.140" query="w1814398977">mentella</coll>
+    <coll hits="1" score="10.090" query="w1814398985">aurora</coll>
+  </gramrel>
+</wordsketch>
+</export>

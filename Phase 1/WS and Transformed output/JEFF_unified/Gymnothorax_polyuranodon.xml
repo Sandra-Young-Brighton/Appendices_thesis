@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gymnothorax_polyuranodon</keyword>
+  <gramrel name="modifiers of X" hits="1" score="14.290">
+    <coll hits="1" score="9.000">specie</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="28.570">
+    <coll hits="1" score="11.300">cate</coll>
+    <coll hits="1" score="5.370">Creek</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hyperoplus</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="50.000">
+    <coll hits="1" score="13.000" query="w2008713601">immaculatus</coll>
+    <coll hits="1" score="13.000" query="w2008713600">lanceolatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

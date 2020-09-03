@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">mosulensis</keyword>
+  <gramrel name="modifiers of X" hits="2" score="6.450">
+    <coll hits="2" score="10.870" query="w2141211008">Alburnus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="6.450">
+    <coll hits="1" score="8.870" query="w2141221569">marsh</coll>
+    <coll hits="1" score="6.970" query="w2141221568">importance</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Schistocephalus</keyword>
+  <gramrel name="nouns modified by X" hits="18" score="64.290">
+    <coll hits="11" score="13.600">solidus</coll>
+    <coll hits="5" score="12.790">pungitii</coll>
+    <coll hits="2" score="9.930">pungitius</coll>
+  </gramrel>
+</wordsketch>
+</export>

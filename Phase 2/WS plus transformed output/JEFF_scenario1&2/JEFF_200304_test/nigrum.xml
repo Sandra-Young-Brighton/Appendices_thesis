@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">nigrum</keyword>
+  <gramrel name="modifiers of X" hits="17" score="26.560">
+    <coll hits="17" score="12.080">Etheostoma</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.560">
+    <coll hits="1" score="13.410">notatus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="6.250">
+    <coll hits="1" score="11.990">inhabitant</coll>
+    <coll hits="1" score="6.900">term</coll>
+    <coll hits="1" score="5.740">spring</coll>
+    <coll hits="1" score="3.260">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">clarki</keyword>
+  <gramrel name="modifiers of X" hits="18" score="30.000">
+    <coll hits="2" score="11.140">Onchorhynchus</coll>
+    <coll hits="12" score="9.260">Oncorhynchus</coll>
+    <coll hits="3" score="7.460">trout</coll>
+    <coll hits="1" score="4.460">Salmo</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="5.000">
+    <coll hits="2" score="7.500">specie</coll>
+    <coll hits="1" score="6.570">fish</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.670">
+    <coll hits="1" score="13.990">radiotelemeter</coll>
+  </gramrel>
+</wordsketch>
+</export>

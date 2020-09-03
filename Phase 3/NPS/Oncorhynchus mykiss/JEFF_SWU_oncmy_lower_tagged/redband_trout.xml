@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">redband_trout</keyword>
+  <gramrel name="X and/or ..." hits="1" score="14.290">
+    <coll hits="1" score="7.720">trout</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="28.570">
+    <coll hits="1" score="5.010">basin</coll>
+    <coll hits="1" score="3.210">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

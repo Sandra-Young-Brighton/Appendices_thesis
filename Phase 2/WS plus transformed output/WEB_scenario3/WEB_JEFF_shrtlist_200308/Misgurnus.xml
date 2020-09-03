@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Misgurnus</keyword>
+  <gramrel name="nouns modified by X" hits="14" score="63.640">
+    <coll hits="13" score="13.940">anguillicaudatus</coll>
+    <coll hits="1" score="11.090">fossilis</coll>
+  </gramrel>
+</wordsketch>
+</export>

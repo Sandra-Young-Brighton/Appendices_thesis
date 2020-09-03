@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">californica</keyword>
+  <gramrel name="modifiers of X" hits="2" score="50.000">
+    <coll hits="1" score="13.410" query="w1824386048">Cerithidea</coll>
+    <coll hits="1" score="12.680" query="w1824386049">Aplysia</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="25.000">
+    <coll hits="1" score="11.670" query="w1824402048">mudflat</coll>
+  </gramrel>
+</wordsketch>
+</export>

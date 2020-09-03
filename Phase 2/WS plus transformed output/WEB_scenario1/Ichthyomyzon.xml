@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ichthyomyzon</keyword>
+  <gramrel name="nouns modified by X" hits="7" score="17.950">
+    <coll hits="6" score="13.880">fossor</coll>
+    <coll hits="1" score="11.990">gagei</coll>
+  </gramrel>
+</wordsketch>
+</export>

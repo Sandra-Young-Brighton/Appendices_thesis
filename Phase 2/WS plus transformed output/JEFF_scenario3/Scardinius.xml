@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Scardinius</keyword>
+  <gramrel name="nouns modified by X" hits="34" score="73.910">
+    <coll hits="29" score="13.720">erythrophthalmus</coll>
+    <coll hits="3" score="11.370">erythrophtalmus</coll>
+    <coll hits="2" score="10.820">erythroph</coll>
+  </gramrel>
+</wordsketch>
+</export>

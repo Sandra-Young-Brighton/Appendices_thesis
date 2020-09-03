@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Spawning</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="35" score="12.770">
+    <coll hits="22" score="13.450" query="w978536329">Salmonid</coll>
+    <coll hits="1" score="9.830" query="w978536330">Salrnonid</coll>
+    <coll hits="3" score="7.850" query="w978536326">Fishes</coll>
+    <coll hits="1" score="6.400" query="w978536327">Trout</coll>
+    <coll hits="1" score="5.970" query="w978536321">adult</coll>
+    <coll hits="1" score="5.850" query="w978536328">vegetation</coll>
+    <coll hits="1" score="5.650" query="w978536322">S</coll>
+    <coll hits="2" score="5.460" query="w978536320">eel</coll>
+    <coll hits="1" score="3.740" query="w978536324">River</coll>
+    <coll hits="1" score="3.540" query="w978536325">river</coll>
+    <coll hits="1" score="1.750" query="w978536323">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

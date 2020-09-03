@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">hardhead</keyword>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="7.140">modifiers of &quot;%w&quot;</coll>
+    <coll hits="1" score="7.140">nouns modified by &quot;%w&quot;</coll>
+  </gramrel>
+</wordsketch>
+</export>

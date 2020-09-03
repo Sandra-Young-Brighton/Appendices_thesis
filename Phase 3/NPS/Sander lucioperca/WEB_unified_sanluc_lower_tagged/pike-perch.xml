@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_sanluc_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">pike-perch</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="8" score="7.620">
+    <coll hits="3" score="12.120">ra</coll>
+    <coll hits="1" score="11.300">ras</coll>
+    <coll hits="1" score="8.270">occasion</coll>
+    <coll hits="1" score="5.740">pond</coll>
+    <coll hits="1" score="4.610">condition</coll>
+    <coll hits="1" score="4.300">system</coll>
+  </gramrel>
+</wordsketch>
+</export>

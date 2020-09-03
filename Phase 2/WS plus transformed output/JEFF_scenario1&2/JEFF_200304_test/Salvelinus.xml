@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salvelinus</keyword>
+  <gramrel name="nouns modified by X" hits="868" score="74.250">
+    <coll hits="485" score="13.510">alpinus</coll>
+    <coll hits="163" score="12.330">fontinalis</coll>
+    <coll hits="96" score="11.670">confluentus</coll>
+    <coll hits="69" score="11.230">namaycush</coll>
+    <coll hits="39" score="10.460">malma</coll>
+    <coll hits="4" score="7.230">willughbii</coll>
+    <coll hits="4" score="7.230">leucomaenis</coll>
+    <coll hits="2" score="6.230">umbla</coll>
+    <coll hits="2" score="6.220">Linneaus</coll>
+  </gramrel>
+</wordsketch>
+</export>

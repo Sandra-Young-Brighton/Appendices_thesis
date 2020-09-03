@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cynoscion</keyword>
+  <gramrel name="nouns modified by X" hits="13" score="65.000">
+    <coll hits="5" score="13.150" query="w1835333633">regalis</coll>
+    <coll hits="7" score="11.380" query="w1835333632">nebulosus</coll>
+    <coll hits="1" score="11.190" query="w1835333634">guatucupa</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="5.000">
+    <coll hits="1" score="10.680" query="w1835368384">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

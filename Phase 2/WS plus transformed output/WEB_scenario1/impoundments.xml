@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">impoundments</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="30" score="21.430">
+    <coll hits="1" score="9.870">auspice</coll>
+    <coll hits="1" score="9.530">south-west</coll>
+    <coll hits="1" score="9.320">town</coll>
+    <coll hits="1" score="9.140">West</coll>
+    <coll hits="1" score="8.890">stratification</coll>
+    <coll hits="1" score="8.690">scheme</coll>
+    <coll hits="1" score="8.370">property</coll>
+    <coll hits="1" score="7.990">York</coll>
+    <coll hits="1" score="7.750">health</coll>
+    <coll hits="1" score="7.320">drainage</coll>
+    <coll hits="1" score="7.210">electrofishing</coll>
+    <coll hits="1" score="6.370">channel</coll>
+    <coll hits="5" score="6.060">River</coll>
+    <coll hits="1" score="6.030">bottom</coll>
+    <coll hits="2" score="5.920">use</coll>
+    <coll hits="3" score="5.350">habitat</coll>
+    <coll hits="2" score="4.540">river</coll>
+    <coll hits="1" score="4.350">system</coll>
+    <coll hits="1" score="3.960">size</coll>
+    <coll hits="1" score="3.220">population</coll>
+    <coll hits="1" score="3.070">water</coll>
+    <coll hits="1" score="1.750">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

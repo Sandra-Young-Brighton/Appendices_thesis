@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">alpenae</keyword>
+  <gramrel name="modifiers of X" hits="3" score="150.000">
+    <coll hits="1" score="9.710" query="w2064595457">Prosopium</coll>
+    <coll hits="2" score="6.880" query="w2064595456">Coregonus</coll>
+  </gramrel>
+</wordsketch>
+</export>

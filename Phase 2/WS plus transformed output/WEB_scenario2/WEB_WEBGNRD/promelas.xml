@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">promelas</keyword>
+  <gramrel name="modifiers of X" hits="24" score="54.550">
+    <coll hits="23" score="13.590" query="w1151784896">Pimephales</coll>
+    <coll hits="1" score="10.240" query="w1151784897">promelas</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="6.820">
+    <coll hits="1" score="12.410" query="w1151806338">obtusus</coll>
+    <coll hits="1" score="10.820" query="w1151806337">cataractae</coll>
+    <coll hits="1" score="10.240" query="w1151806336">promelas</coll>
+  </gramrel>
+</wordsketch>
+</export>

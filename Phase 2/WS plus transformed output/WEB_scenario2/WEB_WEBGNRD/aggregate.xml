@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">aggregate</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="20" score="25.320">
+    <coll hits="1" score="9.910" query="w1714225291">Fraser</coll>
+    <coll hits="1" score="9.870" query="w1714225295">delivery</coll>
+    <coll hits="2" score="9.280" query="w1714225290">south</coll>
+    <coll hits="1" score="8.400" query="w1714225292">margin</coll>
+    <coll hits="1" score="7.830" query="w1714225289">rock</coll>
+    <coll hits="1" score="7.790" query="w1714225293">patch</coll>
+    <coll hits="3" score="7.260" query="w1714225286">stock</coll>
+    <coll hits="1" score="6.920" query="w1714225294">Gulf</coll>
+    <coll hits="1" score="6.410" query="w1714225288">channel</coll>
+    <coll hits="1" score="5.550" query="w1714225284">spring</coll>
+    <coll hits="1" score="5.520" query="w1714225287">zooplankton</coll>
+    <coll hits="1" score="4.860" query="w1714225283">range</coll>
+    <coll hits="1" score="4.450" query="w1714225282">abundance</coll>
+    <coll hits="1" score="4.290" query="w1714225285">period</coll>
+    <coll hits="1" score="3.950" query="w1714225281">time</coll>
+    <coll hits="2" score="2.750" query="w1714225280">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

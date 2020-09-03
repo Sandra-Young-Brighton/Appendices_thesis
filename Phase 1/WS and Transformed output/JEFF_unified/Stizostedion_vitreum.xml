@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Stizostedion_vitreum</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="9.520">
+    <coll hits="2" score="7.310">larva</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="4.760">
+    <coll hits="1" score="8.130">larva</coll>
+  </gramrel>
+</wordsketch>
+</export>

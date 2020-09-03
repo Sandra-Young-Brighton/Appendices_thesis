@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Platichthys</keyword>
+  <gramrel name="nouns modified by X" hits="8" score="32.000">
+    <coll hits="7" score="13.720" query="w1764614209">flesus</coll>
+    <coll hits="1" score="11.540" query="w1764614208">stellatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

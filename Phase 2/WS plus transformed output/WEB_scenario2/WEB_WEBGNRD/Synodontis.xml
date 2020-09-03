@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Synodontis</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="60.000">
+    <coll hits="1" score="13.000" query="w1960325505">membranaceus</coll>
+    <coll hits="1" score="13.000" query="w1960325504">victoriae</coll>
+    <coll hits="1" score="12.410" query="w1960325506">victoria</coll>
+  </gramrel>
+</wordsketch>
+</export>

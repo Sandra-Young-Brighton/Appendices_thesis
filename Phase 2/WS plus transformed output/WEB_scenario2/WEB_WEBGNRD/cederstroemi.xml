@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cederstroemi</keyword>
+  <gramrel name="modifiers of X" hits="3" score="100.000">
+    <coll hits="3" score="13.000" query="w1902755072">Bythotrephes</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="66.670">
+    <coll hits="1" score="5.850" query="w1902765057">Ontario</coll>
+    <coll hits="1" score="4.340" query="w1902765056">diet</coll>
+  </gramrel>
+</wordsketch>
+</export>

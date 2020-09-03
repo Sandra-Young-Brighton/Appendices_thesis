@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hiodon</keyword>
+  <gramrel name="modifiers of X" hits="4" score="21.050">
+    <coll hits="1" score="12.680" query="w2046622978">Amia</coll>
+    <coll hits="1" score="12.410" query="w2046622979">transmontanus</coll>
+    <coll hits="1" score="12.410" query="w2046622977">malma</coll>
+    <coll hits="1" score="4.910" query="w2046622976">Salvelinus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="21.050">
+    <coll hits="3" score="13.770" query="w2046656000">tergisus</coll>
+    <coll hits="1" score="12.680" query="w2046656001">alosoides</coll>
+  </gramrel>
+</wordsketch>
+</export>

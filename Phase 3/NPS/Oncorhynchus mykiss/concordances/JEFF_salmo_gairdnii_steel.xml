@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_oncmy_lower_tagged</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="1">[ws(2, 1541112640)]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#451" num="0" label="_">
+    <left>, horrall, r.m., cooper, j.c. &amp; hasler, a.d. 1976. the basis for home stream imprinting to chemical cues: selection in salmon. science 192: 1247–1249. thurow, r.f. &amp; king, j.g. 1994. attributes of yellowstone cutthroat trout redds in a tributary of the snake river, idaho. transactions of the american fisheries society 123: 37–50. wagner, h.h. 1969. effect of stocking location of juvenile steelhead_trout ,</left>
+    <kwic>salmo_gairdnerii</kwic>
+    <right>, on adult catch. transac- tions of the american fisheries society 98: 27–34. zar, j.h. 1999. biostatistical analysis, 4th edn. new jersey: prentice hall. xii + appendices + 663 pp. stewart et al. dittman, a.h. &amp; quinn, t.p. 1996. homing in pacific salmon: mechanisms and ecological basis. the journal of experi- mental biology 199: 83–91. fleming, i.a. 1998. pattern and variability in the breeding system of</right>
+  </line>
+</concordance>
+</export>

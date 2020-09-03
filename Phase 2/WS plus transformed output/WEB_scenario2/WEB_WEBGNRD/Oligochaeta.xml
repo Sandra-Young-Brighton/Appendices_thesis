@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Oligochaeta</keyword>
+  <gramrel name="modifiers of X" hits="3" score="5.170">
+    <coll hits="1" score="13.000" query="w1706622722">Collembola</coll>
+    <coll hits="1" score="10.540" query="w1706622721">Trichoptera</coll>
+    <coll hits="1" score="10.410" query="w1706622720">Chironomidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="17" score="29.310">
+    <coll hits="2" score="11.750" query="w1706646341">Potamonautidae</coll>
+    <coll hits="2" score="11.540" query="w1706646339">Megaloptera</coll>
+    <coll hits="2" score="11.470" query="w1706646336">Hirudinea</coll>
+    <coll hits="2" score="11.350" query="w1706646337">Chironomidae</coll>
+    <coll hits="1" score="10.680" query="w1706646342">Paracalliope</coll>
+    <coll hits="1" score="10.600" query="w1706646340">Chaoboridae</coll>
+    <coll hits="1" score="9.950" query="w1706646338">Trichoptera</coll>
+    <coll hits="6" score="9.200" query="w1706646343">indet</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="8" score="13.790">
+    <coll hits="1" score="11.830" query="w1706570374">Branchiobdellidae</coll>
+    <coll hits="1" score="11.830" query="w1706570372">Chydoridae</coll>
+    <coll hits="2" score="11.750" query="w1706570370">Chironomidae</coll>
+    <coll hits="1" score="11.670" query="w1706570371">Gastropoda</coll>
+    <coll hits="1" score="11.540" query="w1706570369">Acari</coll>
+    <coll hits="1" score="11.410" query="w1706570373">Chaoboridae</coll>
+    <coll hits="1" score="11.410" query="w1706570368">Hirudinea</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.720">
+    <coll hits="1" score="9.020" query="w1706723328">benthos</coll>
+  </gramrel>
+</wordsketch>
+</export>

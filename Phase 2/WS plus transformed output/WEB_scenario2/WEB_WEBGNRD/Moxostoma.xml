@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Moxostoma</keyword>
+  <gramrel name="nouns modified by X" hits="25" score="42.370">
+    <coll hits="6" score="12.620" query="w1152010563">macrolepidotum</coll>
+    <coll hits="6" score="12.620" query="w1152010561">anisurum</coll>
+    <coll hits="4" score="12.140" query="w1152010565">carinatum</coll>
+    <coll hits="3" score="11.770" query="w1152010566">duquesnei</coll>
+    <coll hits="3" score="11.770" query="w1152010562">erythrurum</coll>
+    <coll hits="2" score="11.240" query="w1152010564">valenciennesi</coll>
+    <coll hits="1" score="7.710" query="w1152010560">Carpio</coll>
+  </gramrel>
+</wordsketch>
+</export>

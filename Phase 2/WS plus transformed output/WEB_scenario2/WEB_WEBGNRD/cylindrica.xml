@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cylindrica</keyword>
+  <gramrel name="modifiers of X" hits="5" score="71.430">
+    <coll hits="4" score="13.830" query="w2025490624">Parreysia</coll>
+    <coll hits="1" score="12.410" query="w2025490625">Trichocerca</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="14.290">
+    <coll hits="1" score="10.540" query="w2025510272">cadmium</coll>
+  </gramrel>
+</wordsketch>
+</export>

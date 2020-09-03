@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pimephales</keyword>
+  <gramrel name="modifiers of X" hits="5" score="22.730">
+    <coll hits="2" score="13.190">Cyprinella</coll>
+    <coll hits="1" score="12.410">Hybopsis</coll>
+    <coll hits="1" score="12.410">Dorosoma</coll>
+    <coll hits="1" score="12.410">Fundulus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="4.550">
+    <coll hits="1" score="13.990">Minytrema</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="4.550">
+    <coll hits="1" score="13.990">Minytrema</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="4.550">
+    <coll hits="1" score="5.120">abundance</coll>
+  </gramrel>
+</wordsketch>
+</export>

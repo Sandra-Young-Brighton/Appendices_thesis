@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Elliptio</keyword>
+  <gramrel name="nouns modified by X" hits="12" score="38.710">
+    <coll hits="6" score="13.410" query="w1668168643">complanata</coll>
+    <coll hits="3" score="12.680" query="w1668168640">angustata</coll>
+    <coll hits="2" score="12.090" query="w1668168641">lanceolata</coll>
+    <coll hits="1" score="11.300" query="w1668168642">steinstansana</coll>
+  </gramrel>
+</wordsketch>
+</export>

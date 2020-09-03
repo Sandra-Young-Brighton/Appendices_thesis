@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Coexistence</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="100.000">
+    <coll hits="1" score="5.070">charr</coll>
+  </gramrel>
+</wordsketch>
+</export>

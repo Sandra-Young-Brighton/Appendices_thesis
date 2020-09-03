@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Tabanidae</keyword>
+  <gramrel name="modifiers of X" hits="2" score="6.900">
+    <coll hits="1" score="12.190">Hydracarina</coll>
+    <coll hits="1" score="11.830">Hirudinea</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="6.900">
+    <coll hits="1" score="13.410">Turbellaria</coll>
+    <coll hits="1" score="10.910">lacustris</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="6.900">
+    <coll hits="1" score="13.410">Turbellaria</coll>
+    <coll hits="1" score="13.000">lacustris</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gambusia_affinis</keyword>
+  <gramrel name="modifiers of X" hits="5" score="7.250">
+    <coll hits="1" score="11.990">Ostracoda</coll>
+    <coll hits="1" score="11.670">Copepoda</coll>
+    <coll hits="1" score="11.670">Linnaeus</coll>
+    <coll hits="1" score="11.190">Cladocera</coll>
+    <coll hits="1" score="4.310">fish</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="2.900">
+    <coll hits="1" score="10.300">minnow</coll>
+    <coll hits="1" score="4.430">specie</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="5.800">
+    <coll hits="1" score="12.410">Galaxias_maculatus</coll>
+    <coll hits="1" score="11.990">Gambusia_holbrooki</coll>
+    <coll hits="1" score="10.540">minnow</coll>
+    <coll hits="1" score="8.570">specie</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="5.800">
+    <coll hits="1" score="12.680">tarsali</coll>
+    <coll hits="1" score="11.990">Savannah</coll>
+    <coll hits="1" score="8.280">Zealand</coll>
+    <coll hits="1" score="6.880">category</coll>
+  </gramrel>
+</wordsketch>
+</export>

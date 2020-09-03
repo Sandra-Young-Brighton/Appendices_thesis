@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Anguillicola</keyword>
+  <gramrel name="nouns modified by X" hits="8" score="72.730">
+    <coll hits="7" score="13.340" query="w2033562304">crassus</coll>
+    <coll hits="1" score="11.830" query="w2033562305">papernai</coll>
+  </gramrel>
+</wordsketch>
+</export>

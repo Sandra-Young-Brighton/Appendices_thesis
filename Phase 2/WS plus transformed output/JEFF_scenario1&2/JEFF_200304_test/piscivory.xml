@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">piscivory</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="22" score="24.720">
+    <coll hits="1" score="8.340">bird</coll>
+    <coll hits="1" score="8.020">smelt</coll>
+    <coll hits="1" score="7.850">beginning</coll>
+    <coll hits="1" score="6.710">consumption</coll>
+    <coll hits="4" score="6.530">perch</coll>
+    <coll hits="1" score="6.430">trait</coll>
+    <coll hits="1" score="6.000">presence</coll>
+    <coll hits="1" score="5.620">stage</coll>
+    <coll hits="1" score="5.580">bass</coll>
+    <coll hits="1" score="5.420">salmonid</coll>
+    <coll hits="1" score="5.330">Creek</coll>
+    <coll hits="1" score="5.270">structure</coll>
+    <coll hits="1" score="5.040">charr</coll>
+    <coll hits="2" score="4.760">River</coll>
+    <coll hits="1" score="4.480">individual</coll>
+    <coll hits="1" score="3.480">lake</coll>
+    <coll hits="1" score="3.170">trout</coll>
+    <coll hits="1" score="1.960">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

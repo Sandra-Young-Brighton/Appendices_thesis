@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Blicca</keyword>
+  <gramrel name="nouns modified by X" hits="14" score="70.000">
+    <coll hits="14" score="13.480">bjoerkna</coll>
+  </gramrel>
+</wordsketch>
+</export>

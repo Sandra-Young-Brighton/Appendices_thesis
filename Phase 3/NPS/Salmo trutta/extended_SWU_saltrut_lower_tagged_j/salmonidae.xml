@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">salmonidae</keyword>
+  <gramrel name="modifiers of X" hits="21" score="7.500">
+    <coll hits="6" score="12.720">thymallus_thymallus</coll>
+    <coll hits="2" score="11.470">euteleostei</coll>
+    <coll hits="1" score="10.540">salvelinus_namaycush</coll>
+    <coll hits="1" score="10.540">thymallus</coll>
+    <coll hits="1" score="10.540">coregonus_clupeaformis</coll>
+    <coll hits="1" score="10.470">lake_trout</coll>
+    <coll hits="1" score="10.470">coregonus</coll>
+    <coll hits="1" score="10.470">oncorhynchus_keta</coll>
+    <coll hits="1" score="10.350">oncorhynchus_nerka</coll>
+    <coll hits="1" score="10.240">salvelinus_alpinus</coll>
+    <coll hits="1" score="10.040">salmo</coll>
+    <coll hits="1" score="9.910">salmo_salar</coll>
+    <coll hits="1" score="9.380">salmo_trutta</coll>
+    <coll hits="2" score="7.810">trout</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="13" score="4.640">
+    <coll hits="4" score="12.830">brown_trout</coll>
+    <coll hits="2" score="11.300">brown_trout</coll>
+    <coll hits="1" score="11.190">lake_trout</coll>
+    <coll hits="1" score="11.190">prosopium_cylindraceum</coll>
+    <coll hits="1" score="10.750">lake_trout</coll>
+    <coll hits="3" score="9.840">trout</coll>
+    <coll hits="1" score="7.850">oncorhynchus_mykiss</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="0.710">
+    <coll hits="1" score="13.000">thymallus</coll>
+    <coll hits="1" score="8.040">trout</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="28" score="10.000">
+    <coll hits="7" score="11.650">trout</coll>
+    <coll hits="3" score="11.500">salmo_salar</coll>
+    <coll hits="2" score="11.090">concept</coll>
+    <coll hits="2" score="11.090">genus</coll>
+    <coll hits="2" score="11.090">number</coll>
+    <coll hits="2" score="11.040">specie</coll>
+    <coll hits="2" score="10.870">salmo_trutta</coll>
+    <coll hits="1" score="10.140">coregonus_anaulorum</coll>
+    <coll hits="1" score="10.140">coregonus_alpinus</coll>
+    <coll hits="1" score="10.140">coregonus_gutturosus</coll>
+    <coll hits="1" score="10.140">coregonus_nelsonii</coll>
+    <coll hits="1" score="10.140">thymallus_thymallus</coll>
+    <coll hits="1" score="10.090">oncorhynchus_mykiss</coll>
+    <coll hits="1" score="10.040">coregonus</coll>
+    <coll hits="1" score="9.670">brown_trout</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="1.070">
+    <coll hits="1" score="8.590">hemisphere</coll>
+    <coll hits="1" score="7.410">africa</coll>
+    <coll hits="1" score="6.370">catchment</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.360">
+    <coll hits="1" score="13.990">thymallus</coll>
+  </gramrel>
+</wordsketch>
+</export>

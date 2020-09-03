@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Engraulis</keyword>
+  <gramrel name="nouns modified by X" hits="21" score="30.430">
+    <coll hits="15" score="12.650">mordax</coll>
+    <coll hits="5" score="12.620">encrasicolus</coll>
+    <coll hits="1" score="10.540">encrasicholus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.450">
+    <coll hits="1" score="7.120">world</coll>
+  </gramrel>
+</wordsketch>
+</export>

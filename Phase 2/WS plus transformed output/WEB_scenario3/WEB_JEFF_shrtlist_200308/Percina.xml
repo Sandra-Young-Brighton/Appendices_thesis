@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Percina</keyword>
+  <gramrel name="modifiers of X" hits="9" score="18.370">
+    <coll hits="2" score="12.290">flavescens</coll>
+    <coll hits="1" score="11.670">fulvescens</coll>
+    <coll hits="1" score="11.540">mordax</coll>
+    <coll hits="1" score="11.000">cernuus</coll>
+    <coll hits="1" score="8.600">Osmerus</coll>
+    <coll hits="1" score="8.570">Micropterus</coll>
+    <coll hits="2" score="6.570">Perca</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="14" score="28.570">
+    <coll hits="5" score="12.920">maculata</coll>
+    <coll hits="2" score="11.990">caprodes</coll>
+    <coll hits="2" score="11.990">copelandi</coll>
+    <coll hits="1" score="11.090">phoxocephala</coll>
+    <coll hits="1" score="11.090">evides</coll>
+    <coll hits="1" score="11.090">nigrofasciata</coll>
+    <coll hits="1" score="9.710">canadensis</coll>
+    <coll hits="1" score="9.160">vitreum</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="11" score="22.450">
+    <coll hits="1" score="11.410">bairdi</coll>
+    <coll hits="1" score="11.410">Cottus</coll>
+    <coll hits="1" score="11.190">Lucius</coll>
+    <coll hits="1" score="11.190">vitreus</coll>
+    <coll hits="1" score="11.190">Sander</coll>
+    <coll hits="1" score="11.190">Ictalurus</coll>
+    <coll hits="1" score="11.190">mykiss</coll>
+    <coll hits="1" score="11.090">Oncorhynchus</coll>
+    <coll hits="1" score="11.000">trutta</coll>
+    <coll hits="1" score="10.820">Salmo</coll>
+    <coll hits="1" score="9.190">Esox</coll>
+  </gramrel>
+</wordsketch>
+</export>

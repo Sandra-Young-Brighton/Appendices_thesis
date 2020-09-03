@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ephemeroptera</keyword>
+  <gramrel name="modifiers of X" hits="7" score="5.980">
+    <coll hits="2" score="12.540">Megaloptera</coll>
+    <coll hits="1" score="11.830">Oligochaeta</coll>
+    <coll hits="1" score="11.830">Simuliidae</coll>
+    <coll hits="1" score="11.300">Amphipoda</coll>
+    <coll hits="1" score="10.820">Diptera</coll>
+    <coll hits="1" score="10.750">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="14" score="11.970">
+    <coll hits="7" score="13.280">Plecoptera</coll>
+    <coll hits="3" score="11.540">Trichoptera</coll>
+    <coll hits="2" score="11.540">Odonata</coll>
+    <coll hits="1" score="10.820">Simuliidae</coll>
+    <coll hits="1" score="10.750">Lepidoptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="16" score="13.680">
+    <coll hits="6" score="12.940">Plecoptera</coll>
+    <coll hits="3" score="11.830">Diptera</coll>
+    <coll hits="3" score="11.450">Trichoptera</coll>
+    <coll hits="2" score="11.350">Odonata</coll>
+    <coll hits="1" score="10.820">Lepidoptera</coll>
+    <coll hits="1" score="10.680">Simuliidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="5.130">
+    <coll hits="1" score="10.000">WTPs</coll>
+    <coll hits="1" score="9.270">hand</coll>
+    <coll hits="1" score="6.930">stomach</coll>
+    <coll hits="1" score="6.060">May</coll>
+    <coll hits="1" score="5.180">diet</coll>
+    <coll hits="1" score="5.060">sample</coll>
+  </gramrel>
+</wordsketch>
+</export>

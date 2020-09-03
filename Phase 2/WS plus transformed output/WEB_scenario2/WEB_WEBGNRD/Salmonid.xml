@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salmonid</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="1.850">
+    <coll hits="4" score="13.670" query="w1310888322">Onchorhynchus</coll>
+    <coll hits="1" score="9.870" query="w1310888320">Salmonid</coll>
+    <coll hits="1" score="8.640" query="w1310888321">appearance</coll>
+  </gramrel>
+</wordsketch>
+</export>

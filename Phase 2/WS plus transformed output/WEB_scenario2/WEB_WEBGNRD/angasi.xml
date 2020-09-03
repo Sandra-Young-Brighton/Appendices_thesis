@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">angasi</keyword>
+  <gramrel name="modifiers of X" hits="6" score="200.000">
+    <coll hits="2" score="12.830" query="w2086852736">edulis</coll>
+    <coll hits="3" score="12.260" query="w2086852738">Ostrea</coll>
+    <coll hits="1" score="11.990" query="w2086852737">chilensis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="33.330">
+    <coll hits="1" score="10.910" query="w2086903488">edulis</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ranunculus</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="4.690">
+    <coll hits="1" score="13.000" query="w1952176578">trichophyllus</coll>
+    <coll hits="1" score="12.680" query="w1952176577">Batrachium</coll>
+    <coll hits="1" score="12.190" query="w1952176576">penicillatus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="3.130">
+    <coll hits="1" score="13.000" query="w1952201281">erectum</coll>
+    <coll hits="1" score="13.000" query="w1952201280">Sparganium</coll>
+  </gramrel>
+</wordsketch>
+</export>

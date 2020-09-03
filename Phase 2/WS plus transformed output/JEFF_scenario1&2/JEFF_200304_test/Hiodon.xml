@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hiodon</keyword>
+  <gramrel name="modifiers of X" hits="7" score="77.780">
+    <coll hits="2" score="12.830">Hiodontidae</coll>
+    <coll hits="2" score="12.830">osseus</coll>
+    <coll hits="1" score="11.990">vitreum</coll>
+    <coll hits="2" score="11.000">Lepisosteus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="44.440">
+    <coll hits="2" score="13.410">tergisus</coll>
+    <coll hits="2" score="13.410">alosoides</coll>
+  </gramrel>
+</wordsketch>
+</export>

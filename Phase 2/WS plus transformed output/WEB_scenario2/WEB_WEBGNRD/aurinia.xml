@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">aurinia</keyword>
+  <gramrel name="modifiers of X" hits="21" score="42.000">
+    <coll hits="21" score="13.990" query="w2167859648">Euphydryas</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="12.000">
+    <coll hits="1" score="9.440" query="w2167872836">Germany</coll>
+    <coll hits="1" score="9.040" query="w2167872835">Wales</coll>
+    <coll hits="1" score="7.490" query="w2167872837">Britain</coll>
+    <coll hits="1" score="5.830" query="w2167872834">scale</coll>
+    <coll hits="1" score="5.390" query="w2167872832">part</coll>
+    <coll hits="1" score="4.160" query="w2167872833">site</coll>
+  </gramrel>
+</wordsketch>
+</export>

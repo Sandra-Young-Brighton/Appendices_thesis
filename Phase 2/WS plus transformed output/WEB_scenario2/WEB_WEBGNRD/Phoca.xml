@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Phoca</keyword>
+  <gramrel name="nouns modified by X" hits="10" score="66.670">
+    <coll hits="7" score="13.720" query="w1859325056">vitulina</coll>
+    <coll hits="2" score="12.410" query="w1859325058">groenlandica</coll>
+    <coll hits="1" score="11.540" query="w1859325057">hispida</coll>
+  </gramrel>
+</wordsketch>
+</export>

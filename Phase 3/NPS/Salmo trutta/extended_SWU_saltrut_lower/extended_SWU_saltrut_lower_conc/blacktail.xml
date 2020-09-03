@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_untagged</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="1">[lc=&quot;blacktail&quot; | lemma_lc=&quot;blacktail&quot;]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#810" num="0" label="_">
+    <left>sea_trout may return after the first summer (&quot;</left>
+    <kwic>blacktails</kwic>
+    <right>&quot;). adult fish usually return to their stream</right>
+  </line>
+</concordance>
+</export>

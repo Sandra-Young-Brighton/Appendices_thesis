@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sicyopterus</keyword>
+  <gramrel name="nouns modified by X" hits="22" score="25.000">
+    <coll hits="22" score="8.870">specie</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="3.410">
+    <coll hits="1" score="11.540">Indo</coll>
+    <coll hits="1" score="7.080">November</coll>
+    <coll hits="1" score="3.920">area</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="3.410">
+    <coll hits="1" score="12.410">Sicydiinae</coll>
+    <coll hits="1" score="11.990">Gobioidei</coll>
+    <coll hits="1" score="6.820">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

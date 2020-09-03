@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Diptera</keyword>
+  <gramrel name="modifiers of X" hits="26" score="4.330">
+    <coll hits="4" score="11.450" query="w1462453185">Chironomidae</coll>
+    <coll hits="2" score="11.140" query="w1462453197">Hydrophilidae</coll>
+    <coll hits="3" score="11.090" query="w1462453189">Trichoptera</coll>
+    <coll hits="2" score="11.090" query="w1462453190">Zygoptera</coll>
+    <coll hits="2" score="11.090" query="w1462453186">Amphipoda</coll>
+    <coll hits="3" score="11.000" query="w1462453187">Coleoptera</coll>
+    <coll hits="2" score="10.950" query="w1462453184">Hirudinea</coll>
+    <coll hits="1" score="10.240" query="w1462453198">Glossosmatidae</coll>
+    <coll hits="1" score="10.240" query="w1462453196">Staphylinidae</coll>
+    <coll hits="1" score="10.240" query="w1462453193">Glossosoma</coll>
+    <coll hits="1" score="10.190" query="w1462453188">Hemiptera</coll>
+    <coll hits="1" score="10.140" query="w1462453195">Hymenoptera</coll>
+    <coll hits="1" score="10.140" query="w1462453192">Brachycentrus</coll>
+    <coll hits="1" score="10.140" query="w1462453191">Simuliidae</coll>
+    <coll hits="1" score="10.090" query="w1462453194">Orthoptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="25" score="4.160">
+    <coll hits="3" score="11.720" query="w1462595272">Chaoboridae</coll>
+    <coll hits="3" score="11.230" query="w1462595267">Trichoptera</coll>
+    <coll hits="2" score="11.140" query="w1462595266">Odonata</coll>
+    <coll hits="2" score="11.090" query="w1462595274">Heteroptera</coll>
+    <coll hits="2" score="10.950" query="w1462595264">Chironomidae</coll>
+    <coll hits="1" score="10.300" query="w1462595273">Cyclorrhapha</coll>
+    <coll hits="1" score="10.300" query="w1462595270">Nematocera</coll>
+    <coll hits="1" score="10.300" query="w1462595269">imago</coll>
+    <coll hits="1" score="10.240" query="w1462595271">Culicidae</coll>
+    <coll hits="1" score="10.190" query="w1462595275">Therevidae</coll>
+    <coll hits="1" score="10.040" query="w1462595268">melanogaster</coll>
+    <coll hits="1" score="10.000" query="w1462595265">Coleoptera</coll>
+    <coll hits="6" score="9.160" query="w1462595276">indet</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="13" score="2.160">
+    <coll hits="3" score="12.490" query="w1462381702">Chaoboridae</coll>
+    <coll hits="2" score="11.670" query="w1462381699">Trichoptera</coll>
+    <coll hits="2" score="11.410" query="w1462381697">Chironomidae</coll>
+    <coll hits="1" score="11.190" query="w1462381703">Heteroptera</coll>
+    <coll hits="1" score="11.190" query="w1462381700">Nematocera</coll>
+    <coll hits="1" score="11.090" query="w1462381701">Culicidae</coll>
+    <coll hits="1" score="10.910" query="w1462381704">Therevidae</coll>
+    <coll hits="1" score="10.820" query="w1462381696">Mollusca</coll>
+    <coll hits="1" score="10.680" query="w1462381698">Coleoptera</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="6" score="1.000">
+    <coll hits="1" score="12.190" query="w1462747203">Pisidium</coll>
+    <coll hits="1" score="12.190" query="w1462747201">Lepidoptera</coll>
+    <coll hits="1" score="12.190" query="w1462747200">Coleoptera</coll>
+    <coll hits="1" score="11.990" query="w1462747204">Therevidae</coll>
+    <coll hits="1" score="11.830" query="w1462747205">Anabarhynchus</coll>
+    <coll hits="1" score="11.830" query="w1462747202">fasciatus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="0.670">
+    <coll hits="1" score="11.990" query="w1462711363">Australasian</coll>
+    <coll hits="1" score="11.830" query="w1462711361">Part</coll>
+    <coll hits="1" score="8.110" query="w1462711362">drift</coll>
+    <coll hits="1" score="6.060" query="w1462711360">adult</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.170">
+    <coll hits="1" score="13.000" query="w1462825024">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.170">
+    <coll hits="1" score="11.670" query="w1462829696">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lutea</keyword>
+  <gramrel name="modifiers of X" hits="12" score="48.000">
+    <coll hits="10" score="13.460" query="w2083379008">Nuphar</coll>
+    <coll hits="1" score="11.300" query="w2083379010">Numphar</coll>
+    <coll hits="1" score="11.300" query="w2083379009">Tisochrysis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="4.000">
+    <coll hits="1" score="13.990" query="w2083367936">peltata</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="16.000">
+    <coll hits="1" score="11.990" query="w2083406147">elasmobranch</coll>
+    <coll hits="1" score="10.680" query="w2083406145">instance</coll>
+    <coll hits="1" score="8.820" query="w2083406146">ovary</coll>
+    <coll hits="1" score="5.330" query="w2083406144">stickleback</coll>
+  </gramrel>
+</wordsketch>
+</export>

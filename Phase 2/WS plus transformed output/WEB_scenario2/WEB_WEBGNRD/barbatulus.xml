@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">barbatulus</keyword>
+  <gramrel name="modifiers of X" hits="10" score="83.330">
+    <coll hits="4" score="13.190" query="w1976121217">Noemacheilus</coll>
+    <coll hits="2" score="12.290" query="w1976121216">phoxinus</coll>
+    <coll hits="1" score="11.540" query="w1976121221">Noemachelius</coll>
+    <coll hits="1" score="11.540" query="w1976121220">Neomacheilus</coll>
+    <coll hits="1" score="11.540" query="w1976121219">Noemachilus</coll>
+    <coll hits="1" score="11.540" query="w1976121218">Barbahtla</coll>
+  </gramrel>
+</wordsketch>
+</export>

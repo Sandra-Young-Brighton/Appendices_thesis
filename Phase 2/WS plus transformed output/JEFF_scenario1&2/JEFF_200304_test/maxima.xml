@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">maxima</keyword>
+  <gramrel name="modifiers of X" hits="1" score="5.000">
+    <coll hits="1" score="13.990">Glyceria</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="25.000">
+    <coll hits="1" score="12.410">salaman</coll>
+    <coll hits="1" score="12.190">fantail</coll>
+    <coll hits="1" score="9.190">sunrise</coll>
+    <coll hits="1" score="7.260">darter</coll>
+    <coll hits="1" score="1.960">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

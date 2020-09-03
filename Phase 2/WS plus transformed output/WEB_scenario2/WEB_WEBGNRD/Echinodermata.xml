@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Echinodermata</keyword>
+  <gramrel name="modifiers of X" hits="4" score="66.670">
+    <coll hits="1" score="12.680" query="w2089330947">tubulosa</coll>
+    <coll hits="1" score="12.680" query="w2089330945">Holothuroidea</coll>
+    <coll hits="1" score="12.410" query="w2089330946">Holothuria</coll>
+    <coll hits="1" score="11.670" query="w2089330944">Annelida</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="33.330">
+    <coll hits="1" score="12.680" query="w2089364993">Holothuroidea</coll>
+    <coll hits="1" score="12.190" query="w2089364992">Mollusca</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="16.670">
+    <coll hits="1" score="12.410" query="w2089322176">Mollusca</coll>
+  </gramrel>
+</wordsketch>
+</export>

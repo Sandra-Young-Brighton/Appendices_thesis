@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Quercus</keyword>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="11.110">modifiers of &quot;%w&quot;</coll>
+    <coll hits="1" score="11.110">nouns modified by &quot;%w&quot;</coll>
+  </gramrel>
+</wordsketch>
+</export>

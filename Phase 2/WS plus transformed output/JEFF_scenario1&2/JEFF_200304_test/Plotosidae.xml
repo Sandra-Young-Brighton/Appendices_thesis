@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Plotosidae</keyword>
+  <gramrel name="X and/or ..." hits="1" score="14.290">
+    <coll hits="1" score="12.190">Gobiidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

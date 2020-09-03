@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hydrocynus</keyword>
+  <gramrel name="nouns modified by X" hits="12" score="66.670">
+    <coll hits="9" score="13.770">vittatus</coll>
+    <coll hits="2" score="12.190">forskahlii</coll>
+    <coll hits="1" score="11.190">brevis</coll>
+  </gramrel>
+</wordsketch>
+</export>

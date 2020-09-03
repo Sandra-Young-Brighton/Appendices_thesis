@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Simuliidae</keyword>
+  <gramrel name="modifiers of X" hits="4" score="16.670">
+    <coll hits="2" score="10.950">Diptera</coll>
+    <coll hits="1" score="10.190">Chironomidae</coll>
+    <coll hits="1" score="10.040">Ephemeroptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="16.670">
+    <coll hits="1" score="11.410">Ephemeroptera</coll>
+    <coll hits="1" score="11.090">Diptera</coll>
+    <coll hits="2" score="7.300">larva</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="12.500">
+    <coll hits="2" score="11.410">Ephemeroptera</coll>
+    <coll hits="1" score="11.410">Plecoptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

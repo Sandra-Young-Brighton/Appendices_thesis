@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">aenaeus</keyword>
+  <gramrel name="modifiers of X" hits="3" score="13.640">
+    <coll hits="1" score="13.000" query="w2152317057">Myaxacephalus</coll>
+    <coll hits="2" score="9.520" query="w2152317056">Myoxocephalus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hypomesus</keyword>
+  <gramrel name="nouns modified by X" hits="18" score="52.940">
+    <coll hits="5" score="12.790" query="w1760455170">nipponensis</coll>
+    <coll hits="5" score="12.790" query="w1760455168">transpacificus</coll>
+    <coll hits="4" score="12.540" query="w1760455169">pretiosus</coll>
+    <coll hits="4" score="11.320" query="w1760455171">olidus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.940">
+    <coll hits="1" score="7.740" query="w1760496640">Japan</coll>
+  </gramrel>
+</wordsketch>
+</export>

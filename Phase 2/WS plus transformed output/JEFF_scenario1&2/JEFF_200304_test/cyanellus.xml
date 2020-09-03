@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cyanellus</keyword>
+  <gramrel name="modifiers of X" hits="15" score="44.120">
+    <coll hits="14" score="11.470">Lepomis</coll>
+    <coll hits="1" score="9.710">Lucius</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.940">
+    <coll hits="1" score="13.000">flavescens</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.940">
+    <coll hits="1" score="3.260">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

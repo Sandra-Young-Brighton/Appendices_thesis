@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Polyarthra</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="10.530">
+    <coll hits="2" score="13.990" query="w1469518528">dolichoptera</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="5.260">
+    <coll hits="1" score="13.410" query="w1469528064">Daphnia</coll>
+  </gramrel>
+</wordsketch>
+</export>

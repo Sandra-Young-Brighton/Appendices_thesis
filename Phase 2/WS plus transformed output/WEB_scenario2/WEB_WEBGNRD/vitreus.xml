@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">vitreus</keyword>
+  <gramrel name="modifiers of X" hits="49" score="75.380">
+    <coll hits="46" score="12.950" query="w1107156225">Sander</coll>
+    <coll hits="2" score="10.270" query="w1107156226">canadensis</coll>
+    <coll hits="1" score="9.270" query="w1107156224">flavescens</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.540">
+    <coll hits="1" score="11.190" query="w1107191552">commersonii</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.540">
+    <coll hits="1" score="13.990" query="w1107144320">commersonii</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="4.620">
+    <coll hits="2" score="6.450" query="w1107203905">type</coll>
+    <coll hits="1" score="2.890" query="w1107203904">lake</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="3" score="4.620">
+    <coll hits="1" score="11.410" query="w1107228802">omiscomaycus</coll>
+    <coll hits="1" score="11.410" query="w1107228801">Percopsis</coll>
+    <coll hits="1" score="11.190" query="w1107228800">Percina</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Vallisneria</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="22.220">
+    <coll hits="2" score="13.410" query="w1944227073">gigantea</coll>
+    <coll hits="1" score="12.680" query="w1944227072">spinulosa</coll>
+    <coll hits="1" score="12.410" query="w1944227074">spiralis</coll>
+  </gramrel>
+</wordsketch>
+</export>

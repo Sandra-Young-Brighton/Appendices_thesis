@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Plasmodium</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="25.000">
+    <coll hits="1" score="9.870" query="w1996697025">lumen</coll>
+    <coll hits="1" score="6.300" query="w1996697024">tissue</coll>
+  </gramrel>
+</wordsketch>
+</export>

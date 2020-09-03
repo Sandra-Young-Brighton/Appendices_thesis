@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cinereum</keyword>
+  <gramrel name="modifiers of X" hits="14" score="19.180">
+    <coll hits="14" score="11.830">Etheostoma</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="12" score="16.440">
+    <coll hits="1" score="10.910">kernel</coll>
+    <coll hits="1" score="10.820">tributar</coll>
+    <coll hits="1" score="8.930">record</coll>
+    <coll hits="1" score="7.340">space</coll>
+    <coll hits="3" score="6.840">scale</coll>
+    <coll hits="1" score="6.440">watershed</coll>
+    <coll hits="1" score="5.080">reach</coll>
+    <coll hits="2" score="4.770">River</coll>
+    <coll hits="1" score="3.590">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

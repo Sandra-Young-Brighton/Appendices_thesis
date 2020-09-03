@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Awaous</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="50.000">
+    <coll hits="1" score="13.410">guamensis</coll>
+    <coll hits="1" score="13.410">Rhinogobius</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="25.000">
+    <coll hits="1" score="13.990">Rhinogobius</coll>
+  </gramrel>
+</wordsketch>
+</export>

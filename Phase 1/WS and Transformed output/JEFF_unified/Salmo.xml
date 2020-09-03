@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salmo</keyword>
+  <gramrel name="modifiers of X" hits="11" score="3.160">
+    <coll hits="1" score="11.000">Oncorhynchus</coll>
+    <coll hits="1" score="10.750">Salvelinus</coll>
+    <coll hits="1" score="9.640">parr</coll>
+    <coll hits="7" score="8.760">salmon</coll>
+    <coll hits="1" score="5.960">trout</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="17" score="4.890">
+    <coll hits="5" score="12.730">Oncorhynchus</coll>
+    <coll hits="1" score="10.680">Thymallus_thymallus</coll>
+    <coll hits="1" score="10.680">Salvelinus</coll>
+    <coll hits="4" score="10.440">Linnaeus</coll>
+    <coll hits="1" score="8.180">salmon</coll>
+    <coll hits="3" score="8.050">parr</coll>
+    <coll hits="2" score="5.420">specie</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="9" score="2.590">
+    <coll hits="6" score="13.500">Oncorhynchus</coll>
+    <coll hits="3" score="12.330">Salvelinus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="5" score="1.440">
+    <coll hits="1" score="8.690">prey</coll>
+    <coll hits="2" score="7.820">fish</coll>
+    <coll hits="2" score="7.790">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Neogobius</keyword>
+  <gramrel name="nouns modified by X" hits="81" score="76.420">
+    <coll hits="67" score="13.610">melanostomus</coll>
+    <coll hits="3" score="10.160">gymnotrachelus</coll>
+    <coll hits="3" score="10.160">kessleri</coll>
+    <coll hits="6" score="8.810">fluviatilis</coll>
+    <coll hits="1" score="7.770">fish</coll>
+    <coll hits="1" score="4.550">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

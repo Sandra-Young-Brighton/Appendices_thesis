@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">gibbosus</keyword>
+  <gramrel name="modifiers of X" hits="87" score="74.360">
+    <coll hits="81" score="13.050">Lepomis</coll>
+    <coll hits="2" score="9.520">Lecithaster</coll>
+    <coll hits="2" score="9.500">cyanellus</coll>
+    <coll hits="1" score="8.520">reticulata</coll>
+    <coll hits="1" score="8.520">affinis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="3.420">
+    <coll hits="1" score="10.600">gulosus</coll>
+    <coll hits="2" score="9.050">Linnaeus</coll>
+    <coll hits="1" score="5.540">mykiss</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.850">
+    <coll hits="1" score="13.990">nebulosus</coll>
+  </gramrel>
+</wordsketch>
+</export>

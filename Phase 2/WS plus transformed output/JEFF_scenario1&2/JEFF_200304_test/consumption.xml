@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">consumption</keyword>
+  <gramrel name="modifiers of X" hits="2" score="0.200">
+    <coll hits="2" score="8.790">Lepomis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="381" score="38.560">
+    <coll hits="7" score="9.120">hypolimnion</coll>
+    <coll hits="5" score="8.690">sockeye</coll>
+    <coll hits="5" score="8.560">chironomid</coll>
+    <coll hits="11" score="8.430">bass</coll>
+    <coll hits="5" score="8.370">ruffe</coll>
+    <coll hits="4" score="8.350">epilimnion</coll>
+    <coll hits="6" score="8.340">cyprinid</coll>
+    <coll hits="7" score="8.300">roach</coll>
+    <coll hits="4" score="8.280">Lepomis</coll>
+    <coll hits="10" score="8.020">prey</coll>
+    <coll hits="5" score="8.020">item</coll>
+    <coll hits="5" score="7.970">zooplankton</coll>
+    <coll hits="5" score="7.930">invertebrate</coll>
+    <coll hits="3" score="7.860">amphipod</coll>
+    <coll hits="4" score="7.860">sculpin</coll>
+    <coll hits="3" score="7.830">Daphnia</coll>
+    <coll hits="12" score="7.790">perch</coll>
+    <coll hits="3" score="7.760">alewife</coll>
+    <coll hits="4" score="7.720">biomass</coll>
+    <coll hits="7" score="7.700">pike</coll>
+    <coll hits="4" score="7.630">G</coll>
+    <coll hits="3" score="7.460">bluegill</coll>
+    <coll hits="3" score="7.430">concentration</coll>
+    <coll hits="2" score="7.420">chir</coll>
+    <coll hits="2" score="7.410">chirono</coll>
+  </gramrel>
+</wordsketch>
+</export>

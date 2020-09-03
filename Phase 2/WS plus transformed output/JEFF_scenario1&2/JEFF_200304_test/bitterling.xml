@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">bitterling</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="11" score="6.710">
+    <coll hits="1" score="9.790">Morava</coll>
+    <coll hits="1" score="9.670">size-classe</coll>
+    <coll hits="1" score="9.440">mesohabitat</coll>
+    <coll hits="1" score="8.980">gill</coll>
+    <coll hits="1" score="8.650">boulder</coll>
+    <coll hits="1" score="6.900">Europe</coll>
+    <coll hits="1" score="6.140">July</coll>
+    <coll hits="2" score="5.310">model</coll>
+    <coll hits="1" score="3.730">habitat</coll>
+    <coll hits="1" score="3.150">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

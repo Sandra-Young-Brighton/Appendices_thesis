@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">brooks</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="10" score="1.010">
+    <coll hits="1" score="11.540">Algeria</coll>
+    <coll hits="1" score="10.300">sight</coll>
+    <coll hits="2" score="7.670">reproduction</coll>
+    <coll hits="1" score="6.490">coast</coll>
+    <coll hits="2" score="6.380">part</coll>
+    <coll hits="1" score="6.090">side</coll>
+    <coll hits="1" score="5.290">summer</coll>
+    <coll hits="1" score="3.550">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gobio_spp</keyword>
+  <gramrel name="modifiers of X" hits="5" score="19.230">
+    <coll hits="2" score="12.680">Alburnus_alburnus</coll>
+    <coll hits="2" score="12.290">Abramis_brama</coll>
+    <coll hits="1" score="11.190">Rutilus_rutilus</coll>
+  </gramrel>
+</wordsketch>
+</export>

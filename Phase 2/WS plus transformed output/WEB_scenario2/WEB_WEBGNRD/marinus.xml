@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">marinus</keyword>
+  <gramrel name="modifiers of X" hits="255" score="69.290">
+    <coll hits="245" score="13.950" query="w1613790016">Petromyzon</coll>
+    <coll hits="3" score="8.570" query="w1613790019">Perkinsus</coll>
+    <coll hits="2" score="7.990" query="w1613790023">Petrmoyzon</coll>
+    <coll hits="1" score="7.000" query="w1613790022">Petrmyzon</coll>
+    <coll hits="1" score="7.000" query="w1613790020">fossor</coll>
+    <coll hits="1" score="6.990" query="w1613790018">australis</coll>
+    <coll hits="1" score="6.980" query="w1613790017">marinus</coll>
+    <coll hits="1" score="6.910" query="w1613790021">Ammodytes</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="0.820">
+    <coll hits="1" score="12.410" query="w1613860097">Lampetra</coll>
+    <coll hits="1" score="11.830" query="w1613860098">unicuspis</coll>
+    <coll hits="1" score="6.980" query="w1613860096">marinus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="13" score="3.530">
+    <coll hits="10" score="13.230" query="w1613746304">fluviatilis</coll>
+    <coll hits="1" score="11.190" query="w1613746307">unicuspis</coll>
+    <coll hits="1" score="11.190" query="w1613746306">tridentatus</coll>
+    <coll hits="1" score="11.090" query="w1613746305">Lampetra</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="16" score="4.350">
+    <coll hits="1" score="10.750" query="w1613886922">Photo</coll>
+    <coll hits="1" score="10.680" query="w1613886923">coherence</coll>
+    <coll hits="2" score="10.210" query="w1613886921">native</coll>
+    <coll hits="1" score="8.440" query="w1613886917">fluviatilis</coll>
+    <coll hits="1" score="8.100" query="w1613886920">UK</coll>
+    <coll hits="1" score="6.880" query="w1613886916">way</coll>
+    <coll hits="2" score="6.810" query="w1613886914">Lakes</coll>
+    <coll hits="1" score="6.680" query="w1613886913">cm</coll>
+    <coll hits="1" score="6.680" query="w1613886918">gravel</coll>
+    <coll hits="1" score="6.550" query="w1613886919">Erie</coll>
+    <coll hits="1" score="5.400" query="w1613886915">migration</coll>
+    <coll hits="3" score="4.270" query="w1613886912">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

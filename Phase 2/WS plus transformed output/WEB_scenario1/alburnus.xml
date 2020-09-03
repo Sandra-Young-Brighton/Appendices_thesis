@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">alburnus</keyword>
+  <gramrel name="modifiers of X" hits="35" score="89.740">
+    <coll hits="29" score="13.850">Alburnus</coll>
+    <coll hits="3" score="11.120">Cyprinidae</coll>
+    <coll hits="2" score="10.440">rutilus</coll>
+    <coll hits="1" score="9.790">cephalus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.560">
+    <coll hits="1" score="2.890">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

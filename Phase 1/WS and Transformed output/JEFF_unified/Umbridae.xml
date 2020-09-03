@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Umbridae</keyword>
+  <gramrel name="modifiers of X" hits="6" score="300.000">
+    <coll hits="1" score="12.190">Syngnathidae</coll>
+    <coll hits="1" score="12.190">Polyodontidae</coll>
+    <coll hits="3" score="11.830">Salmonidae</coll>
+    <coll hits="1" score="11.190">Cyprinidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

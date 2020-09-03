@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="-j" freq="0">lake_trout</keyword>
+  <gramrel name="modifiers of X" hits="6" score="0.930">
+    <coll hits="2" score="11.990">salvelinus_namaycush</coll>
+    <coll hits="1" score="11.090">brook_trout</coll>
+    <coll hits="1" score="10.750">salmonidae</coll>
+    <coll hits="2" score="9.120">brown_trout</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="33" score="5.090">
+    <coll hits="21" score="13.260">salvelinus_namaycush</coll>
+    <coll hits="4" score="11.610">brook_trout</coll>
+    <coll hits="4" score="10.010">trout</coll>
+    <coll hits="1" score="9.480">brown_trout</coll>
+    <coll hits="1" score="9.410">brook_trout</coll>
+    <coll hits="1" score="9.350">lake_trout</coll>
+    <coll hits="1" score="6.980">salmo_trutta</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="84" score="12.960">
+    <coll hits="10" score="11.010">brook_trout</coll>
+    <coll hits="5" score="10.450">landlocked</coll>
+    <coll hits="4" score="10.280">likely</coll>
+    <coll hits="6" score="10.140">relative</coll>
+    <coll hits="6" score="9.890">trout</coll>
+    <coll hits="2" score="9.570">ninespine</coll>
+    <coll hits="7" score="9.170">other</coll>
+    <coll hits="2" score="9.170">golden</coll>
+    <coll hits="2" score="8.590">lake_trout</coll>
+    <coll hits="1" score="8.590">sic</coll>
+    <coll hits="1" score="8.520">grand</coll>
+    <coll hits="1" score="8.460">epidermal</coll>
+    <coll hits="1" score="8.430">various</coll>
+    <coll hits="7" score="8.380">arctic</coll>
+    <coll hits="1" score="8.350">slimy</coll>
+    <coll hits="1" score="8.220">emergent</coll>
+    <coll hits="1" score="8.200">slender</coll>
+    <coll hits="1" score="8.130">specific</coll>
+    <coll hits="1" score="8.070">due</coll>
+    <coll hits="2" score="8.010">[number]</coll>
+    <coll hits="1" score="7.990">brook_trout</coll>
+    <coll hits="1" score="7.860">such</coll>
+    <coll hits="8" score="7.810">Atlantic</coll>
+    <coll hits="2" score="7.720">reproductive</coll>
+    <coll hits="2" score="7.720">anadromous</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="36" score="5.560">
+    <coll hits="2" score="10.540">Glenn</coll>
+    <coll hits="1" score="9.790">chandler</coll>
+    <coll hits="2" score="9.530">champlain</coll>
+    <coll hits="1" score="9.440">em</coll>
+    <coll hits="1" score="9.410">year-class</coll>
+    <coll hits="1" score="9.380">nunavut</coll>
+    <coll hits="1" score="9.320">trough</coll>
+    <coll hits="1" score="9.090">bycatch</coll>
+    <coll hits="1" score="8.600">rainbow</coll>
+    <coll hits="1" score="8.460">pound</coll>
+    <coll hits="1" score="8.050">tl</coll>
+    <coll hits="3" score="7.470">ontario</coll>
+    <coll hits="1" score="7.080">stocking</coll>
+    <coll hits="2" score="5.580">condition</coll>
+    <coll hits="8" score="5.370">lake</coll>
+    <coll hits="2" score="5.260">period</coll>
+    <coll hits="1" score="5.260">model</coll>
+    <coll hits="3" score="4.620">water</coll>
+    <coll hits="1" score="4.410">abundance</coll>
+    <coll hits="1" score="3.800">trout</coll>
+    <coll hits="1" score="2.640">specie</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="4" score="0.620">
+    <coll hits="1" score="12.190">salmonid</coll>
+    <coll hits="3" score="10.880">trout</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="3" score="0.460">
+    <coll hits="1" score="13.000">erie</coll>
+    <coll hits="1" score="13.000">state</coll>
+    <coll hits="1" score="11.090">lake</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="0.150">
+    <coll hits="1" score="13.000">lake_trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

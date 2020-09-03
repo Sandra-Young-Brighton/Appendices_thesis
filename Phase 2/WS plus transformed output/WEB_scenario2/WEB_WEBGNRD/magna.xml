@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">magna</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="41.670">
+    <coll hits="1" score="10.190" query="w1991207554">mosquitofish</coll>
+    <coll hits="2" score="8.900" query="w1991207553">1980</coll>
+    <coll hits="2" score="7.730" query="w1991207552">cm</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">quadrangula</keyword>
+  <gramrel name="modifiers of X" hits="2" score="100.000">
+    <coll hits="1" score="13.000" query="w1947765633">brachyurum</coll>
+    <coll hits="1" score="11.410" query="w1947765632">Ceriodaphnia</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="50.000">
+    <coll hits="1" score="11.000" query="w1947783552">sphaericus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="50.000">
+    <coll hits="1" score="13.000" query="w1947754688">sphaericus</coll>
+  </gramrel>
+</wordsketch>
+</export>

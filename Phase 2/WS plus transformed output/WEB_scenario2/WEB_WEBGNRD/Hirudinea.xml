@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hirudinea</keyword>
+  <gramrel name="modifiers of X" hits="6" score="20.690">
+    <coll hits="1" score="11.990" query="w499851393">Acanthocephala</coll>
+    <coll hits="1" score="11.670" query="w499851395">Hydracarina</coll>
+    <coll hits="2" score="11.470" query="w499851396">Oligochaeta</coll>
+    <coll hits="1" score="11.300" query="w499851392">Nematoda</coll>
+    <coll hits="1" score="10.350" query="w499851394">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="7" score="24.140">
+    <coll hits="1" score="11.670" query="w499886853">Tabanidae</coll>
+    <coll hits="1" score="11.540" query="w499886849">Crustacea</coll>
+    <coll hits="1" score="11.410" query="w499886848">Mollusca</coll>
+    <coll hits="2" score="10.950" query="w499886850">Diptera</coll>
+    <coll hits="1" score="10.910" query="w499886852">Hymenoptera</coll>
+    <coll hits="1" score="10.470" query="w499886851">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="10.340">
+    <coll hits="1" score="12.190" query="w499829826">Tabanidae</coll>
+    <coll hits="1" score="12.190" query="w499829825">Crustacea</coll>
+    <coll hits="1" score="11.990" query="w499829824">Mollusca</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">tuberculata</keyword>
+  <gramrel name="modifiers of X" hits="9" score="45.000">
+    <coll hits="8" score="13.830" query="w2067787905">Melanoides</coll>
+    <coll hits="1" score="10.680" query="w2067787904">Haliotis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="10.000">
+    <coll hits="1" score="10.680" query="w2067808256">valley</coll>
+    <coll hits="1" score="8.520" query="w2067808257">Mexico</coll>
+  </gramrel>
+</wordsketch>
+</export>

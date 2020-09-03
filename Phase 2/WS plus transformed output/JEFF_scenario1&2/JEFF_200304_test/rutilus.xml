@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rutilus</keyword>
+  <gramrel name="modifiers of X" hits="211" score="66.350">
+    <coll hits="199" score="13.940">Rutilus</coll>
+    <coll hits="3" score="8.770">fluviatilis</coll>
+    <coll hits="2" score="8.240">Rutilis</coll>
+    <coll hits="1" score="7.270">Clethrionomys</coll>
+    <coll hits="1" score="7.270">oeconomus</coll>
+    <coll hits="1" score="7.270">albula</coll>
+    <coll hits="1" score="7.270">Rutilu</coll>
+    <coll hits="1" score="7.260">cephalus</coll>
+    <coll hits="1" score="7.250">brama</coll>
+    <coll hits="1" score="7.100">Squalius</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="12" score="3.770">
+    <coll hits="1" score="10.910">Salmo</coll>
+    <coll hits="2" score="9.850">brama</coll>
+    <coll hits="1" score="9.830">sericeus</coll>
+    <coll hits="1" score="9.750">bjoerkna</coll>
+    <coll hits="1" score="9.570">alburnus</coll>
+    <coll hits="1" score="9.530">tinca</coll>
+    <coll hits="1" score="8.810">cephalus</coll>
+    <coll hits="3" score="8.370">fluviatilis</coll>
+    <coll hits="1" score="7.400">Lucius</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="11" score="3.460">
+    <coll hits="3" score="12.190">fluviatilis</coll>
+    <coll hits="2" score="12.090">brama</coll>
+    <coll hits="1" score="11.410">tinca</coll>
+    <coll hits="1" score="11.410">sericeus</coll>
+    <coll hits="1" score="11.190">bjoerkna</coll>
+    <coll hits="1" score="11.090">alburnus</coll>
+    <coll hits="1" score="11.000">cephalus</coll>
+    <coll hits="1" score="11.000">Lucius</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="12" score="3.770">
+    <coll hits="2" score="11.830">la</coll>
+    <coll hits="1" score="11.300">Aarungen</coll>
+    <coll hits="2" score="10.110">percid</coll>
+    <coll hits="1" score="8.180">Finland</coll>
+    <coll hits="1" score="7.080">R</coll>
+    <coll hits="1" score="6.060">relation</coll>
+    <coll hits="3" score="5.070">lake</coll>
+    <coll hits="1" score="3.590">river</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="0.630">
+    <coll hits="1" score="12.680">fluviatilis</coll>
+    <coll hits="1" score="12.680">Perca</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.310">
+    <coll hits="1" score="12.190">Sorex</coll>
+  </gramrel>
+</wordsketch>
+</export>

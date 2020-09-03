@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_saltrut_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">salmonidae</keyword>
+  <gramrel name="modifiers of X" hits="5" score="4.670">
+    <coll hits="2" score="13.190">thymallus_thymallus</coll>
+    <coll hits="3" score="12.680">salmonidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="10" score="9.350">
+    <coll hits="4" score="13.190">thymallus</coll>
+    <coll hits="3" score="12.680">salmonidae</coll>
+    <coll hits="1" score="11.540">coregonus_artedi</coll>
+    <coll hits="1" score="11.540">coregonus_hoyi</coll>
+    <coll hits="1" score="9.570">trout</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="7" score="6.540">
+    <coll hits="4" score="13.540">thymallus</coll>
+    <coll hits="1" score="11.990">coregonus_artedi</coll>
+    <coll hits="1" score="11.990">coregonus_hoyi</coll>
+    <coll hits="1" score="8.810">trout</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.930">
+    <coll hits="1" score="4.770">group</coll>
+  </gramrel>
+</wordsketch>
+</export>

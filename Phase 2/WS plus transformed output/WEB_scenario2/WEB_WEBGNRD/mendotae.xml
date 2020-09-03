@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">mendotae</keyword>
+  <gramrel name="modifiers of X" hits="1" score="2.780">
+    <coll hits="1" score="8.870" query="w2077936192">Daphnia</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="8" score="22.220">
+    <coll hits="2" score="10.020" query="w2077945091">YOY</coll>
+    <coll hits="2" score="8.850" query="w2077945089">D</coll>
+    <coll hits="2" score="7.520" query="w2077945088">August</coll>
+    <coll hits="2" score="7.040" query="w2077945090">June</coll>
+  </gramrel>
+</wordsketch>
+</export>

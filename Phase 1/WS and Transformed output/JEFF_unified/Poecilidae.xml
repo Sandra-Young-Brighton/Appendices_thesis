@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Poecilidae</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="25.000">
+    <coll hits="1" score="12.410">Gambusia_holbrooki</coll>
+  </gramrel>
+</wordsketch>
+</export>

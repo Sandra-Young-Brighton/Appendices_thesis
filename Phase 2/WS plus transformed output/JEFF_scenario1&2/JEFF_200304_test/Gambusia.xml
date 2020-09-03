@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gambusia</keyword>
+  <gramrel name="nouns modified by X" hits="91" score="41.360">
+    <coll hits="47" score="13.400">holbrooki</coll>
+    <coll hits="40" score="13.230">affinis</coll>
+    <coll hits="2" score="9.460">Daphnia</coll>
+    <coll hits="1" score="8.470">geiseri</coll>
+    <coll hits="1" score="8.470">impact</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="1.820">
+    <coll hits="1" score="10.540">relative</coll>
+    <coll hits="1" score="8.270">Zealand</coll>
+    <coll hits="1" score="7.150">States</coll>
+    <coll hits="1" score="5.220">prey</coll>
+  </gramrel>
+</wordsketch>
+</export>

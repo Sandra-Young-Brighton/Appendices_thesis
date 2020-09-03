@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Esociformes</keyword>
+  <gramrel name="modifiers of X" hits="3" score="30.000">
+    <coll hits="3" score="13.120" query="w1625804928">Protacanthopterygii</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="30.000">
+    <coll hits="2" score="12.830" query="w1625818945">Esocidae</coll>
+    <coll hits="1" score="11.830" query="w1625818944">Umbridae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="20.000">
+    <coll hits="1" score="13.000" query="w1625786176">Umbridae</coll>
+    <coll hits="1" score="12.680" query="w1625786177">Esocidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

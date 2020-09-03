@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hybognathus_placitus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="33.330">
+    <coll hits="2" score="9.850">minnow</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="16.670">
+    <coll hits="1" score="7.160">States</coll>
+  </gramrel>
+</wordsketch>
+</export>

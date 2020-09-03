@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gadus</keyword>
+  <gramrel name="nouns modified by X" hits="111" score="65.290">
+    <coll hits="100" score="13.920" query="w1817871744">morhua</coll>
+    <coll hits="4" score="10.100" query="w1817871745">macrocephalus</coll>
+    <coll hits="3" score="9.750" query="w1817871749">Morhua</coll>
+    <coll hits="2" score="9.170" query="w1817871747">ogac</coll>
+    <coll hits="1" score="8.160" query="w1817871748">Beryx</coll>
+    <coll hits="1" score="8.070" query="w1817871746">Gadidae</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="2" score="1.180">
+    <coll hits="2" score="9.870" query="w1817931200">[number]</coll>
+  </gramrel>
+</wordsketch>
+</export>

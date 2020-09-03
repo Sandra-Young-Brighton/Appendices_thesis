@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lutra</keyword>
+  <gramrel name="nouns modified by X" hits="39" score="75.000">
+    <coll hits="38" score="13.980">lutra</coll>
+    <coll hits="1" score="7.700">Linnaeus</coll>
+  </gramrel>
+</wordsketch>
+</export>

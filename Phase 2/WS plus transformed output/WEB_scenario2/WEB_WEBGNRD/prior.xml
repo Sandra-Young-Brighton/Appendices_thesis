@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">prior</keyword>
+  <gramrel name="X and/or ..." hits="12" score="11.650">
+    <coll hits="6" score="13.260" query="w1768307909">written</coll>
+    <coll hits="1" score="10.300" query="w1768307910">somatic</coll>
+    <coll hits="1" score="9.910" query="w1768307905">strong</coll>
+    <coll hits="1" score="9.640" query="w1768307908">public</coll>
+    <coll hits="1" score="9.120" query="w1768307904">posterior</coll>
+    <coll hits="1" score="7.180" query="w1768307907">reproductive</coll>
+    <coll hits="1" score="6.250" query="w1768307906">environmental</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="33" score="32.040">
+    <coll hits="2" score="10.600" query="w1768362254">experimentation</coll>
+    <coll hits="2" score="10.300" query="w1768362255">1900</coll>
+    <coll hits="4" score="10.100" query="w1768362253">start</coll>
+    <coll hits="1" score="9.870" query="w1768362260">revolution</coll>
+    <coll hits="1" score="9.870" query="w1768362258">War</coll>
+    <coll hits="2" score="9.710" query="w1768362257">ovulation</coll>
+    <coll hits="1" score="9.670" query="w1768362261">hydrolysis</coll>
+    <coll hits="1" score="9.300" query="w1768362259">breakdown</coll>
+    <coll hits="1" score="9.190" query="w1768362256">dissection</coll>
+    <coll hits="2" score="8.820" query="w1768362246">emergence</coll>
+    <coll hits="1" score="8.710" query="w1768362252">colonization</coll>
+    <coll hits="1" score="8.690" query="w1768362248">birth</coll>
+    <coll hits="1" score="8.540" query="w1768362247">challenge</coll>
+    <coll hits="3" score="8.530" query="w1768362244">sampling</coll>
+    <coll hits="1" score="8.520" query="w1768362249">impoundment</coll>
+    <coll hits="1" score="8.270" query="w1768362242">examination</coll>
+    <coll hits="1" score="8.190" query="w1768362250">flood</coll>
+    <coll hits="1" score="8.100" query="w1768362245">calculation</coll>
+    <coll hits="1" score="7.300" query="w1768362251">drainage</coll>
+    <coll hits="1" score="7.070" query="w1768362240">collection</coll>
+    <coll hits="3" score="6.110" query="w1768362241">analysis</coll>
+    <coll hits="1" score="5.370" query="w1768362243">migration</coll>
+  </gramrel>
+</wordsketch>
+</export>

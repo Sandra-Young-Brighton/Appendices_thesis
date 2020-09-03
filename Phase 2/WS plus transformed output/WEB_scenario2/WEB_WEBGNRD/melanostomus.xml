@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">melanostomus</keyword>
+  <gramrel name="modifiers of X" hits="85" score="76.580">
+    <coll hits="83" score="13.940" query="w1899419008">Neogobius</coll>
+    <coll hits="2" score="9.480" query="w1899419009">Apollonia</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="1.800">
+    <coll hits="2" score="11.670" query="w1899440512">marmoratus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.900">
+    <coll hits="1" score="13.000" query="w1899405632">marmoratus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="9" score="8.110">
+    <coll hits="1" score="10.410" query="w1899454344">Danube</coll>
+    <coll hits="1" score="8.100" query="w1899454342">bait</coll>
+    <coll hits="1" score="7.420" query="w1899454341">Huron</coll>
+    <coll hits="1" score="6.980" query="w1899454343">Gulf</coll>
+    <coll hits="1" score="6.890" query="w1899454336">diversity</coll>
+    <coll hits="1" score="5.490" query="w1899454340">sea</coll>
+    <coll hits="1" score="5.410" query="w1899454338">Sea</coll>
+    <coll hits="1" score="4.690" query="w1899454339">prey</coll>
+    <coll hits="1" score="3.750" query="w1899454337">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

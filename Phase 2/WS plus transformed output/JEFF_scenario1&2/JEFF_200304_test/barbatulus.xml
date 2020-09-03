@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">barbatulus</keyword>
+  <gramrel name="modifiers of X" hits="7" score="50.000">
+    <coll hits="5" score="13.730">Noemacheilus</coll>
+    <coll hits="1" score="11.990">Nornacheilus</coll>
+    <coll hits="1" score="11.990">Barbatulus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="7.140">
+    <coll hits="1" score="6.440">method</coll>
+  </gramrel>
+</wordsketch>
+</export>

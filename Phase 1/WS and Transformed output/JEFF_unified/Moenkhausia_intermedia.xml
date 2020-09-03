@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Moenkhausia_intermedia</keyword>
+  <gramrel name="modifiers of X" hits="2" score="66.670">
+    <coll hits="1" score="13.410">Astyanax_schubarti</coll>
+    <coll hits="1" score="13.410">Astyanax_bimaculatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

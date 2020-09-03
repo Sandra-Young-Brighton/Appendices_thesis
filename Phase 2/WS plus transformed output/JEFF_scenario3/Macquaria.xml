@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Macquaria</keyword>
+  <gramrel name="nouns modified by X" hits="35" score="77.780">
+    <coll hits="19" score="13.460">ambigua</coll>
+    <coll hits="13" score="13.120">australasica</coll>
+    <coll hits="2" score="10.790">novemaculeata</coll>
+    <coll hits="1" score="9.710">Percichthyidae</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="2.220">
+    <coll hits="1" score="11.830">diet</coll>
+  </gramrel>
+</wordsketch>
+</export>

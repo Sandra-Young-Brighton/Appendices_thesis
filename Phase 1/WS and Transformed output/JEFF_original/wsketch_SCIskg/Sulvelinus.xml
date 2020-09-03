@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sulvelinus</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="22.220">
+    <coll hits="1" score="8.150">egg</coll>
+    <coll hits="1" score="6.050">alpinus</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="11.110">
+    <coll hits="1" score="11.670">water</coll>
+  </gramrel>
+</wordsketch>
+</export>

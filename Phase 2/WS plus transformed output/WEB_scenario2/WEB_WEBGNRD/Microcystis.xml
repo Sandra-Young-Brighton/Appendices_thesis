@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Microcystis</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="13.040">
+    <coll hits="3" score="13.990" query="w2055824000">aeruginosa</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="4.350">
+    <coll hits="1" score="5.290" query="w2055835008">region</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Carassius</keyword>
+  <gramrel name="nouns modified by X" hits="57" score="57.000">
+    <coll hits="22" score="13.140">carassius</coll>
+    <coll hits="24" score="13.110">auratus</coll>
+    <coll hits="9" score="12.120">gibelio</coll>
+    <coll hits="1" score="9.120">cuvieri</coll>
+    <coll hits="1" score="8.850">Cyprinidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="2.000">
+    <coll hits="1" score="13.000">Czechoslovakia</coll>
+    <coll hits="1" score="9.530">UK</coll>
+  </gramrel>
+</wordsketch>
+</export>

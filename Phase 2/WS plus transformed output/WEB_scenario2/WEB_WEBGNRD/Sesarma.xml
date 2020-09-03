@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sesarma</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="27.270">
+    <coll hits="1" score="13.000" query="w2032489794">cinereum</coll>
+    <coll hits="1" score="13.000" query="w2032489793">curacaoense</coll>
+    <coll hits="1" score="13.000" query="w2032489792">fossarum</coll>
+  </gramrel>
+</wordsketch>
+</export>

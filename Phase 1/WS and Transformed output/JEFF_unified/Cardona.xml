@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cardona</keyword>
+  <gramrel name="X is a type of..." hits="2" score="28.570">
+    <coll hits="1" score="9.910">invertebrate</coll>
+    <coll hits="1" score="6.830">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

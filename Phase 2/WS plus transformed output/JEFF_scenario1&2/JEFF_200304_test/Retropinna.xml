@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Retropinna</keyword>
+  <gramrel name="nouns modified by X" hits="8" score="61.540">
+    <coll hits="6" score="13.770">semoni</coll>
+    <coll hits="2" score="12.680">retropinna</coll>
+  </gramrel>
+</wordsketch>
+</export>

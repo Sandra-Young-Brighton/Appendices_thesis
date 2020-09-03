@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">pusillus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="18.180">
+    <coll hits="2" score="10.160" query="w1940723712">Potamogeton</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="18.180">
+    <coll hits="2" score="13.190" query="w1940706880">pectinatus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="9.090">
+    <coll hits="1" score="6.750" query="w1940739456">cm</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">da</keyword>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.680">
+    <coll hits="1" score="13.000">Hardangervid</coll>
+  </gramrel>
+</wordsketch>
+</export>

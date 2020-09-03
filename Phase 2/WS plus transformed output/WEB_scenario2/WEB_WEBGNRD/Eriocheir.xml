@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Eriocheir</keyword>
+  <gramrel name="nouns modified by X" hits="6" score="75.000">
+    <coll hits="5" score="13.230" query="w2032521153">sinensis</coll>
+    <coll hits="1" score="7.370" query="w2032521152">japonica</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="25.000">
+    <coll hits="1" score="11.670" query="w2032538049">amazonicum</coll>
+    <coll hits="1" score="11.540" query="w2032538048">Macrobrachium</coll>
+  </gramrel>
+</wordsketch>
+</export>

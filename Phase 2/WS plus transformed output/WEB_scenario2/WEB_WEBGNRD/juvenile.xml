@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">juvenile</keyword>
+  <gramrel name="X and/or ..." hits="418" score="12.770">
+    <coll hits="73" score="11.570" query="w312727912">American</coll>
+    <coll hits="49" score="11.530" query="w312727896">adult</coll>
+    <coll hits="33" score="10.770" query="w312727878">anadromous</coll>
+    <coll hits="22" score="10.500" query="w312727889">salmonid</coll>
+    <coll hits="16" score="9.950" query="w312727891">Atlantic</coll>
+    <coll hits="29" score="9.940" query="w312727906">brown</coll>
+    <coll hits="21" score="9.930" query="w312727902">yellow</coll>
+    <coll hits="17" score="9.870" query="w312727925">striped</coll>
+    <coll hits="13" score="9.850" query="w312727887">Eurasian</coll>
+    <coll hits="6" score="8.760" query="w312727921">hybrid</coll>
+    <coll hits="7" score="8.490" query="w312727914">European</coll>
+    <coll hits="5" score="8.460" query="w312727911">Japanese</coll>
+    <coll hits="6" score="8.410" query="w312727876">white</coll>
+    <coll hits="4" score="8.050" query="w312727924">cyprinid</coll>
+    <coll hits="4" score="8.030" query="w312727922">cutthroat</coll>
+    <coll hits="3" score="7.860" query="w313223953">starry</coll>
+    <coll hits="3" score="7.860" query="w313223950">2-3yrs</coll>
+    <coll hits="3" score="7.860" query="w313223948">2-4yrs</coll>
+    <coll hits="3" score="7.860" query="w313223944">lemon</coll>
+    <coll hits="4" score="7.810" query="w312727885">black</coll>
+    <coll hits="5" score="7.780" query="w312727917">genetic</coll>
+    <coll hits="3" score="7.700" query="w312727931">competitive</coll>
+    <coll hits="4" score="7.500" query="w312727901">larval</coll>
+    <coll hits="3" score="7.450" query="w312727874">northern</coll>
+    <coll hits="4" score="7.410" query="w312727877">juvenile</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="18" score="0.550">
+    <coll hits="4" score="6.880" query="w313384839">stage</coll>
+  </gramrel>
+</wordsketch>
+</export>

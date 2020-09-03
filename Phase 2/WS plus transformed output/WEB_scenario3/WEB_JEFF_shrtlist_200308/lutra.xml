@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lutra</keyword>
+  <gramrel name="modifiers of X" hits="38" score="77.550">
+    <coll hits="38" score="13.980">Lutra</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="2.040">
+    <coll hits="1" score="8.090">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="8" score="16.330">
+    <coll hits="3" score="12.770">Characterised</coll>
+    <coll hits="1" score="11.830">Poľana</coll>
+    <coll hits="1" score="10.240">Lough</coll>
+    <coll hits="1" score="7.230">Finland</coll>
+    <coll hits="1" score="7.070">series</coll>
+    <coll hits="1" score="3.780">habitat</coll>
+  </gramrel>
+</wordsketch>
+</export>

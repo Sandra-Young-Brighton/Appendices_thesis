@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">clarki</keyword>
+  <gramrel name="modifiers of X" hits="41" score="32.800">
+    <coll hits="2" score="10.190" query="w1700507457">mykiss</coll>
+    <coll hits="31" score="9.480" query="w1700507456">Oncorhynchus</coll>
+    <coll hits="1" score="8.810" query="w1700507459">Onchorhynchus</coll>
+    <coll hits="7" score="7.010" query="w1700507458">Salmo</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="1.600">
+    <coll hits="2" score="11.990" query="w1700553664">aguabonita</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="1.600">
+    <coll hits="2" score="13.990" query="w1700491200">aguabonita</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.800">
+    <coll hits="1" score="6.660" query="w1700570176">States</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="0.800">
+    <coll hits="1" score="11.670" query="w1700582336">Salvelinus</coll>
+  </gramrel>
+</wordsketch>
+</export>

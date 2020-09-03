@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Catla</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="66.670">
+    <coll hits="3" score="13.580" query="w2085863489">catla</coll>
+    <coll hits="1" score="11.090" query="w2085863488">striata</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">mykiss</keyword>
+  <gramrel name="modifiers of X" hits="708" score="61.460">
+    <coll hits="663" score="13.340" query="w124566401">Oncorhynchus</coll>
+    <coll hits="18" score="9.640" query="w124566409">Onchorhynchus</coll>
+    <coll hits="5" score="7.830" query="w124566408">Oncorhyncus</coll>
+    <coll hits="4" score="7.520" query="w124566407">Oncorhychus</coll>
+    <coll hits="2" score="6.520" query="w124566414">Oncorynchus</coll>
+    <coll hits="2" score="6.520" query="w124566406">trutta</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="15" score="1.300">
+    <coll hits="2" score="10.190" query="w124732743">clarki</coll>
+    <coll hits="2" score="8.470" query="w124732739">gairdneri</coll>
+    <coll hits="4" score="7.400" query="w124732741">trutta</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="27" score="2.340">
+    <coll hits="15" score="12.680" query="w124462531">trutta</coll>
+    <coll hits="2" score="11.090" query="w124462533">clarki</coll>
+    <coll hits="2" score="11.000" query="w124462534">gariepinus</coll>
+    <coll hits="2" score="11.000" query="w124462529">gairdneri</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="40" score="3.470">
+    <coll hits="2" score="8.810" query="w124836050">swimming</coll>
+    <coll hits="4" score="8.400" query="w124836056">Dam</coll>
+    <coll hits="2" score="6.330" query="w124836046">Creek</coll>
+    <coll hits="2" score="6.200" query="w124836037">sample</coll>
+    <coll hits="5" score="6.060" query="w124836033">River</coll>
+    <coll hits="2" score="4.760" query="w124836032">study</coll>
+    <coll hits="2" score="4.720" query="w124836041">area</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="5" score="0.430">
+    <coll hits="4" score="10.810" query="w125116480">[number]</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gyrodactylus</keyword>
+  <gramrel name="nouns modified by X" hits="30" score="14.420">
+    <coll hits="24" score="13.830">salaris</coll>
+    <coll hits="2" score="11.000">undersøkelsene</coll>
+    <coll hits="1" score="10.040">bullatarudis</coll>
+    <coll hits="1" score="10.040">turnbulli</coll>
+    <coll hits="1" score="10.040">derjavini</coll>
+    <coll hits="1" score="5.740">alpinus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="1.440">
+    <coll hits="1" score="8.850">Salmonidae</coll>
+    <coll hits="1" score="5.030">charr</coll>
+    <coll hits="1" score="1.750">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

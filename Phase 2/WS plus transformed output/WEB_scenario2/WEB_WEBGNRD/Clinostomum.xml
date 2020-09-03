@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Clinostomum</keyword>
+  <gramrel name="nouns modified by X" hits="13" score="46.430">
+    <coll hits="6" score="13.330" query="w1775220416">marginatum</coll>
+    <coll hits="3" score="12.580" query="w1775220419">complanatum</coll>
+    <coll hits="3" score="12.490" query="w1775220417">tilapiae</coll>
+    <coll hits="1" score="11.190" query="w1775220418">cutaneum</coll>
+  </gramrel>
+</wordsketch>
+</export>

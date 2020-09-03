@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_sanluc_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">pikeperch</keyword>
+  <gramrel name="nouns modified by X" hits="27" score="9.570">
+    <coll hits="20" score="13.590">sander_lucioperca</coll>
+    <coll hits="5" score="12.270">stizostedion_lucioperca</coll>
+    <coll hits="1" score="10.190">sander_volgensis</coll>
+    <coll hits="1" score="10.190">pikeperch</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="13" score="4.610">
+    <coll hits="7" score="13.280">sander_lucioperca</coll>
+    <coll hits="5" score="13.150">stizostedion_lucioperca</coll>
+    <coll hits="1" score="11.190">pikeperch</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="0.350">modifiers of &quot;%w&quot;</coll>
+    <coll hits="1" score="0.350">&quot;%w&quot; is the generic of...</coll>
+    <coll hits="1" score="0.350">&quot;%w&quot; is a type of...</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="1.060">
+    <coll hits="1" score="12.680">dümmer</coll>
+    <coll hits="1" score="7.700">simulation</coll>
+    <coll hits="1" score="7.260">Finland</coll>
+  </gramrel>
+</wordsketch>
+</export>

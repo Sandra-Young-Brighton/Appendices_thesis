@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lavaretus</keyword>
+  <gramrel name="modifiers of X" hits="95" score="55.230">
+    <coll hits="95" score="13.010">Coregonus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="2.910">
+    <coll hits="1" score="11.670">Annecy</coll>
+    <coll hits="1" score="11.300">rapids</coll>
+    <coll hits="2" score="8.180">L</coll>
+    <coll hits="1" score="6.160">C</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">stem</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="51" score="31.100">
+    <coll hits="3" score="9.650" query="w1677579212">leave</coll>
+    <coll hits="1" score="9.300" query="w1677579219">Denny</coll>
+    <coll hits="1" score="9.240" query="w1677579217">legacy</coll>
+    <coll hits="1" score="9.020" query="w1677579215">SLR</coll>
+    <coll hits="1" score="8.850" query="w1677579220">Spur</coll>
+    <coll hits="1" score="8.820" query="w1677579218">cylinder</coll>
+    <coll hits="2" score="8.760" query="w1677579208">assumption</coll>
+    <coll hits="1" score="8.730" query="w1677579213">grass</coll>
+    <coll hits="1" score="8.710" query="w1677579214">projection</coll>
+    <coll hits="1" score="8.520" query="w1677579216">Eleocharis</coll>
+    <coll hits="1" score="8.160" query="w1677579210">damage</coll>
+    <coll hits="7" score="8.110" query="w1677579207">Creek</coll>
+    <coll hits="14" score="7.540" query="w1677579201">River</coll>
+    <coll hits="1" score="6.730" query="w1677579204">R</coll>
+    <coll hits="2" score="6.620" query="w1677579205">plant</coll>
+    <coll hits="8" score="6.530" query="w1677579203">river</coll>
+    <coll hits="1" score="6.270" query="w1677579200">research</coll>
+    <coll hits="1" score="5.810" query="w1677579209">vegetation</coll>
+    <coll hits="1" score="5.690" query="w1677579211">tank</coll>
+    <coll hits="1" score="5.470" query="w1677579202">basin</coll>
+    <coll hits="1" score="4.330" query="w1677579206">system</coll>
+  </gramrel>
+</wordsketch>
+</export>

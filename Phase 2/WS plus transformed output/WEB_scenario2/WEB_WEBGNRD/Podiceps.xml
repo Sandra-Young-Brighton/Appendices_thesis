@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Podiceps</keyword>
+  <gramrel name="nouns modified by X" hits="9" score="81.820">
+    <coll hits="7" score="13.720" query="w2113351680">cristatus</coll>
+    <coll hits="2" score="12.540" query="w2113351681">grisegena</coll>
+  </gramrel>
+</wordsketch>
+</export>

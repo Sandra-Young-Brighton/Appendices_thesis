@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">jordani</keyword>
+  <gramrel name="modifiers of X" hits="11" score="64.710">
+    <coll hits="7" score="13.640" query="w2020249217">Anoptichthys</coll>
+    <coll hits="4" score="11.710" query="w2020249216">Sebastes</coll>
+  </gramrel>
+</wordsketch>
+</export>

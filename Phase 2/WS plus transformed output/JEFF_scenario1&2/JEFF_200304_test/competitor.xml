@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">competitor</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="23" score="18.700">
+    <coll hits="1" score="10.410">monopolisation</coll>
+    <coll hits="1" score="10.410">hazzard</coll>
+    <coll hits="1" score="9.610">fertilisation</coll>
+    <coll hits="1" score="9.410">selec</coll>
+    <coll hits="1" score="8.710">diel</coll>
+    <coll hits="4" score="8.170">resource</coll>
+    <coll hits="1" score="8.130">mosquitofish</coll>
+    <coll hits="1" score="7.860">macroinvertebrate</coll>
+    <coll hits="1" score="7.570">refuge</coll>
+    <coll hits="1" score="7.050">cyprinid</coll>
+    <coll hits="1" score="6.470">roach</coll>
+    <coll hits="1" score="6.220">food</coll>
+    <coll hits="1" score="6.040">ecosystem</coll>
+    <coll hits="1" score="4.560">species</coll>
+    <coll hits="1" score="4.530">perch</coll>
+    <coll hits="2" score="4.500">salmon</coll>
+    <coll hits="1" score="4.480">individual</coll>
+    <coll hits="1" score="3.720">habitat</coll>
+    <coll hits="1" score="3.520">size</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="1.630">
+    <coll hits="1" score="13.000">alpinus</coll>
+    <coll hits="1" score="13.000">Salvelinus</coll>
+  </gramrel>
+</wordsketch>
+</export>

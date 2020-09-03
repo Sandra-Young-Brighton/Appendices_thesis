@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Perciformes</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="18.520">
+    <coll hits="2" score="12.830">Percichthyidae</coll>
+    <coll hits="1" score="12.190">Sparidae</coll>
+    <coll hits="1" score="11.990">Cichlidae</coll>
+    <coll hits="1" score="11.830">Gobiidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="5" score="18.520">
+    <coll hits="2" score="13.190">Percichthyidae</coll>
+    <coll hits="1" score="12.190">Sparidae</coll>
+    <coll hits="1" score="11.990">Cichlidae</coll>
+    <coll hits="1" score="11.540">Gobiidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

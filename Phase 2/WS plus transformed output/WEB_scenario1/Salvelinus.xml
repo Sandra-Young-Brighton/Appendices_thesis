@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salvelinus</keyword>
+  <gramrel name="modifiers of X" hits="6" score="0.410">
+    <coll hits="5" score="6.590">Salmo</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1086" score="73.330">
+    <coll hits="579" score="13.470">alpinus</coll>
+    <coll hits="208" score="12.350">fontinalis</coll>
+    <coll hits="189" score="12.240">namaycush</coll>
+    <coll hits="61" score="10.760">malma</coll>
+    <coll hits="23" score="9.400">confluentus</coll>
+    <coll hits="7" score="7.710">willughbii</coll>
+    <coll hits="6" score="7.460">spp</coll>
+    <coll hits="3" score="6.490">umbla</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">change</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2395" score="59.030">
+    <coll hits="84" score="9.830" query="w926175760">composition</coll>
+    <coll hits="91" score="9.580" query="w924449718">abundance</coll>
+    <coll hits="51" score="8.980" query="w925015903">structure</coll>
+    <coll hits="61" score="8.960" query="w926175767">temperature</coll>
+    <coll hits="48" score="8.610" query="w925597321">diet</coll>
+    <coll hits="42" score="8.540" query="w924449724">condition</coll>
+    <coll hits="37" score="8.540" query="w924449683">distribution</coll>
+    <coll hits="32" score="8.530" query="w926175773">quality</coll>
+    <coll hits="39" score="8.510" query="w925015921">community</coll>
+    <coll hits="27" score="8.240" query="w924449722">state</coll>
+    <coll hits="31" score="8.200" query="w925015929">environment</coll>
+    <coll hits="26" score="8.000" query="w925015898">ecosystem</coll>
+    <coll hits="34" score="7.960" query="w924449725">size</coll>
+    <coll hits="21" score="7.950" query="w925597359">availability</coll>
+    <coll hits="25" score="7.940" query="w925597357">density</coll>
+    <coll hits="19" score="7.890" query="w927835833">regime</coll>
+    <coll hits="25" score="7.870" query="w925597350">rate</coll>
+    <coll hits="33" score="7.830" query="w925015916">habitat</coll>
+    <coll hits="26" score="7.750" query="w925597317">level</coll>
+    <coll hits="38" score="7.720" query="w925015900">population</coll>
+    <coll hits="18" score="7.670" query="w924449716">pattern</coll>
+    <coll hits="16" score="7.610" query="w926716161">behavior</coll>
+    <coll hits="16" score="7.590" query="w925015896">behaviour</coll>
+    <coll hits="16" score="7.580" query="w926716190">assemblage</coll>
+    <coll hits="19" score="7.570" query="w927277252">concentration</coll>
+  </gramrel>
+</wordsketch>
+</export>

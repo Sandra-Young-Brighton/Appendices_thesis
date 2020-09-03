@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salmoniformes</keyword>
+  <gramrel name="modifiers of X" hits="3" score="7.690">
+    <coll hits="3" score="13.120" query="w1625856768">Protacanthopterygii</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="5" score="12.820">
+    <coll hits="5" score="12.070" query="w1625871296">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="10.260">
+    <coll hits="4" score="12.600" query="w1625845440">Salmonidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

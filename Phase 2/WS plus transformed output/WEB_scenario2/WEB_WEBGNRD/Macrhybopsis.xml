@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Macrhybopsis</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="50.000">
+    <coll hits="2" score="13.410" query="w2130200193">storeriana</coll>
+    <coll hits="1" score="11.990" query="w2130200194">nachtriebi</coll>
+    <coll hits="1" score="11.670" query="w2130200192">aestivalis</coll>
+  </gramrel>
+</wordsketch>
+</export>

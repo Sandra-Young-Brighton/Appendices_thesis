@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">nachtriebi</keyword>
+  <gramrel name="modifiers of X" hits="4" score="200.000">
+    <coll hits="1" score="12.680" query="w2158081602">storeriana</coll>
+    <coll hits="2" score="12.410" query="w2158081600">Margariscus</coll>
+    <coll hits="1" score="11.990" query="w2158081601">Macrhybopsis</coll>
+  </gramrel>
+</wordsketch>
+</export>

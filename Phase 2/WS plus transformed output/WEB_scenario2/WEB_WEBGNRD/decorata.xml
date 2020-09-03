@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">decorata</keyword>
+  <gramrel name="modifiers of X" hits="9" score="90.000">
+    <coll hits="9" score="13.770" query="w1667874752">Lasmigona</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="10.000">
+    <coll hits="1" score="12.190" query="w1667888064">Target</coll>
+  </gramrel>
+</wordsketch>
+</export>

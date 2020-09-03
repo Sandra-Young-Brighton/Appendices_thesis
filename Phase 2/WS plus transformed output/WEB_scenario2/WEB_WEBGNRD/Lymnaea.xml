@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lymnaea</keyword>
+  <gramrel name="nouns modified by X" hits="10" score="23.260">
+    <coll hits="6" score="13.410" query="w1997403137">peregra</coll>
+    <coll hits="3" score="12.880" query="w1997403138">stagnalis</coll>
+    <coll hits="1" score="10.300" query="w1997403136">Trichoptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

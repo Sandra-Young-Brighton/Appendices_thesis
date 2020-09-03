@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cinerea</keyword>
+  <gramrel name="modifiers of X" hits="10" score="45.450">
+    <coll hits="10" score="13.930">Ardea</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="4.550">
+    <coll hits="1" score="8.090">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="9.090">
+    <coll hits="1" score="8.130">island</coll>
+    <coll hits="1" score="4.680">change</coll>
+  </gramrel>
+</wordsketch>
+</export>

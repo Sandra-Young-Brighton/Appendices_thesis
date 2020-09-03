@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">aurata</keyword>
+  <gramrel name="modifiers of X" hits="4" score="66.670">
+    <coll hits="4" score="13.990">Sparus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="16.670">
+    <coll hits="1" score="8.030">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="16.670">
+    <coll hits="1" score="11.830">Linnaeus</coll>
+  </gramrel>
+</wordsketch>
+</export>

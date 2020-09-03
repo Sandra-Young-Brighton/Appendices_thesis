@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Bosmina</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="8.890">
+    <coll hits="3" score="13.580">longispina</coll>
+    <coll hits="1" score="12.680">coregoni</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.220">
+    <coll hits="1" score="13.990">Chydorus</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="3" score="6.670">
+    <coll hits="1" score="11.830">insect</coll>
+    <coll hits="1" score="11.670">Trichoptera</coll>
+    <coll hits="1" score="11.410">stickleback</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="4.440">
+    <coll hits="1" score="12.410">cope</coll>
+    <coll hits="1" score="5.390">depth</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="2.220">
+    <coll hits="1" score="6.510">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">intermedia</keyword>
+  <gramrel name="modifiers of X" hits="10" score="50.000">
+    <coll hits="3" score="12.880" query="w1951299330">Mystrophora</coll>
+    <coll hits="3" score="12.880" query="w1951299329">stigmatella</coll>
+    <coll hits="2" score="12.290" query="w1951299328">Utricularia</coll>
+    <coll hits="1" score="11.410" query="w1951299331">gibba</coll>
+    <coll hits="1" score="9.750" query="w1951299332">Nanexila</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="15.000">
+    <coll hits="3" score="13.990" query="w1951281600">aurivilli</coll>
+  </gramrel>
+</wordsketch>
+</export>

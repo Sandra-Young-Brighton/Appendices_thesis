@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">kisutch</keyword>
+  <gramrel name="modifiers of X" hits="146" score="72.640">
+    <coll hits="138" score="12.520">Oncorhynchus</coll>
+    <coll hits="4" score="9.720">Oncorhyncus</coll>
+    <coll hits="1" score="7.800">Onchorychus</coll>
+    <coll hits="1" score="7.800">Oncorhynus</coll>
+    <coll hits="1" score="7.800">Onchorhynrus</coll>
+    <coll hits="1" score="7.790">Oncorynchus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="1.000">
+    <coll hits="1" score="10.140">headwaters</coll>
+    <coll hits="1" score="6.270">end</coll>
+  </gramrel>
+</wordsketch>
+</export>

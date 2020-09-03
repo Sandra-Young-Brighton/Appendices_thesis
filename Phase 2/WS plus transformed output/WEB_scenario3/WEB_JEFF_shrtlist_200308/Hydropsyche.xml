@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hydropsyche</keyword>
+  <gramrel name="modifiers of X" hits="1" score="12.500">
+    <coll hits="1" score="10.600">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="12.500">
+    <coll hits="1" score="12.680">Trichoptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

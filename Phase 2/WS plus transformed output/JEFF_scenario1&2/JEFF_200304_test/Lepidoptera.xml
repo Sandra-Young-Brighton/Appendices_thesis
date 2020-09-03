@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lepidoptera</keyword>
+  <gramrel name="modifiers of X" hits="5" score="55.560">
+    <coll hits="1" score="12.410">ornata</coll>
+    <coll hits="1" score="12.410">Tetrix</coll>
+    <coll hits="1" score="12.410">Lepidoptera</coll>
+    <coll hits="1" score="10.910">Trichoptera</coll>
+    <coll hits="1" score="10.750">Ephemeroptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="11.110">
+    <coll hits="1" score="10.680">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="11.110">nouns modified by &quot;%w&quot;</coll>
+  </gramrel>
+</wordsketch>
+</export>

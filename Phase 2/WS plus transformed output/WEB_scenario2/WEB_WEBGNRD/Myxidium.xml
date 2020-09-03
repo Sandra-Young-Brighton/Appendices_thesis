@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Myxidium</keyword>
+  <gramrel name="modifiers of X" hits="1" score="5.880">
+    <coll hits="1" score="11.000" query="w1994233600">Myxobolus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="6" score="35.290">
+    <coll hits="5" score="12.030" query="w1994243456">truttae</coll>
+    <coll hits="1" score="9.870" query="w1994243457">salvelini</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="5.880" query="w1994267264">&quot;%w&quot; %(3.lemma) .../... %(3.lemma) &quot;%w&quot;</coll>
+  </gramrel>
+</wordsketch>
+</export>

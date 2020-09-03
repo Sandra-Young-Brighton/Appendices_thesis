@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cottus</keyword>
+  <gramrel name="nouns modified by X" hits="395" score="60.860">
+    <coll hits="85" score="12.400" query="w1728632130">gobio</coll>
+    <coll hits="67" score="12.210" query="w1728632136">cognatus</coll>
+    <coll hits="44" score="11.680" query="w1728632135">bairdi</coll>
+    <coll hits="39" score="11.520" query="w1728632132">asper</coll>
+    <coll hits="33" score="11.300" query="w1728632150">confusus</coll>
+    <coll hits="24" score="10.870" query="w1728632133">aleuticus</coll>
+    <coll hits="24" score="10.870" query="w1728632140">poecilopus</coll>
+    <coll hits="18" score="10.470" query="w1728632138">bairdii</coll>
+    <coll hits="10" score="9.650" query="w1728632141">ricei</coll>
+    <coll hits="8" score="9.340" query="w1728632143">rhotheus</coll>
+    <coll hits="7" score="9.150" query="w1728632131">tenuis</coll>
+    <coll hits="6" score="8.900" query="w1728632129">gulosus</coll>
+    <coll hits="3" score="7.940" query="w1728632156">carolinae</coll>
+    <coll hits="3" score="7.940" query="w1728632152">paulus</coll>
+    <coll hits="2" score="7.370" query="w1728632157">rhenanus</coll>
+    <coll hits="2" score="7.310" query="w1728632148">hubbsi</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="0.620">
+    <coll hits="2" score="6.900" query="w1728945794">sculpin</coll>
+  </gramrel>
+</wordsketch>
+</export>

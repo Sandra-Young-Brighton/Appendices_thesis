@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">brasiliensis</keyword>
+  <gramrel name="modifiers of X" hits="3" score="42.860">
+    <coll hits="2" score="13.670" query="w1927018753">Nippostrongylus</coll>
+    <coll hits="1" score="13.000" query="w1927018752">Hemiramphus</coll>
+  </gramrel>
+</wordsketch>
+</export>

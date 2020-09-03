@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">merganser</keyword>
+  <gramrel name="modifiers of X" hits="28" score="16.770">
+    <coll hits="28" score="13.970">Mergus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="11" score="6.590">
+    <coll hits="1" score="8.440">situation</coll>
+    <coll hits="1" score="7.000">proportion</coll>
+    <coll hits="1" score="5.990">relation</coll>
+    <coll hits="1" score="5.770">smolt</coll>
+    <coll hits="2" score="5.350">predator</coll>
+    <coll hits="2" score="4.550">river</coll>
+    <coll hits="2" score="4.200">salmon</coll>
+    <coll hits="1" score="3.230">population</coll>
+  </gramrel>
+</wordsketch>
+</export>

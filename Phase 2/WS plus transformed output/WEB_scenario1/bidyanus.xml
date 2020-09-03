@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">bidyanus</keyword>
+  <gramrel name="modifiers of X" hits="47" score="94.000">
+    <coll hits="46" score="13.980">Bidyanus</coll>
+    <coll hits="1" score="9.410">australasica</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="2.000">
+    <coll hits="1" score="10.090">olidus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.000">
+    <coll hits="1" score="13.990">olidus</coll>
+  </gramrel>
+</wordsketch>
+</export>

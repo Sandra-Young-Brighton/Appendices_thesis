@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">densitydependent</keyword>
+  <gramrel name="X and/or ..." hits="1" score="16.670">
+    <coll hits="1" score="13.410">density-independent</coll>
+  </gramrel>
+</wordsketch>
+</export>

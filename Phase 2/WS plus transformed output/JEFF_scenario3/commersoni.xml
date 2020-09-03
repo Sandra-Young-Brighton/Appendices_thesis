@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">commersoni</keyword>
+  <gramrel name="modifiers of X" hits="10" score="62.500">
+    <coll hits="10" score="12.570">Catostomus</coll>
+  </gramrel>
+</wordsketch>
+</export>

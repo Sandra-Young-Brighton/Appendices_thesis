@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">olor</keyword>
+  <gramrel name="modifiers of X" hits="15" score="50.000">
+    <coll hits="15" score="13.910" query="w1952131264">Cygnus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="3.330">
+    <coll hits="1" score="7.530" query="w1952144512">Britain</coll>
+  </gramrel>
+</wordsketch>
+</export>

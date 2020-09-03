@@ -1,0 +1,20 @@
+source,target,data_source_x,TAXRANK_target,TAXRANK_source,data_source_y,relations,compare
+COREGONUS,ALBULA,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+COREGONUS,LAVARETUS,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+COTTUS,GOBIO,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+ESOX,LUCIUS,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+GASTEROSTEUS,ACULEATUS,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+NEOGOBIUS,MELANOSTOMUS,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+ONCORHYNCHUS,KISUTCH,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+ONCORHYNCHUS,MYKISS,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+ONCORHYNCHUS,NERKA,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+ONCORHYNCHUS,TSHAWYTSCHA,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+PERCA,FLUVIATILIS,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+RUTILUS,RUTILUS,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+SALMO,SALAR,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+SALMO,TRUTTA,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+SALVELINUS,ALPINUS,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+SALVELINUS,CONFLUENTUS,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+SALVELINUS,FONTINALIS,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+SALVELINUS,NAMAYCUSH,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both
+THYMALLUS,THYMALLUS,JEFF corpus, SPECIES, GENUS,VTO ontology,is_a,both

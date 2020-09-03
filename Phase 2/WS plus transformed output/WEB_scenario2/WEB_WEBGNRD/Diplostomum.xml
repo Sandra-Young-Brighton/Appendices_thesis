@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Diplostomum</keyword>
+  <gramrel name="nouns modified by X" hits="13" score="25.490">
+    <coll hits="2" score="12.090" query="w1994488328">phoxini</coll>
+    <coll hits="2" score="12.090" query="w1994488326">tregenna</coll>
+    <coll hits="2" score="12.090" query="w1994488321">spathaceum</coll>
+    <coll hits="1" score="11.190" query="w1994488329">flexicaudatum</coll>
+    <coll hits="1" score="11.190" query="w1994488327">schudderi</coll>
+    <coll hits="1" score="11.190" query="w1994488325">mashonense</coll>
+    <coll hits="1" score="11.190" query="w1994488324">adamsi</coll>
+    <coll hits="1" score="11.190" query="w1994488323">flexicaudum</coll>
+    <coll hits="1" score="11.190" query="w1994488320">compactum</coll>
+    <coll hits="1" score="11.000" query="w1994488322">gasterostei</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.960">
+    <coll hits="1" score="13.990" query="w1994478848">Apatemon</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="5.880">
+    <coll hits="2" score="9.090" query="w1994557633">Iceland</coll>
+    <coll hits="1" score="4.300" query="w1994557632">period</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="3.920">
+    <coll hits="1" score="11.540" query="w1994583681">lucii</coll>
+    <coll hits="1" score="11.540" query="w1994583680">Acanthocephalus</coll>
+  </gramrel>
+</wordsketch>
+</export>

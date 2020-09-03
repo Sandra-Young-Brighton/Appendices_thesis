@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Encapsulated</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="13" score="43.330">
+    <coll hits="3" score="11.990" query="w2032596231">cup</coll>
+    <coll hits="1" score="10.090" query="w2032596229">fibre</coll>
+    <coll hits="3" score="9.740" query="w2032596230">particle</coll>
+    <coll hits="1" score="9.480" query="w2032596232">cyst</coll>
+    <coll hits="1" score="7.210" query="w2032596228">muscle</coll>
+    <coll hits="1" score="5.660" query="w2032596226">variation</coll>
+    <coll hits="1" score="5.370" query="w2032596225">part</coll>
+    <coll hits="1" score="3.220" query="w2032596227">population</coll>
+    <coll hits="1" score="3.070" query="w2032596224">water</coll>
+  </gramrel>
+</wordsketch>
+</export>

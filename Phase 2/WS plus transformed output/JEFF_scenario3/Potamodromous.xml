@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Potamodromous</keyword>
+  <gramrel name="X and/or ..." hits="1" score="50.000">
+    <coll hits="1" score="11.410">rheophilic</coll>
+  </gramrel>
+</wordsketch>
+</export>

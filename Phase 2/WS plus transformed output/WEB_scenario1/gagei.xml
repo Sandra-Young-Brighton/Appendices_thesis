@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">gagei</keyword>
+  <gramrel name="modifiers of X" hits="1" score="33.330">
+    <coll hits="1" score="11.990">Ichthyomyzon</coll>
+  </gramrel>
+</wordsketch>
+</export>

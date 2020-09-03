@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cottus_hangiongensis</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="40.000">
+    <coll hits="2" score="4.770">River</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="40.000">
+    <coll hits="1" score="6.830">fish</coll>
+    <coll hits="1" score="6.800">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

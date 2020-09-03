@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">mercuriale</keyword>
+  <gramrel name="modifiers of X" hits="3" score="50.000">
+    <coll hits="3" score="13.770" query="w2098043904">Coenagrion</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="50.000">
+    <coll hits="2" score="13.190" query="w2098059392">Water-Plantain</coll>
+    <coll hits="1" score="12.680" query="w2098059393">Water-plantain</coll>
+  </gramrel>
+</wordsketch>
+</export>

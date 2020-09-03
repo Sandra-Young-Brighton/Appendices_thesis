@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pomoxis</keyword>
+  <gramrel name="modifiers of X" hits="2" score="2.630">
+    <coll hits="2" score="8.160" query="w1117804224">Lepomis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="36" score="47.370">
+    <coll hits="23" score="13.570" query="w1117813504">nigromaculatus</coll>
+    <coll hits="12" score="13.000" query="w1117813505">annularis</coll>
+    <coll hits="1" score="9.790" query="w1117813506">Ambloplites</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.320">
+    <coll hits="1" score="13.990" query="w1117795712">Ambloplites</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="1.320">
+    <coll hits="1" score="11.540" query="w1117844672">Centrarchidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

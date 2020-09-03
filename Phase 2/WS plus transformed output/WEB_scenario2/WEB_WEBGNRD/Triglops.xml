@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Triglops</keyword>
+  <gramrel name="modifiers of X" hits="1" score="6.670">
+    <coll hits="1" score="8.550" query="w2152343232">Myoxocephalus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="13.330">
+    <coll hits="2" score="13.990" query="w2152352896">murrayi</coll>
+  </gramrel>
+</wordsketch>
+</export>

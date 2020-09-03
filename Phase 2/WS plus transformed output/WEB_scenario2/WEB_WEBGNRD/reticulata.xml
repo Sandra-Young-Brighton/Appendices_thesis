@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">reticulata</keyword>
+  <gramrel name="modifiers of X" hits="19" score="100.000">
+    <coll hits="14" score="13.410" query="w1949355712">Poecilia</coll>
+    <coll hits="2" score="11.140" query="w1949355714">Ceriodaphnia</coll>
+    <coll hits="1" score="10.680" query="w1949355716">pulexllongispina</coll>
+    <coll hits="1" score="10.600" query="w1949355713">affinis</coll>
+    <coll hits="1" score="8.850" query="w1949355715">Gambusia</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="15.790">
+    <coll hits="1" score="12.680" query="w1949402625">excisum</coll>
+    <coll hits="1" score="12.410" query="w1949402626">Poeciliidae</coll>
+    <coll hits="1" score="8.500" query="w1949402624">gibbosus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="15.790">
+    <coll hits="1" score="13.000" query="w1949328769">excisum</coll>
+    <coll hits="1" score="12.680" query="w1949328770">Poeciliidae</coll>
+    <coll hits="1" score="12.680" query="w1949328768">Magna</coll>
+  </gramrel>
+</wordsketch>
+</export>

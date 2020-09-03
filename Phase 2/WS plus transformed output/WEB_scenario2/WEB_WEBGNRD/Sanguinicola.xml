@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sanguinicola</keyword>
+  <gramrel name="modifiers of X" hits="1" score="5.260">
+    <coll hits="1" score="13.410" query="w2068162496">Aporocotyle</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="6" score="31.580">
+    <coll hits="2" score="13.000" query="w2068172225">dentata</coll>
+    <coll hits="1" score="11.990" query="w2068172227">davisi</coll>
+    <coll hits="1" score="11.830" query="w2068172228">armata</coll>
+    <coll hits="1" score="11.670" query="w2068172224">klamathensis</coll>
+    <coll hits="1" score="11.000" query="w2068172226">inermis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.260">
+    <coll hits="1" score="13.990" query="w2068152896">Cardicola</coll>
+  </gramrel>
+</wordsketch>
+</export>

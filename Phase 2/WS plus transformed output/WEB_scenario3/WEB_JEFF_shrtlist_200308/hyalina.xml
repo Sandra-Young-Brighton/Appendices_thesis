@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">hyalina</keyword>
+  <gramrel name="modifiers of X" hits="7" score="20.000">
+    <coll hits="7" score="12.130">Daphnia</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">vitreum</keyword>
+  <gramrel name="modifiers of X" hits="43" score="36.440">
+    <coll hits="38" score="13.210" query="w1246859394">Stizostedion</coll>
+    <coll hits="1" score="9.530" query="w1246859397">caprodes</coll>
+    <coll hits="1" score="9.500" query="w1246859393">dolomieu</coll>
+    <coll hits="1" score="9.440" query="w1246859392">flavescens</coll>
+    <coll hits="1" score="9.190" query="w1246859396">Herpesvirus</coll>
+    <coll hits="1" score="9.120" query="w1246859395">Percina</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.850">
+    <coll hits="1" score="7.890" query="w1246914496">flavescens</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.850">
+    <coll hits="1" score="12.410" query="w1246847232">flavescens</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">grandis</keyword>
+  <gramrel name="modifiers of X" hits="10" score="55.560">
+    <coll hits="8" score="12.640" query="w1794837569">Ptychocheilus</coll>
+    <coll hits="1" score="11.540" query="w1794837570">Trissocladius</coll>
+    <coll hits="1" score="9.120" query="w1794837568">Fundulus</coll>
+  </gramrel>
+</wordsketch>
+</export>

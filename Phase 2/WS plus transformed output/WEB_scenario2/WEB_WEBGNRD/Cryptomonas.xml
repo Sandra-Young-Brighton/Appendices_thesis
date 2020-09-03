@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cryptomonas</keyword>
+  <gramrel name="X is a type of..." hits="1" score="25.000">
+    <coll hits="1" score="13.990" query="w2139080832">Tabellaria</coll>
+  </gramrel>
+</wordsketch>
+</export>

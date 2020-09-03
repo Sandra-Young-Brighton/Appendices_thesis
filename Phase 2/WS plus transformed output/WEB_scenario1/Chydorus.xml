@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Chydorus</keyword>
+  <gramrel name="modifiers of X" hits="6" score="18.180">
+    <coll hits="5" score="12.790">Bosmina</coll>
+    <coll hits="1" score="11.830">Ceriodaphnia</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="3.030">
+    <coll hits="1" score="10.300">spp</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="3.030">
+    <coll hits="1" score="12.190">Cladocera</coll>
+  </gramrel>
+</wordsketch>
+</export>

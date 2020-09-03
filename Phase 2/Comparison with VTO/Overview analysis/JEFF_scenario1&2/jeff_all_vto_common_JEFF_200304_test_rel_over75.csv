@@ -1,0 +1,16 @@
+TAXRANK_target,target,source,TAXRANK_source,data_source_x,relations,data_source_y,_merge
+ SPECIES,RUTILUS,RUTILUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,FLUVIATILIS,PERCA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ACULEATUS,GASTEROSTEUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,LUCIUS,ESOX, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,LAVARETUS,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ALBULA,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,TRUTTA,SALMO, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,SALAR,SALMO, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CONFLUENTUS,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ALPINUS,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,FONTINALIS,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,TSHAWYTSCHA,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,KISUTCH,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MYKISS,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NERKA,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both

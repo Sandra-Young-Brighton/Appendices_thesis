@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">culicifacies</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="16.670">
+    <coll hits="1" score="13.000" query="w2058000514">Distt</coll>
+    <coll hits="1" score="4.300" query="w2058000513">period</coll>
+    <coll hits="1" score="3.080" query="w2058000512">water</coll>
+  </gramrel>
+</wordsketch>
+</export>

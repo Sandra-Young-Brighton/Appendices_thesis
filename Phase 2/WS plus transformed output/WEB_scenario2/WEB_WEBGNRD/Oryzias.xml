@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Oryzias</keyword>
+  <gramrel name="nouns modified by X" hits="6" score="37.500">
+    <coll hits="4" score="13.670" query="w1613386113">latipes</coll>
+    <coll hits="1" score="12.190" query="w1613386114">hadiatyae</coll>
+    <coll hits="1" score="8.690" query="w1613386112">nebulosus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="18.750">
+    <coll hits="1" score="12.680" query="w1613412418">Atherinomorpha</coll>
+    <coll hits="1" score="12.680" query="w1613412417">Adrianichthyidae</coll>
+    <coll hits="1" score="12.680" query="w1613412416">Beloniformes</coll>
+  </gramrel>
+</wordsketch>
+</export>

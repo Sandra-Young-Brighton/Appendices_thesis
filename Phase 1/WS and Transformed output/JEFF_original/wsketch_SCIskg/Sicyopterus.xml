@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sicyopterus</keyword>
+  <gramrel name="nouns modified by X" hits="112" score="66.270">
+    <coll hits="57" score="13.280">lagocephalus</coll>
+    <coll hits="20" score="12.180">japonicus</coll>
+    <coll hits="4" score="10.100">stimpsoni</coll>
+    <coll hits="3" score="9.740">aiensis</coll>
+    <coll hits="2" score="9.160">sarasini</coll>
+    <coll hits="22" score="8.970">specie</coll>
+    <coll hits="1" score="8.160">extraneus</coll>
+    <coll hits="3" score="7.610">larva</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="4" score="2.370">
+    <coll hits="1" score="12.680">Sicydiinae</coll>
+    <coll hits="1" score="11.540">Gobioidei</coll>
+    <coll hits="1" score="11.000">goby</coll>
+    <coll hits="1" score="6.570">fish</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="1.780">
+    <coll hits="1" score="11.540">Indo</coll>
+    <coll hits="1" score="7.080">November</coll>
+    <coll hits="1" score="3.920">area</coll>
+  </gramrel>
+</wordsketch>
+</export>

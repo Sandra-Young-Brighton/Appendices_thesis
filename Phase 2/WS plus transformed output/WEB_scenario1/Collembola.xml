@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Collembola</keyword>
+  <gramrel name="modifiers of X" hits="1" score="6.250">
+    <coll hits="1" score="11.190">Plecoptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="6.250">
+    <coll hits="1" score="13.000">Oligochaeta</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="6.250">
+    <coll hits="1" score="11.670">Oligochaeta</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">reissneri</keyword>
+  <gramrel name="modifiers of X" hits="7" score="77.780">
+    <coll hits="6" score="13.580">Lethenteron</coll>
+    <coll hits="1" score="8.650">Lampetra</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="33.330">
+    <coll hits="2" score="4.260">stream</coll>
+    <coll hits="1" score="3.920">area</coll>
+  </gramrel>
+</wordsketch>
+</export>

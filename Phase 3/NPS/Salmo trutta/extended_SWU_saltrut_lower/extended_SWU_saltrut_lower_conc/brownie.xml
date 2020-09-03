@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_untagged</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="11">[lc=&quot;brownie&quot; | lemma_lc=&quot;brownie&quot;]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#152" num="0" label="_">
+    <left>i was fishing for grayling and i caught two oos</left>
+    <kwic> brownies</kwic>
+    <right>. one fully grown and the one in the picture a parr</right>
+  </line>
+  <line refs="doc#153" num="1" label="_">
+    <left>and look forward to the next ,not as nice as a</left>
+    <kwic> brownie</kwic>
+    <right> but certainly better than a lot of the</right>
+  </line>
+  <line refs="doc#388" num="2" label="_">
+    <left>brown_trout other names: german brown_trout,</left>
+    <kwic> brownie</kwic>
+    <right>, loch_leven_trout, saibling scientific name</right>
+  </line>
+  <line refs="doc#399" num="3" label="_">
+    <left>using model 1 of the computer program estimate (</left>
+    <kwic>brownie</kwic>
+    <right> et al. 1985), resulting in an independent</right>
+  </line>
+  <line refs="doc#399" num="4" label="_">
+    <left>of natural resources, fish division: 86–87.</left>
+    <kwic> brownie</kwic>
+    <right>, c.; anderson, d. r.; burnham, k. p.; robson, d.</right>
+  </line>
+  <line refs="doc#473" num="5" label="_">
+    <left>german brown_trout, european brown_trout,</left>
+    <kwic> brownie</kwic>
+    <right>, loch_leven_trout, von behr trout, spotted</right>
+  </line>
+  <line refs="doc#511" num="6" label="_">
+    <left>. rivers in the north west holding good heads of '</left>
+    <kwic>brownies</kwic>
+    <right>' include the river douglas, bollin, goyt,</right>
+  </line>
+  <line refs="doc#573" num="7" label="_">
+    <left>black caddis. after a quick photo session, the</left>
+    <kwic> brownie</kwic>
+    <right> was safely returned to fight another day.</right>
+  </line>
+  <line refs="doc#699" num="8" label="_">
+    <left>sayanus cods (gadidae) 3 menominee atlantic</left>
+    <kwic> brownie</kwic>
+    <right> speckled trout mackinaw, siscowet common name</right>
+  </line>
+  <line refs="doc#706" num="9" label="_">
+    <left>silver steelhead, bow king menominee atlantic</left>
+    <kwic> brownie</kwic>
+    <right> speckled trout mackinaw, siscowet michigan</right>
+  </line>
+  <line refs="doc#961" num="10" label="_">
+    <left>: &lt;/p&gt; &lt;p&gt; smallmouth, bronzeback, brown bass,</left>
+    <kwic> brownie</kwic>
+    <right>, smallie, and bronze bass &lt;/p&gt; &lt;p&gt; size: &lt;/p&gt;</right>
+  </line>
+</concordance>
+</export>

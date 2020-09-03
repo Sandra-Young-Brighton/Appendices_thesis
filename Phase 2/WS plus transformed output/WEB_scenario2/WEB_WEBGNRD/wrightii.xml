@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">wrightii</keyword>
+  <gramrel name="modifiers of X" hits="4" score="100.000">
+    <coll hits="2" score="13.410" query="w1944292290">Halodule</coll>
+    <coll hits="1" score="12.680" query="w1944292289">spinulosa</coll>
+    <coll hits="1" score="9.120" query="w1944292288">Potamogeton</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="25.000">
+    <coll hits="1" score="13.990" query="w1944281152">maackianus</coll>
+  </gramrel>
+</wordsketch>
+</export>

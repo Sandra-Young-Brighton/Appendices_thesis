@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Erimonax_monachus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="20.000">
+    <coll hits="1" score="8.870">minnow</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="20.000">
+    <coll hits="1" score="13.990">Cyprinella_glactura</coll>
+  </gramrel>
+</wordsketch>
+</export>

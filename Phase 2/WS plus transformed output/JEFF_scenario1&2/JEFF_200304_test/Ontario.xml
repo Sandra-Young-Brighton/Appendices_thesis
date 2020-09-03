@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ontario</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="1.340">
+    <coll hits="1" score="11.000">out</coll>
+    <coll hits="1" score="9.870">bucket</coll>
+    <coll hits="1" score="7.660">fishway</coll>
+    <coll hits="1" score="7.180">Bay</coll>
+    <coll hits="1" score="3.510">salmon</coll>
+  </gramrel>
+</wordsketch>
+</export>

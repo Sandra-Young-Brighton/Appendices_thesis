@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Petromyzontidae</keyword>
+  <gramrel name="modifiers of X" hits="2" score="4.650">
+    <coll hits="1" score="13.410" query="w1806223105">camtschaticum</coll>
+    <coll hits="1" score="11.300" query="w1806223104">Lethenteron</coll>
+  </gramrel>
+</wordsketch>
+</export>

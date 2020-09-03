@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Polycentropodidae</keyword>
+  <gramrel name="modifiers of X" hits="1" score="7.690">
+    <coll hits="1" score="10.680" query="w2108626752">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="15.380">
+    <coll hits="1" score="13.410" query="w2108637441">Athericidae</coll>
+    <coll hits="1" score="13.410" query="w2108637440">Glossosomatidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="15.380">
+    <coll hits="1" score="13.410" query="w2108609152">Glossosomatidae</coll>
+    <coll hits="1" score="13.000" query="w2108609153">Athericidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

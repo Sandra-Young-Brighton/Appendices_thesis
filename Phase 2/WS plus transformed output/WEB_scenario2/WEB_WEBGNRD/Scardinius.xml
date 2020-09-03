@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Scardinius</keyword>
+  <gramrel name="modifiers of X" hits="1" score="1.120">
+    <coll hits="1" score="10.300" query="w1941341248">Blicca</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="57" score="64.040">
+    <coll hits="47" score="13.830" query="w1941350593">erythrophthalmus</coll>
+    <coll hits="4" score="11.060" query="w1941350596">erythropthalmus</coll>
+    <coll hits="2" score="10.110" query="w1941350595">erythrophtalmus</coll>
+    <coll hits="2" score="10.110" query="w1941350592">Abramis</coll>
+    <coll hits="1" score="9.140" query="w1941350597">erythorphthalmus</coll>
+    <coll hits="1" score="9.140" query="w1941350594">eryhtrophthalmus</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="2" score="2.250">
+    <coll hits="1" score="12.190" query="w1941401921">plant</coll>
+    <coll hits="1" score="11.830" query="w1941401920">food</coll>
+  </gramrel>
+</wordsketch>
+</export>

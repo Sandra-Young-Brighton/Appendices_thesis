@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hypophthalmidae</keyword>
+  <gramrel name="modifiers of X" hits="4" score="80.000">
+    <coll hits="2" score="12.410" query="w2059194881">Siluriformes</coll>
+    <coll hits="2" score="12.190" query="w2059194880">Osteichthyes</coll>
+  </gramrel>
+</wordsketch>
+</export>

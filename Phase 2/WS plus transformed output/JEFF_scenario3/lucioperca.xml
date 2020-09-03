@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lucioperca</keyword>
+  <gramrel name="modifiers of X" hits="74" score="74.750">
+    <coll hits="44" score="13.360">Stizostedion</coll>
+    <coll hits="24" score="12.440">Sander</coll>
+    <coll hits="2" score="9.750">Stizostedium</coll>
+    <coll hits="2" score="9.750">parva</coll>
+    <coll hits="1" score="8.760">Sfizostedion</coll>
+    <coll hits="1" score="8.760">cernua</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.010">
+    <coll hits="1" score="11.830">lucius</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.010">
+    <coll hits="1" score="13.990">lucius</coll>
+  </gramrel>
+</wordsketch>
+</export>

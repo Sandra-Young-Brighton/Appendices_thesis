@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">stoneroller</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="8.050">
+    <coll hits="1" score="9.530">Tennessee</coll>
+    <coll hits="1" score="7.390">station</coll>
+    <coll hits="1" score="7.060">function</coll>
+    <coll hits="1" score="6.120">August</coll>
+    <coll hits="3" score="4.840">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

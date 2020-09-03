@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">tshawytscha</keyword>
+  <gramrel name="modifiers of X" hits="105" score="69.080">
+    <coll hits="101" score="12.150">Oncorhynchus</coll>
+    <coll hits="2" score="9.160">Oncorhyncus</coll>
+    <coll hits="1" score="8.270">Oncorchynchus</coll>
+    <coll hits="1" score="8.130">Onchorhynchus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="3.290">
+    <coll hits="1" score="9.910">residence</coll>
+    <coll hits="1" score="8.030">context</coll>
+    <coll hits="1" score="4.800">condition</coll>
+    <coll hits="1" score="3.590">river</coll>
+    <coll hits="1" score="3.260">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

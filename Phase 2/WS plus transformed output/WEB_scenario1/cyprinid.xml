@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cyprinid</keyword>
+  <gramrel name="X and/or ..." hits="20" score="5.360">
+    <coll hits="7" score="11.170">salmonid</coll>
+    <coll hits="1" score="10.600">non-conforming</coll>
+    <coll hits="1" score="10.600">non-cyprinid</coll>
+    <coll hits="1" score="10.470">lithophilic</coll>
+    <coll hits="1" score="10.470">percid</coll>
+    <coll hits="1" score="10.240">stress-induced</coll>
+    <coll hits="1" score="9.950">anguillid</coll>
+    <coll hits="1" score="9.670">overall</coll>
+    <coll hits="2" score="9.410">cyprinid</coll>
+    <coll hits="1" score="9.090">unknown</coll>
+    <coll hits="1" score="7.100">European</coll>
+    <coll hits="1" score="6.790">other</coll>
+    <coll hits="1" score="6.660">larval</coll>
+  </gramrel>
+</wordsketch>
+</export>

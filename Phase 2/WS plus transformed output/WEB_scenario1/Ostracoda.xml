@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ostracoda</keyword>
+  <gramrel name="modifiers of X" hits="3" score="8.110">
+    <coll hits="1" score="13.000">Turbellaria</coll>
+    <coll hits="1" score="12.680">Gammaridae</coll>
+    <coll hits="1" score="11.410">Copepoda</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="5.410">
+    <coll hits="1" score="13.000">Hydracarina</coll>
+    <coll hits="1" score="12.410">Cladocera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="5.410">
+    <coll hits="1" score="13.000">Hydracarina</coll>
+    <coll hits="1" score="11.830">Cladocera</coll>
+  </gramrel>
+</wordsketch>
+</export>

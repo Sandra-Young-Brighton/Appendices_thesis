@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">olidus</keyword>
+  <gramrel name="modifiers of X" hits="33" score="86.840">
+    <coll hits="28" score="13.260" query="w1921898946">Galaxias</coll>
+    <coll hits="4" score="11.320" query="w1921898944">Hypomesus</coll>
+    <coll hits="1" score="9.910" query="w1921898945">bidyanus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.630">
+    <coll hits="1" score="3.820" query="w1921937600">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

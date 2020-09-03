@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">distance</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="320" score="38.740">
+    <coll hits="13" score="9.660">km</coll>
+    <coll hits="6" score="9.170">transducer</coll>
+    <coll hits="7" score="8.790">edge</coll>
+    <coll hits="4" score="8.630">centroid</coll>
+    <coll hits="7" score="8.540">point</coll>
+    <coll hits="4" score="8.420">center</coll>
+    <coll hits="5" score="8.380">eye</coll>
+    <coll hits="6" score="8.340">bluegill</coll>
+    <coll hits="9" score="8.150">sea</coll>
+    <coll hits="3" score="8.110">snout</coll>
+    <coll hits="7" score="8.080">m</coll>
+    <coll hits="3" score="7.890">confluence</coll>
+    <coll hits="2" score="7.640">tussock</coll>
+    <coll hits="4" score="7.580">dam</coll>
+    <coll hits="2" score="7.560">primordium</coll>
+    <coll hits="2" score="7.510">separation</coll>
+    <coll hits="3" score="7.500">shore</coll>
+    <coll hits="2" score="7.440">tip</coll>
+    <coll hits="2" score="7.310">fisherman</coll>
+    <coll hits="2" score="7.270">piscivore</coll>
+    <coll hits="2" score="7.240">top</coll>
+    <coll hits="2" score="7.200">beginning</coll>
+    <coll hits="17" score="7.070">trout</coll>
+    <coll hits="3" score="7.060">ocean</coll>
+    <coll hits="3" score="6.950">bottom</coll>
+  </gramrel>
+</wordsketch>
+</export>

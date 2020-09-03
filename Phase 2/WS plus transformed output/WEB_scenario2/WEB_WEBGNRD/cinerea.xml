@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cinerea</keyword>
+  <gramrel name="modifiers of X" hits="10" score="45.450">
+    <coll hits="10" score="13.990" query="w1968686528">Ardea</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="9.090">
+    <coll hits="1" score="8.130" query="w1968699265">island</coll>
+    <coll hits="1" score="4.680" query="w1968699264">change</coll>
+  </gramrel>
+</wordsketch>
+</export>

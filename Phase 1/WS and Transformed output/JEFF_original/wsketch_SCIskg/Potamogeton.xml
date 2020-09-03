@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Potamogeton</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="10.000">
+    <coll hits="2" score="13.190">illinoensis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.000">
+    <coll hits="1" score="13.000">Myriophyllum</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="5.000">
+    <coll hits="1" score="13.990">plant</coll>
+  </gramrel>
+</wordsketch>
+</export>

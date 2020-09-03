@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">punctatus</keyword>
+  <gramrel name="modifiers of X" hits="68" score="66.670">
+    <coll hits="58" score="13.190" query="w1152307904">Ictalurus</coll>
+    <coll hits="3" score="10.350" query="w1152307907">Channa</coll>
+    <coll hits="2" score="9.870" query="w1152307906">Ictalarus</coll>
+    <coll hits="2" score="9.870" query="w1152307905">furcatus</coll>
+    <coll hits="1" score="8.890" query="w1152307909">fasciatus</coll>
+    <coll hits="1" score="8.890" query="w1152307908">vittatus</coll>
+    <coll hits="1" score="8.870" query="w1152307910">Oplegnathus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.980">
+    <coll hits="1" score="11.300" query="w1152386496">Lucius</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="1.960">
+    <coll hits="1" score="13.410" query="w1152286209">rerio</coll>
+    <coll hits="1" score="11.670" query="w1152286208">Lucius</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.980">
+    <coll hits="1" score="7.100" query="w1152398656">Reservoir</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.980">
+    <coll hits="1" score="11.540" query="w1152410496">Centrarchidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

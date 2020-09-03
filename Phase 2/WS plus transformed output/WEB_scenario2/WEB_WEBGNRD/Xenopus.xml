@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Xenopus</keyword>
+  <gramrel name="nouns modified by X" hits="14" score="51.850">
+    <coll hits="11" score="13.650" query="w1612094465">laevis</coll>
+    <coll hits="3" score="12.490" query="w1612094464">tropicalis</coll>
+  </gramrel>
+</wordsketch>
+</export>

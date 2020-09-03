@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cyprinodon</keyword>
+  <gramrel name="nouns modified by X" hits="11" score="61.110">
+    <coll hits="3" score="12.770">macularius</coll>
+    <coll hits="3" score="12.770">tularosa</coll>
+    <coll hits="3" score="12.770">rubrofluviatilis</coll>
+    <coll hits="1" score="11.410">pecosensis</coll>
+    <coll hits="1" score="11.410">nevadensis</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="-j" freq="0">brown_trout</keyword>
+  <gramrel name="modifiers of X" hits="1" score="0.070">
+    <coll hits="1" score="10.910">rainbow_trout</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="112" score="7.770">
+    <coll hits="105" score="13.300">salmo_trutta</coll>
+    <coll hits="4" score="9.490">trout</coll>
+    <coll hits="2" score="9.040">brown_trout</coll>
+    <coll hits="1" score="8.130">salmo</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="146" score="10.130">
+    <coll hits="31" score="9.960">Atlantic</coll>
+    <coll hits="17" score="9.600">arctic</coll>
+    <coll hits="11" score="9.520">s.</coll>
+    <coll hits="4" score="9.000">evolutionary</coll>
+    <coll hits="3" score="8.810">rainbow_trout</coll>
+    <coll hits="4" score="8.760">trout</coll>
+    <coll hits="2" score="8.750">vital</coll>
+    <coll hits="4" score="8.550">total</coll>
+    <coll hits="3" score="8.410">other</coll>
+    <coll hits="2" score="8.300">central</coll>
+    <coll hits="2" score="7.920">individual</coll>
+    <coll hits="2" score="7.920">salmo_trutta</coll>
+    <coll hits="1" score="7.800">vindelälven</coll>
+    <coll hits="1" score="7.800">range1</coll>
+    <coll hits="1" score="7.800">introgressed</coll>
+    <coll hits="1" score="7.800">arc</coll>
+    <coll hits="1" score="7.800">transplanted</coll>
+    <coll hits="1" score="7.800">gratory</coll>
+    <coll hits="1" score="7.800">lake-spawning</coll>
+    <coll hits="1" score="7.800">continued</coll>
+    <coll hits="1" score="7.790">fish-eating</coll>
+    <coll hits="1" score="7.790">manipulative</coll>
+    <coll hits="1" score="7.790">back</coll>
+    <coll hits="1" score="7.780">depressed</coll>
+    <coll hits="1" score="7.780">included</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="127" score="8.810">
+    <coll hits="3" score="9.150">spain</coll>
+    <coll hits="2" score="8.960">eng</coll>
+    <coll hits="3" score="8.740">fork</coll>
+    <coll hits="2" score="8.470">country</coll>
+    <coll hits="2" score="8.190">total</coll>
+    <coll hits="1" score="8.000">hovvatn</coll>
+    <coll hits="1" score="8.000">muckross</coll>
+    <coll hits="1" score="8.000">atnsjo</coll>
+    <coll hits="1" score="8.000">lule</coll>
+    <coll hits="1" score="7.970">kollsvatn</coll>
+    <coll hits="1" score="7.970">appa</coll>
+    <coll hits="1" score="7.970">chaballo</coll>
+    <coll hits="1" score="7.950">andalusia</coll>
+    <coll hits="1" score="7.930">la</coll>
+    <coll hits="1" score="7.910">michi</coll>
+    <coll hits="26" score="7.860">stream</coll>
+    <coll hits="1" score="7.800">krokavatn</coll>
+    <coll hits="1" score="7.800">riv</coll>
+    <coll hits="1" score="7.770">Newfoundland</coll>
+    <coll hits="4" score="7.750">relation</coll>
+    <coll hits="1" score="7.700">minnesota</coll>
+    <coll hits="1" score="7.590">tailwater</coll>
+    <coll hits="1" score="7.580">return</coll>
+    <coll hits="1" score="7.510">wisconsin</coll>
+    <coll hits="1" score="7.500">chironomid</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="5" score="0.350">
+    <coll hits="1" score="12.410">salvelinus_confluentus</coll>
+    <coll hits="1" score="12.410">salvelinus_fontinalis</coll>
+    <coll hits="1" score="12.410">salmo_salar</coll>
+    <coll hits="2" score="11.410">trout</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="3" score="0.210">
+    <coll hits="2" score="13.190">brown_trout</coll>
+    <coll hits="1" score="13.000">salmo_trutta</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.070">
+    <coll hits="1" score="11.300">trout</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="1" score="0.070">
+    <coll hits="1" score="13.410">brown_trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

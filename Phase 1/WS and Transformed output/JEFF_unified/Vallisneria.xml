@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Vallisneria</keyword>
+  <gramrel name="modifiers of X" hits="1" score="1.720">
+    <coll hits="1" score="11.000">bluegill</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.720">
+    <coll hits="1" score="10.410">bluegill</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="5.170">
+    <coll hits="2" score="12.680">bluegill</coll>
+    <coll hits="1" score="7.440">fish</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="3.450">
+    <coll hits="1" score="12.680">Lepomis</coll>
+    <coll hits="1" score="11.410">bluegill</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.720">
+    <coll hits="1" score="8.100">macroinvertebrate</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="1.720">
+    <coll hits="1" score="9.950">invertebrate</coll>
+  </gramrel>
+</wordsketch>
+</export>

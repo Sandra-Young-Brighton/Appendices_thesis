@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cobitis</keyword>
+  <gramrel name="nouns modified by X" hits="21" score="67.740">
+    <coll hits="12" score="13.500" query="w1795166720">taenia</coll>
+    <coll hits="9" score="13.260" query="w1795166721">calderoni</coll>
+  </gramrel>
+</wordsketch>
+</export>

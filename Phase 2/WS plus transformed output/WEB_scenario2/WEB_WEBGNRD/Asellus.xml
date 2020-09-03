@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Asellus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="1.350">
+    <coll hits="1" score="10.190" query="w1953611072">Gammarus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="14" score="18.920">
+    <coll hits="14" score="13.990" query="w1953620096">aquaticus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="4.050">
+    <coll hits="1" score="9.480" query="w1953630466">pigmentation</coll>
+    <coll hits="1" score="7.160" query="w1953630465">trial</coll>
+    <coll hits="1" score="4.700" query="w1953630464">prey</coll>
+  </gramrel>
+</wordsketch>
+</export>

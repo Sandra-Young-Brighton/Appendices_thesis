@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Megaloptera</keyword>
+  <gramrel name="modifiers of X" hits="6" score="31.580">
+    <coll hits="2" score="12.540">Hydracarina</coll>
+    <coll hits="2" score="12.190">Oligochaeta</coll>
+    <coll hits="1" score="10.540">Gastropoda</coll>
+    <coll hits="1" score="9.790">Ephemeroptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="5" score="26.320">
+    <coll hits="2" score="13.000">Dytiscidae</coll>
+    <coll hits="1" score="12.410">Tipulidae</coll>
+    <coll hits="1" score="12.410">Sialidae</coll>
+    <coll hits="1" score="11.410">Bivalvia</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="21.050">
+    <coll hits="2" score="13.190">Dytiscidae</coll>
+    <coll hits="1" score="12.680">Sialidae</coll>
+    <coll hits="1" score="12.410">Tipulidae</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="10.530">
+    <coll hits="1" score="12.410">lacustris</coll>
+    <coll hits="1" score="12.410">Gammarus</coll>
+  </gramrel>
+</wordsketch>
+</export>

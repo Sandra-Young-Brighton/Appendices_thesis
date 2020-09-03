@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">parr</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="142" score="12.510">
+    <coll hits="4" score="9.230">m2</coll>
+    <coll hits="3" score="8.950">merganser</coll>
+    <coll hits="2" score="8.820">Sandvikselva</coll>
+    <coll hits="2" score="8.820">fluviarium</coll>
+    <coll hits="2" score="8.820">Lakselva</coll>
+    <coll hits="2" score="8.820">redfish</coll>
+    <coll hits="2" score="8.610">testosterone</coll>
+    <coll hits="2" score="8.410">demand</coll>
+    <coll hits="7" score="8.090">depth</coll>
+    <coll hits="8" score="7.840">charr</coll>
+    <coll hits="1" score="7.830">Ouananiche</coll>
+    <coll hits="1" score="7.830">Vefsna</coll>
+    <coll hits="1" score="7.830">PGF1α</coll>
+    <coll hits="1" score="7.830">F2a</coll>
+    <coll hits="1" score="7.830">kisutsch</coll>
+    <coll hits="1" score="7.820">PGF1</coll>
+    <coll hits="1" score="7.770">Keret</coll>
+    <coll hits="2" score="7.690">literature</coll>
+    <coll hits="1" score="7.640">Salmo</coll>
+    <coll hits="1" score="7.630">fjord</coll>
+    <coll hits="1" score="7.620">capsule</coll>
+    <coll hits="1" score="7.580">circumstance</coll>
+    <coll hits="1" score="7.560">metacercariae</coll>
+    <coll hits="1" score="7.520">stripe</coll>
+    <coll hits="3" score="7.500">life</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="6" score="0.530">
+    <coll hits="6" score="11.370">[number]</coll>
+  </gramrel>
+</wordsketch>
+</export>

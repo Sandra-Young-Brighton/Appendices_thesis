@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lepomis</keyword>
+  <gramrel name="nouns modified by X" hits="227" score="60.860">
+    <coll hits="97" score="13.250" query="w1106431107">macrochirus</coll>
+    <coll hits="81" score="13.040" query="w1106431106">gibbosus</coll>
+    <coll hits="21" score="11.420" query="w1106431105">cyanellus</coll>
+    <coll hits="7" score="9.940" query="w1106431110">microlophus</coll>
+    <coll hits="7" score="9.870" query="w1106431108">gulosus</coll>
+    <coll hits="4" score="9.150" query="w1106431113">humilis</coll>
+    <coll hits="2" score="8.160" query="w1106431112">megalotis</coll>
+    <coll hits="2" score="8.160" query="w1106431111">gibosus</coll>
+    <coll hits="2" score="8.160" query="w1106431104">Pomoxis</coll>
+    <coll hits="2" score="8.150" query="w1106431114">peltastes</coll>
+    <coll hits="1" score="7.160" query="w1106431115">maeroehirus</coll>
+    <coll hits="1" score="7.080" query="w1106431109">auritus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="0.540">
+    <coll hits="2" score="13.990" query="w1106422464">Pomoxis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="0.540">
+    <coll hits="1" score="12.410" query="w1106547265">Opinicon</coll>
+    <coll hits="1" score="10.090" query="w1106547264">Number</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="0.540">
+    <coll hits="1" score="12.680" query="w1106565185">flavescens</coll>
+    <coll hits="1" score="9.350" query="w1106565184">Perca</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.270">
+    <coll hits="1" score="11.540" query="w1106572992">Centrarchidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

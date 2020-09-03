@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gastropoda</keyword>
+  <gramrel name="modifiers of X" hits="3" score="12.500">
+    <coll hits="1" score="13.000">Oligachaeta</coll>
+    <coll hits="1" score="11.830">Amphipoda</coll>
+    <coll hits="1" score="9.950">larva</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="12.500">
+    <coll hits="1" score="13.000">Conchostraca</coll>
+    <coll hits="1" score="12.410">Unionidae</coll>
+    <coll hits="1" score="11.670">Ostracoda</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="16.670">
+    <coll hits="1" score="12.680">Conchostraca</coll>
+    <coll hits="1" score="12.680">Pelecypoda</coll>
+    <coll hits="2" score="12.190">Ostracoda</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="4.170">
+    <coll hits="1" score="5.190">diet</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="4.170">
+    <coll hits="1" score="9.950">invertebrate</coll>
+  </gramrel>
+</wordsketch>
+</export>

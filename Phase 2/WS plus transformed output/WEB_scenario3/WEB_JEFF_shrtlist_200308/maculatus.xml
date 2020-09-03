@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">maculatus</keyword>
+  <gramrel name="modifiers of X" hits="9" score="42.860">
+    <coll hits="7" score="11.760">Galaxias</coll>
+    <coll hits="1" score="11.670">retropinna</coll>
+    <coll hits="1" score="11.670">Trinectes</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="4.760">
+    <coll hits="1" score="13.410">Patagonian</coll>
+  </gramrel>
+</wordsketch>
+</export>

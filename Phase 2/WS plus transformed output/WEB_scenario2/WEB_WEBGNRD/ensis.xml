@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">ensis</keyword>
+  <gramrel name="modifiers of X" hits="5" score="83.330">
+    <coll hits="3" score="13.410" query="w2087599362">Metapenaeus</coll>
+    <coll hits="1" score="12.410" query="w2087599361">monodon</coll>
+    <coll hits="1" score="11.300" query="w2087599360">Penaeus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="16.670">
+    <coll hits="1" score="13.410" query="w2087632704">hypophthalmus</coll>
+  </gramrel>
+</wordsketch>
+</export>

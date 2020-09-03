@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Phoxinus</keyword>
+  <gramrel name="nouns modified by X" hits="60" score="56.600">
+    <coll hits="51" score="13.850">phoxinus</coll>
+    <coll hits="6" score="11.520">neogaeus</coll>
+    <coll hits="1" score="9.040">eos</coll>
+    <coll hits="1" score="8.930">erythrogaster</coll>
+    <coll hits="1" score="8.080">cephalus</coll>
+  </gramrel>
+</wordsketch>
+</export>

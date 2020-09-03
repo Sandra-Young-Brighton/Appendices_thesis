@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Perca</keyword>
+  <gramrel name="nouns modified by X" hits="678" score="66.340">
+    <coll hits="526" score="13.560">fluviatilis</coll>
+    <coll hits="136" score="12.410">flavescens</coll>
+    <coll hits="7" score="8.160">Linnaeus</coll>
+    <coll hits="5" score="7.900">Fluviatilis</coll>
+    <coll hits="2" score="6.570">Percina</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="48" score="4.700">
+    <coll hits="43" score="12.600">Cyprinidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

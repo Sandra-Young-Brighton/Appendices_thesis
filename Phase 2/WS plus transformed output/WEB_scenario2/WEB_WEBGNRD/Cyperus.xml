@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cyperus</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="40.000">
+    <coll hits="1" score="13.410" query="w2113530817">papyrus</coll>
+    <coll hits="1" score="13.410" query="w2113530816">sexangularis</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="9" score="180.000">
+    <coll hits="1" score="11.540" query="w2113547272">distichum</coll>
+    <coll hits="1" score="11.540" query="w2113547271">Paspalum</coll>
+    <coll hits="1" score="11.540" query="w2113547270">spinescens</coll>
+    <coll hits="1" score="11.540" query="w2113547269">Pseudoraphis</coll>
+    <coll hits="1" score="11.540" query="w2113547268">dactylon</coll>
+    <coll hits="1" score="11.540" query="w2113547267">Cynodon</coll>
+    <coll hits="1" score="11.540" query="w2113547266">Phragmites</coll>
+    <coll hits="1" score="11.540" query="w2113547265">Moira</coll>
+    <coll hits="1" score="11.540" query="w2113547264">Typha</coll>
+  </gramrel>
+</wordsketch>
+</export>

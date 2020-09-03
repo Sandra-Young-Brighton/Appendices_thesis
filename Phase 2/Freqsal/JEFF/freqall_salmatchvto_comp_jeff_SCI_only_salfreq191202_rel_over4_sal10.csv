@@ -1,0 +1,231 @@
+TAXRANK_target_x,target,source,TAXRANK_source_x,data_source_x_x,relations_x,data_source_y_x,included_x,data_source_x,TAXRANK_target_y,TAXRANK_source_y,data_source_x_y,relations_y,data_source_y_y,included_y,data_source_y,_merge
+ SPECIES,LUTRA,LUTRA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CANADENSIS,CASTOR, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,SPATULA,ATRACTOSTEUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,OSSEUS,LEPISOSTEUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,OCULATUS,LEPISOSTEUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,GIGAS,ARAPAIMA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,AUSTRALIS,ANGUILLA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ROSTRATA,ANGUILLA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,JAPONICA,ANGUILLA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ANGUILLA,ANGUILLA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,DIEFFENBACHII,ANGUILLA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,HARENGUS,CLUPEA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ALOSA,ALOSA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,PSEUDOHARENGUS,ALOSA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,SAPIDISSIMA,ALOSA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CEPEDIANUM,DOROSOMA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,GARIEPINUS,CLARIAS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,GLANIS,SILURUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ASOTUS,SILURUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ASOTUS,SILURUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,PUNCTATUS,ICTALURUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,NEBULOSUS,AMEIURUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,OLIVARIS,PYLODICTIS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,MACULATUS,PIMELODUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,GRANULOSUS,PTERODORAS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,GRANULOSUS,PTERODORAS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ODOE,HEPSETUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,VITTATUS,HYDROCYNUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,INTERMEDIUS,ASTYANAX, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,LINEATUS,PROCHILODUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,MICROPOGON,NOCOMIS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,PLACITUS,HYBOGNATHUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,BALTEATUS,RICHARDSONIUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,LEUCISCUS,LEUCISCUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,AMARUS,RHODEUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,SERICEUS,RHODEUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,DELINEATUS,LEUCASPIUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,BJOERKNA,BLICCA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ERYTHROPHTHALMUS,SCARDINIUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,BRAMA,ABRAMIS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,PROMELAS,PIMEPHALES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,NOTATUS,PIMEPHALES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,VIGILAX,PIMEPHALES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,TINCA,TINCA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,RUTILUS,RUTILUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ANOMALUM,CAMPOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,NASUS,CHONDROSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,GIBELIO,CARASSIUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CARASSIUS,CARASSIUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,AURATUS,CARASSIUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,PARVA,PSEUDORASBORA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CEPHALUS,SQUALIUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CEPHALUS,SQUALIUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ASPIUS,ASPIUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CATARACTAE,RHINICHTHYS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,OSCULUS,RHINICHTHYS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CAERULEA,CYPRINELLA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,LUTRENSIS,CYPRINELLA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,VENUSTA,CYPRINELLA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ATROMACULATUS,SEMOTILUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,PHOXINUS,PHOXINUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,STRAMINEUS,NOTROPIS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,HUDSONIUS,NOTROPIS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,LUTIPINNIS,NOTROPIS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,PLUMBEUS,COUESIUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ROBUSTA,GILA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,HAASI,BARBUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,BARBUS,BARBUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,PETENYI,BARBUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ALBURNUS,ALBURNUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,VIMBA,VIMBA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ANGUILLICAUDATUS,MISGURNUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,PALUDICA,COBITIS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,TAENIA,COBITIS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,BARBATULA,BARBATULA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,VALENCIENNESI,MOXOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CATOSTOMUS,CATOSTOMUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,COMMERSONII,CATOSTOMUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,TEXANUS,XYRAUCHEN, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,RUPESTRIS,KUHLIA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,AMBIGUA,MACQUARIA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,AUSTRALASICA,MACQUARIA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,PEELII,MACCULLOCHELLA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,FLABELLARE,ETHEOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,NIGRUM,ETHEOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CINEREUM,ETHEOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CAERULEUM,ETHEOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,EXILE,ETHEOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,SPECTABILE,ETHEOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,TANASI,PERCINA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,AUROLINEATA,PERCINA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,LUCIOPERCA,SANDER, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,VITREUS,SANDER, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CERNUUS,GYMNOCEPHALUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,FLAVESCENS,PERCA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,FLUVIATILIS,PERCA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,SAXATILIS,MORONE, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,DOLOMIEU,MICROPTERUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,NIGROMACULATUS,POMOXIS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ANNULARIS,POMOXIS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CYANELLUS,LEPOMIS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,MACROCHIRUS,LEPOMIS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,GIBBOSUS,LEPOMIS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,RUPESTRIS,AMBLOPLITES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,GRUNNIENS,APLODINOTUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,NYEREREI,PUNDAMILIA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,GUINEENSIS,TILAPIA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,COTIDIANUS,GOBIOMORPHUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,PUNCTATUM,SICYDIUM, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,JAPONICUS,SICYOPTERUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,LAGOCEPHALUS,SICYOPTERUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ACUTIPINNIS,COTYLOPUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CONCOLOR,LENTIPES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,MINUTUS,POMATOSCHISTUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,OLORUM,PSEUDOGOBIUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,GIURINUS,RHINOGOBIUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,BRUNNEUS,RHINOGOBIUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,MELANOSTOMUS,NEOGOBIUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,SEMILUNARIS,PROTERORHINUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,COGNATUS,COTTUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CAROLINAE,COTTUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,BAIRDII,COTTUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,PAULUS,COTTUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,GOBIO,COTTUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ACULEATUS,GASTEROSTEUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,PUNGITIUS,PUNGITIUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CEPHALUS,MUGIL, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,HETEROCLITUS,FUNDULUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,OLIVACEUS,FUNDULUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,NOTATUS,FUNDULUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,AFFINIS,GAMBUSIA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,RETICULATA,POECILIA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,LATIPINNA,POECILIA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,MENIDIA,MENIDIA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,BERYLLINA,MENIDIA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,SOLEA,SOLEA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,MORHUA,GADUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,LOTA,LOTA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,LUCIUS,ESOX, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,LIMI,UMBRA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,WILLIAMSONI,PROSOPIUM, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,LAVARETUS,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ARTEDI,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ALBULA,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CLUPEAFORMIS,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,SARDINELLA,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,NASUS,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,TRUTTA,SALMO, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,SALAR,SALMO, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,NAMAYCUSH,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CONFLUENTUS,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ALPINUS,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,MALMA,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,FONTINALIS,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,TSHAWYTSCHA,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,KISUTCH,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,MYKISS,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,NERKA,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ARCTICUS,THYMALLUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,THYMALLUS,THYMALLUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ALTIVELIS,PLECOGLOSSUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,MORDAX,OSMERUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,EPERLANUS,OSMERUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,MACULATUS,GALAXIAS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,FASCIATUS,GALAXIAS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,ARGENTEUS,GALAXIAS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,TRANSMONTANUS,ACIPENSER, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,MARINUS,PETROMYZON, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,TRIDENTATA,LAMPETRA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,FLUVIATILIS,LAMPETRA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,PLANERI,LAMPETRA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,REISSNERI,LETHENTERON, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CEPHALUS,LEUCISCUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,NEOGAEUS,PHOXINUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,BJOERKNA,ABRAMIS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,CLIFFORDPOPEI,RHINOGOBIUS, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+ SPECIES,VISON,MUSTELA, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF salience, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,both
+,GAIRDNERI,SALMO,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,LINNAEUS,ACULEATUS,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,LINNAEUS,ESOX,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,LINNAEUS,FLUVIATILIS,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,PYRENAICUS,LEUCISCUS,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,BAIRDI,COTTUS,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,LINNAEUS,TRUTTA,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,LINNAEUS,LUCIUS,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,SCLATERI,BARBUS,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,POLYLEPIS,CHONDROSTOMA,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,PULEX,DAPHNIA,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,DOLOMIEUI,MICROPTERUS,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,CYPRINIDAE,TELEOSTEI,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,CERNUA,GYMNOCEPHALUS,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,COMMERSONI,CATOSTOMUS,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,VITREUM,STIZOSTEDION,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,COPEPODA,CLADOCERA,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,DILUVIANA,MYSIS,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,GALEATA,DAPHNIA,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,PLECOPTERA,EPHEMEROPTERA,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,LUCIOPERCA,STIZOSTEDION,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,HOLBROOKI,GAMBUSIA,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,CLARKII,PROCAMBARUS,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,GUIRDNERI,SULMO,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,RELICTA,MYSIS,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,SPICATUM,MYRIOPHYLLUM,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,ERYTHROGASTER,CHROSOMUS,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,LONGIMANUS,BYTHOTREPHES,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,KINDTII,LEPTODORA,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,POLYMORPHA,DREISSENA,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,MAREANA,PROTOTROCTES,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,INTESTINALIS,LIGULA,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,TRIDENTATUS,ENTOSPHENUS,,,,JEFF corpus,right_only,JEFF salience,,,,,JEFF corpus,right_only,JEFF frequency,both
+,LUCIUS,PTYCHOCHEILUS,,,,,,, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,right_only
+,FLUVIATILIS,NEOGOBIUS,,,,,,, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,right_only
+,HANGIONGENSIS,COTTUS,,,,,,, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,right_only
+,FLUVIATILIS,CRATEROCEPHALUS,,,,,,, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,right_only
+,ZENITHICUS,COREGONUS,,,,,,, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,right_only
+,HOYI,COREGONUS,,,,,,, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,right_only
+,PIDSCHIAN,COREGONUS,,,,,,, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,right_only
+,MARMORATUS,SALMO,,,,,,, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,right_only
+,CLARKII,ONCORHYNCHUS,,,,,,, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,right_only
+,KETA,ONCORHYNCHUS,,,,,,, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,right_only
+,GORBUSCHA,ONCORHYNCHUS,,,,,,, SPECIES, GENUS,VTO ontology,is_a,JEFF corpus,both,JEFF frequency,right_only
+,ARTEDII,COREGONUS,,,,,,,,,,,JEFF corpus,right_only,JEFF frequency,right_only
+,FLUVIATILIS,LUCIUS,,,,,,,,,,,JEFF corpus,right_only,JEFF frequency,right_only
+,MYKISS,ONCHORHYNCHUS,,,,,,,,,,,JEFF corpus,right_only,JEFF frequency,right_only
+,CLARKI,ONCORHYNCHUS,,,,,,,,,,,JEFF corpus,right_only,JEFF frequency,right_only
+,MYKISS,PARASALMO,,,,,,,,,,,JEFF corpus,right_only,JEFF frequency,right_only
+,LINNAEUS,PERCA,,,,,,,,,,,JEFF corpus,right_only,JEFF frequency,right_only
+,LINNAEUS,SALMO,,,,,,,,,,,JEFF corpus,right_only,JEFF frequency,right_only
+,ONCORHYNCHUS,SALMO,,,,,,,,,,,JEFF corpus,right_only,JEFF frequency,right_only
+,TRUTTA,SULMO,,,,,,,,,,,JEFF corpus,right_only,JEFF frequency,right_only

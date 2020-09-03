@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Percopsidae</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="18.180">
+    <coll hits="1" score="11.990">Gadidae</coll>
+    <coll hits="1" score="10.750">omiscomaycus</coll>
+  </gramrel>
+</wordsketch>
+</export>

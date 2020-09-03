@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_saltrut_lower_tagged</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="7">[ws(2, 12074946)]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#0" num="0" label="_">
+    <left>t. l., eackles, m. s., &amp; letcher, b. h. &lt;/s&gt;&lt;s&gt; (2005). microsatellite dna markers for the study of atlantic salmon (salmo_salar) kinship, popu- lation structure, and mixed- fishery analyses. molecular ecology notes, 5, 130–132. king, r. a., hillman, r., elsmere, p., stockley, b., &amp; stevens, j. r. &lt;/s&gt;&lt;s&gt; (2016). investigating patterns of straying and mixed stock exploitation of sea_trout ,</left>
+    <kwic>salmo_trutta</kwic>
+    <right>, in rivers sharing an estuary in south- west england. fisheries management and ecology, 23, 376–389. langlais, m., costamagno, s., laroulandie, v., pétillon, j.-m., discamps, e., mallye, j.-b., cochard, d., &amp; kuntz, d. &lt;/s&gt;&lt;s&gt; (2012). the evolution of magdalenian societies in south- west france between 18,000 and 14,000 calbp: changing environments, changing tool kits. quaternary international, 272, 138</right>
+  </line>
+  <line refs="doc#272" num="1" label="_">
+    <left>p.c.. 1986. habitat suitability index models and instream flow suitability curves: brown_trout. biological report 82. u.s. fish and wildlife service. 65 pp. rubin, j.-f. &amp; glimsa ̈ter, c. 1996. egg-to-fry survival of the sea_trout in some streams of gotland. journal of fish biology 48: 585–606. rubin, j.-f., glimsa ̈ter, c. &amp; jarvi, t. 2004. characteristics and rehabilitation of the spawning habitats of the sea_trout ,</left>
+    <kwic>salmo_trutta</kwic>
+    <right>, in gotland (sweden). fisheries management and ecology 11: 15–22. shirvell, c.s. &amp; dungey, r.g. 1983. microhabitats chosen by brown_trout for feeding and spawning in rivers. transactions of the american fisheries society 112: 355–367. sorensen, p.w., cardwell, j.r., essington, t. &amp; weigel, d.e. 1995. reproductive interactions between sympatric brook and brown_trout in a small minnesota stream. canadian journal of fisheries and aquatic sciences</right>
+  </line>
+  <line refs="doc#322" num="2" label="_">
+    <left>&amp; everett, b.i. 2008. few fish but many fishers: a case study of shore-based recreational angling in a major south african estuarine port. african journal of marine science 30: 11–24. berg, o.k. &amp; berg, m. 1987. migrations of sea_trout, salmo_trutta l., from the vardnes river in northern norway. journal of fish biology 31: 113–121. berg, o.k. &amp; berg, m. 1989. the duration of sea and fresh- water residence of the sea_trout ,</left>
+    <kwic>salmo_trutta</kwic>
+    <right>, from the vardnes river in northern norway. environmental biology of fishes 24: 23–32. caballero, p., cobo, f. &amp; gonzalez, m.a. &lt;/s&gt;&lt;s&gt; (2006) life history of a sea_trout (salmo_trutta l.) population from the north-west iberian peninsula (river ulla, galicia, spain). in: harris, g. &amp; milner, n., eds. sea_trout: biology, conservation and man- agement. oxford: blackwell publishing ltd., pp. 234–247. campana,</right>
+  </line>
+  <line refs="doc#322" num="3" label="_">
+    <left>, e.a., bickel, t.o., deans, n.a., davey, l.n. &amp; eggins, s.m. 2011. recruitment sources of brown_trout identified by otolith trace element signatures. new zealand journal of marine and freshwater research. 45: 395–411. olsen, e.m., knutsen, h., simonsen, j.h., jonsson, b. &amp; knutsen, j.a. 2006. seasonal variation in marine growth of sea_trout ,</left>
+    <kwic>salmo_trutta</kwic>
+    <right>, in coastal skagerrak. ecology of freshwater fish 15: 446–452. patterson, h.m. &amp; swearer, s.e. 2008. origin of yellowtail kingfish, seriola lalandi, from lord howe island, australia, inferred from otolith chemistry. new zealand journal of marine and freshwater research 42: 409–416. quinn, t.p. 1993. a review of homing and straying of wild and hatchery-produced salmon. fisheries research 18: 29–44. quinn, t.p. 2005. the behavior and</right>
+  </line>
+  <line refs="doc#401" num="4" label="_">
+    <left>fisheries management 29: 653–657. bjornn, t.c. 1971. trout and salmon movements in two idaho streams as related to temperature, food, stream flow, cover and population density. transaction of the american fisher- ies society 100: 423–438. carlsen, k.t., beg, o.k., finstad, b. &amp; heggberget, t.g. 2004. diel periodicity and environmental influence on the smolt migration of arctic char, salvelinus_alpinus, atlantic salmon, salmo_salar, and sea_trout ,</left>
+    <kwic>salmo_trutta</kwic>
+    <right>, in north- ern norway. environmental biology of fishes 70: 403– 413. chapman, d.w. 1966. food and space as regulators of salmo- nid populations in streams. the american naturalist 100: 345–358. connor, w.p., steinhorst, r.k. &amp; burge, h.l. 2003. migra- tional behavior and seaward movement of wild subyearling fall chinook salmon in the snake river. north american journal of fisheries management 23: 414–430. cooch,</right>
+  </line>
+  <line refs="doc#489" num="5" label="_">
+    <left>, järvi, t., fernö, a. &amp; stefansson, s.o. 1996. osmotic stress, antipredator behaviour, and mortality of at- lantic salmon (salmo_salar) smolts. canadian journal of fisheries and aquatic sciences 53: 2673–2680. hoar, w.s. 1976. smolt transformation: evolution, behavior, and physiology. journal of the fisheries research board of canada 33: 1234–1252. hogstrand, c. &amp; haux, c. 1985. evaluation of the sea-water challenge test on sea_trout ,</left>
+    <kwic>salmo_trutta</kwic>
+    <right>. comparative bio- chemistry and physiology, a, vol. 82a, no. 2: 261–266. huntsman, a.g. 1941. cyclical abundance and birds versus sal- mon. journal of the fisheries research board of canada 5: 227–235. hvidsten, n.a. &amp; lund, r.a. 1988. predation on hatchery- reared and wild smolts of atlantic salmon, salmo_salar l., in the estuary of river orkla, norway. journal of fish bio- logy 33: 121</right>
+  </line>
+  <line refs="doc#537" num="6" label="_">
+    <left>&amp; kwak, t.j. 2002. factors influencing brown_trout rivers. transactions of the american fisheries society 131: 698– 717. in ozark tailwater rieman, b.e. &amp; myers, d.l. 1997. use of redd counts to detect trout (salvelinus confluentus) populations. trends in bull conservation biology 11: 1015–1018. rubin, j.-f., glimsa ̈ter, c. &amp; jarvi, t. 2004. characteristics and rehabilitation of the spawning habitats of the sea_trout ,</left>
+    <kwic>salmo_trutta</kwic>
+    <right>, in gotland (sweden). fisheries management and ecology 11: 15–22. rustadbakken, a., l'abe ́e-lund, j.h., arnekleiv, j.v. &amp; kraabol, m. 2004. reproductive migration of brown_trout 525 gorta ́zar et al. in a small norwegian river studied by telemetry. journal of fish biology 64: 2–15. schlunke, d. &amp; vonlanthen, p. 2002. le frai de la truite (salmo_trutta) dans la petite-sarine durant l'hiver 2001</right>
+  </line>
+</concordance>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Astatoreochromis_alluaudi</keyword>
+  <gramrel name="modifiers of X" hits="2" score="200.000">
+    <coll hits="1" score="13.410">Aplocheilichthys_pumilus</coll>
+    <coll hits="1" score="13.410">Aethiomastacembelus_frenatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

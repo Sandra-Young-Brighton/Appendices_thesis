@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Spartina</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="60.000">
+    <coll hits="2" score="13.670" query="w2125328513">anglica</coll>
+    <coll hits="1" score="13.000" query="w2125328512">alterniflora</coll>
+  </gramrel>
+</wordsketch>
+</export>

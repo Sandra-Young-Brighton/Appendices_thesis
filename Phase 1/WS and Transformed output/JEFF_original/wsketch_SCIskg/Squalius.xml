@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Squalius</keyword>
+  <gramrel name="nouns modified by X" hits="28" score="59.570">
+    <coll hits="12" score="11.890">cephalus</coll>
+    <coll hits="4" score="11.870">aradensis</coll>
+    <coll hits="4" score="11.870">carolitertii</coll>
+    <coll hits="2" score="10.950">torgalensis</coll>
+    <coll hits="1" score="10.140">peloponnensis</coll>
+    <coll hits="1" score="10.140">alburnoides</coll>
+    <coll hits="1" score="10.140">Barbus</coll>
+    <coll hits="1" score="9.830">pyrenaicus</coll>
+    <coll hits="1" score="7.080">rutilus</coll>
+    <coll hits="1" score="4.600">specie</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.130">
+    <coll hits="1" score="13.990">Barbus</coll>
+  </gramrel>
+</wordsketch>
+</export>

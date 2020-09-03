@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">australis</keyword>
+  <gramrel name="modifiers of X" hits="20" score="47.620">
+    <coll hits="2" score="11.190">Melanotaenia</coll>
+    <coll hits="10" score="10.670">Anguilla</coll>
+    <coll hits="1" score="10.600">percoides</coll>
+    <coll hits="1" score="10.470">Nannoperca</coll>
+    <coll hits="5" score="9.960">eel</coll>
+    <coll hits="1" score="7.310">perch</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="2.380">
+    <coll hits="1" score="6.380">larva</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="7.140">
+    <coll hits="1" score="13.000">aureus</coll>
+    <coll hits="2" score="12.830">dieffenbachii</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.380">
+    <coll hits="1" score="7.390">Australia</coll>
+  </gramrel>
+</wordsketch>
+</export>

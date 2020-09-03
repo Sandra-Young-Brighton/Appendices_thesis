@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salix_spp</keyword>
+  <gramrel name="“X&quot; is part of..." hits="1" score="16.670">
+    <coll hits="1" score="10.820">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

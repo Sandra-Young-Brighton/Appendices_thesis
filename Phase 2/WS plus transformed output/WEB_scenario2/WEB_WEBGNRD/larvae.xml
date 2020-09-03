@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">larvae</keyword>
+  <gramrel name="modifiers of X" hits="3" score="0.060">
+    <coll hits="2" score="11.750" query="w1463034049">Spinitectus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="966" score="19.060">
+    <coll hits="20" score="9.120" query="w1463050626">N</coll>
+    <coll hits="17" score="8.490" query="w1464826380">tank</coll>
+    <coll hits="14" score="8.240" query="w1463646080">Bay</coll>
+    <coll hits="21" score="8.150" query="w1463050624">eel</coll>
+    <coll hits="50" score="8.080" query="w1463050652">specie</coll>
+    <coll hits="16" score="8.000" query="w1463050625">group</coll>
+    <coll hits="16" score="7.990" query="w1464245650">stage</coll>
+    <coll hits="11" score="7.940" query="w1464826390">relation</coll>
+    <coll hits="7" score="7.790" query="w1465414176">marsh</coll>
+    <coll hits="8" score="7.670" query="w1464826387">column</coll>
+    <coll hits="11" score="7.630" query="w1463050674">sample</coll>
+    <coll hits="6" score="7.620" query="w1465414152">mayfly</coll>
+    <coll hits="8" score="7.570" query="w1464245691">goby</coll>
+    <coll hits="6" score="7.570" query="w1465414185">anchovy</coll>
+    <coll hits="9" score="7.540" query="w1463050642">S</coll>
+    <coll hits="9" score="7.410" query="w1463050687">Sea</coll>
+    <coll hits="5" score="7.310" query="w1463646135">Chironomidae</coll>
+    <coll hits="7" score="7.290" query="w1464826403">estuary</coll>
+    <coll hits="5" score="7.290" query="w1465414191">crab</coll>
+    <coll hits="5" score="7.270" query="w1464826399">nauplius</coll>
+    <coll hits="5" score="7.270" query="w1463050668">sp</coll>
+    <coll hits="4" score="7.010" query="w1465414189">archipelago</coll>
+    <coll hits="5" score="7.010" query="w1464245682">nest</coll>
+    <coll hits="7" score="6.940" query="w1464826389">predation</coll>
+    <coll hits="6" score="6.930" query="w1463646122">whitefish</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="6" score="0.120">
+    <coll hits="3" score="12.680" query="w1466858114">plankton</coll>
+    <coll hits="2" score="12.410" query="w1466858113">energy</coll>
+  </gramrel>
+</wordsketch>
+</export>

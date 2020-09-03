@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Phoxinus_phoxinus</keyword>
+  <gramrel name="modifiers of X" hits="21" score="34.430">
+    <coll hits="19" score="12.750">minnow</coll>
+    <coll hits="1" score="10.350">Tinca_tinca</coll>
+    <coll hits="1" score="10.300">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="3.280">
+    <coll hits="1" score="12.680">Leuciscus_cephalus</coll>
+    <coll hits="1" score="11.190">Cyprinidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.640">
+    <coll hits="1" score="11.410">Cyprinidae</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="1.640">
+    <coll hits="1" score="6.840">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

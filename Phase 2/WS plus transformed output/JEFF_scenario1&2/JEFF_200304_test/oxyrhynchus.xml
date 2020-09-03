@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">oxyrhynchus</keyword>
+  <gramrel name="modifiers of X" hits="3" score="75.000">
+    <coll hits="3" score="10.750">Notropis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="50.000">
+    <coll hits="2" score="11.410">Texas</coll>
+  </gramrel>
+</wordsketch>
+</export>

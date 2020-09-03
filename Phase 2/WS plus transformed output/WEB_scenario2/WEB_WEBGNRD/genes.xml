@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">genes</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="90" score="12.410">
+    <coll hits="5" score="10.330" query="w1590679144">duplication</coll>
+    <coll hits="4" score="9.680" query="w1590679133">genome</coll>
+    <coll hits="3" score="9.340" query="w1590679146">brain</coll>
+    <coll hits="2" score="9.270" query="w1590679142">mutation</coll>
+    <coll hits="4" score="9.080" query="w1590679125">vertebrate</coll>
+    <coll hits="2" score="9.030" query="w1590679140">heterozygosity</coll>
+    <coll hits="3" score="8.880" query="w1590679134">strain</coll>
+    <coll hits="1" score="8.490" query="w1590679156">rubripes</coll>
+    <coll hits="1" score="8.470" query="w1590679160">ascidian</coll>
+    <coll hits="1" score="8.440" query="w1590679158">AngHV-1</coll>
+    <coll hits="1" score="8.430" query="w1590679159">alloherpesviruse</coll>
+    <coll hits="1" score="8.430" query="w1590679154">fugu</coll>
+    <coll hits="1" score="8.340" query="w1590679155">GnRH</coll>
+    <coll hits="2" score="8.330" query="w1590679130">tolerance</coll>
+    <coll hits="1" score="8.310" query="w1590679139">sequencing</coll>
+    <coll hits="1" score="8.280" query="w1590679113">European</coll>
+    <coll hits="2" score="8.240" query="w1590679122">liver</coll>
+    <coll hits="1" score="8.240" query="w1590679152">Behavior</coll>
+    <coll hits="2" score="8.230" query="w1590679124">investigation</coll>
+    <coll hits="1" score="8.230" query="w1590679143">zebrafish</coll>
+    <coll hits="1" score="8.190" query="w1590679138">mating</coll>
+    <coll hits="1" score="8.180" query="w1590679157">Alloherpesviridae</coll>
+    <coll hits="2" score="8.140" query="w1590679148">virus</coll>
+    <coll hits="1" score="8.130" query="w1590679149">homing</coll>
+    <coll hits="1" score="7.910" query="w1590679145">lineage</coll>
+  </gramrel>
+</wordsketch>
+</export>

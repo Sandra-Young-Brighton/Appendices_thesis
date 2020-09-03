@@ -1,0 +1,97 @@
+TAXRANK_target,target,source,TAXRANK_source,data_source_x,relations,data_source_y,_merge
+ SPECIES,ROSTRATA,ANGUILLA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,JAPONICA,ANGUILLA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ANGUILLA,ANGUILLA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,DIEFFENBACHII,ANGUILLA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,SAPIDISSIMA,ALOSA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CEPEDIANUM,DOROSOMA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PUNCTATUS,ICTALURUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ORBIGNYANUS,BRYCON, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,LEUCISCUS,LEUCISCUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,SERICEUS,RHODEUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,GOBIO,GOBIO, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ERYTHROPHTHALMUS,SCARDINIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,BRAMA,ABRAMIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,TINCA,TINCA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,RUTILUS,RUTILUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ANOMALUM,CAMPOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NASUS,CHONDROSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CARASSIUS,CARASSIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,AURATUS,CARASSIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PARVA,PSEUDORASBORA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CATARACTAE,RHINICHTHYS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,VENUSTA,CYPRINELLA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ATROMACULATUS,SEMOTILUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PHOXINUS,PHOXINUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,BARBUS,BARBUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ALBURNUS,ALBURNUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,BARBATULA,BARBATULA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,AMBIGUA,MACQUARIA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PEELII,MACCULLOCHELLA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,FLABELLARE,ETHEOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NIGRUM,ETHEOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,SPECTABILE,ETHEOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PELLUCIDA,AMMOCRYPTA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,LUCIOPERCA,SANDER, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,VITREUS,SANDER, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CERNUUS,GYMNOCEPHALUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,FLAVESCENS,PERCA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,FLUVIATILIS,PERCA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,SAXATILIS,MORONE, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,DOLOMIEU,MICROPTERUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MACROCHIRUS,LEPOMIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,GIBBOSUS,LEPOMIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,RUPESTRIS,AMBLOPLITES, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NILOTICUS,OREOCHROMIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PUNCTATUM,SICYDIUM, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,JAPONICUS,SICYOPTERUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,LAGOCEPHALUS,SICYOPTERUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MELANOSTOMUS,NEOGOBIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,COGNATUS,COTTUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,GOBIO,COTTUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ACULEATUS,GASTEROSTEUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PUNGITIUS,PUNGITIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NOTATUS,FUNDULUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,AFFINIS,GAMBUSIA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,RETICULATA,POECILIA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,IBERUS,APHANIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MORHUA,GADUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,LOTA,LOTA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,LUCIUS,ESOX, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,LAVARETUS,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ALBULA,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CLUPEAFORMIS,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PERRYI,PARAHUCHO, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,TRUTTA,SALMO, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MARMORATUS,SALMO, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,SALAR,SALMO, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NAMAYCUSH,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CONFLUENTUS,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ALPINUS,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MALMA,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,FONTINALIS,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,TSHAWYTSCHA,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,KISUTCH,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,GORBUSCHA,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MYKISS,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NERKA,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ARCTICUS,THYMALLUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,THYMALLUS,THYMALLUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MORDAX,OSMERUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,EPERLANUS,OSMERUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MACULATUS,GALAXIAS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MARINUS,PETROMYZON, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,TRIDENTATA,LAMPETRA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,FLUVIATILIS,LAMPETRA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PLANERI,LAMPETRA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CEPHALUS,LEUCISCUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PERRYI,HUCHO, GENUS,VTO ontology,is_a,JEFF corpus,both
+,BAIRDI,COTTUS,,,,JEFF corpus,right_only
+,POLYMORPHA,DREISSENA,,,,JEFF corpus,right_only
+,TRIDENTATUS,ENTOSPHENUS,,,,JEFF corpus,right_only
+,HOLBROOKI,GAMBUSIA,,,,JEFF corpus,right_only
+,LINNAEUS,LUCIUS,,,,JEFF corpus,right_only
+,GAIRDNERI,SALMO,,,,JEFF corpus,right_only
+,LINNAEUS,SALMO,,,,JEFF corpus,right_only
+,LUCIOPERCA,STIZOSTEDION,,,,JEFF corpus,right_only
+,VITREUM,STIZOSTEDION,,,,JEFF corpus,right_only

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Noturus</keyword>
+  <gramrel name="nouns modified by X" hits="17" score="35.420">
+    <coll hits="11" score="13.450" query="w1152415489">gyrinus</coll>
+    <coll hits="3" score="12.260" query="w1152415492">stigmosus</coll>
+    <coll hits="1" score="10.820" query="w1152415491">flavus</coll>
+    <coll hits="1" score="10.750" query="w1152415490">insignis</coll>
+    <coll hits="1" score="10.000" query="w1152415488">furcatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

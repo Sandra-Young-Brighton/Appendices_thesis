@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gadus</keyword>
+  <gramrel name="nouns modified by X" hits="30" score="76.920">
+    <coll hits="30" score="13.970">morhua</coll>
+  </gramrel>
+</wordsketch>
+</export>

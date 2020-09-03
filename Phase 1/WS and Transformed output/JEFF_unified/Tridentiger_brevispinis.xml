@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Tridentiger_brevispinis</keyword>
+  <gramrel name="modifiers of X" hits="1" score="12.500">
+    <coll hits="1" score="7.180">male</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="25.000">
+    <coll hits="1" score="12.410">Ohmi</coll>
+    <coll hits="1" score="6.090">relation</coll>
+  </gramrel>
+</wordsketch>
+</export>

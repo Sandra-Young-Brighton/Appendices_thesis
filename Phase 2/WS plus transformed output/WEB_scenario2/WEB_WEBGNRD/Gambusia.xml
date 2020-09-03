@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gambusia</keyword>
+  <gramrel name="modifiers of X" hits="1" score="1.270">
+    <coll hits="1" score="13.990" query="w1828123712">Lebistes</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="52" score="65.820">
+    <coll hits="19" score="13.090" query="w1828132929">holbrooki</coll>
+    <coll hits="26" score="12.920" query="w1828132928">affinis</coll>
+    <coll hits="2" score="10.240" query="w1828132933">geiseri</coll>
+    <coll hits="2" score="10.110" query="w1828132932">punctata</coll>
+    <coll hits="2" score="9.910" query="w1828132931">hubbsi</coll>
+    <coll hits="1" score="8.850" query="w1828132930">reticulata</coll>
+  </gramrel>
+</wordsketch>
+</export>

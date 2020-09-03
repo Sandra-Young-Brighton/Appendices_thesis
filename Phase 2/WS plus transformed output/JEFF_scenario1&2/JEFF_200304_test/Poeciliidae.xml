@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Poeciliidae</keyword>
+  <gramrel name="modifiers of X" hits="3" score="12.000">
+    <coll hits="1" score="13.000">reticulata</coll>
+    <coll hits="1" score="11.670">Cyprinidae</coll>
+    <coll hits="1" score="9.910">Poecilia</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="12.000">
+    <coll hits="1" score="12.190">Percidae</coll>
+    <coll hits="1" score="11.830">Teleostei</coll>
+    <coll hits="1" score="10.910">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="4.000">
+    <coll hits="1" score="12.190">Teleostei</coll>
+  </gramrel>
+</wordsketch>
+</export>

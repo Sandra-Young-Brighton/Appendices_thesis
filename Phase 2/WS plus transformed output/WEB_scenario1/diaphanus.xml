@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">diaphanus</keyword>
+  <gramrel name="modifiers of X" hits="8" score="57.140">
+    <coll hits="7" score="12.130">Fundulus</coll>
+    <coll hits="1" score="11.830">Cyprinodontidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

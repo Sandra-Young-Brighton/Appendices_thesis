@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Arauco</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="11.110">
+    <coll hits="2" score="8.160" query="w2048412864">March</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="2" score="11.110">
+    <coll hits="2" score="12.090" query="w2048427584">study</coll>
+  </gramrel>
+</wordsketch>
+</export>

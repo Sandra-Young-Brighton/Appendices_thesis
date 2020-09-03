@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Fundulus</keyword>
+  <gramrel name="nouns modified by X" hits="49" score="67.120">
+    <coll hits="33" score="13.690" query="w1152546626">heteroclitus</coll>
+    <coll hits="7" score="11.970" query="w1152546625">diaphanus</coll>
+    <coll hits="3" score="10.540" query="w1152546624">notatus</coll>
+    <coll hits="2" score="10.110" query="w1152546628">dispar</coll>
+    <coll hits="1" score="9.350" query="w1152546631">diphanus</coll>
+    <coll hits="1" score="9.350" query="w1152546630">diaphenus</coll>
+    <coll hits="1" score="9.350" query="w1152546629">persimilis</coll>
+    <coll hits="1" score="9.120" query="w1152546627">grandis</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pterophyllum</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="83.330">
+    <coll hits="3" score="13.580" query="w2018394688">eimekei</coll>
+    <coll hits="2" score="13.190" query="w2018394689">altum</coll>
+  </gramrel>
+</wordsketch>
+</export>

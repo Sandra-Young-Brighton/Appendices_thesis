@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">vulgaris</keyword>
+  <gramrel name="modifiers of X" hits="3" score="4.760">
+    <coll hits="1" score="13.000">Hippuris</coll>
+    <coll hits="1" score="13.000">Utricularia</coll>
+    <coll hits="1" score="9.090">Galaxias</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.590">
+    <coll hits="1" score="9.060">spicatum</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.590">
+    <coll hits="1" score="12.410">spicatum</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.590">
+    <coll hits="1" score="10.910">Mediterranean</coll>
+  </gramrel>
+</wordsketch>
+</export>

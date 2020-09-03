@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sciaenidae</keyword>
+  <gramrel name="modifiers of X" hits="5" score="25.000">
+    <coll hits="4" score="13.540">Perciformes</coll>
+    <coll hits="1" score="11.410">Osteichthyes</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.000">
+    <coll hits="1" score="12.190">Teleostei</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.000">
+    <coll hits="1" score="12.190">Teleostei</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="5.000">
+    <coll hits="1" score="12.410">Discussion</coll>
+  </gramrel>
+</wordsketch>
+</export>

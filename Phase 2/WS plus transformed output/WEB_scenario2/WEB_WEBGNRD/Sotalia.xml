@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sotalia</keyword>
+  <gramrel name="nouns modified by X" hits="7" score="70.000">
+    <coll hits="4" score="13.410" query="w2130737025">guianensis</coll>
+    <coll hits="3" score="7.010" query="w2130737024">fluviatilis</coll>
+  </gramrel>
+</wordsketch>
+</export>

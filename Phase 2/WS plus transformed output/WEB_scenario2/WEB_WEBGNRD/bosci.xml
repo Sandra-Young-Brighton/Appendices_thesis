@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">bosci</keyword>
+  <gramrel name="modifiers of X" hits="26" score="26.530">
+    <coll hits="26" score="13.590" query="w1986407360">Gobiosoma</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="4.080">
+    <coll hits="1" score="10.750" query="w1986421699">Hudson</coll>
+    <coll hits="1" score="6.050" query="w1986421698">estuary</coll>
+    <coll hits="1" score="5.260" query="w1986421696">sample</coll>
+    <coll hits="1" score="3.780" query="w1986421697">habitat</coll>
+  </gramrel>
+</wordsketch>
+</export>

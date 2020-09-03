@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Bivalvia</keyword>
+  <gramrel name="modifiers of X" hits="6" score="13.640">
+    <coll hits="2" score="11.990" query="w1686908035">Planorbidae</coll>
+    <coll hits="1" score="11.990" query="w1686908032">Acari</coll>
+    <coll hits="1" score="11.670" query="w1686908034">Odonata</coll>
+    <coll hits="1" score="11.540" query="w1686908036">Megaloptera</coll>
+    <coll hits="1" score="10.300" query="w1686908033">Gastropoda</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="7" score="15.910">
+    <coll hits="2" score="12.830" query="w1686952773">Dreissenidae</coll>
+    <coll hits="1" score="11.990" query="w1686952771">Unionoida</coll>
+    <coll hits="1" score="11.990" query="w1686952770">Unionidae</coll>
+    <coll hits="1" score="11.830" query="w1686952772">Polychaeta</coll>
+    <coll hits="1" score="11.540" query="w1686952769">Acari</coll>
+    <coll hits="1" score="11.410" query="w1686952768">Mollusca</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="13.640">
+    <coll hits="2" score="13.000" query="w1686866820">Dreissenidae</coll>
+    <coll hits="1" score="12.190" query="w1686866818">Unionoida</coll>
+    <coll hits="1" score="12.190" query="w1686866817">Unionidae</coll>
+    <coll hits="1" score="11.990" query="w1686866819">Polychaeta</coll>
+    <coll hits="1" score="11.990" query="w1686866816">Gammarus</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="2.270">
+    <coll hits="1" score="13.990" query="w1686998848">Alasmidonta</coll>
+  </gramrel>
+</wordsketch>
+</export>

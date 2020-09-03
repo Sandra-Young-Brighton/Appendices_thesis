@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Crangon</keyword>
+  <gramrel name="nouns modified by X" hits="8" score="50.000">
+    <coll hits="4" score="13.410" query="w1958634817">crangon</coll>
+    <coll hits="3" score="13.120" query="w1958634816">septemspinosa</coll>
+    <coll hits="1" score="11.830" query="w1958634818">franciscorum</coll>
+  </gramrel>
+</wordsketch>
+</export>

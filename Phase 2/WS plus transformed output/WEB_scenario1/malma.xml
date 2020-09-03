@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">malma</keyword>
+  <gramrel name="modifiers of X" hits="61" score="59.800">
+    <coll hits="61" score="10.760">Salvelinus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="1.960">
+    <coll hits="1" score="12.680">Hiodon</coll>
+    <coll hits="1" score="7.200">fontinalis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="1.960">
+    <coll hits="2" score="13.410">alpinus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="6.860">
+    <coll hits="1" score="11.990">Bolshaya</coll>
+    <coll hits="1" score="11.990">Nachikinskoe</coll>
+    <coll hits="1" score="11.990">Azabachya</coll>
+    <coll hits="1" score="11.830">Krasnaya</coll>
+    <coll hits="1" score="4.330">temperature</coll>
+    <coll hits="1" score="3.970">size</coll>
+    <coll hits="1" score="3.750">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

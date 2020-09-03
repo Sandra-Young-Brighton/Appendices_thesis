@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Baetisca</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="8.330">
+    <coll hits="1" score="5.970" query="w2133161344">season</coll>
+  </gramrel>
+</wordsketch>
+</export>

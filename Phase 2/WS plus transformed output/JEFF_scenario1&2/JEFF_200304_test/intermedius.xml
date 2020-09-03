@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">intermedius</keyword>
+  <gramrel name="modifiers of X" hits="14" score="51.850">
+    <coll hits="11" score="13.600">Astyanax</coll>
+    <coll hits="2" score="11.610">Brycinus</coll>
+    <coll hits="1" score="11.090">Tremitichromis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="7.410">
+    <coll hits="1" score="12.190">Ribeir</coll>
+    <coll hits="1" score="3.260">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

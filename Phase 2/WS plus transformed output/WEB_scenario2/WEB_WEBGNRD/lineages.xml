@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lineages</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="29" score="28.160">
+    <coll hits="1" score="10.000" query="w1624543891">Cyprininae</coll>
+    <coll hits="1" score="9.320" query="w1624543892">Nanexila</coll>
+    <coll hits="1" score="8.980" query="w1624543890">isolate</coll>
+    <coll hits="1" score="8.760" query="w1624543889">thousand</coll>
+    <coll hits="1" score="8.690" query="w1624543878">Peninsula</coll>
+    <coll hits="1" score="8.460" query="w1624543888">complex</coll>
+    <coll hits="6" score="8.190" query="w1624543883">whitefish</coll>
+    <coll hits="1" score="7.970" query="w1624543887">herbivore</coll>
+    <coll hits="1" score="7.860" query="w1624543884">marine</coll>
+    <coll hits="1" score="7.330" query="w1624543886">drainage</coll>
+    <coll hits="1" score="6.720" query="w1624543877">family</coll>
+    <coll hits="1" score="6.030" query="w1624543885">form</coll>
+    <coll hits="2" score="5.980" query="w1624543879">salmonid</coll>
+    <coll hits="1" score="5.670" query="w1624543872">S</coll>
+    <coll hits="1" score="5.290" query="w1624543876">stickleback</coll>
+    <coll hits="3" score="4.780" query="w1624543880">salmon</coll>
+    <coll hits="1" score="3.850" query="w1624543873">species</coll>
+    <coll hits="1" score="3.220" query="w1624543882">population</coll>
+    <coll hits="1" score="3.100" query="w1624543881">trout</coll>
+    <coll hits="1" score="3.070" query="w1624543875">water</coll>
+    <coll hits="1" score="1.750" query="w1624543874">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

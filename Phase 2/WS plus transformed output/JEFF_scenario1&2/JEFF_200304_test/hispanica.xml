@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">hispanica</keyword>
+  <gramrel name="modifiers of X" hits="4" score="36.360">
+    <coll hits="4" score="13.990">Anaecypris</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Rhodeus</keyword>
+  <gramrel name="nouns modified by X" hits="36" score="70.590">
+    <coll hits="23" score="13.570">sericeus</coll>
+    <coll hits="9" score="12.680">amarus</coll>
+    <coll hits="2" score="10.680">ocellatus</coll>
+    <coll hits="2" score="10.350">Cyprinidae</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="3.920">
+    <coll hits="2" score="7.580">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

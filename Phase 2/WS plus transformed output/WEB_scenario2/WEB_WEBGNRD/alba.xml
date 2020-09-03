@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">alba</keyword>
+  <gramrel name="modifiers of X" hits="3" score="18.750">
+    <coll hits="3" score="13.260" query="w1954236928">Nymphaea</coll>
+  </gramrel>
+</wordsketch>
+</export>

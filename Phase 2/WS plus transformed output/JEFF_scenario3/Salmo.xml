@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salmo</keyword>
+  <gramrel name="nouns modified by X" hits="1442" score="60.740">
+    <coll hits="695" score="13.360">trutta</coll>
+    <coll hits="615" score="13.250">salar</coll>
+    <coll hits="53" score="10.180">gairdneri</coll>
+    <coll hits="40" score="9.780">marmoratus</coll>
+    <coll hits="17" score="8.470">Linnaeus</coll>
+    <coll hits="5" score="6.820">Oncorhynchus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="9" score="0.380">
+    <coll hits="6" score="13.580">Oncorhynchus</coll>
+    <coll hits="3" score="12.330">Salvelinus</coll>
+  </gramrel>
+</wordsketch>
+</export>

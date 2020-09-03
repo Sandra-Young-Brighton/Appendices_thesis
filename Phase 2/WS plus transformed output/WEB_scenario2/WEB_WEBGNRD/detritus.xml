@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">detritus</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="18" score="8.740">
+    <coll hits="1" score="10.410" query="w655435726">detritivore</coll>
+    <coll hits="1" score="9.670" query="w655435727">Triglochin</coll>
+    <coll hits="1" score="9.190" query="w655435725">Eleocharis</coll>
+    <coll hits="1" score="8.790" query="w655435724">floodplain</coll>
+    <coll hits="1" score="8.650" query="w655435721">mud</coll>
+    <coll hits="1" score="7.240" query="w655435723">consumer</coll>
+    <coll hits="2" score="7.060" query="w655435720">bottom</coll>
+    <coll hits="2" score="6.910" query="w655435717">surface</coll>
+    <coll hits="1" score="6.780" query="w655435722">bird</coll>
+    <coll hits="1" score="5.690" query="w655435716">plant</coll>
+    <coll hits="1" score="5.600" query="w655435712">invertebrate</coll>
+    <coll hits="1" score="5.480" query="w655435713">food</coll>
+    <coll hits="1" score="5.150" query="w655435715">structure</coll>
+    <coll hits="1" score="4.390" query="w655435718">level</coll>
+    <coll hits="1" score="4.330" query="w655435719">diet</coll>
+    <coll hits="1" score="3.810" query="w655435714">stream</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="4" score="1.940">
+    <coll hits="1" score="12.680" query="w655580096">leave</coll>
+    <coll hits="2" score="12.410" query="w655580098">Triglochin</coll>
+    <coll hits="1" score="12.190" query="w655580097">Myriophyllum</coll>
+  </gramrel>
+</wordsketch>
+</export>

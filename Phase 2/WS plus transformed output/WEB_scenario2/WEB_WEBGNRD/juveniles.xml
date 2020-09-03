@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">juveniles</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="196" score="21.100">
+    <coll hits="3" score="8.730" query="w99815693">rutilus</coll>
+    <coll hits="3" score="8.540" query="w99815697">marsh</coll>
+    <coll hits="3" score="8.510" query="w99213736">rearing</coll>
+    <coll hits="6" score="8.450" query="w99213759">channel</coll>
+    <coll hits="2" score="8.370" query="w99815705">wetter</coll>
+    <coll hits="2" score="8.320" query="w99815690">marinus</coll>
+    <coll hits="5" score="7.820" query="w99213741">m</coll>
+    <coll hits="4" score="7.590" query="w99213702">adult</coll>
+    <coll hits="2" score="7.560" query="w99815682">restoration</coll>
+    <coll hits="2" score="7.550" query="w99213703">spp.</coll>
+    <coll hits="3" score="7.390" query="w99815695">catchment</coll>
+    <coll hits="2" score="7.390" query="w99213749">origin</coll>
+    <coll hits="2" score="7.390" query="w99213748">Washington</coll>
+    <coll hits="1" score="7.370" query="w99815698">Sebastes</coll>
+    <coll hits="1" score="7.370" query="w99815711">melanopus</coll>
+    <coll hits="1" score="7.370" query="w99815709">mummichog</coll>
+    <coll hits="1" score="7.360" query="w99815699">ideal</coll>
+    <coll hits="1" score="7.350" query="w99815710">tuskfish</coll>
+    <coll hits="1" score="7.340" query="w99815696">BW</coll>
+    <coll hits="1" score="7.310" query="w99815708">damselfish</coll>
+    <coll hits="1" score="7.310" query="w99815707">olivaceus</coll>
+    <coll hits="1" score="7.310" query="w99815694">albula</coll>
+    <coll hits="1" score="7.290" query="w99815704">cephalus</coll>
+    <coll hits="1" score="7.290" query="w99815702">lifestyle</coll>
+    <coll hits="1" score="7.290" query="w99815700">Maumee</coll>
+  </gramrel>
+</wordsketch>
+</export>

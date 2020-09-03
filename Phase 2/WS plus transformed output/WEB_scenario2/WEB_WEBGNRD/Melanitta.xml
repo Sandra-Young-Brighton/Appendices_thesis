@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Melanitta</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="40.000">
+    <coll hits="1" score="13.410" query="w2095234561">perspicillata</coll>
+    <coll hits="1" score="12.410" query="w2095234560">nigra</coll>
+  </gramrel>
+</wordsketch>
+</export>

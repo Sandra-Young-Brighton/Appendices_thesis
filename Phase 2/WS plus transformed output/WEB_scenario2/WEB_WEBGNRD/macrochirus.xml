@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">macrochirus</keyword>
+  <gramrel name="modifiers of X" hits="99" score="70.210">
+    <coll hits="97" score="13.250" query="w1152823104">Lepomis</coll>
+    <coll hits="1" score="8.350" query="w1152823106">goodei</coll>
+    <coll hits="1" score="8.330" query="w1152823105">niloticus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="2.130">
+    <coll hits="1" score="12.680" query="w1152853185">argentimaculatus</coll>
+    <coll hits="1" score="12.410" query="w1152853186">peltastes</coll>
+    <coll hits="1" score="10.140" query="w1152853184">nigromaculatus</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="1.420">
+    <coll hits="1" score="12.680" query="w1152895617">flavescens</coll>
+    <coll hits="1" score="9.350" query="w1152895616">Perca</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.710">
+    <coll hits="1" score="6.630" query="w1152884224">pool</coll>
+  </gramrel>
+</wordsketch>
+</export>

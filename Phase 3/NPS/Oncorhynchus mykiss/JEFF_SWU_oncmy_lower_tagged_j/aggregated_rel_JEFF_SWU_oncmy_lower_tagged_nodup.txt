@@ -1,0 +1,10 @@
+Hits max: sum    191.0
+dtype: float64
+Hits min: sum    1.0
+dtype: float64
+Score max: mean      13.99
+median    13.99
+dtype: float64
+Score min: mean      7.49
+median    7.49
+dtype: float64

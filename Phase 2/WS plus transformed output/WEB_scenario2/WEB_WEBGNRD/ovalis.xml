@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">ovalis</keyword>
+  <gramrel name="modifiers of X" hits="3" score="100.000">
+    <coll hits="1" score="13.000" query="w2079419778">Chrysophyta</coll>
+    <coll hits="1" score="13.000" query="w2079419777">Amphora</coll>
+    <coll hits="1" score="13.000" query="w2079419776">Bacillariophyceae</coll>
+  </gramrel>
+</wordsketch>
+</export>

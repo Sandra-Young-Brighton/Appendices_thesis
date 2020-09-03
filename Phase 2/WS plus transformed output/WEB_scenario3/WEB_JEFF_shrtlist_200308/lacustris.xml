@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lacustris</keyword>
+  <gramrel name="modifiers of X" hits="15" score="23.080">
+    <coll hits="11" score="13.140">Gammarus</coll>
+    <coll hits="2" score="11.830">Scirpus</coll>
+    <coll hits="1" score="10.910">Tabanidae</coll>
+    <coll hits="1" score="10.910">latifolia</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.540">
+    <coll hits="1" score="13.410">Hydracarina</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.540">
+    <coll hits="1" score="13.410">Hydracarina</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="4" score="6.150">
+    <coll hits="1" score="12.410">Megaloptera</coll>
+    <coll hits="1" score="12.410">Dytiscidae</coll>
+    <coll hits="1" score="12.410">Mollusca</coll>
+    <coll hits="1" score="12.190">Plecoptera</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.540">
+    <coll hits="1" score="3.820">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

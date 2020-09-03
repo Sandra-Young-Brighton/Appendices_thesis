@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Stizostedion</keyword>
+  <gramrel name="nouns modified by X" hits="63" score="70.790">
+    <coll hits="44" score="13.360">lucioperca</coll>
+    <coll hits="16" score="12.620">vitreum</coll>
+    <coll hits="2" score="9.950">canadense</coll>
+    <coll hits="1" score="9.000">volgensis</coll>
+  </gramrel>
+</wordsketch>
+</export>

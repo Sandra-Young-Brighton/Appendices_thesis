@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Aeromonas</keyword>
+  <gramrel name="nouns modified by X" hits="12" score="60.000">
+    <coll hits="8" score="13.610" query="w1890502209">salmonicida</coll>
+    <coll hits="4" score="12.830" query="w1890502208">hydrophila</coll>
+  </gramrel>
+</wordsketch>
+</export>

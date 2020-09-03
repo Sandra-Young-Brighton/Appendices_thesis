@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">camtschatica</keyword>
+  <gramrel name="modifiers of X" hits="2" score="18.180">
+    <coll hits="1" score="13.410" query="w2094219969">Phacellophora</coll>
+    <coll hits="1" score="6.680" query="w2094219968">Lampetra</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="9.090">
+    <coll hits="1" score="13.990" query="w2094236800">Lethenteron</coll>
+  </gramrel>
+</wordsketch>
+</export>

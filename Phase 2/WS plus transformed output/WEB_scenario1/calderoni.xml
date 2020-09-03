@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">calderoni</keyword>
+  <gramrel name="modifiers of X" hits="9" score="64.290">
+    <coll hits="9" score="13.210">Cobitis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="14.290">
+    <coll hits="2" score="13.000">Squalius</coll>
+  </gramrel>
+</wordsketch>
+</export>

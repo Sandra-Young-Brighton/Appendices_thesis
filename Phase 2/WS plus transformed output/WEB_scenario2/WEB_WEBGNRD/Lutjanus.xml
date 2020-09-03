@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lutjanus</keyword>
+  <gramrel name="nouns modified by X" hits="8" score="72.730">
+    <coll hits="2" score="12.680" query="w1985295554">ehrenbergii</coll>
+    <coll hits="2" score="12.680" query="w1985295553">bengalensis</coll>
+    <coll hits="1" score="11.830" query="w1985295557">cyanopterus</coll>
+    <coll hits="1" score="11.830" query="w1985295555">apodus</coll>
+    <coll hits="1" score="11.670" query="w1985295556">argentimaculatus</coll>
+    <coll hits="1" score="11.670" query="w1985295552">griseus</coll>
+  </gramrel>
+</wordsketch>
+</export>

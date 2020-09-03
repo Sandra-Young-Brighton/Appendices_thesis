@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">tinca</keyword>
+  <gramrel name="modifiers of X" hits="39" score="60.940">
+    <coll hits="37" score="13.920">Tinca</coll>
+    <coll hits="1" score="9.640">auratus</coll>
+    <coll hits="1" score="9.610">nasus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="4.690">
+    <coll hits="1" score="9.570">glanis</coll>
+    <coll hits="2" score="9.060">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.560">
+    <coll hits="1" score="6.020">Europe</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Scirpus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="5.260">
+    <coll hits="1" score="11.670">Phragmites</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="15.790">
+    <coll hits="1" score="12.190">Carex</coll>
+    <coll hits="2" score="11.830">lacustris</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.260">
+    <coll hits="1" score="13.000">Carex</coll>
+  </gramrel>
+</wordsketch>
+</export>

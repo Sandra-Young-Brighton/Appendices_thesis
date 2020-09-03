@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Galaxias</keyword>
+  <gramrel name="nouns modified by X" hits="59" score="48.360">
+    <coll hits="38" score="13.450">maculatus</coll>
+    <coll hits="12" score="12.350">fasciatus</coll>
+    <coll hits="5" score="11.320">argenteus</coll>
+    <coll hits="2" score="10.040">olidus</coll>
+    <coll hits="1" score="9.090">paucispondylus</coll>
+    <coll hits="1" score="9.040">occidentalis</coll>
+  </gramrel>
+</wordsketch>
+</export>

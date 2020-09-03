@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sculpin</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="73" score="9.630">
+    <coll hits="2" score="9.260" query="w1266248355">Quebec</coll>
+    <coll hits="1" score="8.790" query="w1266248360">Îles</coll>
+    <coll hits="1" score="8.760" query="w1266248359">S2S3</coll>
+    <coll hits="1" score="8.750" query="w1266248358">Iles</coll>
+    <coll hits="1" score="8.750" query="w1266248354">LC</coll>
+    <coll hits="1" score="8.730" query="w1266248352">Biomass</coll>
+    <coll hits="8" score="8.680" query="w1266248339">Ontario</coll>
+    <coll hits="1" score="8.550" query="w1266248357">mid-1990</coll>
+    <coll hits="1" score="8.500" query="w1266248351">Threatened</coll>
+    <coll hits="1" score="8.460" query="w1266248353">implementation</coll>
+    <coll hits="1" score="8.440" query="w1266248356">clade</coll>
+    <coll hits="6" score="8.360" query="w1266248331">Canada</coll>
+    <coll hits="1" score="8.270" query="w1266248340">crevice</coll>
+    <coll hits="1" score="8.130" query="w1266248350">Goby</coll>
+    <coll hits="9" score="7.970" query="w1266248325">range</coll>
+    <coll hits="1" score="7.950" query="w1266248349">pathway</coll>
+    <coll hits="1" score="7.820" query="w1266248346">improvement</coll>
+    <coll hits="1" score="7.520" query="w1266248344">riffle</coll>
+    <coll hits="1" score="7.480" query="w1266248334">monitoring</coll>
+    <coll hits="3" score="7.260" query="w1266248330">Lakes</coll>
+    <coll hits="1" score="7.250" query="w1266248345">velocity</coll>
+    <coll hits="1" score="7.000" query="w1266248342">Huron</coll>
+    <coll hits="2" score="6.880" query="w1266248324">pattern</coll>
+    <coll hits="1" score="6.850" query="w1266248337">trap</coll>
+    <coll hits="1" score="6.780" query="w1266248348">trial</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="2" score="0.260">
+    <coll hits="1" score="13.410" query="w1266632960">bass</coll>
+    <coll hits="1" score="11.190" query="w1266632961">document</coll>
+  </gramrel>
+</wordsketch>
+</export>

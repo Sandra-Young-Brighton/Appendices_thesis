@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">edulis</keyword>
+  <gramrel name="modifiers of X" hits="16" score="53.330">
+    <coll hits="11" score="13.550" query="w1957251328">Mytilus</coll>
+    <coll hits="3" score="11.670" query="w1957251329">Ostrea</coll>
+    <coll hits="1" score="10.910" query="w1957251331">capsa</coll>
+    <coll hits="1" score="10.910" query="w1957251330">angasi</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="10.000">
+    <coll hits="2" score="12.830" query="w1957297344">angasi</coll>
+    <coll hits="1" score="12.680" query="w1957297345">capsa</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="3.330">
+    <coll hits="1" score="13.990" query="w1957240320">glaucum</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Aphanius</keyword>
+  <gramrel name="nouns modified by X" hits="20" score="71.430">
+    <coll hits="16" score="13.830">iberus</coll>
+    <coll hits="3" score="11.410">fasciatus</coll>
+    <coll hits="1" score="10.600">baeticus</coll>
+  </gramrel>
+</wordsketch>
+</export>

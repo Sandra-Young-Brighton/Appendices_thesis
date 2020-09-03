@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">bairdi</keyword>
+  <gramrel name="modifiers of X" hits="44" score="66.670">
+    <coll hits="44" score="11.680" query="w1807012608">Cottus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="6.060">
+    <coll hits="3" score="11.940" query="w1807024961">Harbor</coll>
+    <coll hits="1" score="8.980" query="w1807024960">shelter</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="1.520">
+    <coll hits="1" score="11.410" query="w1807051392">Percina</coll>
+  </gramrel>
+</wordsketch>
+</export>

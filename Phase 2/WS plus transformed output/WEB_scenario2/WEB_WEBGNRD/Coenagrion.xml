@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Coenagrion</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="44.440">
+    <coll hits="3" score="13.770" query="w2089290304">mercuriale</coll>
+    <coll hits="1" score="12.680" query="w2089290305">puella</coll>
+  </gramrel>
+</wordsketch>
+</export>

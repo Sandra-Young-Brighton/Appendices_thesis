@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Perca</keyword>
+  <gramrel name="modifiers of X" hits="6" score="1.110">
+    <coll hits="1" score="12.190">olmstedi</coll>
+    <coll hits="1" score="12.190">commersonii</coll>
+    <coll hits="1" score="12.190">natalis</coll>
+    <coll hits="1" score="11.190">Percidae</coll>
+    <coll hits="1" score="11.190">Ameiurus</coll>
+    <coll hits="1" score="8.110">Etheostoma</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="293" score="54.360">
+    <coll hits="230" score="13.660">fluviatilis</coll>
+    <coll hits="53" score="12.270">flavescens</coll>
+    <coll hits="7" score="9.100">Linnaeus</coll>
+    <coll hits="2" score="7.790">juviatilis</coll>
+    <coll hits="1" score="6.790">jkzvescens</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="0.370">
+    <coll hits="2" score="13.990">Esox</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="0.560">
+    <coll hits="1" score="12.680">Percidae</coll>
+    <coll hits="1" score="12.680">Rutilus</coll>
+    <coll hits="1" score="12.680">rutilus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.190">
+    <coll hits="1" score="3.260">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

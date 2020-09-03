@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">nigromaculatus</keyword>
+  <gramrel name="modifiers of X" hits="26" score="59.090">
+    <coll hits="23" score="13.570" query="w1117857024">Pomoxis</coll>
+    <coll hits="2" score="11.190" query="w1117857026">annularis</coll>
+    <coll hits="1" score="10.140" query="w1117857025">macrochirus</coll>
+  </gramrel>
+</wordsketch>
+</export>

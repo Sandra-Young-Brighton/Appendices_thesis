@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gastropoda</keyword>
+  <gramrel name="modifiers of X" hits="2" score="8.330">
+    <coll hits="1" score="13.410">Notostraca</coll>
+    <coll hits="1" score="11.990">Amphipoda</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="8.330">
+    <coll hits="1" score="12.680">Unionidae</coll>
+    <coll hits="1" score="12.410">Ostracoda</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="12.500">
+    <coll hits="1" score="13.000">Pelecypoda</coll>
+    <coll hits="2" score="12.680">Ostracoda</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="4.170">
+    <coll hits="1" score="5.190">diet</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Richardsonius_balteatus</keyword>
+  <gramrel name="X is a type of..." hits="2" score="15.380">
+    <coll hits="2" score="7.810">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

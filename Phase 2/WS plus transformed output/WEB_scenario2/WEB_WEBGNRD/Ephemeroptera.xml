@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ephemeroptera</keyword>
+  <gramrel name="nouns modified by X" hits="6" score="3.090">
+    <coll hits="6" score="9.240" query="w1470456704">indet</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="2.060">
+    <coll hits="1" score="9.830" query="w1470474051">Stream</coll>
+    <coll hits="1" score="4.160" query="w1470474049">site</coll>
+    <coll hits="1" score="3.810" query="w1470474050">stream</coll>
+    <coll hits="1" score="3.750" query="w1470474048">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

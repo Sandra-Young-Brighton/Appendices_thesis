@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Clupeidae</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="14.810">
+    <coll hits="1" score="12.680">Alosa_psuedoharengus</coll>
+    <coll hits="1" score="12.410">Dorosoma_cepedianum</coll>
+    <coll hits="1" score="12.190">Dorosoma_spp</coll>
+    <coll hits="1" score="11.000">Cyprinidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="11.110">
+    <coll hits="1" score="13.000">Alosa_psuedoharengus</coll>
+    <coll hits="1" score="12.680">Dorosoma_cepedianum</coll>
+    <coll hits="1" score="11.190">Cyprinidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

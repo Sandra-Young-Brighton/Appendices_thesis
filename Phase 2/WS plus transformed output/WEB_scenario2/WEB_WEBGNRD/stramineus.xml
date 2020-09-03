@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">stramineus</keyword>
+  <gramrel name="modifiers of X" hits="6" score="85.710">
+    <coll hits="1" score="12.190" query="w2049925185">rubellus</coll>
+    <coll hits="5" score="11.540" query="w2049925184">Notropis</coll>
+  </gramrel>
+</wordsketch>
+</export>

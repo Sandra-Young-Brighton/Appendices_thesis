@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Clarias</keyword>
+  <gramrel name="nouns modified by X" hits="62" score="73.810">
+    <coll hits="51" score="13.850" query="w1935166721">gariepinus</coll>
+    <coll hits="5" score="11.210" query="w1935166724">batrachus</coll>
+    <coll hits="3" score="9.980" query="w1935166720">mossambicus</coll>
+    <coll hits="1" score="9.020" query="w1935166725">lazera</coll>
+    <coll hits="1" score="8.930" query="w1935166723">capensis</coll>
+    <coll hits="1" score="8.870" query="w1935166722">macrocephalus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.190">
+    <coll hits="1" score="13.000" query="w1935157056">Barbus</coll>
+  </gramrel>
+</wordsketch>
+</export>

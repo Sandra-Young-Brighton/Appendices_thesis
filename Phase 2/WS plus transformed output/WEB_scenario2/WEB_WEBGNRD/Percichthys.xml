@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Percichthys</keyword>
+  <gramrel name="nouns modified by X" hits="12" score="75.000">
+    <coll hits="8" score="13.670" query="w1561988353">trucha</coll>
+    <coll hits="4" score="13.000" query="w1561988352">colhuapiensis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="6.250">
+    <coll hits="1" score="6.020" query="w1562013760">relation</coll>
+  </gramrel>
+</wordsketch>
+</export>

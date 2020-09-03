@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ptychocheilus</keyword>
+  <gramrel name="nouns modified by X" hits="9" score="69.230">
+    <coll hits="3" score="13.000">grandis</coll>
+    <coll hits="1" score="11.670">oregonensis</coll>
+    <coll hits="5" score="9.750">Lucius</coll>
+  </gramrel>
+</wordsketch>
+</export>

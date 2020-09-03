@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">nana</keyword>
+  <gramrel name="modifiers of X" hits="7" score="35.000">
+    <coll hits="4" score="13.410" query="w2069295552">Phagicola</coll>
+    <coll hits="3" score="13.260" query="w2069295553">Alonella</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="15.000">
+    <coll hits="3" score="10.210" query="w2069322112">wall</coll>
+  </gramrel>
+</wordsketch>
+</export>

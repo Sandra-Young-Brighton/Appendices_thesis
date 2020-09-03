@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lythrurus</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="30.000">
+    <coll hits="1" score="13.000" query="w2122293570">umbratillis</coll>
+    <coll hits="1" score="13.000" query="w2122293569">fasciolaris</coll>
+    <coll hits="1" score="13.000" query="w2122293568">umbratilis</coll>
+  </gramrel>
+</wordsketch>
+</export>

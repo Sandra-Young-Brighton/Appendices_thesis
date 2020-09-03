@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">americanus</keyword>
+  <gramrel name="modifiers of X" hits="24" score="32.880">
+    <coll hits="13" score="13.490">Pseudopleuronectes</coll>
+    <coll hits="6" score="11.880">Pleuronectes</coll>
+    <coll hits="1" score="10.350">Homarus</coll>
+    <coll hits="4" score="8.240">Esox</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="2.740">
+    <coll hits="2" score="7.430">Lucius</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="2.740">
+    <coll hits="1" score="7.850">width</coll>
+    <coll hits="1" score="4.890">range</coll>
+  </gramrel>
+</wordsketch>
+</export>

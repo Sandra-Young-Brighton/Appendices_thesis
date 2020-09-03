@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ichthyomyzon</keyword>
+  <gramrel name="nouns modified by X" hits="17" score="43.590">
+    <coll hits="6" score="13.060" query="w1989831233">fossor</coll>
+    <coll hits="5" score="12.790" query="w1989831234">unicuspis</coll>
+    <coll hits="4" score="12.470" query="w1989831235">castaneus</coll>
+    <coll hits="1" score="10.820" query="w1989831236">gagei</coll>
+    <coll hits="1" score="9.950" query="w1989831232">appendix</coll>
+  </gramrel>
+</wordsketch>
+</export>

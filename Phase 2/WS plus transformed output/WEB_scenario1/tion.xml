@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">tion</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="49" score="44.550">
+    <coll hits="1" score="9.350">Orthocladius</coll>
+    <coll hits="1" score="9.350">attenuatus</coll>
+    <coll hits="1" score="9.350">Methomidate</coll>
+    <coll hits="1" score="9.350">Clapp</coll>
+    <coll hits="1" score="9.320">overload</coll>
+    <coll hits="1" score="9.320">netpen</coll>
+    <coll hits="1" score="9.270">ASEUs</coll>
+    <coll hits="1" score="9.240">FXYD12</coll>
+    <coll hits="2" score="9.120">Chironomidae</coll>
+    <coll hits="1" score="9.090">subarea</coll>
+    <coll hits="1" score="8.850">glucose</coll>
+    <coll hits="1" score="8.680">aggregation</coll>
+    <coll hits="1" score="8.100">smoltification</coll>
+    <coll hits="1" score="8.010">physiology</coll>
+    <coll hits="1" score="7.950">pheromone</coll>
+    <coll hits="1" score="7.910">standard</coll>
+    <coll hits="1" score="7.860">association</coll>
+    <coll hits="1" score="7.740">contaminant</coll>
+    <coll hits="1" score="7.590">mark</coll>
+    <coll hits="1" score="7.420">core</coll>
+    <coll hits="1" score="6.940">phytoplankton</coll>
+    <coll hits="1" score="6.920">competition</coll>
+    <coll hits="1" score="6.740">R</coll>
+    <coll hits="1" score="6.640">exposure</coll>
+    <coll hits="1" score="6.310">net</coll>
+  </gramrel>
+</wordsketch>
+</export>

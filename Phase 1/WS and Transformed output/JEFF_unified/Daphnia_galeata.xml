@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Daphnia_galeata</keyword>
+  <gramrel name="modifiers of X" hits="1" score="9.090">
+    <coll hits="1" score="9.020">zooplankton</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="9.090">
+    <coll hits="1" score="12.680">zooplankton</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Orthospinus</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="100.000">
+    <coll hits="1" score="13.990" query="w1970000448">franciscensis</coll>
+  </gramrel>
+</wordsketch>
+</export>

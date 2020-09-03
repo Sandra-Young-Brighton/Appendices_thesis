@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">leuciscus</keyword>
+  <gramrel name="modifiers of X" hits="40" score="64.520">
+    <coll hits="38" score="12.980">Leuciscus</coll>
+    <coll hits="2" score="10.300">rutilus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="3.230">
+    <coll hits="2" score="9.060">gobio</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="6.450">
+    <coll hits="2" score="13.000">nasus</coll>
+    <coll hits="2" score="12.540">gobio</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="3.230">
+    <coll hits="1" score="3.820">stream</coll>
+    <coll hits="1" score="3.760">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

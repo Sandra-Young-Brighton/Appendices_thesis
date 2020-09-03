@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Villosa</keyword>
+  <gramrel name="nouns modified by X" hits="6" score="21.430">
+    <coll hits="2" score="13.000" query="w1668302465">vaughaniana</coll>
+    <coll hits="2" score="13.000" query="w1668302464">delumbis</coll>
+    <coll hits="1" score="12.190" query="w1668302467">fabalis</coll>
+    <coll hits="1" score="12.190" query="w1668302466">vanuxemi</coll>
+  </gramrel>
+</wordsketch>
+</export>

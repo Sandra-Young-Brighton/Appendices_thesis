@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Dana</keyword>
+  <gramrel name="modifiers of X" hits="1" score="3.570">
+    <coll hits="1" score="12.410" query="w2033312512">Hemigrapsus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="3.570">
+    <coll hits="1" score="11.670" query="w2033321600">Macrobrachium</coll>
+  </gramrel>
+</wordsketch>
+</export>

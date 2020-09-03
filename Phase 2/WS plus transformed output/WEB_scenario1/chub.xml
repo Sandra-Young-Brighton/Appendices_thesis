@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">chub</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="55" score="8.320">
+    <coll hits="6" score="11.260">Inny</coll>
+    <coll hits="1" score="9.160">Hybopsis</coll>
+    <coll hits="1" score="9.160">prefecture</coll>
+    <coll hits="1" score="9.160">sensation</coll>
+    <coll hits="1" score="9.120">Laramie</coll>
+    <coll hits="2" score="8.960">Canal</coll>
+    <coll hits="1" score="8.930">transponder</coll>
+    <coll hits="1" score="8.810">valley</coll>
+    <coll hits="1" score="8.810">move</coll>
+    <coll hits="1" score="8.790">float</coll>
+    <coll hits="6" score="8.720">Ireland</coll>
+    <coll hits="1" score="8.410">economy</coll>
+    <coll hits="1" score="7.560">biodiversity</coll>
+    <coll hits="1" score="6.910">Figure</coll>
+    <coll hits="1" score="6.810">Reservoir</coll>
+    <coll hits="1" score="6.710">R</coll>
+    <coll hits="1" score="6.550">angler</coll>
+    <coll hits="1" score="6.340">August</coll>
+    <coll hits="1" score="6.290">net</coll>
+    <coll hits="1" score="6.180">class</coll>
+    <coll hits="6" score="6.110">river</coll>
+    <coll hits="1" score="6.060">section</coll>
+    <coll hits="1" score="6.060">reach</coll>
+    <coll hits="1" score="5.870">Europe</coll>
+    <coll hits="2" score="5.840">group</coll>
+  </gramrel>
+</wordsketch>
+</export>

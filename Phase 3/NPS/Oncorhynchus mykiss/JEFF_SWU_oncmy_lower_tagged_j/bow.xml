@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">bow</keyword>
+  <gramrel name="nouns modified by X" hits="20" score="29.410">
+    <coll hits="20" score="12.830">trout</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="2.940">
+    <coll hits="2" score="9.350">boat</coll>
+  </gramrel>
+</wordsketch>
+</export>

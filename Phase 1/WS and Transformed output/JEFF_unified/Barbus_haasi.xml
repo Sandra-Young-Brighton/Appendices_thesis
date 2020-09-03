@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Barbus_haasi</keyword>
+  <gramrel name="modifiers of X" hits="1" score="14.290">
+    <coll hits="1" score="11.000">Salmo_trutta</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="14.290">
+    <coll hits="1" score="11.000">Phoxinus_phoxinus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="57.140">
+    <coll hits="4" score="5.260">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

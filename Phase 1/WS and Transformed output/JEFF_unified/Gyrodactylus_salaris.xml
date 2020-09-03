@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gyrodactylus_salaris</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="31.580">
+    <coll hits="1" score="8.280">experi</coll>
+    <coll hits="1" score="8.250">Norway</coll>
+    <coll hits="1" score="5.890">class</coll>
+    <coll hits="1" score="5.070">charr</coll>
+    <coll hits="1" score="4.780">group</coll>
+    <coll hits="1" score="3.590">river</coll>
+  </gramrel>
+  <gramrel name="... is a X" hits="1" score="5.260">
+    <coll hits="1" score="13.990">parr</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="5.260">
+    <coll hits="1" score="6.840">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

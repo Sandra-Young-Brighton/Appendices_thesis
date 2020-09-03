@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fasciatus</keyword>
+  <gramrel name="modifiers of X" hits="6" score="35.290">
+    <coll hits="1" score="12.190">Trachidermus</coll>
+    <coll hits="1" score="11.990">Aphanius</coll>
+    <coll hits="4" score="11.020">Galaxias</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="11.760">
+    <coll hits="1" score="3.820">stream</coll>
+    <coll hits="1" score="3.080">water</coll>
+  </gramrel>
+</wordsketch>
+</export>

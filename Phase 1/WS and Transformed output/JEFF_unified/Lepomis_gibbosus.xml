@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lepomis_gibbosus</keyword>
+  <gramrel name="modifiers of X" hits="6" score="8.820">
+    <coll hits="2" score="12.410">Centrarchidae</coll>
+    <coll hits="1" score="12.190">Australoheros_facetum</coll>
+    <coll hits="1" score="12.190">Carassius_gibelio</coll>
+    <coll hits="2" score="5.310">fish</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="6" score="8.820">
+    <coll hits="2" score="11.990">Lepomis_spp</coll>
+    <coll hits="1" score="11.990">Pseudorasbora_parva</coll>
+    <coll hits="2" score="9.620">Linnaeus</coll>
+    <coll hits="1" score="8.850">Rutilus_rutilus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="4.410">
+    <coll hits="1" score="12.680">Pseudorasbora_parva</coll>
+    <coll hits="1" score="10.680">Linnaeus</coll>
+    <coll hits="1" score="8.190">Salmo_trutta</coll>
+  </gramrel>
+  <gramrel name="X is a ..." hits="1" score="1.470">
+    <coll hits="1" score="10.540">species</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="4.410">
+    <coll hits="1" score="9.300">Park</coll>
+    <coll hits="1" score="6.950">Europe</coll>
+    <coll hits="1" score="6.790">pond</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="1.470">
+    <coll hits="1" score="6.840">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

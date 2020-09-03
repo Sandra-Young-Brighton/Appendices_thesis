@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">edwardsii</keyword>
+  <gramrel name="modifiers of X" hits="6" score="46.150">
+    <coll hits="6" score="13.410" query="w1995281088">Salmincola</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="15.380">
+    <coll hits="2" score="13.000" query="w1995296640">Salmincola</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="23.080">
+    <coll hits="3" score="13.770" query="w1995264192">Salmincola</coll>
+  </gramrel>
+</wordsketch>
+</export>

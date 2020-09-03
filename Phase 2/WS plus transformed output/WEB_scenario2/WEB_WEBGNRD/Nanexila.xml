@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Nanexila</keyword>
+  <gramrel name="nouns modified by X" hits="28" score="15.220">
+    <coll hits="4" score="11.950" query="w2158578566">ruficornis</coll>
+    <coll hits="3" score="11.630" query="w2158578567">palassa</coll>
+    <coll hits="2" score="11.090" query="w2158578576">spilotis</coll>
+    <coll hits="2" score="11.090" query="w2158578571">livea</coll>
+    <coll hits="2" score="11.090" query="w2158578569">danielsi</coll>
+    <coll hits="2" score="11.090" query="w2158578568">cylomelasma</coll>
+    <coll hits="2" score="11.090" query="w2158578565">armeniacum</coll>
+    <coll hits="2" score="11.090" query="w2158578563">furcata</coll>
+    <coll hits="1" score="10.140" query="w2158578575">lignyos</coll>
+    <coll hits="1" score="10.140" query="w2158578574">argentiquadris</coll>
+    <coll hits="1" score="10.140" query="w2158578573">aureilineata</coll>
+    <coll hits="1" score="10.140" query="w2158578572">atricostalis</coll>
+    <coll hits="1" score="10.140" query="w2158578570">ligula</coll>
+    <coll hits="1" score="10.090" query="w2158578562">paradoxa</coll>
+    <coll hits="1" score="10.040" query="w2158578561">variabilis</coll>
+    <coll hits="1" score="9.910" query="w2158578564">vittata</coll>
+    <coll hits="1" score="9.750" query="w2158578560">intermedia</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.540">
+    <coll hits="1" score="12.680" query="w2158566400">Therevidae</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="11" score="5.980">
+    <coll hits="3" score="12.770" query="w2158735105">clade</coll>
+    <coll hits="3" score="12.580" query="w2158735104">N</coll>
+    <coll hits="2" score="12.290" query="w2158735106">species-group</coll>
+    <coll hits="1" score="11.410" query="w2158735109">atricostalis</coll>
+    <coll hits="1" score="11.410" query="w2158735108">palassa</coll>
+    <coll hits="1" score="11.410" query="w2158735107">manni</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="1.090">
+    <coll hits="1" score="10.910" query="w2158700417">Therevidae</coll>
+    <coll hits="1" score="7.370" query="w2158700416">seta</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.540">
+    <coll hits="1" score="12.410" query="w2158722944">Therevidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Rhinichthys</keyword>
+  <gramrel name="nouns modified by X" hits="35" score="39.770">
+    <coll hits="13" score="13.050" query="w1761952002">cataractae</coll>
+    <coll hits="12" score="13.030" query="w1761952001">atratulus</coll>
+    <coll hits="7" score="12.410" query="w1761952000">osculus</coll>
+    <coll hits="2" score="10.750" query="w1761952003">falcatus</coll>
+    <coll hits="1" score="9.750" query="w1761952004">obtusus</coll>
+  </gramrel>
+</wordsketch>
+</export>

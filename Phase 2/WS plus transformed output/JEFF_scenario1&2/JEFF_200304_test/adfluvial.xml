@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">adfluvial</keyword>
+  <gramrel name="X and/or ..." hits="13" score="11.400">
+    <coll hits="4" score="10.760">fluvial</coll>
+    <coll hits="1" score="10.350">potamodromous</coll>
+    <coll hits="1" score="9.380">lacustrine</coll>
+    <coll hits="1" score="9.320">similar</coll>
+    <coll hits="3" score="9.280">migratory</coll>
+    <coll hits="2" score="8.820">anadromous</coll>
+    <coll hits="1" score="8.280">resident</coll>
+  </gramrel>
+</wordsketch>
+</export>

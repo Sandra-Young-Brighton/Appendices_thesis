@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Daphnia</keyword>
+  <gramrel name="modifiers of X" hits="3" score="2.140">
+    <coll hits="2" score="11.540">Gambusia</coll>
+    <coll hits="1" score="9.750">species</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="8" score="5.710">
+    <coll hits="2" score="12.680">Drosophila</coll>
+    <coll hits="1" score="11.540">Rotifera</coll>
+    <coll hits="3" score="11.260">prey</coll>
+    <coll hits="2" score="8.790">prey</coll>
+  </gramrel>
+  <gramrel name="verbs with X as object" hits="5" score="3.570">
+    <coll hits="4" score="8.230">consume</coll>
+    <coll hits="1" score="7.420">feed</coll>
+  </gramrel>
+  <gramrel name="verbs with X as subject" hits="3" score="2.140">
+    <coll hits="3" score="8.420">consume</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="11" score="7.860">
+    <coll hits="3" score="12.770">Drosophila</coll>
+    <coll hits="3" score="12.680">Gammarus</coll>
+    <coll hits="1" score="11.300">Bosmina</coll>
+    <coll hits="3" score="9.510">roach</coll>
+    <coll hits="1" score="8.200">prey</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="14" score="10.000">
+    <coll hits="1" score="9.610">illumination</coll>
+    <coll hits="1" score="8.540">centre</coll>
+    <coll hits="1" score="7.970">series</coll>
+    <coll hits="5" score="7.530">prey</coll>
+    <coll hits="1" score="7.040">enclosure</coll>
+    <coll hits="2" score="5.090">period</coll>
+    <coll hits="1" score="4.990">change</coll>
+    <coll hits="1" score="3.520">size</coll>
+    <coll hits="1" score="3.150">specie</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.710">
+    <coll hits="1" score="13.990">Cladocera</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.710">
+    <coll hits="1" score="12.680">zooplankton</coll>
+  </gramrel>
+</wordsketch>
+</export>

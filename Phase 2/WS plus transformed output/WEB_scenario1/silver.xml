@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">silver</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="13" score="3.450">
+    <coll hits="1" score="10.350">gold</coll>
+    <coll hits="1" score="8.520">appearance</coll>
+    <coll hits="1" score="8.040">teleost</coll>
+    <coll hits="1" score="7.860">patch</coll>
+    <coll hits="1" score="7.850">epithelium</coll>
+    <coll hits="1" score="7.740">protection</coll>
+    <coll hits="1" score="7.670">Tissue</coll>
+    <coll hits="1" score="7.210">muscle</coll>
+    <coll hits="2" score="7.080">side</coll>
+    <coll hits="1" score="6.660">reproduction</coll>
+    <coll hits="1" score="6.270">tissue</coll>
+    <coll hits="1" score="4.390">level</coll>
+  </gramrel>
+</wordsketch>
+</export>

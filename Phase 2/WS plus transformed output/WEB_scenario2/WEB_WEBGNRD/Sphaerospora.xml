@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sphaerospora</keyword>
+  <gramrel name="nouns modified by X" hits="17" score="34.000">
+    <coll hits="12" score="12.940" query="w1994417344">truttae</coll>
+    <coll hits="3" score="12.260" query="w1994417346">renicola</coll>
+    <coll hits="1" score="10.820" query="w1994417347">dykovae</coll>
+    <coll hits="1" score="10.820" query="w1994417345">tincae</coll>
+  </gramrel>
+</wordsketch>
+</export>

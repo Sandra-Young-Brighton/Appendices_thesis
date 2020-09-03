@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cottus</keyword>
+  <gramrel name="nouns modified by X" hits="164" score="54.300">
+    <coll hits="73" score="13.130">gobio</coll>
+    <coll hits="20" score="11.780">cognatus</coll>
+    <coll hits="17" score="11.580">bairdi</coll>
+    <coll hits="9" score="10.730">bairdii</coll>
+    <coll hits="8" score="10.560">carolinae</coll>
+    <coll hits="6" score="10.170">paulus</coll>
+    <coll hits="5" score="9.910">hangiongensis</coll>
+    <coll hits="3" score="9.200">hypselurus</coll>
+    <coll hits="3" score="9.200">pygmaeus</coll>
+    <coll hits="3" score="9.180">asper</coll>
+    <coll hits="2" score="8.620">pollux</coll>
+    <coll hits="2" score="8.620">nozawae</coll>
+    <coll hits="2" score="8.620">poecilopus</coll>
+    <coll hits="2" score="8.600">gulosus</coll>
+    <coll hits="2" score="7.830">Linnaeus</coll>
+    <coll hits="1" score="7.630">perifretum</coll>
+    <coll hits="1" score="7.630">pollus</coll>
+    <coll hits="1" score="7.630">hangeongensis</coll>
+    <coll hits="1" score="7.630">ricei</coll>
+    <coll hits="1" score="7.630">pjigmaeus</coll>
+    <coll hits="1" score="7.630">hairdi</coll>
+    <coll hits="1" score="7.630">asperrimus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.330">
+    <coll hits="1" score="6.960">Europe</coll>
+  </gramrel>
+</wordsketch>
+</export>

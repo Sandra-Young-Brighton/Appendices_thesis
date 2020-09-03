@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">punctulatus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="22.220">
+    <coll hits="2" score="10.350">Micropterus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="11.110">
+    <coll hits="1" score="12.410">Etheostoma</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="11.110">
+    <coll hits="1" score="10.680">Montana</coll>
+  </gramrel>
+</wordsketch>
+</export>

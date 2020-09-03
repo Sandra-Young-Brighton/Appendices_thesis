@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Bulinus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="11.110">
+    <coll hits="2" score="13.990" query="w2067707520">Biomphalaria</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="5" score="27.780">
+    <coll hits="4" score="13.300" query="w2067717568">truncatus</coll>
+    <coll hits="1" score="12.410" query="w2067717569">forskali</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="11.110">
+    <coll hits="1" score="13.410" query="w2067691201">Oncomelania</coll>
+    <coll hits="1" score="13.410" query="w2067691200">Biomphalaria</coll>
+  </gramrel>
+</wordsketch>
+</export>

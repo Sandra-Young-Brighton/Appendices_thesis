@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">manni</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="25.000">
+    <coll hits="1" score="11.670" query="w2158930113">Anabarhynchus</coll>
+    <coll hits="1" score="3.980" query="w2158930112">size</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="12.500">
+    <coll hits="1" score="11.410" query="w2158949312">Nanexila</coll>
+  </gramrel>
+</wordsketch>
+</export>

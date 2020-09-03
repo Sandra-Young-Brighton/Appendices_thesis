@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Asplanchna</keyword>
+  <gramrel name="modifiers of X" hits="1" score="4.000">
+    <coll hits="1" score="11.670" query="w1469483840">Brachionus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="5" score="20.000">
+    <coll hits="3" score="13.410" query="w1469493441">priodonta</coll>
+    <coll hits="2" score="13.190" query="w1469493440">Keratella</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="8.000">
+    <coll hits="2" score="13.990" query="w1469474880">Keratella</coll>
+  </gramrel>
+</wordsketch>
+</export>

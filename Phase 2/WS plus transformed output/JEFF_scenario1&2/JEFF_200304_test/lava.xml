@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lava</keyword>
+  <gramrel name="modifiers of X" hits="1" score="20.000">
+    <coll hits="1" score="6.860">Coregonus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="20.000">
+    <coll hits="1" score="13.990">volcano</coll>
+  </gramrel>
+</wordsketch>
+</export>

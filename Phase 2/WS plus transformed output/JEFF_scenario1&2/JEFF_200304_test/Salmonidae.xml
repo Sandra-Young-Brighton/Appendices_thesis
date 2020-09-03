@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salmonidae</keyword>
+  <gramrel name="modifiers of X" hits="14" score="13.460">
+    <coll hits="2" score="11.990">Lotidae</coll>
+    <coll hits="2" score="11.910">Esocidae</coll>
+    <coll hits="2" score="11.750">thymallus</coll>
+    <coll hits="3" score="11.720">Salmonidae</coll>
+    <coll hits="2" score="11.540">Percidae</coll>
+    <coll hits="1" score="11.090">Ictaluridae</coll>
+    <coll hits="1" score="10.910">Poeciliidae</coll>
+    <coll hits="1" score="10.600">Cyprinidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="15" score="14.420">
+    <coll hits="4" score="12.750">Thymallus</coll>
+    <coll hits="3" score="12.330">Umbridae</coll>
+    <coll hits="3" score="11.720">Salmonidae</coll>
+    <coll hits="1" score="10.820">Siluridae</coll>
+    <coll hits="1" score="10.820">Salvelinus</coll>
+    <coll hits="1" score="10.750">Centrarchidae</coll>
+    <coll hits="1" score="10.350">hoyi</coll>
+    <coll hits="1" score="10.240">artedi</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="8" score="7.690">
+    <coll hits="4" score="13.410">Thymallus</coll>
+    <coll hits="1" score="11.830">artedi</coll>
+    <coll hits="1" score="11.830">hoyi</coll>
+    <coll hits="1" score="11.190">Centrarchidae</coll>
+    <coll hits="1" score="10.820">Salvelinus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.960">
+    <coll hits="1" score="4.790">group</coll>
+  </gramrel>
+</wordsketch>
+</export>

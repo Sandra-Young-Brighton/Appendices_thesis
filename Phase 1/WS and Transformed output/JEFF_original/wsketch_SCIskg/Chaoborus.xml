@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Chaoborus</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="6.670">
+    <coll hits="1" score="13.410">flavicans</coll>
+    <coll hits="1" score="6.380">larva</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="3.330">
+    <coll hits="1" score="5.010">change</coll>
+  </gramrel>
+</wordsketch>
+</export>

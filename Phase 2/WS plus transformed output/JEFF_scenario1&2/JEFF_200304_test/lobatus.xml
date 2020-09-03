@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lobatus</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="10.260">
+    <coll hits="1" score="10.540">MRB</coll>
+    <coll hits="1" score="9.210">future</coll>
+    <coll hits="2" score="6.730">region</coll>
+  </gramrel>
+</wordsketch>
+</export>

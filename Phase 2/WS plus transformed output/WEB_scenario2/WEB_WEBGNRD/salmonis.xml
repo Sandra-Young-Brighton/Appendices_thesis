@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">salmonis</keyword>
+  <gramrel name="modifiers of X" hits="13" score="40.630">
+    <coll hits="13" score="13.990" query="w2017909056">Lepeophtheirus</coll>
+  </gramrel>
+</wordsketch>
+</export>

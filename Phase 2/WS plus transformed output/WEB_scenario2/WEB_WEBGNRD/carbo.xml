@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">carbo</keyword>
+  <gramrel name="modifiers of X" hits="1" score="33.330">
+    <coll hits="1" score="10.910" query="w2008952768">Phalacrocorax</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="33.330">
+    <coll hits="1" score="9.790" query="w2008961152">flatfish</coll>
+  </gramrel>
+</wordsketch>
+</export>

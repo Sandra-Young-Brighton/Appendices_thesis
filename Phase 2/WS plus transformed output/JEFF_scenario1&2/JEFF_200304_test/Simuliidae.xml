@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Simuliidae</keyword>
+  <gramrel name="modifiers of X" hits="4" score="16.670">
+    <coll hits="2" score="12.090">Diptera</coll>
+    <coll hits="1" score="11.670">Chironomidae</coll>
+    <coll hits="1" score="10.820">Ephemeroptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="8.330">
+    <coll hits="1" score="11.830">Ephemeroptera</coll>
+    <coll hits="1" score="11.540">Diptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="12.500">
+    <coll hits="2" score="11.470">Ephemeroptera</coll>
+    <coll hits="1" score="11.410">Plecoptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

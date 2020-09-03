@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">anguilla</keyword>
+  <gramrel name="modifiers of X" hits="52" score="54.170">
+    <coll hits="52" score="12.860">Anguilla</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="37" score="38.540">
+    <coll hits="1" score="9.710">implemen</coll>
+    <coll hits="1" score="9.670">Estimating</coll>
+    <coll hits="3" score="8.880">lagoon</coll>
+    <coll hits="3" score="8.810">Sea</coll>
+    <coll hits="1" score="8.460">country</coll>
+    <coll hits="1" score="8.300">habi</coll>
+    <coll hits="3" score="7.940">watershed</coll>
+    <coll hits="4" score="7.800">reservoir</coll>
+    <coll hits="1" score="6.680">estuary</coll>
+    <coll hits="1" score="6.500">stock</coll>
+    <coll hits="1" score="6.490">catchment</coll>
+    <coll hits="1" score="6.240">history</coll>
+    <coll hits="4" score="5.750">River</coll>
+    <coll hits="1" score="5.650">region</coll>
+    <coll hits="4" score="5.570">river</coll>
+    <coll hits="1" score="5.540">environment</coll>
+    <coll hits="2" score="5.320">water</coll>
+    <coll hits="1" score="4.770">condition</coll>
+    <coll hits="2" score="4.470">lake</coll>
+    <coll hits="1" score="4.380">growth</coll>
+  </gramrel>
+</wordsketch>
+</export>

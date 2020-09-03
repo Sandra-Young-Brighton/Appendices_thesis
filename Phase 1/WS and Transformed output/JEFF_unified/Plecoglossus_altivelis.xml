@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Plecoglossus_altivelis</keyword>
+  <gramrel name="modifiers of X" hits="1" score="4.760">
+    <coll hits="1" score="4.310">fish</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="14.290">
+    <coll hits="2" score="13.190">Ikeda</coll>
+    <coll hits="1" score="8.400">Japan</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="9.520">
+    <coll hits="1" score="6.830">fish</coll>
+    <coll hits="1" score="6.800">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

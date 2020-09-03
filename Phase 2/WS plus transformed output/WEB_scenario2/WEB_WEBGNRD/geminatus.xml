@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">geminatus</keyword>
+  <gramrel name="modifiers of X" hits="5" score="83.330">
+    <coll hits="4" score="13.830" query="w1985059841">Hypleurochilus</coll>
+    <coll hits="1" score="12.410" query="w1985059840">bosquianus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="16.670">
+    <coll hits="1" score="13.410" query="w1985083968">ionthas</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="16.670">
+    <coll hits="1" score="13.990" query="w1985048832">ionthas</coll>
+  </gramrel>
+</wordsketch>
+</export>

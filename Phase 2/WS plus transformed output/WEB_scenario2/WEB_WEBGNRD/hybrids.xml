@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">hybrids</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="64" score="28.440">
+    <coll hits="2" score="9.950" query="w1808341349">fishesBull</coll>
+    <coll hits="3" score="9.230" query="w1808341312">Anguilla</coll>
+    <coll hits="1" score="8.980" query="w1808341347">Shorthead</coll>
+    <coll hits="1" score="8.980" query="w1808341346">even-year</coll>
+    <coll hits="1" score="8.980" query="w1808341342">macrocephalus</coll>
+    <coll hits="1" score="8.910" query="w1808341344">tooth-carp</coll>
+    <coll hits="1" score="8.850" query="w1808341348">BRFC</coll>
+    <coll hits="1" score="8.440" query="w1808341343">LSR</coll>
+    <coll hits="1" score="8.410" query="w1808341345">Malmberg</coll>
+    <coll hits="1" score="8.380" query="w1808341341">man</coll>
+    <coll hits="1" score="8.220" query="w1808341340">lineage</coll>
+    <coll hits="2" score="8.180" query="w1808341330">nature</coll>
+    <coll hits="1" score="8.020" query="w1808341338">dace</coll>
+    <coll hits="1" score="7.950" query="w1808341333">parent</coll>
+    <coll hits="1" score="7.780" query="w1808341337">trutta</coll>
+    <coll hits="2" score="7.710" query="w1808341329">program</coll>
+    <coll hits="1" score="7.610" query="w1808341332">offspring</coll>
+    <coll hits="1" score="7.470" query="w1808341331">seawater</coll>
+    <coll hits="2" score="7.290" query="w1808341328">Trout</coll>
+    <coll hits="2" score="7.260" query="w1808341334">catch</coll>
+    <coll hits="1" score="7.150" query="w1808341321">morph</coll>
+    <coll hits="3" score="6.810" query="w1808341318">stickleback</coll>
+    <coll hits="2" score="6.540" query="w1808341327">whitefish</coll>
+    <coll hits="1" score="6.520" query="w1808341336">line</coll>
+    <coll hits="9" score="6.250" query="w1808341324">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cepedianum</keyword>
+  <gramrel name="modifiers of X" hits="15" score="65.220">
+    <coll hits="14" score="13.640" query="w1123794624">Dorosoma</coll>
+    <coll hits="1" score="10.410" query="w1123794625">Carpio</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="4.350">
+    <coll hits="1" score="12.680" query="w1123816384">bubalis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="4.350">
+    <coll hits="1" score="13.990" query="w1123783872">bubalis</coll>
+  </gramrel>
+</wordsketch>
+</export>

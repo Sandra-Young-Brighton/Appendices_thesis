@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">competitor</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="43" score="28.480">
+    <coll hits="2" score="10.190">hazard</coll>
+    <coll hits="1" score="9.480">allelopathy</coll>
+    <coll hits="2" score="9.040">cisco</coll>
+    <coll hits="1" score="8.730">man</coll>
+    <coll hits="1" score="8.640">LMB</coll>
+    <coll hits="2" score="8.490">supply</coll>
+    <coll hits="1" score="8.410">force</coll>
+    <coll hits="1" score="8.370">tow</coll>
+    <coll hits="2" score="7.490">herring</coll>
+    <coll hits="1" score="7.190">fauna</coll>
+    <coll hits="1" score="7.010">light</coll>
+    <coll hits="2" score="6.440">resource</coll>
+    <coll hits="1" score="5.900">Europe</coll>
+    <coll hits="1" score="5.790">Bay</coll>
+    <coll hits="6" score="5.460">lake</coll>
+    <coll hits="1" score="5.430">food</coll>
+    <coll hits="5" score="5.410">trout</coll>
+    <coll hits="2" score="5.340">perch</coll>
+    <coll hits="1" score="5.260">stickleback</coll>
+    <coll hits="1" score="5.250">bass</coll>
+    <coll hits="1" score="5.080">ecosystem</coll>
+    <coll hits="1" score="4.840">community</coll>
+    <coll hits="2" score="4.770">habitat</coll>
+    <coll hits="1" score="4.660">prey</coll>
+    <coll hits="1" score="4.190">larva</coll>
+  </gramrel>
+</wordsketch>
+</export>

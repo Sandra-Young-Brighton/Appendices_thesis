@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Caenis</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="12.500">
+    <coll hits="2" score="13.410" query="w2114314497">macrura</coll>
+    <coll hits="1" score="12.680" query="w2114314498">luctuosa</coll>
+    <coll hits="1" score="11.990" query="w2114314496">robusta</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="3.130">
+    <coll hits="1" score="10.600" query="w2114341824">diet</coll>
+  </gramrel>
+</wordsketch>
+</export>

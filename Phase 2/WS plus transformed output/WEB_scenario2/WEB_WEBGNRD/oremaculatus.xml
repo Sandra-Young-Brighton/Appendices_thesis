@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">oremaculatus</keyword>
+  <gramrel name="modifiers of X" hits="15" score="27.270">
+    <coll hits="15" score="13.770" query="w2058899776">Hypophthalmus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.820">
+    <coll hits="1" score="13.410" query="w2058914944">Nani</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="3.640">
+    <coll hits="2" score="13.670" query="w2058881664">squamosissimus</coll>
+  </gramrel>
+</wordsketch>
+</export>

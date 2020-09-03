@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">microstoma</keyword>
+  <gramrel name="modifiers of X" hits="6" score="46.150">
+    <coll hits="6" score="13.990">Atherinosoma</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="15.380">
+    <coll hits="1" score="11.410">Axis</coll>
+    <coll hits="1" score="6.170">C</coll>
+  </gramrel>
+</wordsketch>
+</export>

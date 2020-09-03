@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rutilus</keyword>
+  <gramrel name="modifiers of X" hits="266" score="61.290">
+    <coll hits="258" score="13.960">Rutilus</coll>
+    <coll hits="2" score="7.860">Lucius</coll>
+    <coll hits="2" score="7.850">fluviatilis</coll>
+    <coll hits="1" score="6.930">Rutilis</coll>
+    <coll hits="1" score="6.890">thymallus</coll>
+    <coll hits="1" score="6.430">Leuciscus</coll>
+    <coll hits="1" score="5.120">Perca</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="12" score="2.760">
+    <coll hits="2" score="11.350">Cyprinidae</coll>
+    <coll hits="2" score="10.440">alburnus</coll>
+    <coll hits="2" score="10.300">leuciscus</coll>
+    <coll hits="1" score="10.040">rerio</coll>
+    <coll hits="1" score="9.710">bjoerkna</coll>
+    <coll hits="2" score="9.350">brama</coll>
+    <coll hits="1" score="9.060">erythrophthalmus</coll>
+    <coll hits="1" score="5.410">salar</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="18" score="4.150">
+    <coll hits="4" score="12.290">alburnus</coll>
+    <coll hits="3" score="12.190">leuciscus</coll>
+    <coll hits="3" score="11.880">brama</coll>
+    <coll hits="2" score="11.470">cephalus</coll>
+    <coll hits="2" score="11.140">Cyprinidae</coll>
+    <coll hits="1" score="10.680">bjoerkna</coll>
+    <coll hits="1" score="10.680">erythrophthalmus</coll>
+    <coll hits="1" score="10.470">phoxinus</coll>
+    <coll hits="1" score="9.670">fluviatilis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="33" score="7.600">
+    <coll hits="2" score="10.710">Volvi</coll>
+    <coll hits="2" score="10.640">Changes</coll>
+    <coll hits="2" score="10.440">2000</coll>
+    <coll hits="2" score="10.110">span</coll>
+    <coll hits="9" score="10.090">Reservoir</coll>
+    <coll hits="1" score="9.910">Sapan</coll>
+    <coll hits="1" score="9.710">Sapanca</coll>
+    <coll hits="1" score="9.240">percid</coll>
+    <coll hits="1" score="7.610">stressor</coll>
+    <coll hits="3" score="7.040">resource</coll>
+    <coll hits="2" score="5.850">range</coll>
+    <coll hits="1" score="5.830">body</coll>
+    <coll hits="4" score="4.880">lake</coll>
+    <coll hits="1" score="4.300">temperature</coll>
+    <coll hits="1" score="3.770">habitat</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="0.460">
+    <coll hits="1" score="11.670">fluviatilis</coll>
+    <coll hits="1" score="11.670">Perca</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="2" score="0.460">
+    <coll hits="1" score="12.190">plant</coll>
+    <coll hits="1" score="11.830">food</coll>
+  </gramrel>
+</wordsketch>
+</export>

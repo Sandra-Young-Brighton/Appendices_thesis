@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sander</keyword>
+  <gramrel name="nouns modified by X" hits="138" score="71.130">
+    <coll hits="85" score="13.320">lucioperca</coll>
+    <coll hits="46" score="12.970">vitreus</coll>
+    <coll hits="6" score="10.230">canadensis</coll>
+    <coll hits="1" score="7.500">vitreum</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="3" score="1.550">
+    <coll hits="1" score="11.410">omiscomaycus</coll>
+    <coll hits="1" score="11.410">Percopsis</coll>
+    <coll hits="1" score="11.190">Percina</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="1.030">
+    <coll hits="2" score="7.610">Erie</coll>
+  </gramrel>
+</wordsketch>
+</export>

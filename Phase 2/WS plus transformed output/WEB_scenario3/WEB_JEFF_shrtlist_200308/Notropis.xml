@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Notropis</keyword>
+  <gramrel name="nouns modified by X" hits="40" score="27.210">
+    <coll hits="11" score="12.790">hudsonius</coll>
+    <coll hits="7" score="12.250">volucellus</coll>
+    <coll hits="5" score="11.800">stramineus</coll>
+    <coll hits="3" score="11.150">buccatus</coll>
+    <coll hits="2" score="10.600">buchanani</coll>
+    <coll hits="2" score="10.600">rubellus</coll>
+    <coll hits="2" score="10.600">blennius</coll>
+    <coll hits="2" score="10.600">dorsalis</coll>
+    <coll hits="2" score="10.510">texanus</coll>
+    <coll hits="1" score="9.640">photogenis</coll>
+    <coll hits="1" score="9.640">spilopterus</coll>
+    <coll hits="1" score="9.570">emiliae</coll>
+    <coll hits="1" score="9.350">cornutus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="1.360">
+    <coll hits="1" score="12.190">catostomus</coll>
+    <coll hits="1" score="12.190">Catostomus</coll>
+  </gramrel>
+</wordsketch>
+</export>

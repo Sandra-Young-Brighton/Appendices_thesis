@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">japonicus</keyword>
+  <gramrel name="modifiers of X" hits="21" score="58.330">
+    <coll hits="20" score="12.570">Sicyopterus</coll>
+    <coll hits="1" score="10.540">Lateolabrax</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="5.560">
+    <coll hits="1" score="11.540">Taiwan</coll>
+    <coll hits="1" score="6.860">estuary</coll>
+  </gramrel>
+</wordsketch>
+</export>

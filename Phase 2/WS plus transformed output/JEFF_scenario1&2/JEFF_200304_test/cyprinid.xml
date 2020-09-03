@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cyprinid</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="64" score="16.580">
+    <coll hits="5" score="9.400">introduction</coll>
+    <coll hits="2" score="9.230">Plains</coll>
+    <coll hits="1" score="8.980">Weaver</coll>
+    <coll hits="1" score="8.930">Fraser</coll>
+    <coll hits="1" score="8.890">Rhone</coll>
+    <coll hits="1" score="8.820">HUC8</coll>
+    <coll hits="1" score="8.760">Pohjalampi</coll>
+    <coll hits="1" score="8.590">Plain</coll>
+    <coll hits="1" score="8.500">Trent</coll>
+    <coll hits="1" score="8.490">aquaculture</coll>
+    <coll hits="1" score="8.490">power</coll>
+    <coll hits="1" score="8.410">attribute</coll>
+    <coll hits="1" score="8.070">dominance</coll>
+    <coll hits="1" score="8.050">Danube</coll>
+    <coll hits="1" score="7.970">accordance</coll>
+    <coll hits="1" score="7.510">ability</coll>
+    <coll hits="1" score="7.500">Ontario</coll>
+    <coll hits="1" score="7.400">decrease</coll>
+    <coll hits="1" score="7.370">extent</coll>
+    <coll hits="2" score="7.180">gradient</coll>
+    <coll hits="1" score="7.160">network</coll>
+    <coll hits="2" score="6.930">ecosystem</coll>
+    <coll hits="1" score="6.840">L</coll>
+    <coll hits="1" score="6.810">States</coll>
+    <coll hits="2" score="6.780">zone</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.260">
+    <coll hits="1" score="10.750">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

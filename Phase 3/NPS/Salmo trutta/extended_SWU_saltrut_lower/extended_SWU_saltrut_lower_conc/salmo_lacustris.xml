@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_untagged</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="2">[lc=&quot;salmo_lacustris&quot; | lemma_lc=&quot;salmo_lacustris&quot;]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#349" num="0" label="_">
+    <left>1758. salmo_fario was used for riverine forms.</left>
+    <kwic> salmo_lacustris</kwic>
+    <right> was used for lake-dwelling forms.[7] &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+  <line refs="doc#350" num="1" label="_">
+    <left>1758. salmo_fario was used for riverine forms.</left>
+    <kwic> salmo_lacustris</kwic>
+    <right> was used for lake-dwelling forms.[7] &lt;/p&gt; &lt;p&gt;</right>
+  </line>
+</concordance>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">platorynchus</keyword>
+  <gramrel name="modifiers of X" hits="4" score="80.000">
+    <coll hits="3" score="13.770" query="w2130112449">Scaphirhynchus</coll>
+    <coll hits="1" score="12.410" query="w2130112448">fulvescens</coll>
+  </gramrel>
+</wordsketch>
+</export>

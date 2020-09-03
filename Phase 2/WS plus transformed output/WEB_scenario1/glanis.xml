@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">glanis</keyword>
+  <gramrel name="modifiers of X" hits="40" score="85.110">
+    <coll hits="38" score="13.920">Silurus</coll>
+    <coll hits="1" score="9.640">taenia</coll>
+    <coll hits="1" score="9.570">tinca</coll>
+  </gramrel>
+</wordsketch>
+</export>

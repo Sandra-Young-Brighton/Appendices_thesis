@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">melanostomus</keyword>
+  <gramrel name="modifiers of X" hits="70" score="86.420">
+    <coll hits="67" score="13.840">Neogobius</coll>
+    <coll hits="1" score="8.850">semilunaris</coll>
+    <coll hits="1" score="8.820">Apollonia</coll>
+    <coll hits="1" score="8.650">Proterorhinus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="6.170">
+    <coll hits="1" score="8.910">Huron</coll>
+    <coll hits="1" score="8.240">Gulf</coll>
+    <coll hits="3" score="5.350">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rusticus</keyword>
+  <gramrel name="modifiers of X" hits="11" score="78.570">
+    <coll hits="11" score="13.750">Orconectes</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="14.290">
+    <coll hits="1" score="9.240">Wisconsin</coll>
+    <coll hits="1" score="3.480">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

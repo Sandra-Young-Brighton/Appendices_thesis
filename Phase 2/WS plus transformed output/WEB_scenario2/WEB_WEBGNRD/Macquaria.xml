@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Macquaria</keyword>
+  <gramrel name="nouns modified by X" hits="39" score="90.700">
+    <coll hits="31" score="13.820" query="w1920876545">australasica</coll>
+    <coll hits="6" score="12.060" query="w1920876544">ambigua</coll>
+    <coll hits="1" score="9.670" query="w1920876547">movemaculeata</coll>
+    <coll hits="1" score="9.670" query="w1920876546">novemaculeata</coll>
+  </gramrel>
+</wordsketch>
+</export>

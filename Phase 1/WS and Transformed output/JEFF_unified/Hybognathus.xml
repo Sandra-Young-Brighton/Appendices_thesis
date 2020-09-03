@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hybognathus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="9.090">
+    <coll hits="1" score="13.990">Notemigonus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="9.090">
+    <coll hits="1" score="13.990">Ictiobus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="18.180">
+    <coll hits="2" score="13.990">Ictiobus</coll>
+  </gramrel>
+</wordsketch>
+</export>

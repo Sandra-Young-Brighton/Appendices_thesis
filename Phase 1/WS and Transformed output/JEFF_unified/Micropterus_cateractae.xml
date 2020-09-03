@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Micropterus_cateractae</keyword>
+  <gramrel name="modifiers of X" hits="1" score="100.000">
+    <coll hits="1" score="13.990">Lythrurus_atracpiculus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="100.000">
+    <coll hits="1" score="13.410">Notropis_hypsilepis</coll>
+  </gramrel>
+</wordsketch>
+</export>

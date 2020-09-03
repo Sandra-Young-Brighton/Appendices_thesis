@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cottus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="0.150">
+    <coll hits="1" score="8.810">Catostomus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="311" score="47.920">
+    <coll hits="85" score="12.650">gobio</coll>
+    <coll hits="67" score="12.500">cognatus</coll>
+    <coll hits="44" score="11.990">bairdi</coll>
+    <coll hits="39" score="11.830">asper</coll>
+    <coll hits="24" score="11.200">poecilopus</coll>
+    <coll hits="18" score="10.790">bairdii</coll>
+    <coll hits="10" score="9.980">ricei</coll>
+    <coll hits="6" score="9.230">gulosus</coll>
+    <coll hits="3" score="8.290">carolinae</coll>
+    <coll hits="3" score="8.290">paulus</coll>
+    <coll hits="2" score="7.710">pitensis</coll>
+    <coll hits="1" score="6.710">pollux</coll>
+    <coll hits="1" score="6.710">beldingi</coll>
+    <coll hits="1" score="6.710">pygmaeus</coll>
+    <coll hits="1" score="6.710">specus</coll>
+    <coll hits="1" score="6.710">hangiongensis</coll>
+    <coll hits="1" score="6.710">nozawae</coll>
+    <coll hits="1" score="6.680">Cottidae</coll>
+    <coll hits="1" score="6.600">spp</coll>
+    <coll hits="1" score="6.590">thompsonii</coll>
+    <coll hits="1" score="5.840">aculeatus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="0.620">
+    <coll hits="1" score="9.140">description</coll>
+    <coll hits="2" score="6.900">sculpin</coll>
+    <coll hits="1" score="6.010">America</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="0.310">
+    <coll hits="1" score="13.410">Scorpaeniformes</coll>
+    <coll hits="1" score="13.410">Cottidae</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="0.150">
+    <coll hits="1" score="11.410">Percina</coll>
+  </gramrel>
+</wordsketch>
+</export>

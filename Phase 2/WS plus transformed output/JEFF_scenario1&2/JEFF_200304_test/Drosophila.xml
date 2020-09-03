@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Drosophila</keyword>
+  <gramrel name="modifiers of X" hits="2" score="11.110">
+    <coll hits="2" score="11.240">Daphnia</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.560">
+    <coll hits="1" score="13.990">melanogaster</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.560">
+    <coll hits="1" score="13.990">Lirceus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="16.670">
+    <coll hits="1" score="13.000">proporcio</coll>
+    <coll hits="2" score="7.620">proportion</coll>
+  </gramrel>
+</wordsketch>
+</export>

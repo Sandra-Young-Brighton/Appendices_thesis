@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">vitreum</keyword>
+  <gramrel name="modifiers of X" hits="20" score="54.050">
+    <coll hits="16" score="12.620">Stizostedion</coll>
+    <coll hits="1" score="10.600">Stizostedon</coll>
+    <coll hits="1" score="10.600">Stizotedion</coll>
+    <coll hits="2" score="9.560">Sander</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="2.700">
+    <coll hits="1" score="11.990">Hiodon</coll>
+  </gramrel>
+</wordsketch>
+</export>

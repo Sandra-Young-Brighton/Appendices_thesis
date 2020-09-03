@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">stellatus</keyword>
+  <gramrel name="modifiers of X" hits="3" score="21.430">
+    <coll hits="1" score="11.540" query="w1764641217">Platichthys</coll>
+    <coll hits="1" score="10.470" query="w1764641218">Anthrenocerus</coll>
+    <coll hits="1" score="4.240" query="w1764641216">Salmo</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="7.140">
+    <coll hits="1" score="12.190" query="w1764632512">Salmo</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lota</keyword>
+  <gramrel name="nouns modified by X" hits="56" score="71.790">
+    <coll hits="54" score="13.960">lota</coll>
+    <coll hits="1" score="9.160">Lota</coll>
+    <coll hits="1" score="7.410">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="1.280">modifiers of &quot;%w&quot;</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="3.850">
+    <coll hits="2" score="7.500">specie</coll>
+    <coll hits="1" score="6.570">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

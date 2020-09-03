@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Eleocharis</keyword>
+  <gramrel name="nouns modified by X" hits="13" score="10.480">
+    <coll hits="8" score="13.540" query="w1878476803">sphacelata</coll>
+    <coll hits="2" score="12.090" query="w1878476804">Triglochin</coll>
+    <coll hits="1" score="11.190" query="w1878476802">smallii</coll>
+    <coll hits="1" score="10.820" query="w1878476801">palustris</coll>
+    <coll hits="1" score="10.410" query="w1878476800">Myriophyllum</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="18" score="14.520">
+    <coll hits="14" score="13.550" query="w1878449025">Triglochin</coll>
+    <coll hits="4" score="11.870" query="w1878449024">Myriophyllum</coll>
+  </gramrel>
+  <gramrel name="X is a ..." hits="1" score="0.810">
+    <coll hits="1" score="13.990" query="w1878468352">Ceratopogonidae</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="9" score="7.260">
+    <coll hits="1" score="11.540" query="w1878531208">distichum</coll>
+    <coll hits="1" score="11.540" query="w1878531207">Paspalum</coll>
+    <coll hits="1" score="11.540" query="w1878531206">spinescens</coll>
+    <coll hits="1" score="11.540" query="w1878531205">Pseudoraphis</coll>
+    <coll hits="1" score="11.540" query="w1878531204">dactylon</coll>
+    <coll hits="1" score="11.540" query="w1878531203">Cynodon</coll>
+    <coll hits="1" score="11.540" query="w1878531202">Phragmites</coll>
+    <coll hits="1" score="11.540" query="w1878531201">Moira</coll>
+    <coll hits="1" score="11.540" query="w1878531200">Typha</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.810">
+    <coll hits="1" score="7.320" query="w1878519552">space</coll>
+  </gramrel>
+</wordsketch>
+</export>

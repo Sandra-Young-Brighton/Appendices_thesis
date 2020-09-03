@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Mysis_spp</keyword>
+  <gramrel name="X is a type of..." hits="2" score="66.670">
+    <coll hits="1" score="13.000">egg</coll>
+    <coll hits="1" score="9.910">invertebrate</coll>
+  </gramrel>
+</wordsketch>
+</export>

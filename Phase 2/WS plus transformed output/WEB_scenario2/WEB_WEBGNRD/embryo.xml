@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">embryo</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="46" score="11.470">
+    <coll hits="3" score="10.850" query="w1094960732">epiboly</coll>
+    <coll hits="4" score="10.160" query="w1094960727">ovary</coll>
+    <coll hits="1" score="9.440" query="w1094960735">L223</coll>
+    <coll hits="1" score="9.440" query="w1094960734">stickleback12</coll>
+    <coll hits="1" score="9.440" query="w1094960733">postfertilization</coll>
+    <coll hits="1" score="9.440" query="w1094960729">Medaka</coll>
+    <coll hits="1" score="9.410" query="w1094960736">texana</coll>
+    <coll hits="1" score="9.410" query="w1094960725">5a</coll>
+    <coll hits="1" score="9.160" query="w1094960720">heteroclitus</coll>
+    <coll hits="1" score="9.020" query="w1094960716">salmoide</coll>
+    <coll hits="1" score="9.000" query="w1094960730">aim</coll>
+    <coll hits="1" score="8.980" query="w1094960728">zebrafish</coll>
+    <coll hits="1" score="8.960" query="w1094960724">mill</coll>
+    <coll hits="1" score="8.650" query="w1094960722">hypoxia</coll>
+    <coll hits="1" score="8.330" query="w1094960731">chamber</coll>
+    <coll hits="1" score="8.130" query="w1094960715">sac</coll>
+    <coll hits="1" score="7.850" query="w1094960726">death</coll>
+    <coll hits="1" score="7.440" query="w1094960719">velocity</coll>
+    <coll hits="5" score="7.170" query="w1094960713">stage</coll>
+    <coll hits="1" score="7.000" query="w1094960718">redd</coll>
+    <coll hits="2" score="6.780" query="w1094960714">male</coll>
+    <coll hits="3" score="6.490" query="w1094960710">environment</coll>
+    <coll hits="2" score="6.080" query="w1094960723">lamprey</coll>
+    <coll hits="1" score="6.020" query="w1094960712">control</coll>
+    <coll hits="1" score="5.970" query="w1094960711">organism</coll>
+  </gramrel>
+</wordsketch>
+</export>

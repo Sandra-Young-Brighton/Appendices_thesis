@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">calyciflorus</keyword>
+  <gramrel name="modifiers of X" hits="5" score="83.330">
+    <coll hits="4" score="13.190" query="w2044349633">Brachionus</coll>
+    <coll hits="1" score="12.190" query="w2044349632">dolichoptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="16.670">
+    <coll hits="1" score="11.990" query="w2044367232">cochlearis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="16.670">
+    <coll hits="1" score="13.990" query="w2044339456">cochlearis</coll>
+  </gramrel>
+</wordsketch>
+</export>

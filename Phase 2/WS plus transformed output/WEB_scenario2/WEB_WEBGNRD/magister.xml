@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">magister</keyword>
+  <gramrel name="modifiers of X" hits="5" score="41.670">
+    <coll hits="3" score="13.580" query="w2056788482">Berrytheuthis</coll>
+    <coll hits="1" score="12.410" query="w2056788481">Metacarcinus</coll>
+    <coll hits="1" score="12.410" query="w2056788480">Cancer</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="8.330">
+    <coll hits="1" score="5.420" query="w2056813632">Sea</coll>
+  </gramrel>
+</wordsketch>
+</export>

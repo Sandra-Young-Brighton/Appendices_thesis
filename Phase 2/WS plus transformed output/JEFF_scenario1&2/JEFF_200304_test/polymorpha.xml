@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">polymorpha</keyword>
+  <gramrel name="modifiers of X" hits="25" score="83.330">
+    <coll hits="25" score="13.940">Dreissena</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="6.670">
+    <coll hits="1" score="13.410">bugensis</coll>
+    <coll hits="1" score="7.200">Bay</coll>
+  </gramrel>
+</wordsketch>
+</export>

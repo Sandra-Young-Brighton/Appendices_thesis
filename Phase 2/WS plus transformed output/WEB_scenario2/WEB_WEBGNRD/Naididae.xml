@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Naididae</keyword>
+  <gramrel name="nouns modified by X" hits="6" score="4.880">
+    <coll hits="6" score="9.240" query="w2188802176">indet</coll>
+  </gramrel>
+</wordsketch>
+</export>

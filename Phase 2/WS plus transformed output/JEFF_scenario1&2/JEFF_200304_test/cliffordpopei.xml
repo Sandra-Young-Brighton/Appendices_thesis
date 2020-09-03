@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cliffordpopei</keyword>
+  <gramrel name="modifiers of X" hits="9" score="56.250">
+    <coll hits="9" score="12.810">Rhinogobius</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="18.750">
+    <coll hits="3" score="13.990">giurinus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="37.500">
+    <coll hits="1" score="9.830">morning</coll>
+    <coll hits="2" score="6.220">season</coll>
+    <coll hits="1" score="5.730">spring</coll>
+    <coll hits="1" score="3.480">lake</coll>
+    <coll hits="1" score="3.150">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

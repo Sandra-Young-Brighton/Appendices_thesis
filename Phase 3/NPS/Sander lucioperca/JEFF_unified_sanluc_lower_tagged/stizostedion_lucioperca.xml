@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_sanluc_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">stizostedion_lucioperca</keyword>
+  <gramrel name="modifiers of X" hits="8" score="16.000">
+    <coll hits="7" score="13.280">pikeperch</coll>
+    <coll hits="1" score="11.830">gymnocephalus_cernuus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Abramis</keyword>
+  <gramrel name="modifiers of X" hits="2" score="1.350">
+    <coll hits="2" score="10.110" query="w1700690368">Scardinius</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="92" score="62.160">
+    <coll hits="84" score="13.900" query="w1700699456">brama</coll>
+    <coll hits="3" score="9.950" query="w1700699461">ballerus</coll>
+    <coll hits="1" score="8.460" query="w1700699462">blicca</coll>
+    <coll hits="1" score="8.430" query="w1700699460">sapa</coll>
+    <coll hits="1" score="8.430" query="w1700699457">Blicca</coll>
+    <coll hits="1" score="8.330" query="w1700699459">wartmanni</coll>
+    <coll hits="1" score="8.100" query="w1700699458">bjoerkna</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="2.030">
+    <coll hits="1" score="11.190" query="w1700759617">fluviatilis</coll>
+    <coll hits="1" score="11.190" query="w1700759616">Perca</coll>
+    <coll hits="1" score="7.890" query="w1700759618">Cyprinidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lepisosteus</keyword>
+  <gramrel name="nouns modified by X" hits="7" score="35.000">
+    <coll hits="4" score="13.410">osseus</coll>
+    <coll hits="2" score="12.830">platostomus</coll>
+    <coll hits="1" score="11.990">oculatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

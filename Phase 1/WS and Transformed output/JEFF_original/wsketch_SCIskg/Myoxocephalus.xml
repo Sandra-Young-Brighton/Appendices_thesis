@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Myoxocephalus</keyword>
+  <gramrel name="nouns modified by X" hits="7" score="87.500">
+    <coll hits="4" score="13.540">thompsonii</coll>
+    <coll hits="1" score="11.990">thompsoni</coll>
+    <coll hits="1" score="11.990">scorpius</coll>
+    <coll hits="1" score="6.360">larva</coll>
+  </gramrel>
+</wordsketch>
+</export>

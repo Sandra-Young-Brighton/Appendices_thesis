@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_untagged</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="49">[lc=&quot;whiting&quot; | lemma_lc=&quot;whiting&quot;]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#25" num="0" label="_">
+    <left>in fishing mortality, their primary threat.</left>
+    <kwic> whiting</kwic>
+    <right> porbeagle atlantic cod cusk white hake</right>
+  </line>
+  <line refs="doc#76" num="1" label="_">
+    <left>for sand goby (pomatoschistus minutus),</left>
+    <kwic> whiting</kwic>
+    <right> (merlangius merlangus), bass (dicentrarchus</right>
+  </line>
+  <line refs="doc#76" num="2" label="_">
+    <left>nitrogen, and low temperature. plaice,</left>
+    <kwic> whiting</kwic>
+    <right>, sand goby, bass, and dab were preferentially</right>
+  </line>
+  <line refs="doc#125" num="3" label="_">
+    <left>r., larval development of the &lt;/p&gt; &lt;p&gt; japanese</left>
+    <kwic> whiting</kwic>
+    <right>, &lt;/p&gt; &lt;p&gt; sillago japonica &lt;/p&gt; &lt;p&gt; . jap. j.</right>
+  </line>
+  <line refs="doc#133" num="4" label="_">
+    <left>sclerochronology growth of king george</left>
+    <kwic> whiting</kwic>
+    <right>: an investigation of climatic 18:25</right>
+  </line>
+  <line refs="doc#133" num="5" label="_">
+    <left>11:40 imelda hehir wsageoral_ hehir_04 sea</left>
+    <kwic> whiting</kwic>
+    <right> otoliths can otolith weight be used as a</right>
+  </line>
+  <line refs="doc#135" num="6" label="_">
+    <left>between growth and reproduction blue</left>
+    <kwic> whiting</kwic>
+    <right> (micromesistius australis) jennings et al. (</right>
+  </line>
+  <line refs="doc#199" num="7" label="_">
+    <left>with a skin lesion, herring (clupea harengus),</left>
+    <kwic> whiting</kwic>
+    <right> (merlangius merlangus) and poor cod (</right>
+  </line>
+  <line refs="doc#211" num="8" label="_">
+    <left>j. r. g. &lt;/p&gt; &lt;p&gt; . &lt;/p&gt; &lt;p&gt; breeding and growth of</left>
+    <kwic> whiting</kwic>
+    <right>, merlangius merlangus, in captivity &lt;/p&gt; &lt;p&gt; ,</right>
+  </line>
+  <line refs="doc#218" num="9" label="_">
+    <left>(scott, 1969). the same has been reported for</left>
+    <kwic> whiting</kwic>
+    <right> (odontagatus merlangus) infected with</right>
+  </line>
+  <line refs="doc#261" num="10" label="_">
+    <left>norway pout merlangius merlangus negative</left>
+    <kwic> whiting</kwic>
+    <right> micromesistius poutassou negative blue</right>
+  </line>
+  <line refs="doc#261" num="11" label="_">
+    <left>micromesistius poutassou negative blue</left>
+    <kwic> whiting</kwic>
+    <right> argentina sphyraena negative lesser</right>
+  </line>
+  <line refs="doc#261" num="12" label="_">
+    <left>, wells sillago ciliata negative sand</left>
+    <kwic> whiting</kwic>
+    <right> toxotes chatareus negative common archer fish</right>
+  </line>
+  <line refs="doc#414" num="13" label="_">
+    <left>(cod, pollock, haddock, saithe, hake and</left>
+    <kwic> whiting</kwic>
+    <right>) also support important fisheries.</right>
+  </line>
+  <line refs="doc#464" num="14" label="_">
+    <left>, skipper striped bream mullet red mullet corb</left>
+    <kwic> whiting</kwic>
+    <right>, marling blue whiting lateinisch atherina</right>
+  </line>
+  <line refs="doc#464" num="15" label="_">
+    <left>mullet red mullet corb whiting, marling blue</left>
+    <kwic> whiting</kwic>
+    <right> lateinisch atherina presbyter pollachius</right>
+  </line>
+  <line refs="doc#464" num="16" label="_">
+    <left>tuna, tunna, tunny tilapia burbot, eel-pout</left>
+    <kwic> whiting</kwic>
+    <right>, marling bass wreckfish, stone-bass grouper</right>
+  </line>
+  <line refs="doc#473" num="17" label="_">
+    <left>chub, windfish, corporal, chivin,</left>
+    <kwic> whiting</kwic>
+    <right>, shining dace &lt;/p&gt; &lt;p&gt; no &lt;/p&gt; &lt;p&gt; fathead</right>
+  </line>
+  <line refs="doc#502" num="18" label="_">
+    <left>fishery for pacific hake, also known as pacific</left>
+    <kwic> whiting</kwic>
+    <right>, is among the top three fisheries by volume on</right>
+  </line>
+  <line refs="doc#579" num="19" label="_">
+    <left>diet composition between pelagic and demersal</left>
+    <kwic> whiting</kwic>
+    <right> in the north sea. j. fish biol., 55(5):</right>
+  </line>
+  <line refs="doc#593" num="20" label="_">
+    <left>milky water during summer months. these &quot;</left>
+    <kwic>whiting</kwic>
+    <right> events&quot; result from the precipitation of</right>
+  </line>
+  <line refs="doc#593" num="21" label="_">
+    <left>(calcite =calcium carbonate, caco3).</left>
+    <kwic> whitings</kwic>
+    <right> can inhibit zooplankton feeding, increase</right>
+  </line>
+  <line refs="doc#593" num="22" label="_">
+    <left>light penetration and primary production.</left>
+    <kwic> whitings</kwic>
+    <right> result from increased photosynthetic</right>
+  </line>
+  <line refs="doc#593" num="23" label="_">
+    <left>of phytoplankton kept the ph low and hence no</left>
+    <kwic> whiting</kwic>
+    <right> event occurred that year (stewart et al. 1981;</right>
+  </line>
+  <line refs="doc#619" num="24" label="_">
+    <left>and fish, usually greater silver smelt and blue</left>
+    <kwic> whiting</kwic>
+    <right> (bloch, d. and fuglø, e. 1999). &lt;/p&gt; &lt;p&gt; 4.1</right>
+  </line>
+  <line refs="doc#721" num="25" label="_">
+    <left>plans and actual surveys. moon river press,</left>
+    <kwic> whiting</kwic>
+    <right>, me. daye, p. g. (1982). tolerance of atlantic</right>
+  </line>
+  <line refs="doc#721" num="26" label="_">
+    <left>machias 1765-1926. union-republic, machias.</left>
+    <kwic> whiting</kwic>
+    <right>, m. and w. otto 2008. spatial and temporal</right>
+  </line>
+  <line refs="doc#756" num="27" label="_">
+    <left>(vimba vimba), whitefish (coregonus sp.) and</left>
+    <kwic> whiting</kwic>
+    <right> (merlangius merlangus). &lt;/p&gt; &lt;p&gt; it b) acque</right>
+  </line>
+  <line refs="doc#757" num="28" label="_">
+    <left>(vimba vimba), whitefish (coregonus sp.) and</left>
+    <kwic> whiting</kwic>
+    <right> (merlangius merlangus). &lt;/p&gt; &lt;p&gt; sl navadni</right>
+  </line>
+  <line refs="doc#758" num="29" label="_">
+    <left>(vimba vimba), whitefish (coregonus sp.) and</left>
+    <kwic> whiting</kwic>
+    <right> (merlangius merlangus). &lt;/p&gt; &lt;p&gt; en (b)</right>
+  </line>
+  <line refs="doc#761" num="30" label="_">
+    <left>(vimba vimba), whitefish (coregonus sp.) and</left>
+    <kwic> whiting</kwic>
+    <right> (merlangius merlangus). &lt;/p&gt; &lt;p&gt; sk mala som</right>
+  </line>
+  <line refs="doc#762" num="31" label="_">
+    <left>(vimba vimba), whitefish (coregonus sp.) and</left>
+    <kwic> whiting</kwic>
+    <right> (merlangius merlangus). &lt;/p&gt; &lt;p&gt; et</right>
+  </line>
+  <line refs="doc#781" num="32" label="_">
+    <left>, dab, plaice, halibut, sea bass, sea bream,</left>
+    <kwic> whiting</kwic>
+    <right>, pike perch, haddock, skate, dogfish, octopus</right>
+  </line>
+  <line refs="doc#932" num="33" label="_">
+    <left>haddock - 1 - - - - merlangius merlangus</left>
+    <kwic> whiting</kwic>
+    <right> - - - - - 1 osmerus eperlanus smelt 2 - - 4 1 5 perca</right>
+  </line>
+  <line refs="doc#932" num="34" label="_">
+    <left>haddock - - - - - - merlangius merlangus</left>
+    <kwic> whiting</kwic>
+    <right> - - - - - - osmerus eperlanus smelt 70 4 2 62 6 1 perca</right>
+  </line>
+  <line refs="doc#932" num="35" label="_">
+    <left>haddock - - - - - - merlangius merlangus</left>
+    <kwic> whiting</kwic>
+    <right> - - - - - - osmerus eperlanus smelt - 1 - - - - perca</right>
+  </line>
+  <line refs="doc#932" num="36" label="_">
+    <left>haddock - - - - - - merlangius merlangus</left>
+    <kwic> whiting</kwic>
+    <right> - - - - - - osmerus eperlanus smelt 2 - - 7 1 7 perca</right>
+  </line>
+  <line refs="doc#933" num="37" label="_">
+    <left>, smelt, lumpsucker, sculpin, bullhead,</left>
+    <kwic> whiting</kwic>
+    <right> smelt, sculpin, fourbearded rockling,</right>
+  </line>
+  <line refs="doc#933" num="38" label="_">
+    <left>, sculpin, fourbearded rockling, lumpsucker,</left>
+    <kwic> whiting</kwic>
+    <right>, bullhead, eelpout smelt fish community</right>
+  </line>
+  <line refs="doc#933" num="39" label="_">
+    <left>lumpsucker, eelpout, four-bearded rockling,</left>
+    <kwic>whiting</kwic>
+    <right> lumpsucker, sculpin, whiting hydroacoustic</right>
+  </line>
+  <line refs="doc#933" num="40" label="_">
+    <left>rockling,whiting lumpsucker, sculpin,</left>
+    <kwic> whiting</kwic>
+    <right> hydroacoustic survey weight no cpue poland</right>
+  </line>
+  <line refs="doc#933" num="41" label="_">
+    <left>measured per four-breaded rockling, species)</left>
+    <kwic> whiting</kwic>
+    <right>, bullhead, seasnail, lumpsucker, cpue young</right>
+  </line>
+  <line refs="doc#952" num="42" label="_">
+    <left>summer precipitation of calcium carbonate (</left>
+    <kwic>whiting</kwic>
+    <right> events) typically decrease water clarity.</right>
+  </line>
+  <line refs="doc#952" num="43" label="_">
+    <left>decline? analysis of spring blooms and</left>
+    <kwic> whiting</kwic>
+    <right> events in lake ontario. j. great lakes res. 39:</right>
+  </line>
+  <line refs="doc#1029" num="44" label="_">
+    <left>| | |bluegill |lepomis macrochirus | |blue</left>
+    <kwic> whiting</kwic>
+    <right> |micromesistius poutassou | |bluntnose</right>
+  </line>
+  <line refs="doc#1029" num="45" label="_">
+    <left>spp. | |white perch |morone americanus | |</left>
+    <kwic>whiting</kwic>
+    <right> |merlangius merlangus | |yellowback seabream</right>
+  </line>
+  <line refs="doc#1030" num="46" label="_">
+    <left>| | |bluegill |lepomis macrochirus | |blue</left>
+    <kwic> whiting</kwic>
+    <right> |micromesistius poutassou | |bluntnose</right>
+  </line>
+  <line refs="doc#1030" num="47" label="_">
+    <left>spp. | |white perch |morone americanus | |</left>
+    <kwic>whiting</kwic>
+    <right> |merlangius merlangus | |yellowback seabream</right>
+  </line>
+  <line refs="doc#1066" num="48" label="_">
+    <left>hirano, r., larval development of the japanese</left>
+    <kwic> whiting</kwic>
+    <right>, sillago japonica. jap. j. ichthyol. vol.39,</right>
+  </line>
+</concordance>
+</export>

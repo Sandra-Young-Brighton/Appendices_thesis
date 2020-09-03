@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Neogobius</keyword>
+  <gramrel name="nouns modified by X" hits="87" score="76.320">
+    <coll hits="83" score="13.940">melanostomus</coll>
+    <coll hits="1" score="8.540">kessleri</coll>
+    <coll hits="1" score="8.310">marmoratus</coll>
+    <coll hits="2" score="6.300">fluviatilis</coll>
+  </gramrel>
+</wordsketch>
+</export>

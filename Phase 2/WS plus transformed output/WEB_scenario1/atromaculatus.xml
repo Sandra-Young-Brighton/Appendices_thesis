@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">atromaculatus</keyword>
+  <gramrel name="modifiers of X" hits="19" score="55.880">
+    <coll hits="19" score="13.960">Semotilus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="2.940">
+    <coll hits="1" score="11.670">limi</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.940">
+    <coll hits="1" score="13.410">commersoni</coll>
+  </gramrel>
+</wordsketch>
+</export>

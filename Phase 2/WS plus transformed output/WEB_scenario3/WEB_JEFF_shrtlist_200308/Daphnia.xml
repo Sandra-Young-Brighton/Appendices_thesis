@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Daphnia</keyword>
+  <gramrel name="modifiers of X" hits="1" score="0.270">
+    <coll hits="1" score="10.820">Bosmina</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="44" score="11.800">
+    <coll hits="9" score="12.380">longispina</coll>
+    <coll hits="7" score="12.130">hyalina</coll>
+    <coll hits="7" score="11.740">pulex</coll>
+    <coll hits="4" score="11.350">Bosmina</coll>
+    <coll hits="3" score="11.030">galeata</coll>
+    <coll hits="4" score="10.890">spp</coll>
+    <coll hits="2" score="10.470">carinata</coll>
+    <coll hits="1" score="9.500">Rotifers</coll>
+    <coll hits="1" score="9.500">Cultus</coll>
+    <coll hits="1" score="9.500">Chironomid</coll>
+    <coll hits="1" score="9.480">Copepods</coll>
+    <coll hits="1" score="9.480">Leptodora</coll>
+    <coll hits="1" score="9.480">Diaphanosoma</coll>
+    <coll hits="1" score="9.440">Ceriodaphnia</coll>
+    <coll hits="1" score="9.320">Decapoda</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="1.610">
+    <coll hits="2" score="12.680">Ceriodaphnia</coll>
+    <coll hits="2" score="12.540">Bosmina</coll>
+    <coll hits="1" score="12.190">Cultus</coll>
+    <coll hits="1" score="11.990">Diaphanosoma</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="14" score="3.750">
+    <coll hits="1" score="11.000">mercedi</coll>
+    <coll hits="1" score="9.950">liter</coll>
+    <coll hits="2" score="9.890">YOY</coll>
+    <coll hits="1" score="9.240">trade-off</coll>
+    <coll hits="1" score="7.020">Reservoir</coll>
+    <coll hits="2" score="5.360">perch</coll>
+    <coll hits="1" score="5.290">summer</coll>
+    <coll hits="1" score="5.170">predation</coll>
+    <coll hits="1" score="3.700">year</coll>
+    <coll hits="1" score="3.100">trout</coll>
+    <coll hits="1" score="2.880">lake</coll>
+    <coll hits="1" score="1.750">fish</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="0.800">
+    <coll hits="1" score="13.000">Keratella</coll>
+    <coll hits="2" score="12.830">Cladocera</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="0.540">
+    <coll hits="1" score="13.410">Polyarthra</coll>
+    <coll hits="1" score="13.410">Keratella</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.270">
+    <coll hits="1" score="10.820">diet</coll>
+  </gramrel>
+</wordsketch>
+</export>

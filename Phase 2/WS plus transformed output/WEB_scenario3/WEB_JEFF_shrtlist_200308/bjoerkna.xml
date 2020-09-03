@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">bjoerkna</keyword>
+  <gramrel name="modifiers of X" hits="27" score="84.380">
+    <coll hits="24" score="13.910">Blicca</coll>
+    <coll hits="1" score="10.140">aspius</coll>
+    <coll hits="1" score="9.710">rutilus</coll>
+    <coll hits="1" score="8.150">Abramis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="3.130">
+    <coll hits="1" score="10.470">carassius</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="9.380">
+    <coll hits="1" score="13.000">delineatus</coll>
+    <coll hits="1" score="12.680">carassius</coll>
+    <coll hits="1" score="10.350">fluviatilis</coll>
+  </gramrel>
+</wordsketch>
+</export>

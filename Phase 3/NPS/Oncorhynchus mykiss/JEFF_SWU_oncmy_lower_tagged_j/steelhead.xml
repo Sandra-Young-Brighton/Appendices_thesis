@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">steelhead</keyword>
+  <gramrel name="nouns modified by X" hits="9" score="1.750">
+    <coll hits="2" score="12.540">steelhead</coll>
+    <coll hits="1" score="11.540">oncorhynchus_mykiss</coll>
+    <coll hits="1" score="11.410">rainbow_trout</coll>
+    <coll hits="1" score="11.410">rainbow_trout</coll>
+    <coll hits="3" score="10.820">oncorhynchus_mykiss</coll>
+    <coll hits="1" score="10.750">oncorhynchus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="15" score="2.910">
+    <coll hits="3" score="11.150">oncorhynchus_mykiss</coll>
+    <coll hits="5" score="10.860">rainbow_trout</coll>
+    <coll hits="1" score="10.240">rainbow_trout</coll>
+    <coll hits="5" score="9.910">trout</coll>
+    <coll hits="1" score="7.860">salmo_trutta</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="2" score="0.390">modifiers of &quot;%w&quot;</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="80" score="15.530">
+    <coll hits="2" score="8.890">Washington</coll>
+    <coll hits="1" score="8.590">powerhouse</coll>
+    <coll hits="1" score="8.590">schaller</coll>
+    <coll hits="1" score="8.430">placement</coll>
+    <coll hits="4" score="8.410">unit</coll>
+    <coll hits="1" score="8.370">snake</coll>
+    <coll hits="1" score="8.250">drain</coll>
+    <coll hits="1" score="8.250">valley</coll>
+    <coll hits="1" score="8.040">washington</coll>
+    <coll hits="1" score="7.990">step</coll>
+    <coll hits="1" score="7.970">proximity</coll>
+    <coll hits="7" score="7.710">basin</coll>
+    <coll hits="3" score="7.710">gradient</coll>
+    <coll hits="1" score="7.670">california</coll>
+    <coll hits="1" score="7.590">sympatry</coll>
+    <coll hits="1" score="7.500">ontario</coll>
+    <coll hits="1" score="7.450">behavior</coll>
+    <coll hits="1" score="7.190">ocean</coll>
+    <coll hits="1" score="7.180">slope</coll>
+    <coll hits="1" score="7.160">electrofishing</coll>
+    <coll hits="21" score="7.030">river</coll>
+    <coll hits="1" score="7.030">riffle</coll>
+    <coll hits="1" score="6.700">function</coll>
+    <coll hits="1" score="6.680">event</coll>
+    <coll hits="1" score="6.660">drainage</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="0.390">
+    <coll hits="1" score="13.410">interaction</coll>
+    <coll hits="1" score="13.410">hypothesis</coll>
+  </gramrel>
+  <gramrel name="... is a X" hits="1" score="0.190">
+    <coll hits="1" score="13.410">trout</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.190">
+    <coll hits="1" score="13.000">juve</coll>
+  </gramrel>
+</wordsketch>
+</export>

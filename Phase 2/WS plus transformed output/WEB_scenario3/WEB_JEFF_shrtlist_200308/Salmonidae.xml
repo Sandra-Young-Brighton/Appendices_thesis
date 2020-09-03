@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salmonidae</keyword>
+  <gramrel name="modifiers of X" hits="33" score="12.410">
+    <coll hits="6" score="12.190">thymallus</coll>
+    <coll hits="5" score="12.070">Salmoniformes</coll>
+    <coll hits="4" score="11.640">Catostomidae</coll>
+    <coll hits="2" score="10.820">Umbridae</coll>
+    <coll hits="1" score="9.910">Esocidae</coll>
+    <coll hits="1" score="9.910">pacificus</coll>
+    <coll hits="1" score="9.910">clupeaformis</coll>
+    <coll hits="1" score="9.870">Ictaluridae</coll>
+    <coll hits="1" score="9.870">keta</coll>
+    <coll hits="1" score="9.830">Percidae</coll>
+    <coll hits="1" score="9.790">fontinalis</coll>
+    <coll hits="1" score="9.750">namaycush</coll>
+    <coll hits="1" score="9.670">Osteichthyes</coll>
+    <coll hits="1" score="9.610">Cyprinidae</coll>
+    <coll hits="1" score="9.440">Thaleichthys</coll>
+    <coll hits="1" score="9.270">salar</coll>
+    <coll hits="1" score="7.320">Thymallus</coll>
+    <coll hits="1" score="5.950">Coregonus</coll>
+    <coll hits="1" score="4.870">Salvelinus</coll>
+    <coll hits="1" score="4.550">Oncorhynchus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="1.500">
+    <coll hits="1" score="12.680">Coregonidae</coll>
+    <coll hits="1" score="12.410">Osteichthyes</coll>
+    <coll hits="1" score="11.300">Cottidae</coll>
+    <coll hits="1" score="5.540">mykiss</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="5" score="1.880">
+    <coll hits="1" score="12.410">Osteichthyes</coll>
+    <coll hits="1" score="12.410">Coregonidae</coll>
+    <coll hits="1" score="12.190">Cottidae</coll>
+    <coll hits="1" score="12.190">Thymallus</coll>
+    <coll hits="1" score="11.990">Gasterosteidae</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="23" score="8.650">
+    <coll hits="5" score="12.270">Salmo</coll>
+    <coll hits="5" score="12.070">Coregonus</coll>
+    <coll hits="3" score="11.770">salar</coll>
+    <coll hits="2" score="11.350">genus</coll>
+    <coll hits="2" score="11.190">trutta</coll>
+    <coll hits="1" score="10.410">thymallus</coll>
+    <coll hits="1" score="10.410">Thymallus</coll>
+    <coll hits="1" score="10.410">leucomaenis</coll>
+    <coll hits="1" score="10.410">mykiss</coll>
+    <coll hits="1" score="10.410">Oncorhynchus</coll>
+    <coll hits="1" score="10.000">Salvelinus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="0.750">
+    <coll hits="1" score="7.340">Africa</coll>
+    <coll hits="1" score="6.380">catchment</coll>
+  </gramrel>
+</wordsketch>
+</export>

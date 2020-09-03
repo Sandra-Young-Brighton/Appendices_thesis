@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ephemeroptera</keyword>
+  <gramrel name="modifiers of X" hits="7" score="5.980">
+    <coll hits="2" score="12.540">Megaloptera</coll>
+    <coll hits="1" score="11.830">Oligochaeta</coll>
+    <coll hits="1" score="11.540">Simuliidae</coll>
+    <coll hits="1" score="11.300">Amphipoda</coll>
+    <coll hits="1" score="10.000">Trichoptera</coll>
+    <coll hits="1" score="9.870">Diptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="27" score="23.080">
+    <coll hits="11" score="13.100">nymph</coll>
+    <coll hits="7" score="12.630">Plecoptera</coll>
+    <coll hits="3" score="11.060">Trichoptera</coll>
+    <coll hits="2" score="10.870">Odonata</coll>
+    <coll hits="1" score="10.040">Simuliidae</coll>
+    <coll hits="1" score="10.000">Lepidoptera</coll>
+    <coll hits="1" score="8.620">salmon</coll>
+    <coll hits="1" score="6.290">larva</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="18" score="15.380">
+    <coll hits="6" score="12.830">Plecoptera</coll>
+    <coll hits="3" score="11.720">Diptera</coll>
+    <coll hits="3" score="11.370">Trichoptera</coll>
+    <coll hits="2" score="11.240">Odonata</coll>
+    <coll hits="1" score="10.680">Lepidoptera</coll>
+    <coll hits="1" score="10.470">Simuliidae</coll>
+    <coll hits="1" score="8.080">salmon</coll>
+    <coll hits="1" score="8.070">larva</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="5.130">
+    <coll hits="1" score="10.000">WTPs</coll>
+    <coll hits="1" score="9.270">hand</coll>
+    <coll hits="1" score="6.930">stomach</coll>
+    <coll hits="1" score="6.060">May</coll>
+    <coll hits="1" score="5.180">diet</coll>
+    <coll hits="1" score="5.060">sample</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.850">
+    <coll hits="1" score="6.510">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

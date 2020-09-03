@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">japonicas</keyword>
+  <gramrel name="modifiers of X" hits="181" score="54.190">
+    <coll hits="181" score="13.230">Anguilla</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.300">
+    <coll hits="1" score="10.040">sapidissima</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="0.600">
+    <coll hits="1" score="13.410">rostrata</coll>
+    <coll hits="1" score="13.410">sapidissima</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="34" score="10.180">
+    <coll hits="6" score="10.770">Coast</coll>
+    <coll hits="1" score="9.830">Cause</coll>
+    <coll hits="1" score="9.530">VI</coll>
+    <coll hits="1" score="8.690">Taiwan</coll>
+    <coll hits="1" score="8.600">Current</coll>
+    <coll hits="1" score="8.470">contrast</coll>
+    <coll hits="1" score="8.460">captivity</coll>
+    <coll hits="4" score="7.370">freshwater</coll>
+    <coll hits="1" score="7.180">Ocean</coll>
+    <coll hits="2" score="6.810">Bay</coll>
+    <coll hits="1" score="6.400">coast</coll>
+    <coll hits="7" score="6.350">river</coll>
+    <coll hits="1" score="6.130">reach</coll>
+    <coll hits="1" score="5.910">content</coll>
+    <coll hits="1" score="5.410">survey</coll>
+    <coll hits="1" score="4.640">change</coll>
+    <coll hits="1" score="4.140">site</coll>
+    <coll hits="1" score="3.740">River</coll>
+    <coll hits="1" score="3.070">water</coll>
+  </gramrel>
+</wordsketch>
+</export>

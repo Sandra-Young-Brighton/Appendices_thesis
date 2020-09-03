@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salvelinus_confluentus</keyword>
+  <gramrel name="modifiers of X" hits="18" score="22.780">
+    <coll hits="1" score="10.750">Oncorhynchus_nerka</coll>
+    <coll hits="17" score="10.020">trout</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="5" score="6.330">
+    <coll hits="2" score="11.140">trout</coll>
+    <coll hits="2" score="7.790">specie</coll>
+    <coll hits="1" score="6.820">fish</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="5.060">
+    <coll hits="1" score="8.930">onset</coll>
+    <coll hits="1" score="8.820">creek</coll>
+    <coll hits="1" score="7.120">Basin</coll>
+    <coll hits="1" score="6.470">watershed</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="1.270">
+    <coll hits="1" score="12.680">Carpiodes_cyprinus</coll>
+  </gramrel>
+</wordsketch>
+</export>

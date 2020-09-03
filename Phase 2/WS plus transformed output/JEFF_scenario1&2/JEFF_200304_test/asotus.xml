@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">asotus</keyword>
+  <gramrel name="modifiers of X" hits="8" score="61.540">
+    <coll hits="8" score="13.090">Silurus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="7.690">
+    <coll hits="1" score="8.030">Linnaeus</coll>
+  </gramrel>
+</wordsketch>
+</export>

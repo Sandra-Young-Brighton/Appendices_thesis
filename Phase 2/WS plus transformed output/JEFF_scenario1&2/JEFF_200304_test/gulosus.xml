@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">gulosus</keyword>
+  <gramrel name="modifiers of X" hits="4" score="30.770">
+    <coll hits="2" score="8.760">Lepomis</coll>
+    <coll hits="2" score="8.600">Cottus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cerebralis</keyword>
+  <gramrel name="modifiers of X" hits="6" score="40.000">
+    <coll hits="2" score="13.000" query="w1994357121">Myxosoma</coll>
+    <coll hits="4" score="12.600" query="w1994357120">Myxobolus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="6.670">
+    <coll hits="1" score="12.680" query="w1994379072">neurobius</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">mordax</keyword>
+  <gramrel name="modifiers of X" hits="55" score="69.620">
+    <coll hits="40" score="13.300">Osmerus</coll>
+    <coll hits="15" score="12.650">Engraulis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="2.530">
+    <coll hits="1" score="11.540">Percina</coll>
+    <coll hits="1" score="9.020">pseudoharengus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.270">
+    <coll hits="1" score="13.990">pseudoharengus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.270">
+    <coll hits="1" score="9.190">maximum</coll>
+  </gramrel>
+</wordsketch>
+</export>

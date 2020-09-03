@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">ruffe</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="27" score="10.000">
+    <coll hits="3" score="9.450">vendace</coll>
+    <coll hits="3" score="8.690">Finland</coll>
+    <coll hits="1" score="8.220">Water</coll>
+    <coll hits="2" score="6.780">Lakes</coll>
+    <coll hits="2" score="6.610">whitefish</coll>
+    <coll hits="2" score="6.600">winter</coll>
+    <coll hits="1" score="6.110">mm.</coll>
+    <coll hits="1" score="5.940">Europe</coll>
+    <coll hits="2" score="5.720">egg</coll>
+    <coll hits="2" score="5.340">predator</coll>
+    <coll hits="1" score="5.300">fishery</coll>
+    <coll hits="1" score="4.850">community</coll>
+    <coll hits="1" score="4.790">Lake</coll>
+    <coll hits="1" score="4.350">perch</coll>
+    <coll hits="2" score="3.880">lake</coll>
+    <coll hits="1" score="3.850">species</coll>
+    <coll hits="1" score="3.750">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Linneaus</keyword>
+  <gramrel name="modifiers of X" hits="10" score="90.910">
+    <coll hits="2" score="12.410">lota</coll>
+    <coll hits="2" score="11.090">salar</coll>
+    <coll hits="1" score="10.680">marinus</coll>
+    <coll hits="1" score="10.140">trutta</coll>
+    <coll hits="1" score="6.950">Petromyzon</coll>
+    <coll hits="3" score="5.850">Salmo</coll>
+  </gramrel>
+</wordsketch>
+</export>

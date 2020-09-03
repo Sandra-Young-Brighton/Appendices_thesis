@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">minutus</keyword>
+  <gramrel name="modifiers of X" hits="23" score="45.100">
+    <coll hits="14" score="13.520" query="w1973800961">Pomatoschistus</coll>
+    <coll hits="5" score="12.460" query="w1973800962">Pseudocalanus</coll>
+    <coll hits="4" score="11.950" query="w1973800960">Trisopterus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.960">
+    <coll hits="1" score="5.650" query="w1973841472">winter</coll>
+  </gramrel>
+</wordsketch>
+</export>

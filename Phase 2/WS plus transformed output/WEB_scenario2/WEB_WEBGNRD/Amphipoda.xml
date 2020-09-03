@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Amphipoda</keyword>
+  <gramrel name="modifiers of X" hits="5" score="5.680">
+    <coll hits="1" score="12.410" query="w1461735235">Pontoporeiidae</coll>
+    <coll hits="2" score="11.300" query="w1461735233">Chironomidae</coll>
+    <coll hits="1" score="11.190" query="w1461735234">Decapoda</coll>
+    <coll hits="1" score="10.820" query="w1461735232">Crustacea</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="4.550">
+    <coll hits="1" score="12.680" query="w1461765826">Isopoda</coll>
+    <coll hits="1" score="11.410" query="w1461765824">Chironomidae</coll>
+    <coll hits="2" score="11.090" query="w1461765825">Diptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="4.550">
+    <coll hits="2" score="13.410" query="w1461712194">Isopoda</coll>
+    <coll hits="1" score="11.670" query="w1461712192">Nematoda</coll>
+    <coll hits="1" score="11.090" query="w1461712193">Chironomidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.140">
+    <coll hits="1" score="6.960" query="w1461797248">September</coll>
+  </gramrel>
+</wordsketch>
+</export>

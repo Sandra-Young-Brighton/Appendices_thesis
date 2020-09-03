@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">leptocephalus</keyword>
+  <gramrel name="modifiers of X" hits="4" score="13.790">
+    <coll hits="4" score="12.680">Nocomis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="9" score="31.030">
+    <coll hits="1" score="11.670">Anguilli</coll>
+    <coll hits="2" score="10.040">Ocean</coll>
+    <coll hits="1" score="9.570">Pacific</coll>
+    <coll hits="1" score="9.410">sp</coll>
+    <coll hits="1" score="8.100">south</coll>
+    <coll hits="1" score="5.640">stage</coll>
+    <coll hits="2" score="5.560">eel</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">anomala</keyword>
+  <gramrel name="modifiers of X" hits="6" score="50.000">
+    <coll hits="5" score="13.860" query="w2036048577">Hemimysis</coll>
+    <coll hits="1" score="11.990" query="w2036048576">Glugea</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="8.330">
+    <coll hits="1" score="1.750" query="w2036066560">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">subspecies</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="60" score="33.520">
+    <coll hits="2" score="9.950" query="w1823808922">Cutthroat</coll>
+    <coll hits="2" score="9.640" query="w1823808913">Salmo</coll>
+    <coll hits="5" score="9.340" query="w1823808898">O</coll>
+    <coll hits="1" score="9.060" query="w1823808934">O-mykiss</coll>
+    <coll hits="1" score="9.060" query="w1823808933">eels2</coll>
+    <coll hits="1" score="9.060" query="w1823808931">gilae</coll>
+    <coll hits="1" score="9.060" query="w1823808930">leucichthy</coll>
+    <coll hits="1" score="9.060" query="w1823808928">Provenance</coll>
+    <coll hits="1" score="9.060" query="w1823808927">alpinu</coll>
+    <coll hits="1" score="9.020" query="w1823808932">trouts</coll>
+    <coll hits="1" score="9.000" query="w1823808917">mykis</coll>
+    <coll hits="1" score="8.980" query="w1823808929">confusus</coll>
+    <coll hits="1" score="8.750" query="w1823808924">knot</coll>
+    <coll hits="1" score="8.730" query="w1823808921">Threatened</coll>
+    <coll hits="1" score="8.470" query="w1823808925">bear</coll>
+    <coll hits="1" score="8.470" query="w1823808919">counterpart</coll>
+    <coll hits="3" score="8.090" query="w1823808906">L</coll>
+    <coll hits="1" score="8.070" query="w1823808926">lavaretus</coll>
+    <coll hits="1" score="7.920" query="w1823808920">Varden</coll>
+    <coll hits="2" score="7.750" query="w1823808905">char</coll>
+    <coll hits="2" score="7.730" query="w1823808915">walleye</coll>
+    <coll hits="2" score="7.730" query="w1823808900">genus</coll>
+    <coll hits="1" score="7.670" query="w1823808896">Anguilla</coll>
+    <coll hits="1" score="7.220" query="w1823808923">chub</coll>
+    <coll hits="1" score="6.790" query="w1823808910">world</coll>
+  </gramrel>
+</wordsketch>
+</export>

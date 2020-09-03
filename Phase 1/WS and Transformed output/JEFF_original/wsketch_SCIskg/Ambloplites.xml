@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ambloplites</keyword>
+  <gramrel name="nouns modified by X" hits="16" score="72.730">
+    <coll hits="15" score="13.660">rupestris</coll>
+    <coll hits="1" score="10.910">ruspestris</coll>
+  </gramrel>
+</wordsketch>
+</export>

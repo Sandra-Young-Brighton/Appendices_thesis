@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">villosus</keyword>
+  <gramrel name="modifiers of X" hits="14" score="73.680">
+    <coll hits="12" score="13.880" query="w2042615104">Mallotus</coll>
+    <coll hits="1" score="11.090" query="w2042615106">Dikerogammarus</coll>
+    <coll hits="1" score="10.910" query="w2042615105">Hemitripterus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="5.260">
+    <coll hits="1" score="5.420" query="w2042643072">Sea</coll>
+  </gramrel>
+</wordsketch>
+</export>

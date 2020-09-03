@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">marginatus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="12.500">
+    <coll hits="1" score="13.410">Hemigrammus</coll>
+    <coll hits="1" score="7.160">Lepomis</coll>
+  </gramrel>
+</wordsketch>
+</export>

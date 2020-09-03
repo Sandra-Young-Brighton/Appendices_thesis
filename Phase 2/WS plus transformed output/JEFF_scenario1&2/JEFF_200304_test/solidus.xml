@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">solidus</keyword>
+  <gramrel name="modifiers of X" hits="11" score="64.710">
+    <coll hits="11" score="13.600">Schistocephalus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="23.530">
+    <coll hits="1" score="9.240">proximity</coll>
+    <coll hits="1" score="9.090">intake</coll>
+    <coll hits="1" score="7.970">Alaska</coll>
+    <coll hits="1" score="5.990">result</coll>
+  </gramrel>
+</wordsketch>
+</export>

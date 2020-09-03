@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">ricei</keyword>
+  <gramrel name="modifiers of X" hits="12" score="92.310">
+    <coll hits="2" score="12.190">cognatus</coll>
+    <coll hits="10" score="9.980">Cottus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="7.690">
+    <coll hits="1" score="10.090">thompsonii</coll>
+  </gramrel>
+</wordsketch>
+</export>

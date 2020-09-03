@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Marina</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="1.790">
+    <coll hits="1" score="13.410">Oceanografia</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="7.140">
+    <coll hits="2" score="12.680">Dichato</coll>
+    <coll hits="1" score="9.710">Center</coll>
+    <coll hits="1" score="6.660">night</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">schlegelii</keyword>
+  <gramrel name="modifiers of X" hits="3" score="75.000">
+    <coll hits="1" score="11.300" query="w2085002433">Acanthopagrus</coll>
+    <coll hits="2" score="11.040" query="w2085002432">Sebastes</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="25.000">
+    <coll hits="1" score="12.680" query="w2085021952">akaara</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Chondrostoma</keyword>
+  <gramrel name="nouns modified by X" hits="30" score="76.920">
+    <coll hits="18" score="13.120" query="w2040706752">nasus</coll>
+    <coll hits="5" score="12.190" query="w2040706756">toxostoma</coll>
+    <coll hits="4" score="11.870" query="w2040706754">regium</coll>
+    <coll hits="1" score="10.040" query="w2040706757">meandrense</coll>
+    <coll hits="1" score="10.000" query="w2040706755">polylepis</coll>
+    <coll hits="1" score="5.380" query="w2040706753">salar</coll>
+  </gramrel>
+</wordsketch>
+</export>

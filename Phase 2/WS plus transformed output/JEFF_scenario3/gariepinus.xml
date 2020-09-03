@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">gariepinus</keyword>
+  <gramrel name="modifiers of X" hits="5" score="38.460">
+    <coll hits="5" score="13.510">Clarias</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="7.690">
+    <coll hits="1" score="11.670">attention</coll>
+  </gramrel>
+</wordsketch>
+</export>

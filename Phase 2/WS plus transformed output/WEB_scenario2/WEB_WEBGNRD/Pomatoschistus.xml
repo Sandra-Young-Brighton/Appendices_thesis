@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pomatoschistus</keyword>
+  <gramrel name="nouns modified by X" hits="16" score="43.240">
+    <coll hits="14" score="13.520" query="w1973881984">minutus</coll>
+    <coll hits="1" score="10.910" query="w1973881985">microps</coll>
+    <coll hits="1" score="10.750" query="w1973881986">pictus</coll>
+  </gramrel>
+</wordsketch>
+</export>

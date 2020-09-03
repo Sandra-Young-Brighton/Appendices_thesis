@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Eales</keyword>
+  <gramrel name="X has part..." hits="2" score="100.000">
+    <coll hits="1" score="13.410">Herbinger</coll>
+    <coll hits="1" score="13.410">Friars</coll>
+  </gramrel>
+</wordsketch>
+</export>

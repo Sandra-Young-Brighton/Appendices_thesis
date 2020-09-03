@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Orcinus</keyword>
+  <gramrel name="nouns modified by X" hits="68" score="98.550">
+    <coll hits="66" score="13.970" query="w1883140928">Orca</coll>
+    <coll hits="2" score="9.870" query="w1883140929">orca</coll>
+  </gramrel>
+</wordsketch>
+</export>

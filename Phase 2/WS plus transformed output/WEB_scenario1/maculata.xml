@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">maculata</keyword>
+  <gramrel name="modifiers of X" hits="7" score="33.330">
+    <coll hits="5" score="12.920">Percina</coll>
+    <coll hits="1" score="11.830">exile</coll>
+    <coll hits="1" score="9.440">Etheostoma</coll>
+  </gramrel>
+</wordsketch>
+</export>

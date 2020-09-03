@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Utricularia</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="23.080">
+    <coll hits="2" score="12.290" query="w1878389248">intermedia</coll>
+    <coll hits="1" score="10.680" query="w1878389249">vulgaris</coll>
+  </gramrel>
+</wordsketch>
+</export>

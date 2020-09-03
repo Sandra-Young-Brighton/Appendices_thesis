@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">myriaster</keyword>
+  <gramrel name="modifiers of X" hits="7" score="100.000">
+    <coll hits="7" score="13.480" query="w2034482112">Conger</coll>
+  </gramrel>
+</wordsketch>
+</export>

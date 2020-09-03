@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">specialization</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="56" score="38.100">
+    <coll hits="2" score="9.460">duplication</coll>
+    <coll hits="2" score="9.320">littoral</coll>
+    <coll hits="3" score="9.090">niche</coll>
+    <coll hits="1" score="8.850">alpinus</coll>
+    <coll hits="3" score="8.790">morph</coll>
+    <coll hits="1" score="8.730">continuum</coll>
+    <coll hits="1" score="8.650">secretion</coll>
+    <coll hits="1" score="8.410">rudd</coll>
+    <coll hits="5" score="8.270">form</coll>
+    <coll hits="1" score="8.220">sympatry</coll>
+    <coll hits="2" score="7.960">morphology</coll>
+    <coll hits="4" score="7.330">migration</coll>
+    <coll hits="1" score="6.980">position</coll>
+    <coll hits="8" score="6.080">trout</coll>
+    <coll hits="2" score="5.990">individual</coll>
+    <coll hits="6" score="5.790">population</coll>
+    <coll hits="4" score="5.750">habitat</coll>
+    <coll hits="1" score="5.450">zooplankton</coll>
+    <coll hits="1" score="5.410">resource</coll>
+    <coll hits="1" score="4.960">charr</coll>
+    <coll hits="1" score="4.640">prey</coll>
+    <coll hits="1" score="4.590">condition</coll>
+    <coll hits="1" score="4.500">length</coll>
+    <coll hits="1" score="4.310">predator</coll>
+    <coll hits="1" score="4.300">diet</coll>
+  </gramrel>
+</wordsketch>
+</export>

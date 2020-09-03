@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lamottenii</keyword>
+  <gramrel name="modifiers of X" hits="6" score="85.710">
+    <coll hits="3" score="12.680" query="w2094248129">Entosphenus</coll>
+    <coll hits="3" score="8.250" query="w2094248128">Lampetra</coll>
+  </gramrel>
+</wordsketch>
+</export>

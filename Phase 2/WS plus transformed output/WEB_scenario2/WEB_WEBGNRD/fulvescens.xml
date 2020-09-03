@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fulvescens</keyword>
+  <gramrel name="modifiers of X" hits="7" score="46.670">
+    <coll hits="7" score="11.430" query="w1982705536">Acipenser</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="13.330">
+    <coll hits="1" score="12.410" query="w1982720385">platorynchus</coll>
+    <coll hits="1" score="11.540" query="w1982720384">Percina</coll>
+  </gramrel>
+</wordsketch>
+</export>

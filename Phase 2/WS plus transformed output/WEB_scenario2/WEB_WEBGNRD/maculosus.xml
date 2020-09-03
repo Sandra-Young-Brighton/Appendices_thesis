@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">maculosus</keyword>
+  <gramrel name="modifiers of X" hits="6" score="40.000">
+    <coll hits="4" score="13.670" query="w1961413313">Necturus</coll>
+    <coll hits="2" score="13.000" query="w1961413312">Oligocottus</coll>
+  </gramrel>
+</wordsketch>
+</export>

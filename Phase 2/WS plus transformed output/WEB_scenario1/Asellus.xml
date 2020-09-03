@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Asellus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="1.350">
+    <coll hits="1" score="10.300">Gammarus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="15" score="20.270">
+    <coll hits="14" score="13.940">aquaticus</coll>
+    <coll hits="1" score="7.930">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="4.050">
+    <coll hits="1" score="9.480">pigmentation</coll>
+    <coll hits="1" score="7.160">trial</coll>
+    <coll hits="1" score="4.700">prey</coll>
+  </gramrel>
+</wordsketch>
+</export>

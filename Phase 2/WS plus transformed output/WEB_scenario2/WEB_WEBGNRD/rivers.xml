@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rivers</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="830" score="11.870">
+    <coll hits="20" score="9.320" query="w249101659">pikeminnow</coll>
+    <coll hits="20" score="9.320" query="w248530819">England</coll>
+    <coll hits="14" score="8.800" query="w247404282">origin</coll>
+    <coll hits="17" score="8.710" query="w248530843">Europe</coll>
+    <coll hits="8" score="8.270" query="w249680396">Karelia</coll>
+    <coll hits="9" score="8.140" query="w248530838">Finland</coll>
+    <coll hits="8" score="8.130" query="w248530833">UK</coll>
+    <coll hits="10" score="8.110" query="w247404244">coast</coll>
+    <coll hits="9" score="8.110" query="w247404224">world</coll>
+    <coll hits="7" score="8.050" query="w249101688">Natura</coll>
+    <coll hits="9" score="7.950" query="w247974958">California</coll>
+    <coll hits="9" score="7.890" query="w248530877">Ireland</coll>
+    <coll hits="7" score="7.840" query="w248530876">Scotland</coll>
+    <coll hits="10" score="7.610" query="w246843285">region</coll>
+    <coll hits="8" score="7.610" query="w246843288">America</coll>
+    <coll hits="5" score="7.610" query="w249680398">Flanders</coll>
+    <coll hits="8" score="7.440" query="w246843318">spring</coll>
+    <coll hits="7" score="7.400" query="w247404233">Canada</coll>
+    <coll hits="5" score="7.370" query="w249101671">Portugal</coll>
+    <coll hits="7" score="7.340" query="w246843314">flow</coll>
+    <coll hits="5" score="7.300" query="w248530839">Island</coll>
+    <coll hits="5" score="7.260" query="w248530859">country</coll>
+    <coll hits="7" score="7.230" query="w246843297">basin</coll>
+    <coll hits="4" score="7.210" query="w249101686">MDB</coll>
+    <coll hits="4" score="7.210" query="w246843313">Peninsula</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="26" score="0.370">
+    <coll hits="2" score="11.090" query="w250197454">confluence</coll>
+    <coll hits="2" score="10.790" query="w250197444">part</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">subgenus</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="9.090">
+    <coll hits="1" score="13.410" query="w1954716672">Batrachium</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="18.180">
+    <coll hits="1" score="13.000" query="w1954725505">Syngnathidae</coll>
+    <coll hits="1" score="12.410" query="w1954725504">jack</coll>
+  </gramrel>
+</wordsketch>
+</export>

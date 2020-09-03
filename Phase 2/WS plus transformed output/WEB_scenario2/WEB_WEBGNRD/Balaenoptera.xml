@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Balaenoptera</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="50.000">
+    <coll hits="1" score="13.410" query="w2132344833">physalus</coll>
+    <coll hits="1" score="13.410" query="w2132344832">musculus</coll>
+  </gramrel>
+</wordsketch>
+</export>

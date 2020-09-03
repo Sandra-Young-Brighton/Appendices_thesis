@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Amazonas</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="7.840">
+    <coll hits="3" score="13.580">Leticia</coll>
+    <coll hits="1" score="4.100">period</coll>
+  </gramrel>
+</wordsketch>
+</export>

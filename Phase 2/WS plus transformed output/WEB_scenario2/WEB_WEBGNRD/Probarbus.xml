@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Probarbus</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="42.860">
+    <coll hits="2" score="13.670" query="w2170382017">jullieni</coll>
+    <coll hits="1" score="13.000" query="w2170382016">fish</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="28.570">
+    <coll hits="1" score="13.000" query="w2170397825">jullieni</coll>
+    <coll hits="1" score="13.000" query="w2170397824">Probarbus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="28.570">
+    <coll hits="1" score="13.000" query="w2170430849">Probarbus</coll>
+    <coll hits="1" score="12.410" query="w2170430848">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

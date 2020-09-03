@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Coregonus</keyword>
+  <gramrel name="nouns modified by X" hits="280" score="64.070">
+    <coll hits="95" score="13.010">lavaretus</coll>
+    <coll hits="94" score="13.010">albula</coll>
+    <coll hits="17" score="10.870">clupeaformis</coll>
+    <coll hits="13" score="10.390">nasus</coll>
+    <coll hits="11" score="10.270">sardinella</coll>
+    <coll hits="10" score="10.130">artedi</coll>
+    <coll hits="8" score="9.820">hoyi</coll>
+    <coll hits="6" score="9.420">zenithicus</coll>
+    <coll hits="6" score="9.420">pidschian</coll>
+    <coll hits="5" score="9.160">artedii</coll>
+    <coll hits="3" score="8.440">fontanae</coll>
+    <coll hits="2" score="7.860">pusillus</coll>
+    <coll hits="2" score="7.860">Zavaretus</coll>
+    <coll hits="1" score="6.860">clupeaformiss</coll>
+    <coll hits="1" score="6.860">kiyi</coll>
+    <coll hits="1" score="6.860">zeni</coll>
+    <coll hits="1" score="6.860">laveretus</coll>
+    <coll hits="1" score="6.860">lava</coll>
+    <coll hits="1" score="6.860">lavarefus</coll>
+    <coll hits="1" score="6.860">Iuvuretus</coll>
+    <coll hits="1" score="6.860">luvuretus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.230">
+    <coll hits="1" score="3.480">lake</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.230">
+    <coll hits="1" score="12.190">acid</coll>
+  </gramrel>
+</wordsketch>
+</export>

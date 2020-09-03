@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">chilensis</keyword>
+  <gramrel name="modifiers of X" hits="8" score="80.000">
+    <coll hits="2" score="12.680" query="w2049091329">Pinguipes</coll>
+    <coll hits="2" score="12.410" query="w2049091328">Calanus</coll>
+    <coll hits="3" score="12.120" query="w2049091330">Ostrea</coll>
+    <coll hits="1" score="11.670" query="w2049091331">puelchana</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="20.000">
+    <coll hits="1" score="12.410" query="w2049148096">ariakensis</coll>
+    <coll hits="1" score="11.990" query="w2049148097">angasi</coll>
+  </gramrel>
+</wordsketch>
+</export>

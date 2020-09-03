@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Chydoridae</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="5.880">
+    <coll hits="1" score="12.410">Crustacea</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="11.760">
+    <coll hits="2" score="12.540">Oligochaeta</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="5.880">
+    <coll hits="1" score="5.830">source</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="5.880">
+    <coll hits="1" score="10.820">diet</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">robustoides</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="100.000">
+    <coll hits="1" score="2.690" query="w2145557504">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

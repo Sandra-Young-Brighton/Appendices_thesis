@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Dreissena</keyword>
+  <gramrel name="nouns modified by X" hits="27" score="84.380">
+    <coll hits="25" score="13.940">polymorpha</coll>
+    <coll hits="2" score="11.140">bugensis</coll>
+  </gramrel>
+</wordsketch>
+</export>

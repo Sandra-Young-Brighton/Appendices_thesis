@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">oregonensis</keyword>
+  <gramrel name="modifiers of X" hits="23" score="79.310">
+    <coll hits="18" score="13.410" query="w1826075712">Ptychocheilus</coll>
+    <coll hits="2" score="11.350" query="w1826075715">Skistodiaptomus</coll>
+    <coll hits="1" score="10.410" query="w1826075716">Diaptomis</coll>
+    <coll hits="1" score="10.410" query="w1826075714">Ptychochelius</coll>
+    <coll hits="1" score="10.410" query="w1826075713">Ptychocheillus</coll>
+  </gramrel>
+</wordsketch>
+</export>

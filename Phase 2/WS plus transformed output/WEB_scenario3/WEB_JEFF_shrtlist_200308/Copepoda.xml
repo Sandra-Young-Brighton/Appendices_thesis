@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Copepoda</keyword>
+  <gramrel name="modifiers of X" hits="21" score="13.040">
+    <coll hits="15" score="13.580">Cladocera</coll>
+    <coll hits="2" score="11.190">Amphipoda</coll>
+    <coll hits="2" score="10.950">Crustacea</coll>
+    <coll hits="1" score="10.470">Isopoda</coll>
+    <coll hits="1" score="10.300">Hydracarina</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="9" score="5.590">
+    <coll hits="2" score="11.990">Decapoda</coll>
+    <coll hits="1" score="11.540">Cyclopoida</coll>
+    <coll hits="1" score="11.410">Ostracoda</coll>
+    <coll hits="1" score="11.410">Rotifera</coll>
+    <coll hits="1" score="11.300">Cladocera</coll>
+    <coll hits="1" score="11.190">Crustacea</coll>
+    <coll hits="1" score="11.190">Mollusca</coll>
+    <coll hits="1" score="9.870">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="21" score="13.040">
+    <coll hits="12" score="13.260">Rotifera</coll>
+    <coll hits="2" score="11.300">Decapoda</coll>
+    <coll hits="1" score="10.540">Branchiura</coll>
+    <coll hits="1" score="10.470">Ostracoda</coll>
+    <coll hits="1" score="10.300">Crustacea</coll>
+    <coll hits="1" score="10.240">Cyclopoida</coll>
+    <coll hits="1" score="10.240">Mollusca</coll>
+    <coll hits="1" score="10.190">Cladocera</coll>
+    <coll hits="1" score="9.910">Chironomidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="1.860">
+    <coll hits="1" score="9.000">Lomond</coll>
+    <coll hits="1" score="6.100">bottom</coll>
+    <coll hits="1" score="4.220">larva</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="1.860">
+    <coll hits="1" score="12.410">Hydracarina</coll>
+    <coll hits="1" score="11.990">Diptera</coll>
+    <coll hits="1" score="11.830">Cladocera</coll>
+  </gramrel>
+</wordsketch>
+</export>

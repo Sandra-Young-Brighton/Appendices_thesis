@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">olidus</keyword>
+  <gramrel name="modifiers of X" hits="29" score="76.320">
+    <coll hits="28" score="13.380">Galaxias</coll>
+    <coll hits="1" score="10.090">bidyanus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.630">
+    <coll hits="1" score="3.820">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

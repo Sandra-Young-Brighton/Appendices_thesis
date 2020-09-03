@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">phoxinus</keyword>
+  <gramrel name="modifiers of X" hits="53" score="63.860">
+    <coll hits="51" score="13.850">Phoxinus</coll>
+    <coll hits="1" score="9.240">Phonixus</coll>
+    <coll hits="1" score="9.160">tinca</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="2.410">
+    <coll hits="1" score="11.000">Cyprinidae</coll>
+    <coll hits="1" score="9.020">cephalus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.200">
+    <coll hits="1" score="11.670">Cyprinidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

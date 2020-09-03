@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">bicolor</keyword>
+  <gramrel name="X and/or ..." hits="74" score="31.900">
+    <coll hits="73" score="13.990">bicolor</coll>
+    <coll hits="1" score="7.630">brackish</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="3.020">
+    <coll hits="1" score="11.300">Anakan</coll>
+    <coll hits="1" score="10.140">Philippine</coll>
+    <coll hits="1" score="9.910">Indonesia</coll>
+    <coll hits="1" score="7.360">Ocean</coll>
+    <coll hits="3" score="6.970">Creek</coll>
+  </gramrel>
+</wordsketch>
+</export>

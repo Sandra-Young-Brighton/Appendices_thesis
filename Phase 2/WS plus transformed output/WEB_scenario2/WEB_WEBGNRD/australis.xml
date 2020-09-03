@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">australis</keyword>
+  <gramrel name="modifiers of X" hits="63" score="58.330">
+    <coll hits="37" score="13.520" query="w1921701634">Nannoperca</coll>
+    <coll hits="7" score="11.640" query="w1921701638">Phragmites</coll>
+    <coll hits="2" score="9.970" query="w1921701641">Atalophlebia</coll>
+    <coll hits="2" score="9.970" query="w1921701635">Geotria</coll>
+    <coll hits="2" score="9.670" query="w1921701636">Chara</coll>
+    <coll hits="9" score="9.140" query="w1921701632">Anguilla</coll>
+    <coll hits="1" score="9.000" query="w1921701640">Anthrenus</coll>
+    <coll hits="1" score="9.000" query="w1921701639">Ophiocomina</coll>
+    <coll hits="1" score="8.980" query="w1921701633">maxima</coll>
+    <coll hits="1" score="8.960" query="w1921701637">Micromesistius</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="1.850">
+    <coll hits="1" score="12.190" query="w1921798145">erectum</coll>
+    <coll hits="1" score="6.990" query="w1921798144">marinus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="3.700">
+    <coll hits="2" score="13.000" query="w1921668290">demersum</coll>
+    <coll hits="1" score="12.680" query="w1921668289">erectum</coll>
+    <coll hits="1" score="12.190" query="w1921668288">marinus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="1.850">
+    <coll hits="2" score="8.290" query="w1921818048">Australia</coll>
+  </gramrel>
+</wordsketch>
+</export>

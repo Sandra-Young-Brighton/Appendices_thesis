@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">congener</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="18.180">
+    <coll hits="1" score="9.190" query="w1788275585">Peninsula</coll>
+    <coll hits="1" score="8.550" query="w1788275586">cisco</coll>
+    <coll hits="1" score="7.310" query="w1788275588">Africa</coll>
+    <coll hits="1" score="7.000" query="w1788275589">Gulf</coll>
+    <coll hits="1" score="4.370" query="w1788275587">perch</coll>
+    <coll hits="1" score="3.080" query="w1788275584">water</coll>
+  </gramrel>
+</wordsketch>
+</export>

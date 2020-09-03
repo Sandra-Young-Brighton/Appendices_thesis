@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cognatus</keyword>
+  <gramrel name="modifiers of X" hits="22" score="84.620">
+    <coll hits="20" score="11.780">Cottus</coll>
+    <coll hits="1" score="10.470">catostomus</coll>
+    <coll hits="1" score="10.470">Cotus</coll>
+  </gramrel>
+</wordsketch>
+</export>

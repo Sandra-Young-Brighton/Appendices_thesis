@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Noyo</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="3.850">
+    <coll hits="1" score="11.990" query="w1769272899">Seven</coll>
+    <coll hits="4" score="7.390" query="w1769272898">Creek</coll>
+    <coll hits="1" score="7.130" query="w1769272897">March</coll>
+    <coll hits="1" score="3.750" query="w1769272896">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

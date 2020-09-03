@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Macquaria_australasica</keyword>
+  <gramrel name="modifiers of X" hits="3" score="20.000">
+    <coll hits="3" score="9.200">perch</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="13.330">
+    <coll hits="2" score="13.990">Gadopsis_bispinosus</coll>
+  </gramrel>
+</wordsketch>
+</export>

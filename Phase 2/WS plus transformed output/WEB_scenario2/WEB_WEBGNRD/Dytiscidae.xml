@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Dytiscidae</keyword>
+  <gramrel name="modifiers of X" hits="4" score="13.330">
+    <coll hits="2" score="12.830" query="w1706405569">Megaloptera</coll>
+    <coll hits="1" score="12.410" query="w1706405570">Dryopidae</coll>
+    <coll hits="1" score="10.300" query="w1706405568">Coleoptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="3.330">
+    <coll hits="1" score="11.830" query="w1706434624">Elmidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="6.670">
+    <coll hits="2" score="13.000" query="w1706395840">Elmidae</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="6.670">
+    <coll hits="1" score="12.680" query="w1706444353">lacustris</coll>
+    <coll hits="1" score="12.680" query="w1706444352">Gammarus</coll>
+  </gramrel>
+</wordsketch>
+</export>

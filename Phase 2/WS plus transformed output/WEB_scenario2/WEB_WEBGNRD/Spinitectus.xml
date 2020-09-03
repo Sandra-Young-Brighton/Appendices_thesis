@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Spinitectus</keyword>
+  <gramrel name="nouns modified by X" hits="16" score="41.030">
+    <coll hits="9" score="13.470" query="w2168800066">inermis</coll>
+    <coll hits="2" score="11.830" query="w2168800067">carolini</coll>
+    <coll hits="3" score="11.770" query="w2168800065">gracilis</coll>
+    <coll hits="2" score="11.750" query="w2168800064">larva</coll>
+  </gramrel>
+</wordsketch>
+</export>

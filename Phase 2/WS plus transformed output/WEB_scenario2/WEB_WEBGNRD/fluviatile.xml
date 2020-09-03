@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fluviatile</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="8.330">
+    <coll hits="1" score="13.410" query="w1688436353">algeriense</coll>
+    <coll hits="1" score="8.350" query="w1688436352">crayfish</coll>
+  </gramrel>
+</wordsketch>
+</export>

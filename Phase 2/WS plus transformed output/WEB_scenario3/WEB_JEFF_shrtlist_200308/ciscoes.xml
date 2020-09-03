@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">ciscoes</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="13" score="3.890">
+    <coll hits="2" score="12.090">Stechlin</coll>
+    <coll hits="1" score="11.190">Lake-Michigan</coll>
+    <coll hits="1" score="10.910">LGL-DEEP</coll>
+    <coll hits="1" score="9.710">turn</coll>
+    <coll hits="1" score="8.440">Option</coll>
+    <coll hits="1" score="7.390">Huron</coll>
+    <coll hits="1" score="6.720">assessment</coll>
+    <coll hits="1" score="6.490">August</coll>
+    <coll hits="1" score="6.370">Michigan</coll>
+    <coll hits="1" score="5.860">Bay</coll>
+    <coll hits="1" score="4.360">system</coll>
+    <coll hits="1" score="2.890">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

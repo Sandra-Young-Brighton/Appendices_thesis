@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Corixidae</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="9.090">
+    <coll hits="1" score="10.680">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="18.180">
+    <coll hits="1" score="13.410">Notonectidae</coll>
+    <coll hits="1" score="10.600">Trichoptera</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="3" score="27.270">
+    <coll hits="1" score="12.680">Haliplus</coll>
+    <coll hits="1" score="12.680">Dytiscus</coll>
+    <coll hits="1" score="12.680">Limnophilus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="9.090">
+    <coll hits="1" score="5.230">prey</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">crappies</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="9" score="5.030">
+    <coll hits="1" score="10.190">Dakota</coll>
+    <coll hits="1" score="7.350">electrofishing</coll>
+    <coll hits="1" score="6.460">net</coll>
+    <coll hits="1" score="6.080">form</coll>
+    <coll hits="1" score="5.940">reservoir</coll>
+    <coll hits="2" score="5.820">Lake</coll>
+    <coll hits="2" score="3.890">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

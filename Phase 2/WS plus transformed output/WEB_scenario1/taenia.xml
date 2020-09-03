@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">taenia</keyword>
+  <gramrel name="modifiers of X" hits="12" score="60.000">
+    <coll hits="12" score="13.500">Cobitis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.000">
+    <coll hits="1" score="9.640">glanis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.000">
+    <coll hits="1" score="13.990">glanis</coll>
+  </gramrel>
+</wordsketch>
+</export>

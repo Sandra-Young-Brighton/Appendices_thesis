@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">ammocoete</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="51" score="17.110">
+    <coll hits="3" score="10.700">Perhonjoki</coll>
+    <coll hits="4" score="9.740">Zealand</coll>
+    <coll hits="1" score="9.300">Lethenter</coll>
+    <coll hits="1" score="9.140">elastomer</coll>
+    <coll hits="3" score="8.680">station</coll>
+    <coll hits="8" score="8.280">Creek</coll>
+    <coll hits="1" score="8.020">spp.</coll>
+    <coll hits="1" score="7.950">increment</coll>
+    <coll hits="2" score="7.870">laboratory</coll>
+    <coll hits="2" score="7.690">surface</coll>
+    <coll hits="2" score="7.600">lamprey</coll>
+    <coll hits="3" score="7.530">relation</coll>
+    <coll hits="1" score="6.590">mm.</coll>
+    <coll hits="1" score="6.580">field</coll>
+    <coll hits="7" score="6.560">site</coll>
+    <coll hits="1" score="6.430">catchment</coll>
+    <coll hits="1" score="6.140">substrate</coll>
+    <coll hits="1" score="5.780">class</coll>
+    <coll hits="1" score="5.550">stage</coll>
+    <coll hits="1" score="4.730">group</coll>
+    <coll hits="2" score="4.500">size</coll>
+    <coll hits="2" score="4.240">stream</coll>
+    <coll hits="2" score="4.140">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

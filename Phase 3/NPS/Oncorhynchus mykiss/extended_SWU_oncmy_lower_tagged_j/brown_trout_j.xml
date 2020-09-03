@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="-j" freq="0">brown_trout</keyword>
+  <gramrel name="modifiers of X" hits="6" score="0.460">
+    <coll hits="3" score="11.500">salmo_trutta</coll>
+    <coll hits="2" score="8.160">trout</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="114" score="8.780">
+    <coll hits="105" score="13.300">salmo_trutta</coll>
+    <coll hits="8" score="10.100">trout</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="170" score="13.090">
+    <coll hits="26" score="11.920">alpine</coll>
+    <coll hits="47" score="10.950">arctic</coll>
+    <coll hits="14" score="10.350">trout</coll>
+    <coll hits="6" score="9.230">rainbow_trout</coll>
+    <coll hits="3" score="9.080">superior</coll>
+    <coll hits="6" score="8.680">other</coll>
+    <coll hits="2" score="8.490">associated</coll>
+    <coll hits="2" score="8.460">slimy</coll>
+    <coll hits="2" score="8.420">preferred</coll>
+    <coll hits="3" score="8.320">salmo_trutta</coll>
+    <coll hits="2" score="8.300">due</coll>
+    <coll hits="2" score="8.120">upper</coll>
+    <coll hits="10" score="8.050">Atlantic</coll>
+    <coll hits="3" score="8.010">northern</coll>
+    <coll hits="3" score="7.970">European</coll>
+    <coll hits="2" score="7.590">brown_trout</coll>
+    <coll hits="2" score="7.490">native</coll>
+    <coll hits="2" score="7.370">reproductive</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="139" score="10.700">
+    <coll hits="6" score="9.590">iceland</coll>
+    <coll hits="2" score="8.860">nera</coll>
+    <coll hits="2" score="8.850">Iceland</coll>
+    <coll hits="2" score="8.840">almanor</coll>
+    <coll hits="2" score="8.790">galaxiid</coll>
+    <coll hits="2" score="8.680">Ev</coll>
+    <coll hits="25" score="8.330">stream</coll>
+    <coll hits="2" score="8.190">example</coll>
+    <coll hits="3" score="8.180">edge</coll>
+    <coll hits="2" score="8.000">fork</coll>
+    <coll hits="2" score="7.860">velocity</coll>
+    <coll hits="2" score="7.620">england</coll>
+    <coll hits="2" score="7.590">nature</coll>
+    <coll hits="19" score="6.840">river</coll>
+    <coll hits="2" score="6.460">location</coll>
+    <coll hits="14" score="6.150">lake</coll>
+    <coll hits="2" score="5.920">creek</coll>
+    <coll hits="2" score="5.700">range</coll>
+    <coll hits="3" score="5.480">size</coll>
+    <coll hits="2" score="5.200">system</coll>
+    <coll hits="2" score="5.180">period</coll>
+    <coll hits="2" score="4.680">study</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="10" score="0.770">
+    <coll hits="2" score="12.410">oncorhynchus_mykiss</coll>
+    <coll hits="2" score="11.990">rainbow_trout</coll>
+    <coll hits="4" score="11.120">trout</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="9" score="0.690">
+    <coll hits="2" score="12.090">salvelinus_alpinus</coll>
+    <coll hits="3" score="10.600">trout</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="6" score="0.460">
+    <coll hits="3" score="12.770">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

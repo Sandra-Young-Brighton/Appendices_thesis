@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Centrarchidae</keyword>
+  <gramrel name="modifiers of X" hits="1" score="1.690">
+    <coll hits="1" score="13.410" query="w1806634688">Ictaluridae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.690">
+    <coll hits="1" score="13.000" query="w1806643648">Percidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="3.390">
+    <coll hits="1" score="12.680" query="w1806617409">Cichlidae</coll>
+    <coll hits="1" score="12.190" query="w1806617408">Percidae</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="10" score="16.950">
+    <coll hits="3" score="12.880" query="w1806654656">Ictalurus</coll>
+    <coll hits="1" score="11.540" query="w1806654663">Ambloplites</coll>
+    <coll hits="1" score="11.540" query="w1806654662">punctatus</coll>
+    <coll hits="1" score="11.540" query="w1806654661">Amia</coll>
+    <coll hits="1" score="11.540" query="w1806654660">Pomoxis</coll>
+    <coll hits="1" score="11.540" query="w1806654659">Micropterus</coll>
+    <coll hits="1" score="11.540" query="w1806654658">Lepomis</coll>
+    <coll hits="1" score="11.540" query="w1806654657">natalis</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">bicolor</keyword>
+  <gramrel name="X and/or ..." hits="74" score="31.900">
+    <coll hits="73" score="13.990" query="w1761826945">bicolor</coll>
+    <coll hits="1" score="7.630" query="w1761826944">brackish</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="3.020">
+    <coll hits="1" score="11.300" query="w1761844612">Anakan</coll>
+    <coll hits="1" score="10.140" query="w1761844610">Philippine</coll>
+    <coll hits="1" score="9.910" query="w1761844611">Indonesia</coll>
+    <coll hits="1" score="7.360" query="w1761844609">Ocean</coll>
+    <coll hits="3" score="6.970" query="w1761844608">Creek</coll>
+  </gramrel>
+</wordsketch>
+</export>

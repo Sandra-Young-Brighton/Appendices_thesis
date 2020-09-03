@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rose</keyword>
+  <gramrel name="X and/or ..." hits="5" score="2.790">
+    <coll hits="3" score="13.120" query="w1052472832">fall</coll>
+    <coll hits="1" score="12.410" query="w1052472834">fluctuate</coll>
+    <coll hits="1" score="11.830" query="w1052472833">set</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="50" score="27.930">
+    <coll hits="1" score="9.320" query="w1052496486">Tiers</coll>
+    <coll hits="1" score="9.320" query="w1052496485">riseform</coll>
+    <coll hits="1" score="9.320" query="w1052496484">Westmeath</coll>
+    <coll hits="1" score="9.300" query="w1052496483">temper</coll>
+    <coll hits="1" score="9.160" query="w1052496481">melt</coll>
+    <coll hits="1" score="9.000" query="w1052496477">geology</coll>
+    <coll hits="1" score="8.960" query="w1052496479">concert</coll>
+    <coll hits="1" score="8.930" query="w1052496480">east</coll>
+    <coll hits="1" score="8.890" query="w1052496466">oC</coll>
+    <coll hits="1" score="8.750" query="w1052496469">high</coll>
+    <coll hits="1" score="8.710" query="w1052496471">confinement</coll>
+    <coll hits="7" score="8.640" query="w1052496456">surface</coll>
+    <coll hits="1" score="8.600" query="w1052496482">Mountains</coll>
+    <coll hits="1" score="8.470" query="w1052496478">hatch</coll>
+    <coll hits="1" score="8.270" query="w1052496472">Wales</coll>
+    <coll hits="1" score="7.790" query="w1052496470">occasion</coll>
+    <coll hits="1" score="7.660" query="w1052496475">top</coll>
+    <coll hits="1" score="7.590" query="w1052496463">mark</coll>
+    <coll hits="1" score="7.500" query="w1052496461">percent</coll>
+    <coll hits="1" score="7.470" query="w1052496462">February</coll>
+    <coll hits="2" score="7.460" query="w1052496451">parr</coll>
+    <coll hits="1" score="7.170" query="w1052496448">B</coll>
+    <coll hits="1" score="7.160" query="w1052496473">autumn</coll>
+    <coll hits="1" score="7.150" query="w1052496476">average</coll>
+    <coll hits="1" score="6.670" query="w1052496474">aquarium</coll>
+  </gramrel>
+</wordsketch>
+</export>

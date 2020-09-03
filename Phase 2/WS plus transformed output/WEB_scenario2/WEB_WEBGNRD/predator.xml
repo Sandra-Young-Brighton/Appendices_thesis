@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">predator</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="492" score="11.660">
+    <coll hits="10" score="9.200" query="w541216292">LCRR</coll>
+    <coll hits="22" score="8.720" query="w539498807">egg</coll>
+    <coll hits="16" score="8.530" query="w539498798">ecosystem</coll>
+    <coll hits="6" score="8.320" query="w540632684">isolation</coll>
+    <coll hits="8" score="8.050" query="w539498802">web</coll>
+    <coll hits="5" score="7.770" query="w540632651">basis</coll>
+    <coll hits="4" score="7.720" query="w540632676">shrimp</coll>
+    <coll hits="13" score="7.680" query="w539498813">system</coll>
+    <coll hits="6" score="7.590" query="w540054130">reservoir</coll>
+    <coll hits="4" score="7.590" query="w540632687">whale</coll>
+    <coll hits="4" score="7.480" query="w541216268">macroinvertebrate</coll>
+    <coll hits="9" score="7.450" query="w539498756">day</coll>
+    <coll hits="6" score="7.440" query="w540054081">whitefish</coll>
+    <coll hits="7" score="7.260" query="w539498793">salmonid</coll>
+    <coll hits="6" score="7.230" query="w539498785">stickleback</coll>
+    <coll hits="3" score="7.230" query="w540632648">removal</coll>
+    <coll hits="5" score="7.200" query="w540054114">response</coll>
+    <coll hits="3" score="7.200" query="w540054131">shad</coll>
+    <coll hits="3" score="7.070" query="w540632643">Reservoir</coll>
+    <coll hits="3" score="7.070" query="w540054119">series</coll>
+    <coll hits="2" score="7.050" query="w541216291">fish21</coll>
+    <coll hits="2" score="7.040" query="w541216280">preferenda</coll>
+    <coll hits="2" score="6.980" query="w540632668">beetle</coll>
+    <coll hits="3" score="6.890" query="w540054087">field</coll>
+    <coll hits="2" score="6.890" query="w540054092">subsidy</coll>
+  </gramrel>
+</wordsketch>
+</export>

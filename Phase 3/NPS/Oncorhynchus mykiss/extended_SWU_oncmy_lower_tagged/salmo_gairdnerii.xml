@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">salmo_gairdnerii</keyword>
+  <gramrel name="X is a type of..." hits="1" score="20.000">
+    <coll hits="1" score="13.410">salmon</coll>
+  </gramrel>
+</wordsketch>
+</export>

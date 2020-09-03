@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Nocomis</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="13.890">
+    <coll hits="1" score="12.410">Campostoma</coll>
+    <coll hits="1" score="7.380">species</coll>
+    <coll hits="3" score="6.010">specie</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.780">
+    <coll hits="1" score="13.990">Campostoma</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="2.780">
+    <coll hits="1" score="6.840">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

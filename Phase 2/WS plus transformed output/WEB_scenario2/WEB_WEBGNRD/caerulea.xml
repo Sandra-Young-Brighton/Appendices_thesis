@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">caerulea</keyword>
+  <gramrel name="modifiers of X" hits="1" score="50.000">
+    <coll hits="1" score="10.410" query="w2114506368">Sardinops</coll>
+  </gramrel>
+</wordsketch>
+</export>

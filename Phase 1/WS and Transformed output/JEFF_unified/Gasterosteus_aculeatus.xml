@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gasterosteus_aculeatus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="0.940">
+    <coll hits="1" score="13.990">Aeshna</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="7" score="6.600">
+    <coll hits="1" score="11.990">Pygosteus_pungitius</coll>
+    <coll hits="1" score="11.670">Sorex_spp</coll>
+    <coll hits="5" score="10.930">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="3.770">
+    <coll hits="1" score="12.680">Pygosteus_pungitus</coll>
+    <coll hits="1" score="12.680">Pygosteus_pungitius</coll>
+    <coll hits="1" score="12.680">Pungitius_pungitius</coll>
+    <coll hits="1" score="10.600">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="3.770">
+    <coll hits="1" score="12.190">Myvatn</coll>
+    <coll hits="1" score="10.910">Thingvallavatn</coll>
+    <coll hits="1" score="8.820">wetland</coll>
+    <coll hits="1" score="6.080">relation</coll>
+  </gramrel>
+</wordsketch>
+</export>

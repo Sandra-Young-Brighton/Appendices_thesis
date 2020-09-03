@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">salmo_gairdneri</keyword>
+  <gramrel name="modifiers of X" hits="45" score="23.080">
+    <coll hits="22" score="12.040">rainbow_trout</coll>
+    <coll hits="12" score="11.790">rainbow_trout</coll>
+    <coll hits="3" score="10.880">steelhead_trout</coll>
+    <coll hits="2" score="10.270">rainbow_trout</coll>
+    <coll hits="2" score="10.070">oncorhynchus_mykiss</coll>
+    <coll hits="1" score="9.480">rainbow-trout</coll>
+    <coll hits="1" score="9.410">steelhead_trout</coll>
+    <coll hits="2" score="7.940">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

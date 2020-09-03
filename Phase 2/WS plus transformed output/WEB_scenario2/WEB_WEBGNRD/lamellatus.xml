@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lamellatus</keyword>
+  <gramrel name="modifiers of X" hits="13" score="38.240">
+    <coll hits="12" score="13.940" query="w1912952832">Eurycercus</coll>
+    <coll hits="1" score="11.190" query="w1912952833">Eurycerus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="11.760">
+    <coll hits="1" score="12.190" query="w1912969987">July-October</coll>
+    <coll hits="1" score="6.950" query="w1912969985">September</coll>
+    <coll hits="1" score="5.300" query="w1912969986">summer</coll>
+    <coll hits="1" score="4.770" query="w1912969984">day</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,286 @@
+TAXRANK_target_x,target,source,TAXRANK_source_x,data_source_x_x,relations_x,score.1_x,data_source_y_x,included_x,data_source_x,TAXRANK_target_y,TAXRANK_source_y,data_source_x_y,relations_y,score.1_y,data_source_y_y,included_y,data_source_y,_merge
+ SPECIES,TEMPORARIA,RANA, GENUS,VTO ontology,is_a,13.88,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.88,WEB corpus,both,WEB frequency,both
+ SPECIES,LUTRA,LUTRA, GENUS,VTO ontology,is_a,13.98,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.98,WEB corpus,both,WEB frequency,both
+ SPECIES,MERGANSER,MERGUS, GENUS,VTO ontology,is_a,13.97,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.97,WEB corpus,both,WEB frequency,both
+ SPECIES,CRISTATUS,PODICEPS, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB frequency,both
+ SPECIES,CINEREA,ARDEA, GENUS,VTO ontology,is_a,13.93,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.93,WEB corpus,both,WEB frequency,both
+ SPECIES,MARMORATA,ANGUILLA, GENUS,VTO ontology,is_a,11.72,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.72,WEB corpus,both,WEB frequency,both
+ SPECIES,ROSTRATA,ANGUILLA, GENUS,VTO ontology,is_a,12.75,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.75,WEB corpus,both,WEB frequency,both
+ SPECIES,JAPONICA,ANGUILLA, GENUS,VTO ontology,is_a,13.23,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.23,WEB corpus,both,WEB frequency,both
+ SPECIES,ANGUILLA,ANGUILLA, GENUS,VTO ontology,is_a,11.93,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.93,WEB corpus,both,WEB frequency,both
+ SPECIES,DIEFFENBACHII,ANGUILLA, GENUS,VTO ontology,is_a,10.08,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,10.08,WEB corpus,both,WEB frequency,both
+ SPECIES,HARENGUS,CLUPEA, GENUS,VTO ontology,is_a,13.97,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.97,WEB corpus,both,WEB frequency,both
+ SPECIES,TYRANNUS,BREVOORTIA, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB frequency,both
+ SPECIES,CHRYSOCHLORIS,ALOSA, GENUS,VTO ontology,is_a,10.09,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,10.09,WEB corpus,both,WEB frequency,both
+ SPECIES,FALLAX,ALOSA, GENUS,VTO ontology,is_a,12.32,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.32,WEB corpus,both,WEB frequency,both
+ SPECIES,PSEUDOHARENGUS,ALOSA, GENUS,VTO ontology,is_a,13.2,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.2,WEB corpus,both,WEB frequency,both
+ SPECIES,SAPIDISSIMA,ALOSA, GENUS,VTO ontology,is_a,12.4,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.4,WEB corpus,both,WEB frequency,both
+ SPECIES,CEPEDIANUM,DOROSOMA, GENUS,VTO ontology,is_a,13.67,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.67,WEB corpus,both,WEB frequency,both
+ SPECIES,PETENENSE,DOROSOMA, GENUS,VTO ontology,is_a,13.0,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.0,WEB corpus,both,WEB frequency,both
+ SPECIES,ENCRASICOLUS,ENGRAULIS, GENUS,VTO ontology,is_a,12.62,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.62,WEB corpus,both,WEB frequency,both
+ SPECIES,MORDAX,ENGRAULIS, GENUS,VTO ontology,is_a,12.65,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.65,WEB corpus,both,WEB frequency,both
+ SPECIES,GARIEPINUS,CLARIAS, GENUS,VTO ontology,is_a,13.98,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.98,WEB corpus,both,WEB frequency,both
+ SPECIES,GLANIS,SILURUS, GENUS,VTO ontology,is_a,13.92,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.92,WEB corpus,both,WEB frequency,both
+ SPECIES,FURCATUS,ICTALURUS, GENUS,VTO ontology,is_a,11.96,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.96,WEB corpus,both,WEB frequency,both
+ SPECIES,PUNCTATUS,ICTALURUS, GENUS,VTO ontology,is_a,13.77,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.77,WEB corpus,both,WEB frequency,both
+ SPECIES,NATALIS,AMEIURUS, GENUS,VTO ontology,is_a,13.25,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.25,WEB corpus,both,WEB frequency,both
+ SPECIES,NEBULOSUS,AMEIURUS, GENUS,VTO ontology,is_a,13.47,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.47,WEB corpus,both,WEB frequency,both
+ SPECIES,OLIVARIS,PYLODICTIS, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB frequency,both
+ SPECIES,MALABARICUS,HOPLIAS, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB frequency,both
+ SPECIES,CAURINUS,MYLOCHEILUS, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB frequency,both
+ SPECIES,BALTEATUS,RICHARDSONIUS, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB frequency,both
+ SPECIES,LEUCISCUS,LEUCISCUS, GENUS,VTO ontology,is_a,12.98,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.98,WEB corpus,both,WEB frequency,both
+ SPECIES,GOBIO,GOBIO, GENUS,VTO ontology,is_a,12.68,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.68,WEB corpus,both,WEB frequency,both
+ SPECIES,BJOERKNA,BLICCA, GENUS,VTO ontology,is_a,13.91,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.91,WEB corpus,both,WEB frequency,both
+ SPECIES,ERYTHROPHTHALMUS,SCARDINIUS, GENUS,VTO ontology,is_a,13.94,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.94,WEB corpus,both,WEB frequency,both
+ SPECIES,BRAMA,ABRAMIS, GENUS,VTO ontology,is_a,13.93,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.93,WEB corpus,both,WEB frequency,both
+ SPECIES,PROMELAS,PIMEPHALES, GENUS,VTO ontology,is_a,13.61,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.61,WEB corpus,both,WEB frequency,both
+ SPECIES,NOTATUS,PIMEPHALES, GENUS,VTO ontology,is_a,12.85,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.85,WEB corpus,both,WEB frequency,both
+ SPECIES,BOCAGEI,LUCIOBARBUS, GENUS,VTO ontology,is_a,13.8,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.8,WEB corpus,both,WEB frequency,both
+ SPECIES,TINCA,TINCA, GENUS,VTO ontology,is_a,13.92,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.92,WEB corpus,both,WEB frequency,both
+ SPECIES,RUTILUS,RUTILUS, GENUS,VTO ontology,is_a,10.455,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,10.455,WEB corpus,both,WEB frequency,both
+ SPECIES,NASUS,CHONDROSTOMA, GENUS,VTO ontology,is_a,13.33,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.33,WEB corpus,both,WEB frequency,both
+ SPECIES,MOLITRIX,HYPOPHTHALMICHTHYS, GENUS,VTO ontology,is_a,13.61,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.61,WEB corpus,both,WEB frequency,both
+ SPECIES,NOBILIS,HYPOPHTHALMICHTHYS, GENUS,VTO ontology,is_a,12.9,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.9,WEB corpus,both,WEB frequency,both
+ SPECIES,CARPIO,CYPRINUS, GENUS,VTO ontology,is_a,13.67,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.67,WEB corpus,both,WEB frequency,both
+ SPECIES,GIBELIO,CARASSIUS, GENUS,VTO ontology,is_a,11.34,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.34,WEB corpus,both,WEB frequency,both
+ SPECIES,CARASSIUS,CARASSIUS, GENUS,VTO ontology,is_a,12.63,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.63,WEB corpus,both,WEB frequency,both
+ SPECIES,AURATUS,CARASSIUS, GENUS,VTO ontology,is_a,13.52,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.52,WEB corpus,both,WEB frequency,both
+ SPECIES,PARVA,PSEUDORASBORA, GENUS,VTO ontology,is_a,13.73,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.73,WEB corpus,both,WEB frequency,both
+ SPECIES,CAROLITERTII,SQUALIUS, GENUS,VTO ontology,is_a,13.08,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.08,WEB corpus,both,WEB frequency,both
+ SPECIES,CEPHALUS,SQUALIUS, GENUS,VTO ontology,is_a,11.83,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.83,WEB corpus,both,WEB frequency,both
+ SPECIES,CEPHALUS,SQUALIUS, GENUS,VTO ontology,is_a,11.83,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.83,WEB corpus,both,WEB frequency,both
+ SPECIES,ASPIUS,ASPIUS, GENUS,VTO ontology,is_a,13.66,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.66,WEB corpus,both,WEB frequency,both
+ SPECIES,CATARACTAE,RHINICHTHYS, GENUS,VTO ontology,is_a,13.08,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.08,WEB corpus,both,WEB frequency,both
+ SPECIES,ATRATULUS,RHINICHTHYS, GENUS,VTO ontology,is_a,13.03,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.03,WEB corpus,both,WEB frequency,both
+ SPECIES,OSCULUS,RHINICHTHYS, GENUS,VTO ontology,is_a,12.41,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.41,WEB corpus,both,WEB frequency,both
+ SPECIES,SPILOPTERA,CYPRINELLA, GENUS,VTO ontology,is_a,13.0,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.0,WEB corpus,both,WEB frequency,both
+ SPECIES,LUTRENSIS,CYPRINELLA, GENUS,VTO ontology,is_a,13.15,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.15,WEB corpus,both,WEB frequency,both
+ SPECIES,ATROMACULATUS,SEMOTILUS, GENUS,VTO ontology,is_a,13.96,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.96,WEB corpus,both,WEB frequency,both
+ SPECIES,PHOXINUS,PHOXINUS, GENUS,VTO ontology,is_a,13.89,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.89,WEB corpus,both,WEB frequency,both
+ SPECIES,STRAMINEUS,NOTROPIS, GENUS,VTO ontology,is_a,11.8,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.8,WEB corpus,both,WEB frequency,both
+ SPECIES,VOLUCELLUS,NOTROPIS, GENUS,VTO ontology,is_a,12.25,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.25,WEB corpus,both,WEB frequency,both
+ SPECIES,HUDSONIUS,NOTROPIS, GENUS,VTO ontology,is_a,12.79,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.79,WEB corpus,both,WEB frequency,both
+ SPECIES,CRYSOLEUCAS,NOTEMIGONUS, GENUS,VTO ontology,is_a,13.94,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.94,WEB corpus,both,WEB frequency,both
+ SPECIES,PLUMBEUS,COUESIUS, GENUS,VTO ontology,is_a,13.97,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.97,WEB corpus,both,WEB frequency,both
+ SPECIES,MARGARITA,MARGARISCUS, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB frequency,both
+ SPECIES,BARBUS,BARBUS, GENUS,VTO ontology,is_a,13.9,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.9,WEB corpus,both,WEB frequency,both
+ SPECIES,CORNUTUS,LUXILUS, GENUS,VTO ontology,is_a,13.75,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.75,WEB corpus,both,WEB frequency,both
+ SPECIES,ALBURNUS,ALBURNUS, GENUS,VTO ontology,is_a,13.85,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.85,WEB corpus,both,WEB frequency,both
+ SPECIES,VIMBA,VIMBA, GENUS,VTO ontology,is_a,13.41,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.41,WEB corpus,both,WEB frequency,both
+ SPECIES,OREGONENSIS,PTYCHOCHEILUS, GENUS,VTO ontology,is_a,13.55,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.55,WEB corpus,both,WEB frequency,both
+ SPECIES,GRANDIS,PTYCHOCHEILUS, GENUS,VTO ontology,is_a,12.71,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.71,WEB corpus,both,WEB frequency,both
+ SPECIES,ANGUILLICAUDATUS,MISGURNUS, GENUS,VTO ontology,is_a,13.94,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.94,WEB corpus,both,WEB frequency,both
+ SPECIES,CALDERONI,COBITIS, GENUS,VTO ontology,is_a,13.21,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.21,WEB corpus,both,WEB frequency,both
+ SPECIES,TAENIA,COBITIS, GENUS,VTO ontology,is_a,13.5,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.5,WEB corpus,both,WEB frequency,both
+ SPECIES,BARBATULA,BARBATULA, GENUS,VTO ontology,is_a,13.88,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.88,WEB corpus,both,WEB frequency,both
+ SPECIES,MACROLEPIDOTUM,MOXOSTOMA, GENUS,VTO ontology,is_a,13.26,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.26,WEB corpus,both,WEB frequency,both
+ SPECIES,CYPRINELLUS,ICTIOBUS, GENUS,VTO ontology,is_a,13.62,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.62,WEB corpus,both,WEB frequency,both
+ SPECIES,CATOSTOMUS,CATOSTOMUS, GENUS,VTO ontology,is_a,12.68,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.68,WEB corpus,both,WEB frequency,both
+ SPECIES,MACROCHEILUS,CATOSTOMUS, GENUS,VTO ontology,is_a,11.48,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.48,WEB corpus,both,WEB frequency,both
+ SPECIES,COMMERSONII,CATOSTOMUS, GENUS,VTO ontology,is_a,11.57,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.57,WEB corpus,both,WEB frequency,both
+ SPECIES,JAPONICUS,LATEOLABRAX, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB frequency,both
+ SPECIES,AMBIGUA,MACQUARIA, GENUS,VTO ontology,is_a,12.09,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.09,WEB corpus,both,WEB frequency,both
+ SPECIES,AUSTRALASICA,MACQUARIA, GENUS,VTO ontology,is_a,13.84,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.84,WEB corpus,both,WEB frequency,both
+ SPECIES,AUSTRALIS,NANNOPERCA, GENUS,VTO ontology,is_a,13.62,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.62,WEB corpus,both,WEB frequency,both
+ SPECIES,TRUCHA,PERCICHTHYS, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB frequency,both
+ SPECIES,PEELII,MACCULLOCHELLA, GENUS,VTO ontology,is_a,13.67,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.67,WEB corpus,both,WEB frequency,both
+ SPECIES,NIGRUM,ETHEOSTOMA, GENUS,VTO ontology,is_a,12.02,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.02,WEB corpus,both,WEB frequency,both
+ SPECIES,EXILE,ETHEOSTOMA, GENUS,VTO ontology,is_a,12.22,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.22,WEB corpus,both,WEB frequency,both
+ SPECIES,ZONALE,ETHEOSTOMA, GENUS,VTO ontology,is_a,11.8,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.8,WEB corpus,both,WEB frequency,both
+ SPECIES,MACULATA,PERCINA, GENUS,VTO ontology,is_a,12.92,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.92,WEB corpus,both,WEB frequency,both
+ SPECIES,LUCIOPERCA,SANDER, GENUS,VTO ontology,is_a,13.32,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.32,WEB corpus,both,WEB frequency,both
+ SPECIES,CANADENSIS,SANDER, GENUS,VTO ontology,is_a,10.23,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,10.23,WEB corpus,both,WEB frequency,both
+ SPECIES,VITREUS,SANDER, GENUS,VTO ontology,is_a,12.97,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.97,WEB corpus,both,WEB frequency,both
+ SPECIES,CERNUUS,GYMNOCEPHALUS, GENUS,VTO ontology,is_a,13.8,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.8,WEB corpus,both,WEB frequency,both
+ SPECIES,FLAVESCENS,PERCA, GENUS,VTO ontology,is_a,12.41,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.41,WEB corpus,both,WEB frequency,both
+ SPECIES,FLUVIATILIS,PERCA, GENUS,VTO ontology,is_a,10.73,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,10.73,WEB corpus,both,WEB frequency,both
+ SPECIES,AURATA,SPARUS, GENUS,VTO ontology,is_a,13.96,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.96,WEB corpus,both,WEB frequency,both
+ SPECIES,LABRAX,DICENTRARCHUS, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB frequency,both
+ SPECIES,SAXATILIS,MORONE, GENUS,VTO ontology,is_a,13.75,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.75,WEB corpus,both,WEB frequency,both
+ SPECIES,CHRYSOPS,MORONE, GENUS,VTO ontology,is_a,12.57,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.57,WEB corpus,both,WEB frequency,both
+ SPECIES,DOLOMIEU,MICROPTERUS, GENUS,VTO ontology,is_a,13.69,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.69,WEB corpus,both,WEB frequency,both
+ SPECIES,PUNCTULATUS,MICROPTERUS, GENUS,VTO ontology,is_a,11.2,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.2,WEB corpus,both,WEB frequency,both
+ SPECIES,NIGROMACULATUS,POMOXIS, GENUS,VTO ontology,is_a,13.57,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.57,WEB corpus,both,WEB frequency,both
+ SPECIES,ANNULARIS,POMOXIS, GENUS,VTO ontology,is_a,13.0,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.0,WEB corpus,both,WEB frequency,both
+ SPECIES,CYANELLUS,LEPOMIS, GENUS,VTO ontology,is_a,11.44,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.44,WEB corpus,both,WEB frequency,both
+ SPECIES,MACROCHIRUS,LEPOMIS, GENUS,VTO ontology,is_a,13.25,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.25,WEB corpus,both,WEB frequency,both
+ SPECIES,GIBBOSUS,LEPOMIS, GENUS,VTO ontology,is_a,13.05,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.05,WEB corpus,both,WEB frequency,both
+ SPECIES,RUPESTRIS,AMBLOPLITES, GENUS,VTO ontology,is_a,13.96,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.96,WEB corpus,both,WEB frequency,both
+ SPECIES,OCELLATUS,SCIAENOPS, GENUS,VTO ontology,is_a,13.88,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.88,WEB corpus,both,WEB frequency,both
+ SPECIES,REGALIS,CYNOSCION, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB frequency,both
+ SPECIES,GRUNNIENS,APLODINOTUS, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB frequency,both
+ SPECIES,RENDALLI,TILAPIA, GENUS,VTO ontology,is_a,13.33,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.33,WEB corpus,both,WEB frequency,both
+ SPECIES,MINUTUS,POMATOSCHISTUS, GENUS,VTO ontology,is_a,13.94,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.94,WEB corpus,both,WEB frequency,both
+ SPECIES,MELANOSTOMUS,NEOGOBIUS, GENUS,VTO ontology,is_a,13.94,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.94,WEB corpus,both,WEB frequency,both
+ SPECIES,MARMORATUS,PROTERORHINUS, GENUS,VTO ontology,is_a,13.47,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.47,WEB corpus,both,WEB frequency,both
+ SPECIES,ARMATUS,LEPTOCOTTUS, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB frequency,both
+ SPECIES,SCORPIUS,MYOXOCEPHALUS, GENUS,VTO ontology,is_a,13.37,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.37,WEB corpus,both,WEB frequency,both
+ SPECIES,THOMPSONII,MYOXOCEPHALUS, GENUS,VTO ontology,is_a,13.11,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.11,WEB corpus,both,WEB frequency,both
+ SPECIES,COGNATUS,COTTUS, GENUS,VTO ontology,is_a,12.5,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.5,WEB corpus,both,WEB frequency,both
+ SPECIES,BAIRDII,COTTUS, GENUS,VTO ontology,is_a,10.79,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,10.79,WEB corpus,both,WEB frequency,both
+ SPECIES,ASPER,COTTUS, GENUS,VTO ontology,is_a,11.83,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.83,WEB corpus,both,WEB frequency,both
+ SPECIES,POECILOPUS,COTTUS, GENUS,VTO ontology,is_a,11.2,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.2,WEB corpus,both,WEB frequency,both
+ SPECIES,GOBIO,COTTUS, GENUS,VTO ontology,is_a,12.65,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.65,WEB corpus,both,WEB frequency,both
+ SPECIES,ACULEATUS,GASTEROSTEUS, GENUS,VTO ontology,is_a,13.96,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.96,WEB corpus,both,WEB frequency,both
+ SPECIES,PUNGITIUS,PUNGITIUS, GENUS,VTO ontology,is_a,13.83,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.83,WEB corpus,both,WEB frequency,both
+ SPECIES,CEPHALUS,MUGIL, GENUS,VTO ontology,is_a,11.64,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.64,WEB corpus,both,WEB frequency,both
+ SPECIES,HETEROCLITUS,FUNDULUS, GENUS,VTO ontology,is_a,13.8,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.8,WEB corpus,both,WEB frequency,both
+ SPECIES,DIAPHANUS,FUNDULUS, GENUS,VTO ontology,is_a,12.13,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.13,WEB corpus,both,WEB frequency,both
+ SPECIES,AFFINIS,GAMBUSIA, GENUS,VTO ontology,is_a,13.47,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.47,WEB corpus,both,WEB frequency,both
+ SPECIES,RETICULATA,POECILIA, GENUS,VTO ontology,is_a,13.59,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.59,WEB corpus,both,WEB frequency,both
+ SPECIES,LATIPINNA,POECILIA, GENUS,VTO ontology,is_a,13.0,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.0,WEB corpus,both,WEB frequency,both
+ SPECIES,MENIDIA,MENIDIA, GENUS,VTO ontology,is_a,13.86,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.86,WEB corpus,both,WEB frequency,both
+ SPECIES,PLATESSA,PLEURONECTES, GENUS,VTO ontology,is_a,13.81,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.81,WEB corpus,both,WEB frequency,both
+ SPECIES,FLESUS,PLATICHTHYS, GENUS,VTO ontology,is_a,13.8,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.8,WEB corpus,both,WEB frequency,both
+ SPECIES,LIMANDA,LIMANDA, GENUS,VTO ontology,is_a,13.91,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.91,WEB corpus,both,WEB frequency,both
+ SPECIES,AMERICANUS,PSEUDOPLEURONECTES, GENUS,VTO ontology,is_a,13.49,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.49,WEB corpus,both,WEB frequency,both
+ SPECIES,OLIVACEUS,PARALICHTHYS, GENUS,VTO ontology,is_a,13.62,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.62,WEB corpus,both,WEB frequency,both
+ SPECIES,DENTATUS,PARALICHTHYS, GENUS,VTO ontology,is_a,12.96,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.96,WEB corpus,both,WEB frequency,both
+ SPECIES,SOLEA,SOLEA, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB frequency,both
+ SPECIES,MORHUA,GADUS, GENUS,VTO ontology,is_a,13.98,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.98,WEB corpus,both,WEB frequency,both
+ SPECIES,AEGLEFINUS,MELANOGRAMMUS, GENUS,VTO ontology,is_a,13.96,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.96,WEB corpus,both,WEB frequency,both
+ SPECIES,LOTA,LOTA, GENUS,VTO ontology,is_a,13.96,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.96,WEB corpus,both,WEB frequency,both
+ SPECIES,LUCIUS,ESOX, GENUS,VTO ontology,is_a,11.755,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.755,WEB corpus,both,WEB frequency,both
+ SPECIES,MASQUINONGY,ESOX, GENUS,VTO ontology,is_a,10.43,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,10.43,WEB corpus,both,WEB frequency,both
+ SPECIES,LIMI,UMBRA, GENUS,VTO ontology,is_a,13.67,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.67,WEB corpus,both,WEB frequency,both
+ FAMILY,SALMONIDAE,SALMONIFORMES, ORDER,VTO ontology,is_a,12.07,WEB corpus,both,WEB salience, FAMILY, ORDER,VTO ontology,is_a,12.07,WEB corpus,both,WEB frequency,both
+ SPECIES,COULTERII,PROSOPIUM, GENUS,VTO ontology,is_a,12.07,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.07,WEB corpus,both,WEB frequency,both
+ SPECIES,WILLIAMSONI,PROSOPIUM, GENUS,VTO ontology,is_a,13.55,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.55,WEB corpus,both,WEB frequency,both
+ SPECIES,CYLINDRACEUM,PROSOPIUM, GENUS,VTO ontology,is_a,12.45,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.45,WEB corpus,both,WEB frequency,both
+ GENUS,COREGONUS,SALMONIDAE, FAMILY,VTO ontology,is_a,12.07,WEB corpus,both,WEB salience, GENUS, FAMILY,VTO ontology,is_a,12.07,WEB corpus,both,WEB frequency,both
+ SPECIES,LAVARETUS,COREGONUS, GENUS,VTO ontology,is_a,13.08,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.08,WEB corpus,both,WEB frequency,both
+ SPECIES,ARTEDI,COREGONUS, GENUS,VTO ontology,is_a,10.67,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,10.67,WEB corpus,both,WEB frequency,both
+ SPECIES,ALBULA,COREGONUS, GENUS,VTO ontology,is_a,12.24,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.24,WEB corpus,both,WEB frequency,both
+ SPECIES,CLUPEAFORMIS,COREGONUS, GENUS,VTO ontology,is_a,11.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.99,WEB corpus,both,WEB frequency,both
+ SPECIES,HOYI,COREGONUS, GENUS,VTO ontology,is_a,10.72,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,10.72,WEB corpus,both,WEB frequency,both
+ GENUS,SALMO,SALMONIDAE, FAMILY,VTO ontology,is_a,12.27,WEB corpus,both,WEB salience, GENUS, FAMILY,VTO ontology,is_a,12.27,WEB corpus,both,WEB frequency,both
+ SPECIES,TRUTTA,SALMO, GENUS,VTO ontology,is_a,13.25,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.25,WEB corpus,both,WEB frequency,both
+ SPECIES,SALAR,SALMO, GENUS,VTO ontology,is_a,13.29,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.29,WEB corpus,both,WEB frequency,both
+ SPECIES,NAMAYCUSH,SALVELINUS, GENUS,VTO ontology,is_a,12.24,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.24,WEB corpus,both,WEB frequency,both
+ SPECIES,ALPINUS,SALVELINUS, GENUS,VTO ontology,is_a,13.47,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.47,WEB corpus,both,WEB frequency,both
+ SPECIES,MALMA,SALVELINUS, GENUS,VTO ontology,is_a,10.76,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,10.76,WEB corpus,both,WEB frequency,both
+ SPECIES,FONTINALIS,SALVELINUS, GENUS,VTO ontology,is_a,12.88,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.88,WEB corpus,both,WEB frequency,both
+ SPECIES,TSHAWYTSCHA,ONCORHYNCHUS, GENUS,VTO ontology,is_a,11.71,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.71,WEB corpus,both,WEB frequency,both
+ SPECIES,KETA,ONCORHYNCHUS, GENUS,VTO ontology,is_a,10.35,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,10.35,WEB corpus,both,WEB frequency,both
+ SPECIES,KISUTCH,ONCORHYNCHUS, GENUS,VTO ontology,is_a,11.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.99,WEB corpus,both,WEB frequency,both
+ SPECIES,GORBUSCHA,ONCORHYNCHUS, GENUS,VTO ontology,is_a,10.23,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,10.23,WEB corpus,both,WEB frequency,both
+ SPECIES,MYKISS,ONCORHYNCHUS, GENUS,VTO ontology,is_a,13.36,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.36,WEB corpus,both,WEB frequency,both
+ SPECIES,NERKA,ONCORHYNCHUS, GENUS,VTO ontology,is_a,11.9,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.9,WEB corpus,both,WEB frequency,both
+ SPECIES,ARCTICUS,THYMALLUS, GENUS,VTO ontology,is_a,13.24,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.24,WEB corpus,both,WEB frequency,both
+ SPECIES,THYMALLUS,THYMALLUS, GENUS,VTO ontology,is_a,10.52,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,10.52,WEB corpus,both,WEB frequency,both
+ SPECIES,ALTIVELIS,PLECOGLOSSUS, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB frequency,both
+ SPECIES,VILLOSUS,MALLOTUS, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.99,WEB corpus,both,WEB frequency,both
+ SPECIES,MORDAX,OSMERUS, GENUS,VTO ontology,is_a,13.3,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.3,WEB corpus,both,WEB frequency,both
+ SPECIES,EPERLANUS,OSMERUS, GENUS,VTO ontology,is_a,13.31,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.31,WEB corpus,both,WEB frequency,both
+ SPECIES,MACULATUS,GALAXIAS, GENUS,VTO ontology,is_a,11.76,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.76,WEB corpus,both,WEB frequency,both
+ SPECIES,BREVIPINNIS,GALAXIAS, GENUS,VTO ontology,is_a,11.34,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.34,WEB corpus,both,WEB frequency,both
+ SPECIES,OLIDUS,GALAXIAS, GENUS,VTO ontology,is_a,13.38,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.38,WEB corpus,both,WEB frequency,both
+ SPECIES,STURIO,ACIPENSER, GENUS,VTO ontology,is_a,13.16,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.16,WEB corpus,both,WEB frequency,both
+ SPECIES,TRANSMONTANUS,ACIPENSER, GENUS,VTO ontology,is_a,13.11,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.11,WEB corpus,both,WEB frequency,both
+ SPECIES,FULVESCENS,ACIPENSER, GENUS,VTO ontology,is_a,11.87,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.87,WEB corpus,both,WEB frequency,both
+ SPECIES,FOSSOR,ICHTHYOMYZON, GENUS,VTO ontology,is_a,13.88,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.88,WEB corpus,both,WEB frequency,both
+ SPECIES,MARINUS,PETROMYZON, GENUS,VTO ontology,is_a,13.96,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.96,WEB corpus,both,WEB frequency,both
+ SPECIES,TRIDENTATA,LAMPETRA, GENUS,VTO ontology,is_a,10.2,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,10.2,WEB corpus,both,WEB frequency,both
+ SPECIES,FLUVIATILIS,LAMPETRA, GENUS,VTO ontology,is_a,12.65,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.65,WEB corpus,both,WEB frequency,both
+ SPECIES,PLANERI,LAMPETRA, GENUS,VTO ontology,is_a,12.58,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,12.58,WEB corpus,both,WEB frequency,both
+ SPECIES,CEPHALUS,LEUCISCUS, GENUS,VTO ontology,is_a,13.36,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,13.36,WEB corpus,both,WEB frequency,both
+ SPECIES,AURATUS,PAGRUS, GENUS,VTO ontology,is_a,11.96,WEB corpus,both,WEB salience, SPECIES, GENUS,VTO ontology,is_a,11.96,WEB corpus,both,WEB frequency,both
+,CERNUA,ACERINA,,,,13.36,WEB corpus,right_only,WEB salience,,,,,13.36,WEB corpus,right_only,WEB frequency,both
+,LINNAEUS,ACULEATUS,,,,10.95,WEB corpus,right_only,WEB salience,,,,,10.95,WEB corpus,right_only,WEB frequency,both
+,MELANOSTOMA,APOLLONIA,,,,13.73,WEB corpus,right_only,WEB salience,,,,,13.73,WEB corpus,right_only,WEB frequency,both
+,AQUATICUS,ASELLUS,,,,13.94,WEB corpus,right_only,WEB salience,,,,,13.94,WEB corpus,right_only,WEB frequency,both
+,CHYDORUS,BOSMINA,,,,12.79,WEB corpus,right_only,WEB salience,,,,,12.79,WEB corpus,right_only,WEB frequency,both
+,LONGIMANUS,BYTHOTREPHES,,,,13.99,WEB corpus,right_only,WEB salience,,,,,13.99,WEB corpus,right_only,WEB frequency,both
+,COMMERSONI,CATOSTOMUS,,,,13.05,WEB corpus,right_only,WEB salience,,,,,13.05,WEB corpus,right_only,WEB frequency,both
+,DEMERSUM,CERATOPHYLLUM,,,,13.88,WEB corpus,right_only,WEB salience,,,,,13.88,WEB corpus,right_only,WEB frequency,both
+,CERNUA,CERNUUS,,,,11.97,WEB corpus,right_only,WEB salience,,,,,11.97,WEB corpus,right_only,WEB frequency,both
+,PLUMOSUS,CHIRONOMUS,,,,13.5,WEB corpus,right_only,WEB salience,,,,,13.5,WEB corpus,right_only,WEB frequency,both
+,TOXOSTOMA,CHONDROSTOMA,,,,12.41,WEB corpus,right_only,WEB salience,,,,,12.41,WEB corpus,right_only,WEB frequency,both
+,COPEPODA,CLADOCERA,,,,12.705,WEB corpus,right_only,WEB salience,,,,,12.705,WEB corpus,right_only,WEB frequency,both
+,SINENSIS,CLONORCHIS,,,,13.99,WEB corpus,right_only,WEB salience,,,,,13.99,WEB corpus,right_only,WEB frequency,both
+,ARTEDII,COREGONUS,,,,10.08,WEB corpus,right_only,WEB salience,,,,,10.08,WEB corpus,right_only,WEB frequency,both
+,BAIRDI,COTTUS,,,,11.99,WEB corpus,right_only,WEB salience,,,,,11.99,WEB corpus,right_only,WEB frequency,both
+,ESOX,CYPRINIDAE,,,,12.61,WEB corpus,right_only,WEB salience,,,,,12.61,WEB corpus,right_only,WEB frequency,both
+,FLUVIATILIS,CYPRINIDAE,,,,12.62,WEB corpus,right_only,WEB salience,,,,,12.62,WEB corpus,right_only,WEB frequency,both
+,LUCIUS,CYPRINIDAE,,,,12.62,WEB corpus,right_only,WEB salience,,,,,12.62,WEB corpus,right_only,WEB frequency,both
+,PERCA,CYPRINIDAE,,,,12.6,WEB corpus,right_only,WEB salience,,,,,12.6,WEB corpus,right_only,WEB frequency,both
+,HYALINA,DAPHNIA,,,,12.13,WEB corpus,right_only,WEB salience,,,,,12.13,WEB corpus,right_only,WEB frequency,both
+,LONGISPINA,DAPHNIA,,,,12.38,WEB corpus,right_only,WEB salience,,,,,12.38,WEB corpus,right_only,WEB frequency,both
+,PULEX,DAPHNIA,,,,11.74,WEB corpus,right_only,WEB salience,,,,,11.74,WEB corpus,right_only,WEB frequency,both
+,BUGENSIS,DREISSENA,,,,11.99,WEB corpus,right_only,WEB salience,,,,,11.99,WEB corpus,right_only,WEB frequency,both
+,POLYMORPHA,DREISSENA,,,,13.88,WEB corpus,right_only,WEB salience,,,,,13.88,WEB corpus,right_only,WEB frequency,both
+,MELANOGASTER,DROSOPHILA,,,,13.86,WEB corpus,right_only,WEB salience,,,,,13.86,WEB corpus,right_only,WEB frequency,both
+,CANADENSIS,ELODEA,,,,13.69,WEB corpus,right_only,WEB salience,,,,,13.69,WEB corpus,right_only,WEB frequency,both
+,TRIDENTATUS,ENTOSPHENUS,,,,13.86,WEB corpus,right_only,WEB salience,,,,,13.86,WEB corpus,right_only,WEB frequency,both
+,PLECOPTERA,EPHEMEROPTERA,,,,13.31,WEB corpus,right_only,WEB salience,,,,,13.31,WEB corpus,right_only,WEB frequency,both
+,CYPRINIDAE,ESOX,,,,10.105,WEB corpus,right_only,WEB salience,,,,,10.105,WEB corpus,right_only,WEB frequency,both
+,LAMELLATUS,EURYCERCUS,,,,13.99,WEB corpus,right_only,WEB salience,,,,,13.99,WEB corpus,right_only,WEB frequency,both
+,SYLVATICA,FAGUS,,,,13.8,WEB corpus,right_only,WEB salience,,,,,13.8,WEB corpus,right_only,WEB frequency,both
+,LINNAEUS,FLUVIATILIS,,,,10.71,WEB corpus,right_only,WEB salience,,,,,10.71,WEB corpus,right_only,WEB frequency,both
+,HOLBROOKI,GAMBUSIA,,,,13.18,WEB corpus,right_only,WEB salience,,,,,13.18,WEB corpus,right_only,WEB frequency,both
+,LACUSTRIS,GAMMARUS,,,,13.14,WEB corpus,right_only,WEB salience,,,,,13.14,WEB corpus,right_only,WEB frequency,both
+,PULEX,GAMMARUS,,,,13.0,WEB corpus,right_only,WEB salience,,,,,13.0,WEB corpus,right_only,WEB frequency,both
+,NEMATODA,GASTROPODA,,,,13.37,WEB corpus,right_only,WEB salience,,,,,13.37,WEB corpus,right_only,WEB frequency,both
+,CERNUA,GYMNOCEPHALUS,,,,12.1,WEB corpus,right_only,WEB salience,,,,,12.1,WEB corpus,right_only,WEB frequency,both
+,ANOMALA,HEMIMYSIS,,,,13.99,WEB corpus,right_only,WEB salience,,,,,13.99,WEB corpus,right_only,WEB frequency,both
+,GIBBERUM,HOLOPEDIUM,,,,13.99,WEB corpus,right_only,WEB salience,,,,,13.99,WEB corpus,right_only,WEB frequency,both
+,VERTICILLATA,HYDRILLA,,,,13.97,WEB corpus,right_only,WEB salience,,,,,13.97,WEB corpus,right_only,WEB frequency,both
+,ASPIUS,LEUCISCUS,,,,10.23,WEB corpus,right_only,WEB salience,,,,,10.23,WEB corpus,right_only,WEB frequency,both
+,LINNAEUS,MARINUS,,,,10.98,WEB corpus,right_only,WEB salience,,,,,10.98,WEB corpus,right_only,WEB frequency,both
+,DOLOMIEUI,MICROPTERUS,,,,12.46,WEB corpus,right_only,WEB salience,,,,,12.46,WEB corpus,right_only,WEB frequency,both
+,NEMATODA,MOLLUSCA,,,,12.58,WEB corpus,right_only,WEB salience,,,,,12.58,WEB corpus,right_only,WEB frequency,both
+,THOMPSONI,MYOXOCEPHALUS,,,,11.98,WEB corpus,right_only,WEB salience,,,,,11.98,WEB corpus,right_only,WEB frequency,both
+,SPICATUM,MYRIOPHYLLUM,,,,13.88,WEB corpus,right_only,WEB salience,,,,,13.88,WEB corpus,right_only,WEB frequency,both
+,DILUVIANA,MYSIS,,,,13.27,WEB corpus,right_only,WEB salience,,,,,13.27,WEB corpus,right_only,WEB frequency,both
+,RELICTA,MYSIS,,,,13.27,WEB corpus,right_only,WEB salience,,,,,13.27,WEB corpus,right_only,WEB frequency,both
+,EDULIS,MYTILUS,,,,13.99,WEB corpus,right_only,WEB salience,,,,,13.99,WEB corpus,right_only,WEB frequency,both
+,LUTEA,NUPHAR,,,,13.93,WEB corpus,right_only,WEB salience,,,,,13.93,WEB corpus,right_only,WEB frequency,both
+,PROPINQUUS,ORCONECTES,,,,13.35,WEB corpus,right_only,WEB salience,,,,,13.35,WEB corpus,right_only,WEB frequency,both
+,RUSTICUS,ORCONECTES,,,,13.22,WEB corpus,right_only,WEB salience,,,,,13.22,WEB corpus,right_only,WEB frequency,both
+,LENIUSCULUS,PACIFASTACUS,,,,13.99,WEB corpus,right_only,WEB salience,,,,,13.99,WEB corpus,right_only,WEB frequency,both
+,MINIBICORNIS,PARVICAPSULA,,,,13.99,WEB corpus,right_only,WEB salience,,,,,13.99,WEB corpus,right_only,WEB frequency,both
+,AUSTRALIS,PHRAGMITES,,,,11.78,WEB corpus,right_only,WEB salience,,,,,11.78,WEB corpus,right_only,WEB frequency,both
+,TRICHOPTERA,PLECOPTERA,,,,12.51,WEB corpus,right_only,WEB salience,,,,,12.51,WEB corpus,right_only,WEB frequency,both
+,AMERICANUS,PLEURONECTES,,,,11.88,WEB corpus,right_only,WEB salience,,,,,11.88,WEB corpus,right_only,WEB frequency,both
+,CLARKII,PROCAMBARUS,,,,12.86,WEB corpus,right_only,WEB salience,,,,,12.86,WEB corpus,right_only,WEB frequency,both
+,PUNGITIUS,PYGOSTEUS,,,,11.83,WEB corpus,right_only,WEB salience,,,,,11.83,WEB corpus,right_only,WEB frequency,both
+,LINNAEUS,SALAR,,,,10.68,WEB corpus,right_only,WEB salience,,,,,10.68,WEB corpus,right_only,WEB frequency,both
+,GAIRDNERI,SALMO,,,,11.48,WEB corpus,right_only,WEB salience,,,,,11.48,WEB corpus,right_only,WEB frequency,both
+,MAXIMUS,SCOPHTHALMUS,,,,13.99,WEB corpus,right_only,WEB salience,,,,,13.99,WEB corpus,right_only,WEB frequency,both
+,LUCIOPERCA,STIZOSTEDION,,,,12.71,WEB corpus,right_only,WEB salience,,,,,12.71,WEB corpus,right_only,WEB frequency,both
+,VITREUM,STIZOSTEDION,,,,13.23,WEB corpus,right_only,WEB salience,,,,,13.23,WEB corpus,right_only,WEB frequency,both
+,EPHEMEROPTERA,TRICHOPTERA,,,,12.45,WEB corpus,right_only,WEB salience,,,,,12.45,WEB corpus,right_only,WEB frequency,both
+,LINNAEUS,TRUTTA,,,,11.06,WEB corpus,right_only,WEB salience,,,,,11.06,WEB corpus,right_only,WEB frequency,both
+,LATIFOLIA,TYPHA,,,,13.62,WEB corpus,right_only,WEB salience,,,,,13.62,WEB corpus,right_only,WEB frequency,both
+,PARR,[NUMBER],,,,11.37,WEB corpus,right_only,WEB salience,,,,,11.37,WEB corpus,right_only,WEB frequency,both
+,SALMO,[NUMBER],,,,11.35,WEB corpus,right_only,WEB salience,,,,,11.35,WEB corpus,right_only,WEB frequency,both
+,AUSTRALIS,ANGUILLA,,,,,,,, SPECIES, GENUS,VTO ontology,is_a,9.23,WEB corpus,both,WEB frequency,right_only
+,REINHARDTII,ANGUILLA,,,,,,,, SPECIES, GENUS,VTO ontology,is_a,8.53,WEB corpus,both,WEB frequency,right_only
+,ALOSA,ALOSA,,,,,,,, SPECIES, GENUS,VTO ontology,is_a,9.815,WEB corpus,both,WEB frequency,right_only
+,LUCIUS,PTYCHOCHEILUS,,,,,,,, SPECIES, GENUS,VTO ontology,is_a,8.65,WEB corpus,both,WEB frequency,right_only
+,MICROLOPHUS,LEPOMIS,,,,,,,, SPECIES, GENUS,VTO ontology,is_a,9.94,WEB corpus,both,WEB frequency,right_only
+,GULOSUS,COTTUS,,,,,,,, SPECIES, GENUS,VTO ontology,is_a,9.23,WEB corpus,both,WEB frequency,right_only
+,RICEI,COTTUS,,,,,,,, SPECIES, GENUS,VTO ontology,is_a,9.98,WEB corpus,both,WEB frequency,right_only
+,SARDINELLA,COREGONUS,,,,,,,, SPECIES, GENUS,VTO ontology,is_a,8.35,WEB corpus,both,WEB frequency,right_only
+,NASUS,COREGONUS,,,,,,,, SPECIES, GENUS,VTO ontology,is_a,9.54,WEB corpus,both,WEB frequency,right_only
+,CONFLUENTUS,SALVELINUS,,,,,,,, SPECIES, GENUS,VTO ontology,is_a,9.4,WEB corpus,both,WEB frequency,right_only
+,CLARKII,ONCORHYNCHUS,,,,,,,, SPECIES, GENUS,VTO ontology,is_a,8.02,WEB corpus,both,WEB frequency,right_only
+,RICHARDSONI,LAMPETRA,,,,,,,, SPECIES, GENUS,VTO ontology,is_a,9.09,WEB corpus,both,WEB frequency,right_only
+,GULOSUS,LEPOMIS,,,,,,,, SPECIES, GENUS,VTO ontology,is_a,9.88,WEB corpus,both,WEB frequency,right_only
+,LINNAEUS,ESOX,,,,,,,,,,,,8.76,WEB corpus,right_only,WEB frequency,right_only
+,LINNAEUS,GASTEROSTEUS,,,,,,,,,,,,9.23,WEB corpus,right_only,WEB frequency,right_only
+,LINNAEUS,LUCIUS,,,,,,,,,,,,9.305,WEB corpus,right_only,WEB frequency,right_only
+,MYKISS,ONCHORHYNCHUS,,,,,,,,,,,,9.67,WEB corpus,right_only,WEB frequency,right_only
+,CLARKI,ONCORHYNCHUS,,,,,,,,,,,,9.49,WEB corpus,right_only,WEB frequency,right_only
+,RHODURUS,ONCORHYNCHUS,,,,,,,,,,,,7.16,WEB corpus,right_only,WEB frequency,right_only
+,MYKISS,ONCORHYNCUS,,,,,,,,,,,,7.85,WEB corpus,right_only,WEB frequency,right_only
+,LINNAEUS,PERCA,,,,,,,,,,,,8.16,WEB corpus,right_only,WEB frequency,right_only
+,LINNAEUS,PETROMYZON,,,,,,,,,,,,9.45,WEB corpus,right_only,WEB frequency,right_only
+,TRUTTA,SALAR,,,,,,,,,,,,8.59,WEB corpus,right_only,WEB frequency,right_only
+,CLARKI,SALMO,,,,,,,,,,,,7.05,WEB corpus,right_only,WEB frequency,right_only
+,LINNAEUS,SALMO,,,,,,,,,,,,8.35,WEB corpus,right_only,WEB frequency,right_only
+,SALVELINUS,SALMO,,,,,,,,,,,,6.59,WEB corpus,right_only,WEB frequency,right_only
+,SPP,SALVELINUS,,,,,,,,,,,,7.46,WEB corpus,right_only,WEB frequency,right_only
+,WILLUGHBII,SALVELINUS,,,,,,,,,,,,7.71,WEB corpus,right_only,WEB frequency,right_only
+,SALMONIDAE,THYMALLUS,,,,,,,,,,,,9.755,WEB corpus,right_only,WEB frequency,right_only

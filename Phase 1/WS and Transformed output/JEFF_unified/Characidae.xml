@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Characidae</keyword>
+  <gramrel name="modifiers of X" hits="4" score="20.000">
+    <coll hits="1" score="12.680">Hemigrammus_erythrozonus</coll>
+    <coll hits="1" score="12.410">Characiformes</coll>
+    <coll hits="1" score="12.190">Osteichthyes</coll>
+    <coll hits="1" score="10.820">Teleostei</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="6" score="30.000">
+    <coll hits="3" score="13.410">Tetragonopterinae</coll>
+    <coll hits="1" score="12.190">Tetragonopteridae</coll>
+    <coll hits="1" score="12.190">Ostariophysi</coll>
+    <coll hits="1" score="11.830">Cichlidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="30.000">
+    <coll hits="3" score="13.410">Tetragonopterinae</coll>
+    <coll hits="1" score="12.190">Tetragonopteridae</coll>
+    <coll hits="1" score="12.190">Ostariophysi</coll>
+    <coll hits="1" score="11.830">Cichlidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">robusta</keyword>
+  <gramrel name="modifiers of X" hits="4" score="40.000">
+    <coll hits="2" score="12.090" query="w1687230785">Gila</coll>
+    <coll hits="1" score="11.990" query="w1687230786">Caenis</coll>
+    <coll hits="1" score="11.540" query="w1687230784">Alasmidonta</coll>
+  </gramrel>
+</wordsketch>
+</export>

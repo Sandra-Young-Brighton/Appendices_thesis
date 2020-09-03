@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">tion</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1122" score="34.610">
+    <coll hits="56" score="9.420">Society</coll>
+    <coll hits="13" score="8.460">Computing</coll>
+    <coll hits="24" score="7.620">salmon</coll>
+    <coll hits="25" score="7.410">specie</coll>
+    <coll hits="23" score="7.370">stream</coll>
+    <coll hits="7" score="7.370">source</coll>
+    <coll hits="22" score="7.250">trout</coll>
+    <coll hits="18" score="7.220">size</coll>
+    <coll hits="9" score="7.190">movement</coll>
+    <coll hits="42" score="7.180">fish</coll>
+    <coll hits="8" score="7.140">salmonid</coll>
+    <coll hits="5" score="7.090">trutta</coll>
+    <coll hits="8" score="7.050">range</coll>
+    <coll hits="9" score="7.000">variable</coll>
+    <coll hits="7" score="6.970">pattern</coll>
+    <coll hits="7" score="6.960">assemblage</coll>
+    <coll hits="9" score="6.870">perch</coll>
+    <coll hits="5" score="6.820">stock</coll>
+    <coll hits="4" score="6.810">American</coll>
+    <coll hits="12" score="6.800">River</coll>
+    <coll hits="13" score="6.790">river</coll>
+    <coll hits="5" score="6.710">resource</coll>
+    <coll hits="11" score="6.650">habitat</coll>
+    <coll hits="7" score="6.550">system</coll>
+    <coll hits="4" score="6.530">invertebrate</coll>
+  </gramrel>
+</wordsketch>
+</export>

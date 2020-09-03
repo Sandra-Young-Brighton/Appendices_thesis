@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Umbridae</keyword>
+  <gramrel name="modifiers of X" hits="6" score="37.500">
+    <coll hits="1" score="11.830">Anguillidae</coll>
+    <coll hits="1" score="11.670">masquinongy</coll>
+    <coll hits="1" score="11.190">Catostomidae</coll>
+    <coll hits="1" score="11.090">Cyprinidae</coll>
+    <coll hits="1" score="10.600">Lucius</coll>
+    <coll hits="1" score="6.300">Esox</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="18.750">
+    <coll hits="1" score="11.410">limi</coll>
+    <coll hits="2" score="10.820">Salmonidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

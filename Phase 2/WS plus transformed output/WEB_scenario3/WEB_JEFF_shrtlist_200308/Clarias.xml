@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Clarias</keyword>
+  <gramrel name="nouns modified by X" hits="52" score="61.900">
+    <coll hits="51" score="13.980">gariepinus</coll>
+    <coll hits="1" score="9.270">macrocephalus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.190">
+    <coll hits="1" score="13.410">Barbus</coll>
+  </gramrel>
+</wordsketch>
+</export>

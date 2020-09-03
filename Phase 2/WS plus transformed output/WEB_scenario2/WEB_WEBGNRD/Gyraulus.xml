@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gyraulus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="4.760">
+    <coll hits="1" score="13.990" query="w2114679296">Physa</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="9.520">
+    <coll hits="2" score="13.670" query="w2114688832">crista</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="3" score="14.290">
+    <coll hits="1" score="12.410" query="w2114704770">goby</coll>
+    <coll hits="1" score="12.410" query="w2114704769">round</coll>
+    <coll hits="1" score="10.470" query="w2114704768">diet</coll>
+  </gramrel>
+</wordsketch>
+</export>

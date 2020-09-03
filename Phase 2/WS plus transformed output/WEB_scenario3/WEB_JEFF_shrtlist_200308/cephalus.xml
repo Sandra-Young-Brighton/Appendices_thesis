@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cephalus</keyword>
+  <gramrel name="modifiers of X" hits="92" score="71.880">
+    <coll hits="66" score="13.360">Leuciscus</coll>
+    <coll hits="13" score="11.830">Squalius</coll>
+    <coll hits="10" score="11.640">Mugil</coll>
+    <coll hits="1" score="8.440">Brycon</coll>
+    <coll hits="1" score="8.440">barbus</coll>
+    <coll hits="1" score="8.250">Lucius</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="1.560">
+    <coll hits="1" score="9.910">nasus</coll>
+    <coll hits="1" score="9.790">alburnus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="3.130">
+    <coll hits="3" score="13.000">alburnus</coll>
+    <coll hits="1" score="11.990">nasus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="3.130">
+    <coll hits="2" score="8.210">Figure</coll>
+    <coll hits="1" score="6.300">Ireland</coll>
+    <coll hits="1" score="5.720">S</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.780">
+    <coll hits="1" score="7.510">Cyprinidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

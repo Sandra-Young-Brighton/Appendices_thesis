@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lemna</keyword>
+  <gramrel name="modifiers of X" hits="4" score="16.670">
+    <coll hits="1" score="12.410" query="w2009548674">gibba</coll>
+    <coll hits="1" score="11.830" query="w2009548675">Salvinia</coll>
+    <coll hits="1" score="11.540" query="w2009548673">Lemna</coll>
+    <coll hits="1" score="10.350" query="w2009548672">Ceratophyllum</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="7" score="29.170">
+    <coll hits="2" score="12.830" query="w2009584388">trisulca</coll>
+    <coll hits="1" score="11.990" query="w2009584389">gibba</coll>
+    <coll hits="1" score="11.990" query="w2009584386">Eichhornia</coll>
+    <coll hits="1" score="11.990" query="w2009584385">minor</coll>
+    <coll hits="1" score="11.990" query="w2009584384">Typha</coll>
+    <coll hits="1" score="11.540" query="w2009584387">Lemna</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="8.330">
+    <coll hits="1" score="13.410" query="w2009532353">Eichhornia</coll>
+    <coll hits="1" score="13.410" query="w2009532352">Typha</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ctenopharyngodon</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="7.550">
+    <coll hits="3" score="13.580">idellus</coll>
+    <coll hits="1" score="12.680">idella</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Bidyanus</keyword>
+  <gramrel name="nouns modified by X" hits="46" score="90.200">
+    <coll hits="46" score="13.980" query="w1921024896">bidyanus</coll>
+  </gramrel>
+</wordsketch>
+</export>

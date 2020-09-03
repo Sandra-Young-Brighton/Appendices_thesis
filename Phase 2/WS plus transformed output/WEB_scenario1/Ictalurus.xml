@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ictalurus</keyword>
+  <gramrel name="nouns modified by X" hits="71" score="39.890">
+    <coll hits="58" score="13.770">punctatus</coll>
+    <coll hits="10" score="11.960">furcatus</coll>
+    <coll hits="3" score="9.880">natalis</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="3" score="1.690">
+    <coll hits="1" score="11.410">omiscomaycus</coll>
+    <coll hits="1" score="11.410">Percopsis</coll>
+    <coll hits="1" score="11.190">Percina</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="1.690">
+    <coll hits="3" score="13.120">Centrarchidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Dreissena</keyword>
+  <gramrel name="nouns modified by X" hits="37" score="66.070">
+    <coll hits="30" score="13.840" query="w1676678592">polymorpha</coll>
+    <coll hits="5" score="11.930" query="w1676678593">bugensis</coll>
+    <coll hits="2" score="10.710" query="w1676678594">veliger</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="3.570">
+    <coll hits="2" score="8.130" query="w1676711616">dynamics</coll>
+  </gramrel>
+</wordsketch>
+</export>

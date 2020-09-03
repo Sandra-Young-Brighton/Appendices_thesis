@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Poeciliidae</keyword>
+  <gramrel name="modifiers of X" hits="3" score="6.820">
+    <coll hits="1" score="12.680">reticulata</coll>
+    <coll hits="1" score="12.190">Gasterosteidae</coll>
+    <coll hits="1" score="11.410">Cyprinidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

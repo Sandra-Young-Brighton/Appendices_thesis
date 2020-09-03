@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">salmonicida</keyword>
+  <gramrel name="modifiers of X" hits="4" score="17.390">
+    <coll hits="4" score="13.990">Aeromonas</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="13.040">
+    <coll hits="1" score="7.970">maturation</coll>
+    <coll hits="1" score="6.870">collection</coll>
+    <coll hits="1" score="6.820">lamprey</coll>
+  </gramrel>
+</wordsketch>
+</export>

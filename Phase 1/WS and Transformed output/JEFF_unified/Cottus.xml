@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cottus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="2.670">
+    <coll hits="2" score="10.640">bullhead</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="10" score="13.330">
+    <coll hits="3" score="8.930">species</coll>
+    <coll hits="1" score="8.550">Linnaeus</coll>
+    <coll hits="2" score="7.690">fish</coll>
+    <coll hits="4" score="6.420">specie</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="2.670">
+    <coll hits="2" score="7.810">specie</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.330">
+    <coll hits="1" score="6.960">Europe</coll>
+  </gramrel>
+</wordsketch>
+</export>

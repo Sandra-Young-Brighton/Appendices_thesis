@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Bosmina</keyword>
+  <gramrel name="verbs with X as object" hits="1" score="2.940">
+    <coll hits="1" score="6.240">consume</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.940">
+    <coll hits="1" score="13.990">Chydorus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="5.880">
+    <coll hits="1" score="12.410">cope</coll>
+    <coll hits="1" score="5.390">depth</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="5.880">
+    <coll hits="1" score="10.090">food</coll>
+    <coll hits="1" score="6.800">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

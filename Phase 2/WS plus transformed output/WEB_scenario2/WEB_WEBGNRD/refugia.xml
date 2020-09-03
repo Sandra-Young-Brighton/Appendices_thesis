@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">refugia</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="35" score="33.650">
+    <coll hits="1" score="9.380" query="w1347451538">glaciation</coll>
+    <coll hits="1" score="8.890" query="w1347451543">weather</coll>
+    <coll hits="1" score="8.790" query="w1347451548">thermocline</coll>
+    <coll hits="1" score="8.790" query="w1347451545">stratification</coll>
+    <coll hits="1" score="8.540" query="w1347451541">grazer</coll>
+    <coll hits="1" score="8.190" query="w1347451542">drought</coll>
+    <coll hits="1" score="7.860" query="w1347451544">stone</coll>
+    <coll hits="1" score="7.750" query="w1347451547">Iceland</coll>
+    <coll hits="1" score="7.420" query="w1347451537">recovery</coll>
+    <coll hits="1" score="7.180" query="w1347451549">pikeminnow</coll>
+    <coll hits="1" score="7.160" query="w1347451546">cod</coll>
+    <coll hits="1" score="7.100" query="w1347451534">space</coll>
+    <coll hits="1" score="6.890" query="w1347451550">macroinvertebrate</coll>
+    <coll hits="1" score="6.550" query="w1347451520">mouth</coll>
+    <coll hits="2" score="6.490" query="w1347451536">zooplankton</coll>
+    <coll hits="2" score="6.140" query="w1347451539">predation</coll>
+    <coll hits="2" score="5.970" query="w1347451527">salmonid</coll>
+    <coll hits="1" score="5.930" query="w1347451521">America</coll>
+    <coll hits="1" score="5.920" query="w1347451540">Europe</coll>
+    <coll hits="2" score="5.620" query="w1347451524">condition</coll>
+    <coll hits="1" score="5.120" query="w1347451531">structure</coll>
+    <coll hits="1" score="4.990" query="w1347451532">charr</coll>
+    <coll hits="1" score="4.330" query="w1347451533">predator</coll>
+    <coll hits="1" score="3.800" query="w1347451526">stream</coll>
+    <coll hits="1" score="3.770" query="w1347451535">habitat</coll>
+  </gramrel>
+</wordsketch>
+</export>

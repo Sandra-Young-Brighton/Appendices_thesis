@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salvelinus_namaycush</keyword>
+  <gramrel name="modifiers of X" hits="13" score="22.410">
+    <coll hits="13" score="9.650">trout</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="3.450">
+    <coll hits="1" score="10.470">Amer</coll>
+    <coll hits="1" score="3.480">lake</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="1.720">
+    <coll hits="1" score="6.810">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

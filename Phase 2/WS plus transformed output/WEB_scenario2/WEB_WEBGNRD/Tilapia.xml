@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Tilapia</keyword>
+  <gramrel name="nouns modified by X" hits="17" score="34.690">
+    <coll hits="6" score="13.060" query="w2000483460">rendalli</coll>
+    <coll hits="2" score="11.750" query="w2000483459">zillii</coll>
+    <coll hits="2" score="11.750" query="w2000483458">nilotica</coll>
+    <coll hits="1" score="10.820" query="w2000483464">guineensis</coll>
+    <coll hits="1" score="10.820" query="w2000483463">galilaea</coll>
+    <coll hits="1" score="10.820" query="w2000483462">sparrmanii</coll>
+    <coll hits="1" score="10.820" query="w2000483461">leucosticta</coll>
+    <coll hits="1" score="10.300" query="w2000483457">aurea</coll>
+    <coll hits="2" score="9.570" query="w2000483456">niloticus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.040">
+    <coll hits="1" score="13.990" query="w2000473216">niloticus</coll>
+  </gramrel>
+</wordsketch>
+</export>

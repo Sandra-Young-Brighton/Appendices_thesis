@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="-j" freq="0">brook_trout</keyword>
+  <gramrel name="modifiers of X" hits="9" score="2.430">
+    <coll hits="4" score="11.610">lake_trout</coll>
+    <coll hits="1" score="10.820">brook_trout</coll>
+    <coll hits="1" score="10.040">lake_trout</coll>
+    <coll hits="3" score="8.460">trout</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="9" score="2.430">
+    <coll hits="2" score="11.300">lake_trout</coll>
+    <coll hits="1" score="11.190">thymallus_thymallus</coll>
+    <coll hits="1" score="11.090">lake_trout</coll>
+    <coll hits="1" score="10.820">brook_trout</coll>
+    <coll hits="1" score="10.540">brown_trout</coll>
+    <coll hits="1" score="9.530">salvelinus_fontinalis</coll>
+    <coll hits="2" score="9.310">trout</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="59" score="15.900">
+    <coll hits="4" score="10.710">joint</coll>
+    <coll hits="7" score="10.310">brown</coll>
+    <coll hits="5" score="10.140">lake_trout</coll>
+    <coll hits="6" score="9.890">brown_trout</coll>
+    <coll hits="2" score="9.670">only</coll>
+    <coll hits="1" score="9.090">embryo-adult-juvenile</coll>
+    <coll hits="1" score="9.020">δ15</coll>
+    <coll hits="1" score="9.020">established</coll>
+    <coll hits="1" score="8.810">near</coll>
+    <coll hits="1" score="8.810">lake_trout</coll>
+    <coll hits="15" score="8.750">Atlantic</coll>
+    <coll hits="2" score="8.490">trout</coll>
+    <coll hits="1" score="8.490">specific</coll>
+    <coll hits="1" score="8.470">landlocked</coll>
+    <coll hits="4" score="8.460">other</coll>
+    <coll hits="1" score="8.350">reactive</coll>
+    <coll hits="1" score="7.370">salmo_trutta</coll>
+    <coll hits="1" score="6.810">female</coll>
+    <coll hits="2" score="6.630">arctic</coll>
+    <coll hits="1" score="6.310">s.</coll>
+    <coll hits="1" score="6.210">coastal</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="28" score="7.550">
+    <coll hits="3" score="10.100">brunswick</coll>
+    <coll hits="1" score="9.140">δ13c</coll>
+    <coll hits="1" score="9.120">manitoba</coll>
+    <coll hits="1" score="8.750">acclimation</coll>
+    <coll hits="1" score="7.000">head</coll>
+    <coll hits="1" score="5.860">treatment</coll>
+    <coll hits="2" score="5.810">ecosystem</coll>
+    <coll hits="1" score="5.690">location</coll>
+    <coll hits="2" score="5.350">predator</coll>
+    <coll hits="1" score="5.240">summer</coll>
+    <coll hits="6" score="4.950">lake</coll>
+    <coll hits="1" score="4.840">range</coll>
+    <coll hits="2" score="4.750">stream</coll>
+    <coll hits="3" score="4.630">water</coll>
+    <coll hits="1" score="4.600">change</coll>
+    <coll hits="1" score="3.740">habitat</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="6" score="1.620">
+    <coll hits="1" score="12.190">oncorhynchus</coll>
+    <coll hits="1" score="11.990">salvelinus</coll>
+    <coll hits="1" score="11.830">salmonid</coll>
+    <coll hits="3" score="10.820">trout</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="2" score="0.540">
+    <coll hits="2" score="13.000">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

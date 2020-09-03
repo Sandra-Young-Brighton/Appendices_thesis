@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Aeshnidae</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="7.140">
+    <coll hits="2" score="12.680">Chironomidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="7.140">
+    <coll hits="2" score="12.090">Chironomidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="3.570">
+    <coll hits="1" score="3.980">size</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">coregonine</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="23.080">
+    <coll hits="1" score="13.000">Bodensee</coll>
+    <coll hits="1" score="7.670">addition</coll>
+    <coll hits="1" score="6.050">management</coll>
+  </gramrel>
+</wordsketch>
+</export>

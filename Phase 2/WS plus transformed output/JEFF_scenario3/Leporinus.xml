@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Leporinus</keyword>
+  <gramrel name="nouns modified by X" hits="11" score="44.000">
+    <coll hits="4" score="13.090">octofasciatus</coll>
+    <coll hits="3" score="12.770">friderici</coll>
+    <coll hits="2" score="12.190">obtusidens</coll>
+    <coll hits="1" score="11.410">yophorus</coll>
+    <coll hits="1" score="11.090">elongatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

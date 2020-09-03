@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Linnaeus</keyword>
+  <gramrel name="modifiers of X" hits="124" score="62.000">
+    <coll hits="15" score="11.690">Lucius</coll>
+    <coll hits="14" score="11.670">trutta</coll>
+    <coll hits="7" score="10.710">fluviatilis</coll>
+    <coll hits="13" score="10.370">Esox</coll>
+    <coll hits="5" score="10.300">aculeatus</coll>
+    <coll hits="4" score="10.000">marinus</coll>
+    <coll hits="4" score="9.690">Petromyzon</coll>
+    <coll hits="3" score="9.580">gibbosus</coll>
+    <coll hits="3" score="9.580">salar</coll>
+    <coll hits="3" score="9.570">Cyprinus</coll>
+    <coll hits="4" score="9.160">Gasterosteus</coll>
+    <coll hits="7" score="9.100">Perca</coll>
+    <coll hits="2" score="9.010">gobio</coll>
+    <coll hits="17" score="8.470">Salmo</coll>
+    <coll hits="1" score="8.030">Phalaris</coll>
+    <coll hits="1" score="8.030">Pcrcn</coll>
+    <coll hits="1" score="8.030">aurata</coll>
+    <coll hits="1" score="8.030">arundinacea</coll>
+    <coll hits="1" score="8.030">niloticus</coll>
+    <coll hits="1" score="8.030">asotus</coll>
+    <coll hits="1" score="8.030">heteroclitus</coll>
+    <coll hits="1" score="8.030">barbatula</coll>
+    <coll hits="1" score="8.020">cephalus</coll>
+    <coll hits="1" score="8.010">alpinus</coll>
+    <coll hits="1" score="7.990">thymallus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="3.000">
+    <coll hits="2" score="12.190">Linnaeus</coll>
+    <coll hits="1" score="11.830">affinis</coll>
+    <coll hits="1" score="11.830">gobio</coll>
+    <coll hits="1" score="11.540">mykiss</coll>
+    <coll hits="1" score="11.410">leuciscus</coll>
+  </gramrel>
+</wordsketch>
+</export>

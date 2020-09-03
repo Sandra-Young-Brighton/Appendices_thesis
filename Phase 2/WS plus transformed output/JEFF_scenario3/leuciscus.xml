@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">leuciscus</keyword>
+  <gramrel name="modifiers of X" hits="27" score="62.790">
+    <coll hits="26" score="13.060">Leuciscus</coll>
+    <coll hits="1" score="10.090">gobio</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.330">
+    <coll hits="1" score="3.590">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

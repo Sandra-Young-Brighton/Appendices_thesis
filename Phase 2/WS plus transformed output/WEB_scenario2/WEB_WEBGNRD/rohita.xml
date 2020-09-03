@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rohita</keyword>
+  <gramrel name="modifiers of X" hits="9" score="100.000">
+    <coll hits="7" score="13.410" query="w2035711617">Labeo</coll>
+    <coll hits="1" score="11.670" query="w2035711618">mrigala</coll>
+    <coll hits="1" score="11.540" query="w2035711616">Gobiidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

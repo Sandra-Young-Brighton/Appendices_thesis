@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Dicentrarchus</keyword>
+  <gramrel name="nouns modified by X" hits="40" score="74.070">
+    <coll hits="39" score="13.910" query="w1726196992">labrax</coll>
+    <coll hits="1" score="9.640" query="w1726196993">Labrax</coll>
+  </gramrel>
+</wordsketch>
+</export>

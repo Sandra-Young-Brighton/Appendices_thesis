@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ciliata</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="45.450">
+    <coll hits="4" score="13.830" query="w1773443585">mustela</coll>
+    <coll hits="1" score="11.000" query="w1773443584">Gadidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

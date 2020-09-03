@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Litopenaeus</keyword>
+  <gramrel name="nouns modified by X" hits="13" score="46.430">
+    <coll hits="5" score="13.070" query="w2033165312">vannamei</coll>
+    <coll hits="3" score="12.580" query="w2033165314">stylirostris</coll>
+    <coll hits="3" score="12.580" query="w2033165313">setiferus</coll>
+    <coll hits="1" score="11.190" query="w2033165316">schmitti</coll>
+    <coll hits="1" score="10.910" query="w2033165315">pugio</coll>
+  </gramrel>
+</wordsketch>
+</export>

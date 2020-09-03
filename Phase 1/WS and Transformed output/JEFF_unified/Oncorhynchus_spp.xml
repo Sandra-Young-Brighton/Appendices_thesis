@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Oncorhynchus_spp</keyword>
+  <gramrel name="modifiers of X" hits="6" score="13.040">
+    <coll hits="6" score="8.550">salmon</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="2.170">
+    <coll hits="1" score="6.810">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

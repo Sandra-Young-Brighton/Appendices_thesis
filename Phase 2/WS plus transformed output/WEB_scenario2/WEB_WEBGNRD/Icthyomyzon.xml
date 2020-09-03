@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Icthyomyzon</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="75.000">
+    <coll hits="3" score="12.330" query="w2064424320">hubbsi</coll>
+  </gramrel>
+</wordsketch>
+</export>

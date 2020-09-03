@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Trichoptera</keyword>
+  <gramrel name="modifiers of X" hits="19" score="15.450">
+    <coll hits="4" score="12.290">Plecoptera</coll>
+    <coll hits="3" score="11.630">Trichoptera</coll>
+    <coll hits="3" score="11.540">Ephemeroptera</coll>
+    <coll hits="2" score="11.350">Amphipoda</coll>
+    <coll hits="2" score="11.090">Diptera</coll>
+    <coll hits="1" score="10.680">Corixidae</coll>
+    <coll hits="1" score="10.600">Mollusca</coll>
+    <coll hits="1" score="10.470">Megaloptera</coll>
+    <coll hits="1" score="10.470">Odonata</coll>
+    <coll hits="1" score="10.350">Chironomidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="12" score="9.760">
+    <coll hits="2" score="11.670">Odonata</coll>
+    <coll hits="3" score="11.630">Trichoptera</coll>
+    <coll hits="2" score="11.610">Diptera</coll>
+    <coll hits="1" score="11.190">Megaloptera</coll>
+    <coll hits="1" score="11.190">Mollusca</coll>
+    <coll hits="1" score="11.000">Chironomidae</coll>
+    <coll hits="1" score="10.910">Lepidoptera</coll>
+    <coll hits="1" score="10.750">Ephemeroptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="12" score="9.760">
+    <coll hits="3" score="12.060">Diptera</coll>
+    <coll hits="2" score="11.610">Odonata</coll>
+    <coll hits="3" score="11.580">Ephemeroptera</coll>
+    <coll hits="1" score="11.300">Nematocera</coll>
+    <coll hits="1" score="11.300">Megaloptera</coll>
+    <coll hits="1" score="11.190">Lepidoptera</coll>
+    <coll hits="1" score="11.090">Chironomidae</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="4" score="3.250">
+    <coll hits="1" score="12.680">graciloides</coll>
+    <coll hits="1" score="12.680">Eudiaptomus</coll>
+    <coll hits="1" score="12.680">longispina</coll>
+    <coll hits="1" score="12.680">Bosmina</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="1.630">
+    <coll hits="1" score="8.550">benthos</coll>
+    <coll hits="1" score="3.180">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

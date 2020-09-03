@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Clupea</keyword>
+  <gramrel name="nouns modified by X" hits="85" score="48.850">
+    <coll hits="83" score="13.970">harengus</coll>
+    <coll hits="1" score="8.430">Salmo</coll>
+    <coll hits="1" score="7.320">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.570">
+    <coll hits="1" score="11.830">fishery</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">vitreum</keyword>
+  <gramrel name="modifiers of X" hits="43" score="36.440">
+    <coll hits="38" score="13.230">Stizostedion</coll>
+    <coll hits="1" score="9.530">caprodes</coll>
+    <coll hits="1" score="9.500">dolomieu</coll>
+    <coll hits="1" score="9.440">flavescens</coll>
+    <coll hits="1" score="9.160">Percina</coll>
+    <coll hits="1" score="7.500">Sander</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.850">
+    <coll hits="1" score="7.890">flavescens</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.850">
+    <coll hits="1" score="12.410">flavescens</coll>
+  </gramrel>
+</wordsketch>
+</export>

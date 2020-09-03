@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">piscivory</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="19" score="23.750">
+    <coll hits="1" score="10.680">perchthat</coll>
+    <coll hits="1" score="10.680">LTclasses</coll>
+    <coll hits="1" score="10.410">trucha</coll>
+    <coll hits="2" score="8.130">trait</coll>
+    <coll hits="1" score="7.430">turbidity</coll>
+    <coll hits="1" score="6.780">bird</coll>
+    <coll hits="2" score="6.290">bass</coll>
+    <coll hits="1" score="5.970">presence</coll>
+    <coll hits="1" score="5.630">whitefish</coll>
+    <coll hits="1" score="5.000">salmonid</coll>
+    <coll hits="1" score="4.860">pike</coll>
+    <coll hits="3" score="4.810">population</coll>
+    <coll hits="1" score="4.540">length</coll>
+    <coll hits="1" score="4.360">perch</coll>
+    <coll hits="1" score="3.860">species</coll>
+  </gramrel>
+</wordsketch>
+</export>

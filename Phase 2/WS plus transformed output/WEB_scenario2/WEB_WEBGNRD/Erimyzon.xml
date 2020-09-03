@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Erimyzon</keyword>
+  <gramrel name="nouns modified by X" hits="8" score="61.540">
+    <coll hits="4" score="13.410" query="w2134735105">oblongus</coll>
+    <coll hits="3" score="13.120" query="w2134735106">sucetta</coll>
+    <coll hits="1" score="11.300" query="w2134735104">nigricans</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Luxilus_chrysocephalus</keyword>
+  <gramrel name="modifiers of X" hits="3" score="100.000">
+    <coll hits="1" score="13.000">Hybopsis_amblops</coll>
+    <coll hits="1" score="13.000">Cyprinella_whipplei</coll>
+    <coll hits="1" score="13.000">Cyprinella_spiloptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

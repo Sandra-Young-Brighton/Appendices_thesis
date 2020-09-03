@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Poecilia</keyword>
+  <gramrel name="nouns modified by X" hits="23" score="76.670">
+    <coll hits="14" score="13.410" query="w1613024257">reticulata</coll>
+    <coll hits="7" score="12.900" query="w1613024256">latipinna</coll>
+    <coll hits="2" score="11.350" query="w1613024258">gillii</coll>
+  </gramrel>
+</wordsketch>
+</export>

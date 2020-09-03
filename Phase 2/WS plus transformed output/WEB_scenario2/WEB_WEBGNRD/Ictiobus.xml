@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ictiobus</keyword>
+  <gramrel name="nouns modified by X" hits="9" score="45.000">
+    <coll hits="5" score="13.510" query="w2069869185">cyprinellus</coll>
+    <coll hits="3" score="13.000" query="w2069869184">bubalus</coll>
+    <coll hits="1" score="11.300" query="w2069869186">bubalis</coll>
+  </gramrel>
+</wordsketch>
+</export>

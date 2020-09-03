@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Catastomus</keyword>
+  <gramrel name="nouns modified by X" hits="6" score="66.670">
+    <coll hits="2" score="12.290" query="w2051913089">columbianus</coll>
+    <coll hits="2" score="11.990" query="w2051913090">macrocheilus</coll>
+    <coll hits="2" score="10.870" query="w2051913088">commersoni</coll>
+  </gramrel>
+</wordsketch>
+</export>

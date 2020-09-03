@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gomphidae</keyword>
+  <gramrel name="modifiers of X" hits="2" score="10.000">
+    <coll hits="1" score="13.410" query="w2139366145">Calopterygidae</coll>
+    <coll hits="1" score="11.990" query="w2139366144">Aeshnidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="15.000">
+    <coll hits="1" score="13.000" query="w2139341505">Potamonautidae</coll>
+    <coll hits="1" score="12.680" query="w2139341506">Athericidae</coll>
+    <coll hits="1" score="11.990" query="w2139341504">Dytiscidae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="5.000">
+    <coll hits="1" score="6.030" query="w2139383424">presence</coll>
+  </gramrel>
+</wordsketch>
+</export>

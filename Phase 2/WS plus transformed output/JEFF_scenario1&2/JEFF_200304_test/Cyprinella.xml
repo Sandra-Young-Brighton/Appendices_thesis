@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cyprinella</keyword>
+  <gramrel name="nouns modified by X" hits="45" score="60.000">
+    <coll hits="24" score="13.470">venusta</coll>
+    <coll hits="9" score="12.330">lutrensis</coll>
+    <coll hits="6" score="11.910">caerulea</coll>
+    <coll hits="2" score="10.440">galactura</coll>
+    <coll hits="2" score="10.300">Pimephales</coll>
+    <coll hits="1" score="9.480">spiloptera</coll>
+    <coll hits="1" score="9.410">Hybopsis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.330">
+    <coll hits="1" score="13.410">Pimephales</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.330">
+    <coll hits="1" score="9.670">example</coll>
+  </gramrel>
+</wordsketch>
+</export>

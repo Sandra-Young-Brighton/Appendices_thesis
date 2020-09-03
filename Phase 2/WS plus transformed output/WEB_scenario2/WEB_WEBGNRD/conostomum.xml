@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">conostomum</keyword>
+  <gramrel name="modifiers of X" hits="10" score="66.670">
+    <coll hits="7" score="13.340" query="w1994705665">Phyllodistomum</coll>
+    <coll hits="3" score="12.880" query="w1994705664">farionis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="6.670">
+    <coll hits="1" score="11.990" query="w1994735488">TV</coll>
+  </gramrel>
+</wordsketch>
+</export>

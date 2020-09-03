@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Zostera</keyword>
+  <gramrel name="nouns modified by X" hits="15" score="60.000">
+    <coll hits="12" score="13.630" query="w1952994113">marina</coll>
+    <coll hits="1" score="11.000" query="w1952994114">Ruppia</coll>
+    <coll hits="2" score="8.310" query="w1952994112">japonica</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="4.000">
+    <coll hits="1" score="13.990" query="w1952983360">Ruppia</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="4.000">
+    <coll hits="1" score="13.410" query="w1953022400">Ulva</coll>
+  </gramrel>
+</wordsketch>
+</export>

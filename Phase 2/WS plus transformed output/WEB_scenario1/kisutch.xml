@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">kisutch</keyword>
+  <gramrel name="modifiers of X" hits="206" score="67.540">
+    <coll hits="196" score="11.990">Oncorhynchus</coll>
+    <coll hits="3" score="8.820">Oncorhyncus</coll>
+    <coll hits="2" score="8.280">Oncorynchus</coll>
+    <coll hits="2" score="8.130">Onchorhynchus</coll>
+    <coll hits="1" score="7.300">tschawytscha</coll>
+    <coll hits="1" score="7.290">harengus</coll>
+    <coll hits="1" score="7.220">mykiss</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.330">
+    <coll hits="1" score="13.410">tshawytscha</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="9" score="2.950">
+    <coll hits="1" score="10.410">dimorphism</coll>
+    <coll hits="1" score="8.430">Oregon</coll>
+    <coll hits="4" score="8.350">catchment</coll>
+    <coll hits="1" score="6.850">function</coll>
+    <coll hits="1" score="6.770">infection</coll>
+    <coll hits="1" score="3.750">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

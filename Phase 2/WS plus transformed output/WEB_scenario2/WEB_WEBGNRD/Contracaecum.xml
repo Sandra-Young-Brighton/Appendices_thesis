@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Contracaecum</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="75.000">
+    <coll hits="1" score="13.000" query="w2098280770">osculatum</coll>
+    <coll hits="1" score="13.000" query="w2098280769">rudolphii</coll>
+    <coll hits="1" score="12.410" query="w2098280768">larva</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">California</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="47" score="2.880">
+    <coll hits="3" score="10.910" query="w1271968591">Comparison</coll>
+    <coll hits="9" score="9.580" query="w1271968582">Alaska</coll>
+    <coll hits="1" score="9.270" query="w1271968601">July-August</coll>
+    <coll hits="6" score="9.070" query="w1271968583">Pacific</coll>
+    <coll hits="1" score="8.930" query="w1271968595">Davis</coll>
+    <coll hits="1" score="8.730" query="w1271968590">Change</coll>
+    <coll hits="1" score="7.950" query="w1271968594">south</coll>
+    <coll hits="2" score="7.940" query="w1271968593">shore</coll>
+    <coll hits="1" score="7.910" query="w1271968592">County</coll>
+    <coll hits="1" score="7.740" query="w1271968584">Arctic</coll>
+    <coll hits="1" score="7.640" query="w1271968585">January</coll>
+    <coll hits="2" score="7.610" query="w1271968596">Columbia</coll>
+    <coll hits="2" score="7.370" query="w1271968600">Dam</coll>
+    <coll hits="2" score="7.370" query="w1271968577">August</coll>
+    <coll hits="2" score="7.330" query="w1271968576">July</coll>
+    <coll hits="1" score="7.220" query="w1271968597">purpose</coll>
+    <coll hits="1" score="7.090" query="w1271968598">Ocean</coll>
+    <coll hits="1" score="6.980" query="w1271968599">century</coll>
+    <coll hits="1" score="6.710" query="w1271968579">comparison</coll>
+    <coll hits="1" score="6.680" query="w1271968589">variety</coll>
+    <coll hits="2" score="5.830" query="w1271968578">range</coll>
+    <coll hits="1" score="5.560" query="w1271968586">winter</coll>
+    <coll hits="1" score="5.490" query="w1271968581">spring</coll>
+    <coll hits="1" score="5.040" query="w1271968588">Fish</coll>
+    <coll hits="1" score="4.360" query="w1271968587">level</coll>
+  </gramrel>
+</wordsketch>
+</export>

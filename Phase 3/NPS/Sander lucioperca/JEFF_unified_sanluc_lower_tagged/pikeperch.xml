@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_sanluc_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">pikeperch</keyword>
+  <gramrel name="nouns modified by X" hits="15" score="5.170">
+    <coll hits="7" score="13.340">sander_lucioperca</coll>
+    <coll hits="7" score="13.280">stizostedion_lucioperca</coll>
+    <coll hits="1" score="11.000">gymnocephalus_cernuus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="7" score="2.410">
+    <coll hits="5" score="13.730">stizostedion_lucioperca</coll>
+    <coll hits="1" score="11.990">sander_lucioperca</coll>
+    <coll hits="1" score="11.990">gymnocephalus_cernuus</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="0.340">&quot;%w&quot; is the generic of...</coll>
+    <coll hits="1" score="0.340">&quot;%w&quot; is a type of...</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="27" score="9.310">
+    <coll hits="1" score="10.140">swarm</coll>
+    <coll hits="1" score="10.090">percidae</coll>
+    <coll hits="3" score="9.420">ruffe</coll>
+    <coll hits="1" score="8.010">tl</coll>
+    <coll hits="4" score="7.450">reservoir</coll>
+    <coll hits="1" score="7.350">side</coll>
+    <coll hits="1" score="6.950">laboratory</coll>
+    <coll hits="3" score="6.760">prey</coll>
+    <coll hits="2" score="6.040">predator</coll>
+    <coll hits="2" score="5.510">perch</coll>
+    <coll hits="1" score="5.120">summer</coll>
+    <coll hits="1" score="4.560">system</coll>
+    <coll hits="2" score="3.650">river</coll>
+    <coll hits="1" score="3.320">study</coll>
+    <coll hits="1" score="3.240">population</coll>
+    <coll hits="1" score="3.140">specie</coll>
+    <coll hits="1" score="3.040">lake</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.340">
+    <coll hits="1" score="13.990">gudgeon</coll>
+  </gramrel>
+</wordsketch>
+</export>

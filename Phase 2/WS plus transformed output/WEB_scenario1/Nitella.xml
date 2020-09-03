@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Nitella</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="6.250">
+    <coll hits="1" score="13.990">Fontinalis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="6.250">
+    <coll hits="1" score="13.990">Fontinalis</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="4" score="25.000">
+    <coll hits="2" score="13.410">spicatum</coll>
+    <coll hits="2" score="13.410">Myriophyllum</coll>
+  </gramrel>
+</wordsketch>
+</export>

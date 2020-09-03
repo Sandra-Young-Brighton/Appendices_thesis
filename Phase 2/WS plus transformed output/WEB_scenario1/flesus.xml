@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">flesus</keyword>
+  <gramrel name="modifiers of X" hits="8" score="17.020">
+    <coll hits="7" score="13.800">Platichthys</coll>
+    <coll hits="1" score="11.830">limanda</coll>
+  </gramrel>
+</wordsketch>
+</export>

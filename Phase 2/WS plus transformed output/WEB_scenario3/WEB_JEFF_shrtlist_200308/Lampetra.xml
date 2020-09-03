@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lampetra</keyword>
+  <gramrel name="modifiers of X" hits="3" score="0.660">
+    <coll hits="1" score="12.680">arcticus</coll>
+    <coll hits="1" score="11.670">Lethenteron</coll>
+    <coll hits="1" score="11.300">marinus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="294" score="64.620">
+    <coll hits="204" score="12.650">fluviatilis</coll>
+    <coll hits="68" score="12.580">planeri</coll>
+    <coll hits="11" score="10.200">tridentata</coll>
+    <coll hits="5" score="9.090">richardsoni</coll>
+    <coll hits="3" score="8.370">ayresi</coll>
+    <coll hits="1" score="6.790">aepyptera</coll>
+    <coll hits="1" score="6.790">camtschatica</coll>
+    <coll hits="1" score="6.790">Eudontomyzon</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.220">
+    <coll hits="1" score="13.990">Eudontomyzon</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.220">
+    <coll hits="1" score="9.320">Peninsula</coll>
+  </gramrel>
+</wordsketch>
+</export>

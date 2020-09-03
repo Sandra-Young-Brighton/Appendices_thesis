@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gymnocephalus</keyword>
+  <gramrel name="nouns modified by X" hits="59" score="83.100">
+    <coll hits="46" score="13.790">cernuus</coll>
+    <coll hits="13" score="12.510">cernua</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.410">
+    <coll hits="1" score="9.640">press</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pomoxis</keyword>
+  <gramrel name="nouns modified by X" hits="22" score="41.510">
+    <coll hits="11" score="13.370">nigromaculatus</coll>
+    <coll hits="9" score="13.120">annularis</coll>
+    <coll hits="1" score="10.470">nigrornuculatus</coll>
+    <coll hits="1" score="6.310">larva</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="5.660">
+    <coll hits="2" score="7.570">fish</coll>
+    <coll hits="1" score="6.500">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

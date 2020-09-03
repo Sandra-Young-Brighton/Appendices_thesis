@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">kamchatka_steelhead</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="33.330">
+    <coll hits="1" score="13.990">parasalmo_mykiss</coll>
+  </gramrel>
+</wordsketch>
+</export>

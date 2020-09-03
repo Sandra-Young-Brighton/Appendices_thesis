@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">refringens</keyword>
+  <gramrel name="modifiers of X" hits="3" score="150.000">
+    <coll hits="2" score="13.670" query="w2086970176">Marteilia</coll>
+    <coll hits="1" score="13.000" query="w2086970177">refringens</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="50.000" query="w2086959040">&quot;%w&quot; and/or ...</coll>
+    <coll hits="1" score="50.000" query="w2086987584">nouns modified by &quot;%w&quot;</coll>
+  </gramrel>
+</wordsketch>
+</export>

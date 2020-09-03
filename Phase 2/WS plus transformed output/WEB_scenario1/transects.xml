@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">transects</keyword>
+  <gramrel name="X and/or ..." hits="3" score="0.870">
+    <coll hits="1" score="12.410">demonstrate</coll>
+    <coll hits="1" score="11.300">make</coll>
+    <coll hits="1" score="9.090">measure</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="57" score="16.470">
+    <coll hits="6" score="9.950">core</coll>
+    <coll hits="2" score="9.670">marking</coll>
+    <coll hits="2" score="9.170">chamber</coll>
+    <coll hits="1" score="9.140">forbesi</coll>
+    <coll hits="1" score="9.090">LS</coll>
+    <coll hits="1" score="9.020">tape</coll>
+    <coll hits="3" score="8.980">interval</coll>
+    <coll hits="1" score="8.850">87Sr</coll>
+    <coll hits="1" score="8.820">cruise</coll>
+    <coll hits="1" score="8.710">Croix</coll>
+    <coll hits="1" score="8.680">radius</coll>
+    <coll hits="1" score="8.620">primordium</coll>
+    <coll hits="1" score="8.550">SD</coll>
+    <coll hits="1" score="8.440">centre</coll>
+    <coll hits="1" score="8.020">accordance</coll>
+    <coll hits="2" score="7.980">station</coll>
+    <coll hits="1" score="7.540">shoreline</coll>
+    <coll hits="1" score="7.220">speed</coll>
+    <coll hits="1" score="7.020">element</coll>
+    <coll hits="1" score="6.890">shore</coll>
+    <coll hits="1" score="6.820">sampling</coll>
+    <coll hits="1" score="6.780">macroinvertebrate</coll>
+    <coll hits="2" score="6.760">Bay</coll>
+    <coll hits="1" score="6.700">R</coll>
+    <coll hits="1" score="6.680">September</coll>
+  </gramrel>
+</wordsketch>
+</export>

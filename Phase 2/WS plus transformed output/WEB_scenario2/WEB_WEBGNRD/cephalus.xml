@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cephalus</keyword>
+  <gramrel name="modifiers of X" hits="93" score="72.660">
+    <coll hits="66" score="13.360" query="w1922250178">Leuciscus</coll>
+    <coll hits="13" score="11.930" query="w1922250180">Squalius</coll>
+    <coll hits="10" score="11.630" query="w1922250177">Mugil</coll>
+    <coll hits="1" score="8.440" query="w1922250181">tinea</coll>
+    <coll hits="1" score="8.430" query="w1922250182">Brycon</coll>
+    <coll hits="1" score="8.430" query="w1922250179">barbus</coll>
+    <coll hits="1" score="8.330" query="w1922250176">Lucius</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="3.130">
+    <coll hits="1" score="11.830" query="w1922318339">regium</coll>
+    <coll hits="1" score="10.600" query="w1922318337">elongatus</coll>
+    <coll hits="1" score="9.710" query="w1922318338">alburnus</coll>
+    <coll hits="1" score="9.670" query="w1922318336">nasus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="7" score="5.470">
+    <coll hits="3" score="12.680" query="w1922196803">alburnus</coll>
+    <coll hits="1" score="11.990" query="w1922196804">regium</coll>
+    <coll hits="1" score="11.830" query="w1922196802">elongatus</coll>
+    <coll hits="1" score="11.540" query="w1922196800">nasus</coll>
+    <coll hits="1" score="11.190" query="w1922196801">Carpio</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="3.130">
+    <coll hits="2" score="8.210" query="w1922357441">Figure</coll>
+    <coll hits="1" score="6.300" query="w1922357442">Ireland</coll>
+    <coll hits="1" score="5.720" query="w1922357440">S</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.780">
+    <coll hits="1" score="7.910" query="w1922388352">Cyprinidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

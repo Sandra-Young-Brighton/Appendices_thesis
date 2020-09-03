@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cernuus</keyword>
+  <gramrel name="modifiers of X" hits="47" score="61.840">
+    <coll hits="46" score="13.790">Gymnocephalus</coll>
+    <coll hits="1" score="9.090">fluviatilis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="2.630">
+    <coll hits="1" score="11.670">aspius</coll>
+    <coll hits="1" score="9.950">morhua</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="2.630">
+    <coll hits="1" score="13.410">morhua</coll>
+    <coll hits="1" score="13.000">aspius</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.320">
+    <coll hits="1" score="4.810">condition</coll>
+  </gramrel>
+</wordsketch>
+</export>

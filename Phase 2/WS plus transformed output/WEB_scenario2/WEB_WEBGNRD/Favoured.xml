@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Favoured</keyword>
+  <gramrel name="X and/or ..." hits="1" score="0.820">
+    <coll hits="1" score="9.910" query="w1940034048">enhance</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="16" score="13.110">
+    <coll hits="3" score="8.310" query="w1940043456">angler</coll>
+    <coll hits="2" score="8.110" query="w1940043460">competition</coll>
+    <coll hits="1" score="8.020" query="w1940043467">bait</coll>
+    <coll hits="1" score="7.540" query="w1940043466">chub</coll>
+    <coll hits="1" score="6.590" query="w1940043463">selection</coll>
+    <coll hits="1" score="5.970" query="w1940043465">relation</coll>
+    <coll hits="1" score="5.170" query="w1940043464">predation</coll>
+    <coll hits="1" score="5.000" query="w1940043458">salmonid</coll>
+    <coll hits="2" score="4.740" query="w1940043461">area</coll>
+    <coll hits="1" score="4.630" query="w1940043457">condition</coll>
+    <coll hits="1" score="4.320" query="w1940043462">temperature</coll>
+    <coll hits="1" score="3.100" query="w1940043459">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

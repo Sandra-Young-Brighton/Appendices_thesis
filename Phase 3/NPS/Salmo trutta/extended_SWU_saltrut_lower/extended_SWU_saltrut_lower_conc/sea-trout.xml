@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_untagged</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="24">[lc=&quot;sea-trout&quot; | lemma_lc=&quot;sea-trout&quot;]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#14" num="0" label="_">
+    <left>few, large colonies heavy predation on</left>
+    <kwic> sea-trout</kwic>
+    <right> and salmon smolts large colonies started to</right>
+  </line>
+  <line refs="doc#14" num="1" label="_">
+    <left>) • hald sø lake_trout (20 – 50 % of smolts eaten) •</left>
+    <kwic> sea-trout</kwic>
+    <right> smolt in funen (massive loss) • trout and salmon</right>
+  </line>
+  <line refs="doc#73" num="2" label="_">
+    <left>and intercohort competition of juvenile</left>
+    <kwic> sea-trout</kwic>
+    <right> &lt;/p&gt; &lt;p&gt; salmo_trutta.oikos 29, 112–117. &lt;/p&gt;</right>
+  </line>
+  <line refs="doc#77" num="3" label="_">
+    <left>of a natural population of salmon or</left>
+    <kwic> sea-trout</kwic>
+    <right> in river gudena, upstream tange, is</right>
+  </line>
+  <line refs="doc#78" num="4" label="_">
+    <left>survival, using data from a long-term study of a</left>
+    <kwic> sea-trout</kwic>
+    <right> population. droughts were severest in the</right>
+  </line>
+  <line refs="doc#104" num="5" label="_">
+    <left>of a natural population of salmon or</left>
+    <kwic> sea-trout</kwic>
+    <right> in river gudena, upstream tange, is</right>
+  </line>
+  <line refs="doc#104" num="6" label="_">
+    <left>of a natural population of salmon or</left>
+    <kwic> sea-trout</kwic>
+    <right> in river gudenå, upstream tange, is</right>
+  </line>
+  <line refs="doc#107" num="7" label="_">
+    <left>of a natural population of salmon or</left>
+    <kwic> sea-trout</kwic>
+    <right> in river gudena, upstream tange, is</right>
+  </line>
+  <line refs="doc#107" num="8" label="_">
+    <left>of a natural &lt;/p&gt; &lt;p&gt; population of salmon or</left>
+    <kwic> sea-trout</kwic>
+    <right> in river gudenå, upstream tange, is</right>
+  </line>
+  <line refs="doc#107" num="9" label="_">
+    <left>were extinct and the population &lt;/p&gt; &lt;p&gt; of</left>
+    <kwic> sea-trout</kwic>
+    <right> reduced byat least 50%. &lt;/p&gt; &lt;p&gt; the variations</right>
+  </line>
+  <line refs="doc#219" num="10" label="_">
+    <left>). life history and the habits of the salmon,</left>
+    <kwic> sea-trout</kwic>
+    <right>, trout and other freshwater fish. &lt;/li&gt; &lt;li&gt; (</right>
+  </line>
+  <line refs="doc#311" num="11" label="_">
+    <left>processes 16: 927–936. alm g. 1950. the</left>
+    <kwic> sea-trout</kwic>
+    <right> population in the åva stream. reports of the</right>
+  </line>
+  <line refs="doc#436" num="12" label="_">
+    <left>model for predicting the emergence period of</left>
+    <kwic> sea-trout</kwic>
+    <right> fry in a lake district stream. journal of fish</right>
+  </line>
+  <line refs="doc#436" num="13" label="_">
+    <left>fluctuations in the size of newly-emerged</left>
+    <kwic> sea-trout</kwic>
+    <right> fry in a lake district stream. journal of fish</right>
+  </line>
+  <line refs="doc#436" num="14" label="_">
+    <left>variable effects of droughts on the density of a</left>
+    <kwic> sea-trout</kwic>
+    <right> salmo_trutta population over 30 years.</right>
+  </line>
+  <line refs="doc#744" num="15" label="_">
+    <left>the important issue of improving salmon and</left>
+    <kwic> sea-trout</kwic>
+    <right> smolt survival during the critical early</right>
+  </line>
+  <line refs="doc#744" num="16" label="_">
+    <left>. &lt;/p&gt; &lt;p&gt; a key objective of salmon and</left>
+    <kwic> sea-trout</kwic>
+    <right> management is to maximise the production of</right>
+  </line>
+  <line refs="doc#744" num="17" label="_">
+    <left>of this for the management of salmon and</left>
+    <kwic> sea-trout</kwic>
+    <right>, both in freshwater and in estuaries/ coastal</right>
+  </line>
+  <line refs="doc#1008" num="18" label="_">
+    <left>summer. coarse fishermen have taken fresh run</left>
+    <kwic> sea-trout</kwic>
+    <right> as early as january. however, late april is</right>
+  </line>
+  <line refs="doc#1008" num="19" label="_">
+    <left>, late april is recognised as the start of the</left>
+    <kwic> sea-trout</kwic>
+    <right> fishing proper, with the best of the run over by</right>
+  </line>
+  <line refs="doc#1008" num="20" label="_">
+    <left>as stated elsewhere, few dee anglers fish for</left>
+    <kwic> sea-trout</kwic>
+    <right>. those anglers that do venture out at night take</right>
+  </line>
+  <line refs="doc#1008" num="21" label="_">
+    <left>take fish on large lures (the modern approach to</left>
+    <kwic> sea-trout</kwic>
+    <right> fishing) as well as oversize trout flies (the</right>
+  </line>
+  <line refs="doc#1008" num="22" label="_">
+    <left>&lt;/p&gt; &lt;p&gt; the club encourages members to fish for</left>
+    <kwic> sea-trout</kwic>
+    <right> as this is seen as an under-utilised resource</right>
+  </line>
+  <line refs="doc#1008" num="23" label="_">
+    <left>the main run of salmon. &lt;/p&gt; &lt;p&gt; bait fishing for</left>
+    <kwic> sea-trout</kwic>
+    <right> is not a tactic currently used by club members.</right>
+  </line>
+</concordance>
+</export>

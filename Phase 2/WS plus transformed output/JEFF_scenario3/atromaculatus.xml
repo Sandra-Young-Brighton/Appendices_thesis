@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">atromaculatus</keyword>
+  <gramrel name="modifiers of X" hits="22" score="61.110">
+    <coll hits="21" score="13.960">Semotilus</coll>
+    <coll hits="1" score="10.470">anomalum</coll>
+  </gramrel>
+</wordsketch>
+</export>

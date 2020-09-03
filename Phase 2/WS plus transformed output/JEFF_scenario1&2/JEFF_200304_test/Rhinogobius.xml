@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Rhinogobius</keyword>
+  <gramrel name="nouns modified by X" hits="32" score="25.200">
+    <coll hits="12" score="13.120">brunneus</coll>
+    <coll hits="11" score="13.030">giurinus</coll>
+    <coll hits="9" score="12.810">cliffordpopei</coll>
+  </gramrel>
+</wordsketch>
+</export>

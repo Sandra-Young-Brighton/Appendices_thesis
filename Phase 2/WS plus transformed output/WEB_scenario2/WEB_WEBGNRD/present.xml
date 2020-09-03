@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">present</keyword>
+  <gramrel name="X and/or ..." hits="117" score="5.800">
+    <coll hits="19" score="11.750" query="w403181805">future</coll>
+    <coll hits="11" score="11.280" query="w403181801">absent</coll>
+    <coll hits="10" score="11.210" query="w403181808">threatened</coll>
+    <coll hits="4" score="9.830" query="w403181762">past</coll>
+    <coll hits="3" score="9.340" query="w403181761">due</coll>
+    <coll hits="2" score="9.100" query="w403181823">pre-2004</coll>
+    <coll hits="2" score="9.090" query="w403181811">promising</coll>
+    <coll hits="2" score="9.050" query="w403181798">former</coll>
+    <coll hits="2" score="9.040" query="w403181786">able</coll>
+    <coll hits="2" score="9.010" query="w403181817">year-round</coll>
+    <coll hits="2" score="8.620" query="w403181770">previous</coll>
+    <coll hits="2" score="8.600" query="w403181764">new</coll>
+    <coll hits="2" score="8.600" query="w403181772">present</coll>
+    <coll hits="2" score="7.760" query="w403181787">natural</coll>
+    <coll hits="2" score="7.230" query="w403181763">large</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="599" score="29.710">
+    <coll hits="22" score="8.960" query="w403662629">sample</coll>
+    <coll hits="13" score="8.680" query="w403662653">reach</coll>
+    <coll hits="24" score="8.480" query="w403662598">number</coll>
+    <coll hits="20" score="8.080" query="w403662617">site</coll>
+    <coll hits="8" score="8.050" query="w405343042">catchment</coll>
+    <coll hits="6" score="7.690" query="w404219811">stomach</coll>
+    <coll hits="6" score="7.670" query="w404219835">catch</coll>
+    <coll hits="4" score="7.590" query="w404788816">quantity</coll>
+    <coll hits="16" score="7.430" query="w404219797">area</coll>
+    <coll hits="4" score="7.400" query="w404788811">drainage</coll>
+    <coll hits="15" score="7.350" query="w403662613">River</coll>
+    <coll hits="6" score="7.340" query="w404219808">zone</coll>
+    <coll hits="3" score="7.280" query="w404788806">headwaters</coll>
+    <coll hits="6" score="7.250" query="w403662614">basin</coll>
+    <coll hits="3" score="7.230" query="w405909190">spraint</coll>
+    <coll hits="3" score="7.210" query="w404788857">brain</coll>
+    <coll hits="22" score="7.170" query="w403662641">lake</coll>
+    <coll hits="3" score="7.170" query="w404788814">Water</coll>
+    <coll hits="6" score="7.160" query="w404219820">Creek</coll>
+    <coll hits="14" score="7.080" query="w403662615">river</coll>
+    <coll hits="7" score="7.030" query="w403662616">Lake</coll>
+    <coll hits="4" score="6.980" query="w404788803">section</coll>
+    <coll hits="4" score="6.900" query="w404788841">estuary</coll>
+    <coll hits="4" score="6.890" query="w403662606">America</coll>
+    <coll hits="5" score="6.830" query="w403662605">region</coll>
+  </gramrel>
+</wordsketch>
+</export>

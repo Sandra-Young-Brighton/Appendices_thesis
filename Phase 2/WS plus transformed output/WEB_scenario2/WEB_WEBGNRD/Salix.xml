@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salix</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="11.760">
+    <coll hits="1" score="13.410" query="w2054914624">Salix</coll>
+    <coll hits="1" score="13.000" query="w2054914625">gooddingii</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="5.880" query="w2054904000">modifiers of &quot;%w&quot;</coll>
+  </gramrel>
+</wordsketch>
+</export>

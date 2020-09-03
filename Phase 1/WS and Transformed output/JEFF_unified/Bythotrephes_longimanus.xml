@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Bythotrephes_longimanus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="12.500">
+    <coll hits="1" score="13.410">Leptodora_kindtii</coll>
+  </gramrel>
+</wordsketch>
+</export>

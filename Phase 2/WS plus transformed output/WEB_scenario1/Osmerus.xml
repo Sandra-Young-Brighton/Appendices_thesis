@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Osmerus</keyword>
+  <gramrel name="nouns modified by X" hits="75" score="66.960">
+    <coll hits="34" score="13.310">eperlanus</coll>
+    <coll hits="40" score="13.300">mordax</coll>
+    <coll hits="1" score="8.600">Percina</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.890">
+    <coll hits="1" score="13.410">Osmeridae</coll>
+  </gramrel>
+</wordsketch>
+</export>

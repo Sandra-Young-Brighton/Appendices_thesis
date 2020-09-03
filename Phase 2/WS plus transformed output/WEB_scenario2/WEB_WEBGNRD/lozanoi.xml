@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">lozanoi</keyword>
+  <gramrel name="modifiers of X" hits="4" score="100.000">
+    <coll hits="1" score="12.680" query="w2011787841">haasi</coll>
+    <coll hits="3" score="11.340" query="w2011787840">Gobio</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="25.000">
+    <coll hits="1" score="12.410" query="w2011806272">graellsii</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="25.000">
+    <coll hits="1" score="13.990" query="w2011776768">graellsii</coll>
+  </gramrel>
+</wordsketch>
+</export>

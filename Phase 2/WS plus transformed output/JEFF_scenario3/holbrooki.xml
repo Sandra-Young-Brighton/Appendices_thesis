@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">holbrooki</keyword>
+  <gramrel name="modifiers of X" hits="51" score="41.460">
+    <coll hits="47" score="13.400">Gambusia</coll>
+    <coll hits="1" score="9.300">Poecilidae</coll>
+    <coll hits="1" score="9.300">Gamusia</coll>
+    <coll hits="1" score="9.300">Gamhusia</coll>
+    <coll hits="1" score="9.270">affinis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="10" score="8.130">
+    <coll hits="1" score="11.410">poeciliid</coll>
+    <coll hits="1" score="11.410">nucleotide</coll>
+    <coll hits="1" score="9.320">Atlantic</coll>
+    <coll hits="1" score="6.910">Europe</coll>
+    <coll hits="1" score="6.820">G</coll>
+    <coll hits="1" score="6.490">discharge</coll>
+    <coll hits="1" score="4.960">level</coll>
+    <coll hits="1" score="3.920">area</coll>
+    <coll hits="1" score="3.770">River</coll>
+    <coll hits="1" score="1.960">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

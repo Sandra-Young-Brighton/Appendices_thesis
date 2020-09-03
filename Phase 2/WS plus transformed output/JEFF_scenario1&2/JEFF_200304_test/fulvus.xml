@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fulvus</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="8.000">
+    <coll hits="1" score="11.410">Axis</coll>
+    <coll hits="1" score="6.090">relation</coll>
+  </gramrel>
+</wordsketch>
+</export>

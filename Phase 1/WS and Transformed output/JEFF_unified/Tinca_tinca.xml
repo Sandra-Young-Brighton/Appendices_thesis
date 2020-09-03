@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Tinca_tinca</keyword>
+  <gramrel name="modifiers of X" hits="7" score="20.590">
+    <coll hits="2" score="12.410">Thymallus_thymallus</coll>
+    <coll hits="1" score="11.990">Telestes_souffia</coll>
+    <coll hits="1" score="11.830">Telestes</coll>
+    <coll hits="1" score="11.830">Squalius_cephalus</coll>
+    <coll hits="1" score="11.000">Rutilus_rutilus</coll>
+    <coll hits="1" score="8.650">roach</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="11.760">
+    <coll hits="1" score="12.190">Micropterus_salmoides</coll>
+    <coll hits="1" score="11.990">Silurus_glanis</coll>
+    <coll hits="1" score="11.670">Esox_lucius</coll>
+    <coll hits="1" score="10.350">Phoxinus_phoxinus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="11.760">
+    <coll hits="1" score="12.410">Carassius_carassius</coll>
+    <coll hits="1" score="12.410">Micropterus_salmoides</coll>
+    <coll hits="1" score="11.990">Esox_lucius</coll>
+    <coll hits="1" score="10.750">Phoxinus_phoxinus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="8.820">
+    <coll hits="3" score="8.380">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

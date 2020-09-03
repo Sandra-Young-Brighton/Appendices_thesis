@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Orconectes</keyword>
+  <gramrel name="nouns modified by X" hits="15" score="62.500">
+    <coll hits="11" score="13.750">rusticus</coll>
+    <coll hits="3" score="12.410">virilis</coll>
+    <coll hits="1" score="11.000">propinquus</coll>
+  </gramrel>
+</wordsketch>
+</export>

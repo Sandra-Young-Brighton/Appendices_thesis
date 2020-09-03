@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rostrata</keyword>
+  <gramrel name="modifiers of X" hits="118" score="63.780">
+    <coll hits="116" score="12.680" query="w1518851264">Anguilla</coll>
+    <coll hits="1" score="8.100" query="w1518851266">Rostrata</coll>
+    <coll hits="1" score="8.100" query="w1518851265">mustelus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.540">
+    <coll hits="1" score="12.410" query="w1518878592">oceanicus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.540">
+    <coll hits="1" score="13.990" query="w1518840576">oceanicus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="3.240">
+    <coll hits="1" score="10.190" query="w1518889540">lifespan</coll>
+    <coll hits="1" score="8.050" query="w1518889541">Iceland</coll>
+    <coll hits="1" score="5.970" query="w1518889539">tributary</coll>
+    <coll hits="1" score="5.420" query="w1518889536">freshwater</coll>
+    <coll hits="1" score="4.880" query="w1518889538">range</coll>
+    <coll hits="1" score="3.750" query="w1518889537">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

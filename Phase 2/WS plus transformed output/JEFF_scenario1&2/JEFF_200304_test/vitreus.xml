@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">vitreus</keyword>
+  <gramrel name="modifiers of X" hits="36" score="83.720">
+    <coll hits="36" score="13.480">Sander</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="2.330">
+    <coll hits="1" score="10.820">canadensis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.330">
+    <coll hits="1" score="13.990">canadensis</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="4" score="9.300">
+    <coll hits="1" score="12.410">Teleostei</coll>
+    <coll hits="1" score="11.990">Lontra</coll>
+    <coll hits="1" score="11.990">Gobioidei</coll>
+    <coll hits="1" score="11.990">canadensis</coll>
+  </gramrel>
+</wordsketch>
+</export>

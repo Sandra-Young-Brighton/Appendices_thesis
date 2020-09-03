@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">quinqueradiata</keyword>
+  <gramrel name="modifiers of X" hits="7" score="77.780">
+    <coll hits="7" score="13.410" query="w2038422016">Seriola</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="11.110">
+    <coll hits="1" score="7.640" query="w2038433408">tshawytscha</coll>
+  </gramrel>
+</wordsketch>
+</export>

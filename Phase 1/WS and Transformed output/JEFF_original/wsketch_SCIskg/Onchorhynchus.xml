@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Onchorhynchus</keyword>
+  <gramrel name="nouns modified by X" hits="11" score="84.620">
+    <coll hits="1" score="11.300">nerku</coll>
+    <coll hits="1" score="11.190">tschawytscha</coll>
+    <coll hits="2" score="11.140">clarki</coll>
+    <coll hits="5" score="9.180">mykiss</coll>
+    <coll hits="1" score="7.940">tshawytscha</coll>
+    <coll hits="1" score="7.880">nerka</coll>
+  </gramrel>
+</wordsketch>
+</export>

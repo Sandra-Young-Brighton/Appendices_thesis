@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ammodytes</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="13.330">
+    <coll hits="3" score="13.770">tobianus</coll>
+    <coll hits="1" score="11.300">Cottidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

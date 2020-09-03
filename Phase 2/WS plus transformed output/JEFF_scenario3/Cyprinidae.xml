@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cyprinidae</keyword>
+  <gramrel name="modifiers of X" hits="14" score="8.140">
+    <coll hits="5" score="12.510">Teleostei</coll>
+    <coll hits="2" score="11.910">sericeus</coll>
+    <coll hits="1" score="11.000">Cypriniformes</coll>
+    <coll hits="1" score="11.000">phoxinus</coll>
+    <coll hits="1" score="10.820">Clupeidae</coll>
+    <coll hits="1" score="10.540">Percidae</coll>
+    <coll hits="2" score="10.350">Rhodeus</coll>
+    <coll hits="1" score="8.850">Carassius</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="7" score="4.070">
+    <coll hits="1" score="11.990">Fundulidae</coll>
+    <coll hits="1" score="11.670">Poeciliidae</coll>
+    <coll hits="1" score="11.540">Umbridae</coll>
+    <coll hits="1" score="11.540">Percidae</coll>
+    <coll hits="1" score="11.300">Teleostei</coll>
+    <coll hits="1" score="10.600">Salmonidae</coll>
+    <coll hits="1" score="8.960">brama</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="5" score="2.910">
+    <coll hits="2" score="13.000">Percidae</coll>
+    <coll hits="1" score="12.410">Fundulidae</coll>
+    <coll hits="1" score="12.190">Ictaluridae</coll>
+    <coll hits="1" score="11.540">Teleostei</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="1.160">
+    <coll hits="1" score="13.410">Gau</coll>
+    <coll hits="1" score="4.980">level</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">impact</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1482" score="67.580">
+    <coll hits="69" score="9.670">change</coll>
+    <coll hits="30" score="8.690">predation</coll>
+    <coll hits="22" score="8.680">introduction</coll>
+    <coll hits="29" score="8.520">community</coll>
+    <coll hits="22" score="8.220">ecosystem</coll>
+    <coll hits="59" score="8.200">specie</coll>
+    <coll hits="39" score="8.000">population</coll>
+    <coll hits="23" score="7.940">predator</coll>
+    <coll hits="14" score="7.940">fishing</coll>
+    <coll hits="12" score="7.940">biodiversity</coll>
+    <coll hits="17" score="7.920">fishery</coll>
+    <coll hits="14" score="7.830">activity</coll>
+    <coll hits="19" score="7.720">abundance</coll>
+    <coll hits="15" score="7.700">macrophyte</coll>
+    <coll hits="33" score="7.670">trout</coll>
+    <coll hits="11" score="7.670">barrier</coll>
+    <coll hits="11" score="7.610">dam</coll>
+    <coll hits="11" score="7.580">recruitment</coll>
+    <coll hits="16" score="7.430">level</coll>
+    <coll hits="8" score="7.420">herbivory</coll>
+    <coll hits="13" score="7.400">environment</coll>
+    <coll hits="8" score="7.380">grazing</coll>
+    <coll hits="7" score="7.250">Introduction</coll>
+    <coll hits="51" score="7.220">fish</coll>
+    <coll hits="7" score="7.200">harvesting</coll>
+  </gramrel>
+</wordsketch>
+</export>

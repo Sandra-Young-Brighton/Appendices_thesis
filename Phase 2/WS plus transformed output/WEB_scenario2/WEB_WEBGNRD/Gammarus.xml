@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gammarus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="1.190">
+    <coll hits="1" score="10.750" query="w729932288">Chironomus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="27" score="32.140">
+    <coll hits="12" score="12.880" query="w729941505">pulex</coll>
+    <coll hits="11" score="12.840" query="w729941504">lacustris</coll>
+    <coll hits="2" score="11.140" query="w729941508">aequicauda</coll>
+    <coll hits="1" score="10.190" query="w729941507">tigrinus</coll>
+    <coll hits="1" score="10.190" query="w729941506">Asellus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="2.380">
+    <coll hits="1" score="13.410" query="w729917057">Asellus</coll>
+    <coll hits="1" score="13.410" query="w729917056">Hyalella</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="3.570">
+    <coll hits="1" score="8.650" query="w729982466">Alberta</coll>
+    <coll hits="1" score="7.050" query="w729982465">proportion</coll>
+    <coll hits="1" score="1.750" query="w729982464">fish</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="3" score="3.570">
+    <coll hits="1" score="12.680" query="w730007426">Megaloptera</coll>
+    <coll hits="1" score="12.680" query="w730007425">Dytiscidae</coll>
+    <coll hits="1" score="12.680" query="w730007424">Mollusca</coll>
+  </gramrel>
+</wordsketch>
+</export>

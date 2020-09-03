@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">macrodactylum</keyword>
+  <gramrel name="modifiers of X" hits="3" score="50.000">
+    <coll hits="3" score="13.770">Ambystoma</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="16.670">
+    <coll hits="1" score="7.720">traps</coll>
+  </gramrel>
+</wordsketch>
+</export>

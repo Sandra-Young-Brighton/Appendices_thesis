@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Daphnia</keyword>
+  <gramrel name="modifiers of X" hits="1" score="0.270">
+    <coll hits="1" score="9.870" query="w1447587392">Bosmina</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="69" score="18.500">
+    <coll hits="21" score="12.900" query="w1447596489">Magna</coll>
+    <coll hits="9" score="11.810" query="w1447596483">longispina</coll>
+    <coll hits="7" score="11.560" query="w1447596486">hyalina</coll>
+    <coll hits="7" score="11.250" query="w1447596482">pulex</coll>
+    <coll hits="4" score="10.760" query="w1447596481">Bosmina</coll>
+    <coll hits="3" score="10.410" query="w1447596494">gessneri</coll>
+    <coll hits="3" score="10.410" query="w1447596490">galeata</coll>
+    <coll hits="3" score="10.370" query="w1447596488">cucullata</coll>
+    <coll hits="2" score="9.850" query="w1447596493">carinata</coll>
+    <coll hits="2" score="9.850" query="w1447596491">pulicaria</coll>
+    <coll hits="1" score="8.870" query="w1447596496">mendotae</coll>
+    <coll hits="1" score="8.870" query="w1447596492">pulexllongispina</coll>
+    <coll hits="1" score="8.870" query="w1447596485">parvula</coll>
+    <coll hits="1" score="8.850" query="w1447596495">Leptodora</coll>
+    <coll hits="1" score="8.850" query="w1447596487">Diaphanosoma</coll>
+    <coll hits="1" score="8.820" query="w1447596497">cuculata</coll>
+    <coll hits="1" score="8.820" query="w1447596484">Ceriodaphnia</coll>
+    <coll hits="1" score="8.760" query="w1447596480">Decapoda</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="5" score="1.340">
+    <coll hits="2" score="12.830" query="w1447561985">Ceriodaphnia</coll>
+    <coll hits="2" score="12.680" query="w1447561984">Bosmina</coll>
+    <coll hits="1" score="12.190" query="w1447561986">Diaphanosoma</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="14" score="3.750">
+    <coll hits="1" score="11.000" query="w1447746891">mercedi</coll>
+    <coll hits="1" score="9.950" query="w1447746889">liter</coll>
+    <coll hits="2" score="9.890" query="w1447746886">YOY</coll>
+    <coll hits="1" score="9.240" query="w1447746890">trade-off</coll>
+    <coll hits="1" score="7.020" query="w1447746887">Reservoir</coll>
+    <coll hits="2" score="5.360" query="w1447746885">perch</coll>
+    <coll hits="1" score="5.290" query="w1447746883">summer</coll>
+    <coll hits="1" score="5.170" query="w1447746888">predation</coll>
+    <coll hits="1" score="3.700" query="w1447746880">year</coll>
+    <coll hits="1" score="3.100" query="w1447746884">trout</coll>
+    <coll hits="1" score="2.880" query="w1447746882">lake</coll>
+    <coll hits="1" score="1.750" query="w1447746881">fish</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="0.800">
+    <coll hits="2" score="13.000" query="w1447880961">Cladocera</coll>
+    <coll hits="1" score="13.000" query="w1447880960">Keratella</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="0.540">
+    <coll hits="1" score="13.410" query="w1447864705">Polyarthra</coll>
+    <coll hits="1" score="13.410" query="w1447864704">Keratella</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.270">
+    <coll hits="1" score="10.600" query="w1447907840">diet</coll>
+  </gramrel>
+</wordsketch>
+</export>

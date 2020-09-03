@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Barbus_barbus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="3.080">
+    <coll hits="1" score="13.410">Alburnoides_bipunctatus</coll>
+    <coll hits="1" score="11.670">Abramis_brama</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="1.540">
+    <coll hits="1" score="12.410">Alburnus_alburnus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="9.230">
+    <coll hits="1" score="11.990">Squalius_cephalus</coll>
+    <coll hits="5" score="9.740">fish</coll>
+  </gramrel>
+  <gramrel name="X is a ..." hits="1" score="1.540">
+    <coll hits="1" score="10.680">fish</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="10.770">
+    <coll hits="1" score="11.990">Prokeš</coll>
+    <coll hits="1" score="11.300">Ourthe</coll>
+    <coll hits="2" score="10.380">UK</coll>
+    <coll hits="1" score="10.090">Ouse</coll>
+    <coll hits="1" score="6.930">Europe</coll>
+    <coll hits="1" score="3.770">River</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="1.540">
+    <coll hits="1" score="6.840">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

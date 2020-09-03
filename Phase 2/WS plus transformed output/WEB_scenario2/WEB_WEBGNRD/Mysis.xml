@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Mysis</keyword>
+  <gramrel name="modifiers of X" hits="1" score="1.490">
+    <coll hits="1" score="12.410" query="w729421760">Diporeia</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="31" score="46.270">
+    <coll hits="13" score="13.240" query="w729430914">diluviana</coll>
+    <coll hits="13" score="13.240" query="w729430913">relicta</coll>
+    <coll hits="4" score="11.870" query="w729430915">mixta</coll>
+    <coll hits="1" score="9.950" query="w729430912">distribution</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="2.990">
+    <coll hits="2" score="13.990" query="w729412416">Diporeia</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="5.970">
+    <coll hits="1" score="7.930" query="w729464514">Superior</coll>
+    <coll hits="2" score="6.900" query="w729464512">sculpin</coll>
+    <coll hits="1" score="5.340" query="w729464513">fishery</coll>
+  </gramrel>
+</wordsketch>
+</export>

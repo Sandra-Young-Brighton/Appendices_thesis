@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">microcephalus</keyword>
+  <gramrel name="modifiers of X" hits="3" score="60.000">
+    <coll hits="3" score="10.010">Barbus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="20.000">
+    <coll hits="1" score="13.410">hispanica</coll>
+  </gramrel>
+</wordsketch>
+</export>

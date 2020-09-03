@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Epinephelus</keyword>
+  <gramrel name="nouns modified by X" hits="17" score="60.710">
+    <coll hits="3" score="12.190" query="w1926609156">akaara</coll>
+    <coll hits="2" score="11.750" query="w1926609161">merra</coll>
+    <coll hits="2" score="11.750" query="w1926609160">morio</coll>
+    <coll hits="2" score="11.750" query="w1926609155">bruneus</coll>
+    <coll hits="2" score="11.750" query="w1926609154">septemfasciatus</coll>
+    <coll hits="2" score="11.410" query="w1926609152">malabaricus</coll>
+    <coll hits="1" score="10.820" query="w1926609159">fuscoguttatus</coll>
+    <coll hits="1" score="10.820" query="w1926609158">tauvina</coll>
+    <coll hits="1" score="10.820" query="w1926609157">awoara</coll>
+    <coll hits="1" score="10.750" query="w1926609153">lanceolatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">olivaceus</keyword>
+  <gramrel name="modifiers of X" hits="24" score="82.760">
+    <coll hits="22" score="13.620" query="w2020740609">Paralichthys</coll>
+    <coll hits="1" score="10.350" query="w2020740610">Paralythys</coll>
+    <coll hits="1" score="10.350" query="w2020740608">heteroclitus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="3.450">
+    <coll hits="1" score="6.530" query="w2020771264">coast</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Carassius_auratus</keyword>
+  <gramrel name="modifiers of X" hits="4" score="11.760">
+    <coll hits="1" score="12.680">Luciobarbus_graellsii</coll>
+    <coll hits="1" score="12.680">Ameiurus</coll>
+    <coll hits="1" score="12.680">Scardinius_erythrophthalmus</coll>
+    <coll hits="1" score="12.410">Ameiurus_melas</coll>
+  </gramrel>
+</wordsketch>
+</export>

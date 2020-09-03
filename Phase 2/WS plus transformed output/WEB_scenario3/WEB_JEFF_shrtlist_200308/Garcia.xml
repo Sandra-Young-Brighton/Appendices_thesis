@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Garcia</keyword>
+  <gramrel name="X has part..." hits="4" score="9.090">
+    <coll hits="2" score="13.410">salt</coll>
+    <coll hits="2" score="12.830">freshwater</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.270">
+    <coll hits="1" score="8.470">assistance</coll>
+  </gramrel>
+</wordsketch>
+</export>

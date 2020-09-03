@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Onchorhynchus</keyword>
+  <gramrel name="nouns modified by X" hits="32" score="72.730">
+    <coll hits="4" score="11.470" query="w2014417540">Salmo</coll>
+    <coll hits="2" score="10.710" query="w2014417536">Salvelinus</coll>
+    <coll hits="18" score="9.640" query="w2014417537">mykiss</coll>
+    <coll hits="4" score="9.200" query="w2014417539">nerka</coll>
+    <coll hits="1" score="8.810" query="w2014417542">clarki</coll>
+    <coll hits="2" score="8.090" query="w2014417538">kisutch</coll>
+    <coll hits="1" score="7.400" query="w2014417541">tshawytscha</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="13.640">
+    <coll hits="4" score="13.410" query="w2014393281">Salmo</coll>
+    <coll hits="2" score="11.750" query="w2014393280">Salvelinus</coll>
+  </gramrel>
+</wordsketch>
+</export>

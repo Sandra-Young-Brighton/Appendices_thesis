@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pseudorasbora</keyword>
+  <gramrel name="nouns modified by X" hits="27" score="79.410">
+    <coll hits="27" score="13.940">parva</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="2.940">
+    <coll hits="1" score="13.000">invader</coll>
+  </gramrel>
+</wordsketch>
+</export>

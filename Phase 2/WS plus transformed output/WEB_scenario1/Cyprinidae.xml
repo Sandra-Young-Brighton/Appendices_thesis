@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cyprinidae</keyword>
+  <gramrel name="modifiers of X" hits="13" score="5.530">
+    <coll hits="3" score="12.580">Cypriniformes</coll>
+    <coll hits="3" score="12.120">Teleostei</coll>
+    <coll hits="2" score="11.830">Actinopterygii</coll>
+    <coll hits="2" score="11.350">rutilus</coll>
+    <coll hits="1" score="11.190">cornutus</coll>
+    <coll hits="1" score="10.910">masquinongy</coll>
+    <coll hits="1" score="6.280">Esox</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="9" score="3.830">
+    <coll hits="1" score="11.540">Ostariophysi</coll>
+    <coll hits="1" score="11.410">Poeciliidae</coll>
+    <coll hits="1" score="11.190">Ictaluridae</coll>
+    <coll hits="3" score="11.120">alburnus</coll>
+    <coll hits="1" score="11.090">Umbridae</coll>
+    <coll hits="1" score="11.090">Teleostei</coll>
+    <coll hits="1" score="9.610">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="2.550">
+    <coll hits="1" score="12.190">Salmoniformes</coll>
+    <coll hits="1" score="11.990">Ostariophysi</coll>
+    <coll hits="1" score="11.990">Poeciliidae</coll>
+    <coll hits="1" score="11.990">Ictaluridae</coll>
+    <coll hits="1" score="11.540">Percidae</coll>
+    <coll hits="1" score="11.410">Teleostei</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="178" score="75.740">
+    <coll hits="43" score="12.620">Lucius</coll>
+    <coll hits="43" score="12.620">fluviatilis</coll>
+    <coll hits="43" score="12.610">Esox</coll>
+    <coll hits="43" score="12.600">Perca</coll>
+    <coll hits="1" score="7.510">Squalius</coll>
+    <coll hits="1" score="7.510">cephalus</coll>
+    <coll hits="1" score="7.510">anguilla</coll>
+    <coll hits="1" score="7.510">Anguilla</coll>
+    <coll hits="1" score="7.500">brama</coll>
+    <coll hits="1" score="7.500">Abramis</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="43" score="18.300">
+    <coll hits="42" score="13.930">Esox</coll>
+    <coll hits="1" score="9.530">Cypriniformes</coll>
+  </gramrel>
+</wordsketch>
+</export>

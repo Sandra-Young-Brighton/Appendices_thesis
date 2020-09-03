@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Carex</keyword>
+  <gramrel name="modifiers of X" hits="4" score="11.110">
+    <coll hits="1" score="12.680">Carex</coll>
+    <coll hits="1" score="12.190">Scirpus</coll>
+    <coll hits="1" score="11.300">Phragmites</coll>
+    <coll hits="1" score="11.090">Nuphar</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.780">
+    <coll hits="1" score="13.990">Poaceae</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="2.780">nouns modified by &quot;%w&quot;</coll>
+  </gramrel>
+</wordsketch>
+</export>

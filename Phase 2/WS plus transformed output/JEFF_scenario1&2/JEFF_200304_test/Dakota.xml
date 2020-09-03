@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Dakota</keyword>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="0.600">&quot;%w&quot; and/or ...</coll>
+    <coll hits="1" score="0.600">modifiers of &quot;%w&quot;</coll>
+    <coll hits="1" score="0.600">nouns modified by &quot;%w&quot;</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="1.800">
+    <coll hits="1" score="10.540">border</coll>
+    <coll hits="1" score="10.540">Montana</coll>
+    <coll hits="1" score="7.930">confluence</coll>
+  </gramrel>
+</wordsketch>
+</export>

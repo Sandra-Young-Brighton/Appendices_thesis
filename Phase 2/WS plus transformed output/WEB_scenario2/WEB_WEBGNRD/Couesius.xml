@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Couesius</keyword>
+  <gramrel name="nouns modified by X" hits="31" score="86.110">
+    <coll hits="30" score="13.950" query="w1902815744">plumbeus</coll>
+    <coll hits="1" score="9.750" query="w1902815745">spiloptera</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="5.560">
+    <coll hits="1" score="12.190" query="w1902838849">catostomus</coll>
+    <coll hits="1" score="12.190" query="w1902838848">Catostomus</coll>
+  </gramrel>
+</wordsketch>
+</export>

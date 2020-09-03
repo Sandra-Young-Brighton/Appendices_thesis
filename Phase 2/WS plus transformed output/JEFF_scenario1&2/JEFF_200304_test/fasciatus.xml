@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fasciatus</keyword>
+  <gramrel name="modifiers of X" hits="16" score="44.440">
+    <coll hits="12" score="12.350">Galaxias</coll>
+    <coll hits="3" score="11.410">Aphanius</coll>
+    <coll hits="1" score="10.040">Astyanax</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="5.560">
+    <coll hits="1" score="13.000">fo</coll>
+    <coll hits="1" score="3.260">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

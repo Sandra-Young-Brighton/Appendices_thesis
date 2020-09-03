@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hypophthalmichthys</keyword>
+  <gramrel name="nouns modified by X" hits="20" score="62.500">
+    <coll hits="13" score="13.610">molitrix</coll>
+    <coll hits="7" score="12.900">nobilis</coll>
+  </gramrel>
+</wordsketch>
+</export>

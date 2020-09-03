@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">appendix</keyword>
+  <gramrel name="modifiers of X" hits="16" score="12.400">
+    <coll hits="4" score="12.240" query="w1765807809">Lethenteron</coll>
+    <coll hits="1" score="10.910" query="w1765807811">unicuspis</coll>
+    <coll hits="1" score="9.950" query="w1765807810">Ichthyomyzon</coll>
+    <coll hits="10" score="9.940" query="w1765807808">Lampetra</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="1.550">
+    <coll hits="2" score="13.000" query="w1765850816">castaneus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="2.330">
+    <coll hits="2" score="13.670" query="w1765778753">castaneus</coll>
+    <coll hits="1" score="12.410" query="w1765778752">marinus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="3.100">
+    <coll hits="1" score="8.090" query="w1765871488">detail</coll>
+    <coll hits="1" score="6.770" query="w1765871490">report</coll>
+    <coll hits="1" score="6.220" query="w1765871491">section</coll>
+    <coll hits="1" score="5.390" query="w1765871489">Creek</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cyprinids</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="55" score="15.760">
+    <coll hits="2" score="10.040">side-channel</coll>
+    <coll hits="2" score="9.200">impoundment</coll>
+    <coll hits="1" score="9.190">tempemture</coll>
+    <coll hits="1" score="9.140">Leuciscinae</coll>
+    <coll hits="1" score="9.140">Australasia</coll>
+    <coll hits="1" score="9.060">barb</coll>
+    <coll hits="1" score="9.020">Thailand</coll>
+    <coll hits="3" score="8.520">gradient</coll>
+    <coll hits="1" score="8.490">World</coll>
+    <coll hits="1" score="8.280">Peninsula</coll>
+    <coll hits="1" score="8.100">Asia</coll>
+    <coll hits="1" score="8.080">CPUE</coll>
+    <coll hits="3" score="8.020">States</coll>
+    <coll hits="1" score="8.020">stimulus</coll>
+    <coll hits="2" score="7.960">P</coll>
+    <coll hits="1" score="7.010">spawner</coll>
+    <coll hits="1" score="7.000">stress</coll>
+    <coll hits="3" score="6.930">development</coll>
+    <coll hits="1" score="6.910">phytoplankton</coll>
+    <coll hits="3" score="6.800">summer</coll>
+    <coll hits="11" score="6.330">lake</coll>
+    <coll hits="1" score="6.200">roach</coll>
+    <coll hits="2" score="5.330">system</coll>
+    <coll hits="1" score="5.070">ecosystem</coll>
+    <coll hits="1" score="4.820">community</coll>
+  </gramrel>
+</wordsketch>
+</export>

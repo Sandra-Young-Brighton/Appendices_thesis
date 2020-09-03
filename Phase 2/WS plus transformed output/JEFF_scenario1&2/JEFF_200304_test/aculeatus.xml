@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">aculeatus</keyword>
+  <gramrel name="modifiers of X" hits="100" score="59.520">
+    <coll hits="99" score="13.940">Gasterosteus</coll>
+    <coll hits="1" score="8.340">Aeshna</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="6" score="3.570">
+    <coll hits="5" score="10.300">Linnaeus</coll>
+    <coll hits="1" score="9.210">pungitius</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="5" score="2.980">
+    <coll hits="3" score="13.580">pungitius</coll>
+    <coll hits="1" score="12.410">pungitus</coll>
+    <coll hits="1" score="11.300">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="4.170">
+    <coll hits="1" score="11.670">Myvatn</coll>
+    <coll hits="1" score="10.680">Thingvallavatn</coll>
+    <coll hits="1" score="10.040">left</coll>
+    <coll hits="1" score="8.760">wetland</coll>
+    <coll hits="1" score="6.900">surface</coll>
+    <coll hits="1" score="6.080">relation</coll>
+    <coll hits="1" score="5.360">Creek</coll>
+  </gramrel>
+</wordsketch>
+</export>

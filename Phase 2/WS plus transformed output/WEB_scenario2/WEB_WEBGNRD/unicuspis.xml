@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">unicuspis</keyword>
+  <gramrel name="modifiers of X" hits="6" score="54.550">
+    <coll hits="5" score="12.790" query="w2002688961">Ichthyomyzon</coll>
+    <coll hits="1" score="11.830" query="w2002688960">marinus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="9.090">
+    <coll hits="1" score="10.910" query="w2002712064">appendix</coll>
+  </gramrel>
+</wordsketch>
+</export>

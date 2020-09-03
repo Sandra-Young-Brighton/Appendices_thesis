@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">yeast</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="11.670">
+    <coll hits="1" score="11.090" query="w1625224006">substitute</coll>
+    <coll hits="1" score="10.140" query="w1625224005">disruption</coll>
+    <coll hits="1" score="7.780" query="w1625224004">gut</coll>
+    <coll hits="1" score="7.370" query="w1625224003">feed</coll>
+    <coll hits="1" score="5.810" query="w1625224002">production</coll>
+    <coll hits="1" score="5.810" query="w1625224000">source</coll>
+    <coll hits="1" score="5.400" query="w1625224001">effect</coll>
+  </gramrel>
+</wordsketch>
+</export>

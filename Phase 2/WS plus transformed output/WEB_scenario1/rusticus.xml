@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rusticus</keyword>
+  <gramrel name="modifiers of X" hits="7" score="41.180">
+    <coll hits="7" score="13.220">Orconectes</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="3" score="17.650">
+    <coll hits="1" score="13.000">cut</coll>
+    <coll hits="1" score="12.680">biomass</coll>
+    <coll hits="1" score="12.190">macrophyte</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="5.880">
+    <coll hits="1" score="5.730">zone</coll>
+  </gramrel>
+</wordsketch>
+</export>

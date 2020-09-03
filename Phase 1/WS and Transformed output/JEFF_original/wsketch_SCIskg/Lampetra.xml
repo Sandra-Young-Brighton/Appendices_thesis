@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lampetra</keyword>
+  <gramrel name="nouns modified by X" hits="76" score="67.860">
+    <coll hits="24" score="12.940">planeri</coll>
+    <coll hits="17" score="12.540">tridentata</coll>
+    <coll hits="25" score="10.880">fluviatilis</coll>
+    <coll hits="2" score="9.710">richardsoni</coll>
+    <coll hits="2" score="9.660">spp</coll>
+    <coll hits="1" score="8.730">aepyptera</coll>
+    <coll hits="1" score="8.730">camtschatica</coll>
+    <coll hits="1" score="8.730">ayresi</coll>
+    <coll hits="1" score="8.620">reissneri</coll>
+    <coll hits="1" score="6.140">larva</coll>
+    <coll hits="1" score="4.550">specie</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.890">
+    <coll hits="1" score="9.160">Oregon</coll>
+  </gramrel>
+</wordsketch>
+</export>

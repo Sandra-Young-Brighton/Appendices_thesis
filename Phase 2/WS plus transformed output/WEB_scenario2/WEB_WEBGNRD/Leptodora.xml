@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Leptodora</keyword>
+  <gramrel name="modifiers of X" hits="2" score="25.000">
+    <coll hits="1" score="9.830" query="w2073564737">Bosmina</coll>
+    <coll hits="1" score="8.850" query="w2073564736">Daphnia</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="37.500">
+    <coll hits="2" score="13.670" query="w2073581824">kindtii</coll>
+    <coll hits="1" score="13.000" query="w2073581825">kindti</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">major</keyword>
+  <gramrel name="X and/or ..." hits="133" score="10.800">
+    <coll hits="4" score="9.830" query="w730671547">directional</coll>
+    <coll hits="4" score="9.700" query="w730671544">selective</coll>
+    <coll hits="4" score="9.660" query="w730671533">public</coll>
+    <coll hits="6" score="9.370" query="w730671509">commercial</coll>
+    <coll hits="5" score="9.230" query="w730671520">physical</coll>
+    <coll hits="3" score="8.820" query="w730671545">geographic</coll>
+    <coll hits="2" score="8.820" query="w730671528">minor</coll>
+    <coll hits="4" score="8.540" query="w730671537">European</coll>
+    <coll hits="4" score="8.370" query="w730671502">invertebrate</coll>
+    <coll hits="2" score="8.260" query="w730671523">biotic</coll>
+    <coll hits="2" score="8.220" query="w730671541">economic</coll>
+    <coll hits="5" score="8.220" query="w730671516">environmental</coll>
+    <coll hits="2" score="8.180" query="w730671532">functional</coll>
+    <coll hits="4" score="8.080" query="w730671496">ecological</coll>
+    <coll hits="1" score="7.930" query="w731129944">iridoviral</coll>
+    <coll hits="1" score="7.930" query="w731129939">cyclical</coll>
+    <coll hits="1" score="7.930" query="w731129938">contestable</coll>
+    <coll hits="1" score="7.930" query="w731129933">vector-born</coll>
+    <coll hits="1" score="7.930" query="w730671546">deleterious</coll>
+    <coll hits="1" score="7.920" query="w731129940">cytoplasmic</coll>
+    <coll hits="1" score="7.920" query="w731129937">lymphoid</coll>
+    <coll hits="1" score="7.920" query="w731129935">biogenic</coll>
+    <coll hits="1" score="7.920" query="w731129931">stimulating</coll>
+    <coll hits="1" score="7.920" query="w730671550">on-going</coll>
+    <coll hits="1" score="7.910" query="w731129943">disruptive</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.080">
+    <coll hits="1" score="10.350" query="w731302400">administration</coll>
+  </gramrel>
+</wordsketch>
+</export>

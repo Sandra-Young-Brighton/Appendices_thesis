@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">caeruleum</keyword>
+  <gramrel name="modifiers of X" hits="5" score="35.710">
+    <coll hits="1" score="12.410" query="w1807157377">Polemonium</coll>
+    <coll hits="4" score="11.540" query="w1807157376">Etheostoma</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="14.290">
+    <coll hits="1" score="13.000" query="w1807177857">chlorosomum</coll>
+    <coll hits="1" score="11.670" query="w1807177856">exile</coll>
+  </gramrel>
+</wordsketch>
+</export>

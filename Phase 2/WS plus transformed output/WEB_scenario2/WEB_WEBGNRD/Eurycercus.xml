@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Eurycercus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="5.260">
+    <coll hits="1" score="13.000" query="w1963798272">Camptocercus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="12" score="63.160">
+    <coll hits="12" score="13.940" query="w1963807680">lamellatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

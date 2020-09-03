@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Engraulis</keyword>
+  <gramrel name="nouns modified by X" hits="32" score="46.380">
+    <coll hits="15" score="12.430" query="w1818412034">mordax</coll>
+    <coll hits="5" score="12.110" query="w1818412036">encrasicolus</coll>
+    <coll hits="4" score="11.830" query="w1818412037">ringens</coll>
+    <coll hits="3" score="10.800" query="w1818412033">japonicus</coll>
+    <coll hits="1" score="9.950" query="w1818412039">encrasicholus</coll>
+    <coll hits="1" score="9.950" query="w1818412038">anchoita</coll>
+    <coll hits="1" score="9.950" query="w1818412035">japoniccus</coll>
+    <coll hits="2" score="8.190" query="w1818412032">japonica</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="1.450">
+    <coll hits="1" score="7.120" query="w1818486976">world</coll>
+  </gramrel>
+</wordsketch>
+</export>

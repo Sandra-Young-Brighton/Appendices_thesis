@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ichthyocotylurus</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="44.440">
+    <coll hits="4" score="13.540" query="w2098352768">erraticus</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="11.110">
+    <coll hits="1" score="11.000" query="w2098363072">Coregonus</coll>
+  </gramrel>
+</wordsketch>
+</export>

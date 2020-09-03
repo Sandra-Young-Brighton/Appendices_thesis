@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Palla</keyword>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="50.000" query="w2171663936">&quot;%w&quot; and/or ...</coll>
+    <coll hits="1" score="50.000" query="w2171673664">modifiers of &quot;%w&quot;</coll>
+    <coll hits="1" score="50.000" query="w2171683392">nouns modified by &quot;%w&quot;</coll>
+  </gramrel>
+</wordsketch>
+</export>

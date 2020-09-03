@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lates_niloticus</keyword>
+  <gramrel name="modifiers of X" hits="6" score="23.080">
+    <coll hits="6" score="10.170">perch</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="3.850">
+    <coll hits="1" score="7.450">fish</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="11.540">
+    <coll hits="2" score="7.800">specie</coll>
+    <coll hits="1" score="6.820">fish</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="3.850">
+    <coll hits="1" score="7.920">Victoria</coll>
+  </gramrel>
+</wordsketch>
+</export>

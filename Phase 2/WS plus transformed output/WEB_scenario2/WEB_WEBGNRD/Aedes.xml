@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Aedes</keyword>
+  <gramrel name="nouns modified by X" hits="9" score="39.130">
+    <coll hits="5" score="13.510" query="w2114515393">aegypti</coll>
+    <coll hits="1" score="11.670" query="w2114515396">taeniorhynchus</coll>
+    <coll hits="1" score="11.670" query="w2114515395">polynesiensis</coll>
+    <coll hits="1" score="11.670" query="w2114515394">trichurus</coll>
+    <coll hits="1" score="9.790" query="w2114515392">canadensis</coll>
+  </gramrel>
+</wordsketch>
+</export>

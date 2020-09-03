@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hemiptera</keyword>
+  <gramrel name="modifiers of X" hits="12" score="46.150">
+    <coll hits="4" score="12.190">Coleoptera</coll>
+    <coll hits="2" score="11.830">Amphipoda</coll>
+    <coll hits="2" score="11.750">Plecoptera</coll>
+    <coll hits="1" score="11.300">helvum</coll>
+    <coll hits="1" score="11.300">Curtonotum</coll>
+    <coll hits="1" score="11.300">Arachnida</coll>
+    <coll hits="1" score="11.000">Hemiptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="15.380">
+    <coll hits="1" score="12.680">Arachnidae</coll>
+    <coll hits="1" score="12.410">Gammaridae</coll>
+    <coll hits="1" score="11.410">Odonata</coll>
+    <coll hits="1" score="11.000">Hemiptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="15.380">
+    <coll hits="1" score="12.680">Arachnidae</coll>
+    <coll hits="1" score="12.410">Gammaridae</coll>
+    <coll hits="1" score="11.300">Plecoptera</coll>
+    <coll hits="1" score="11.300">Odonata</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">scorpius</keyword>
+  <gramrel name="modifiers of X" hits="34" score="28.570">
+    <coll hits="34" score="13.170" query="w1980344000">Myoxocephalus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="5.040">
+    <coll hits="2" score="10.470" query="w1980354436">Porsangerfjord</coll>
+    <coll hits="1" score="10.410" query="w1980354435">Tromsø</coll>
+    <coll hits="1" score="9.040" query="w1980354433">hand</coll>
+    <coll hits="1" score="7.450" query="w1980354434">Norway</coll>
+    <coll hits="1" score="3.780" query="w1980354432">study</coll>
+  </gramrel>
+</wordsketch>
+</export>

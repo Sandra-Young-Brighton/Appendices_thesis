@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pagrus</keyword>
+  <gramrel name="nouns modified by X" hits="13" score="68.420">
+    <coll hits="3" score="12.410" query="w1714722370">major</coll>
+    <coll hits="9" score="11.710" query="w1714722369">auratus</coll>
+    <coll hits="1" score="7.290" query="w1714722368">namaycush</coll>
+  </gramrel>
+</wordsketch>
+</export>

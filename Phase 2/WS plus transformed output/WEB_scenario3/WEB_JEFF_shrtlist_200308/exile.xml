@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">exile</keyword>
+  <gramrel name="modifiers of X" hits="8" score="57.140">
+    <coll hits="7" score="12.220">Etheostoma</coll>
+    <coll hits="1" score="11.830">caeruleum</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="14.290">
+    <coll hits="1" score="12.680">flabellare</coll>
+    <coll hits="1" score="11.830">maculata</coll>
+  </gramrel>
+</wordsketch>
+</export>

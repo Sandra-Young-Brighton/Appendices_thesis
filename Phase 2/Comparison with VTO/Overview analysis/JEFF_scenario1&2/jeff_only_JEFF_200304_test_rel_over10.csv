@@ -1,0 +1,21 @@
+TAXRANK_target,target,source,TAXRANK_source,data_source_x,relations,data_source_y,_merge
+,CRASSUS,ANGUILLICOLA,,,,JEFF corpus,right_only
+,SCLATERI,BARBUS,,,,JEFF corpus,right_only
+,COMMERSONI,CATOSTOMUS,,,,JEFF corpus,right_only
+,BAIRDI,COTTUS,,,,JEFF corpus,right_only
+,GALEATA,DAPHNIA,,,,JEFF corpus,right_only
+,POLYMORPHA,DREISSENA,,,,JEFF corpus,right_only
+,TRIDENTATUS,ENTOSPHENUS,,,,JEFF corpus,right_only
+,LINNAEUS,ESOX,,,,JEFF corpus,right_only
+,HOLBROOKI,GAMBUSIA,,,,JEFF corpus,right_only
+,CERNUA,GYMNOCEPHALUS,,,,JEFF corpus,right_only
+,LINNAEUS,LUCIUS,,,,JEFF corpus,right_only
+,RELICTA,MYSIS,,,,JEFF corpus,right_only
+,CLARKI,ONCORHYNCHUS,,,,JEFF corpus,right_only
+,RUSTICUS,ORCONECTES,,,,JEFF corpus,right_only
+,GAIRDNERI,SALMO,,,,JEFF corpus,right_only
+,LINNAEUS,SALMO,,,,JEFF corpus,right_only
+,SOLIDUS,SCHISTOCEPHALUS,,,,JEFF corpus,right_only
+,LUCIOPERCA,STIZOSTEDION,,,,JEFF corpus,right_only
+,VITREUM,STIZOSTEDION,,,,JEFF corpus,right_only
+,LINNAEUS,TRUTTA,,,,JEFF corpus,right_only

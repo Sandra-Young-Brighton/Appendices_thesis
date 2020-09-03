@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lampetra</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="4.550">
+    <coll hits="1" score="13.000">Campostoma_oligolepis</coll>
+    <coll hits="1" score="4.430">specie</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.270">
+    <coll hits="1" score="9.160">Oregon</coll>
+  </gramrel>
+</wordsketch>
+</export>

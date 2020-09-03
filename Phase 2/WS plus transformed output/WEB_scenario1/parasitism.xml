@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">parasitism</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="12" score="37.500">
+    <coll hits="1" score="11.300">anglerfish</coll>
+    <coll hits="1" score="11.300">spathulatus</coll>
+    <coll hits="1" score="11.190">Tanypodinae</coll>
+    <coll hits="1" score="10.470">salvelini</coll>
+    <coll hits="1" score="9.790">Sturgeon</coll>
+    <coll hits="1" score="8.440">shark</coll>
+    <coll hits="2" score="7.940">host</coll>
+    <coll hits="1" score="6.480">ecology</coll>
+    <coll hits="1" score="5.660">female</coll>
+    <coll hits="1" score="5.130">ecosystem</coll>
+    <coll hits="1" score="3.230">population</coll>
+  </gramrel>
+</wordsketch>
+</export>

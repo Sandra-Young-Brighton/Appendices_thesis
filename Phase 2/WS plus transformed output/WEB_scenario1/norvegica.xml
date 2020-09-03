@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">norvegica</keyword>
+  <gramrel name="modifiers of X" hits="1" score="8.330">
+    <coll hits="1" score="13.990">Meganyctiphanes</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="16.670">
+    <coll hits="1" score="8.110">January</coll>
+    <coll hits="1" score="5.420">Sea</coll>
+  </gramrel>
+</wordsketch>
+</export>

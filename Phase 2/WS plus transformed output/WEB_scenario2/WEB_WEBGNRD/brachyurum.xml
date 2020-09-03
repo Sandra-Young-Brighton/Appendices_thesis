@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">brachyurum</keyword>
+  <gramrel name="modifiers of X" hits="4" score="100.000">
+    <coll hits="3" score="13.260" query="w1948417088">Diaphanosoma</coll>
+    <coll hits="1" score="12.680" query="w1948417089">kindtii</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="50.000">
+    <coll hits="1" score="13.000" query="w1948435584">quadrangula</coll>
+    <coll hits="1" score="12.680" query="w1948435585">cuculata</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="25.000">
+    <coll hits="1" score="13.990" query="w1948406528">quadrangula</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="25.000">
+    <coll hits="1" score="5.950" query="w1948455168">m</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ameiurus</keyword>
+  <gramrel name="nouns modified by X" hits="69" score="43.950">
+    <coll hits="30" score="13.230" query="w1106178944">natalis</coll>
+    <coll hits="37" score="13.060" query="w1106178945">nebulosus</coll>
+    <coll hits="2" score="9.850" query="w1106178946">catus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.640">
+    <coll hits="1" score="13.990" query="w1106209600">fin</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Teleostei</keyword>
+  <gramrel name="modifiers of X" hits="6" score="5.940">
+    <coll hits="1" score="12.190" query="w1528652036">Sparidae</coll>
+    <coll hits="1" score="12.190" query="w1528652034">Sciaenidae</coll>
+    <coll hits="1" score="11.990" query="w1528652035">Gadidae</coll>
+    <coll hits="1" score="10.750" query="w1528652032">Cyprinidae</coll>
+    <coll hits="2" score="7.900" query="w1528652033">Rutilus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="9" score="8.910">
+    <coll hits="3" score="13.000" query="w1528696769">Cichlidae</coll>
+    <coll hits="3" score="12.060" query="w1528696768">Cyprinidae</coll>
+    <coll hits="1" score="11.670" query="w1528696772">Lethrinidae</coll>
+    <coll hits="1" score="11.540" query="w1528696771">Clariidae</coll>
+    <coll hits="1" score="10.680" query="w1528696770">Gadidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="8" score="7.920">
+    <coll hits="2" score="12.540" query="w1528602497">Cichlidae</coll>
+    <coll hits="3" score="12.260" query="w1528602496">Cyprinidae</coll>
+    <coll hits="1" score="11.670" query="w1528602500">Lethrinidae</coll>
+    <coll hits="1" score="11.670" query="w1528602499">Clariidae</coll>
+    <coll hits="1" score="11.540" query="w1528602498">Gadidae</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="0.990">
+    <coll hits="1" score="13.000" query="w1528746368">Mugilogobius</coll>
+  </gramrel>
+</wordsketch>
+</export>

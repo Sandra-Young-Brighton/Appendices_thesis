@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">americanus</keyword>
+  <gramrel name="modifiers of X" hits="32" score="43.840">
+    <coll hits="13" score="13.170" query="w1931260739">Pseudopleuronectes</coll>
+    <coll hits="6" score="11.610" query="w1931260737">Pleuronectes</coll>
+    <coll hits="4" score="10.950" query="w1931260736">Esox</coll>
+    <coll hits="2" score="10.870" query="w1931260744">Hemitripterus</coll>
+    <coll hits="1" score="9.950" query="w1931260746">Roccus</coll>
+    <coll hits="1" score="9.950" query="w1931260745">Acanthocylops</coll>
+    <coll hits="1" score="9.950" query="w1931260743">Pseudopleuronectus</coll>
+    <coll hits="1" score="9.950" query="w1931260740">Pseu-dopleuronectes</coll>
+    <coll hits="1" score="9.910" query="w1931260742">Homarus</coll>
+    <coll hits="1" score="9.910" query="w1931260741">Lophius</coll>
+    <coll hits="1" score="9.830" query="w1931260738">Scirpus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="2.740">
+    <coll hits="2" score="12.190" query="w1931353920">Lucius</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="2.740">
+    <coll hits="1" score="7.850" query="w1931365313">width</coll>
+    <coll hits="1" score="4.890" query="w1931365312">range</coll>
+  </gramrel>
+</wordsketch>
+</export>

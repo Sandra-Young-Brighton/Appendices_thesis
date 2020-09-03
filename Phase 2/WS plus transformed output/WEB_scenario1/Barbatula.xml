@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Barbatula</keyword>
+  <gramrel name="nouns modified by X" hits="17" score="60.710">
+    <coll hits="17" score="13.880">barbatula</coll>
+  </gramrel>
+</wordsketch>
+</export>

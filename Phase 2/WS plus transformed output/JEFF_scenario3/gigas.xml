@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">gigas</keyword>
+  <gramrel name="modifiers of X" hits="14" score="87.500">
+    <coll hits="14" score="13.990">Arapaima</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="12.500">
+    <coll hits="2" score="13.000">Teleostei</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="12.500">
+    <coll hits="2" score="13.000">Teleostei</coll>
+  </gramrel>
+</wordsketch>
+</export>

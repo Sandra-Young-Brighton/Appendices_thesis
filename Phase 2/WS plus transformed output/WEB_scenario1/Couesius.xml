@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Couesius</keyword>
+  <gramrel name="nouns modified by X" hits="31" score="86.110">
+    <coll hits="30" score="13.970">plumbeus</coll>
+    <coll hits="1" score="9.750">spiloptera</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="5.560">
+    <coll hits="1" score="12.190">catostomus</coll>
+    <coll hits="1" score="12.190">Catostomus</coll>
+  </gramrel>
+</wordsketch>
+</export>

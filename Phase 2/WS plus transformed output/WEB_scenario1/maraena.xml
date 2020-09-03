@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">maraena</keyword>
+  <gramrel name="modifiers of X" hits="3" score="60.000">
+    <coll hits="3" score="7.620">Coregonus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="20.000">
+    <coll hits="1" score="13.410">English</coll>
+  </gramrel>
+</wordsketch>
+</export>

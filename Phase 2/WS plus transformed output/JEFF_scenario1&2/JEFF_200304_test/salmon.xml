@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">salmon</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="746" score="11.120">
+    <coll hits="47" score="8.930">River</coll>
+    <coll hits="12" score="8.460">America</coll>
+    <coll hits="35" score="8.370">river</coll>
+    <coll hits="8" score="8.350">Oregon</coll>
+    <coll hits="15" score="8.320">Creek</coll>
+    <coll hits="14" score="8.320">tributary</coll>
+    <coll hits="8" score="8.240">Ontario</coll>
+    <coll hits="10" score="8.060">relation</coll>
+    <coll hits="12" score="8.050">basin</coll>
+    <coll hits="16" score="7.990">day</coll>
+    <coll hits="6" score="7.960">Dee</coll>
+    <coll hits="8" score="7.880">watershed</coll>
+    <coll hits="6" score="7.860">Washington</coll>
+    <coll hits="7" score="7.800">estuary</coll>
+    <coll hits="6" score="7.780">Brook</coll>
+    <coll hits="20" score="7.670">habitat</coll>
+    <coll hits="6" score="7.650">Basin</coll>
+    <coll hits="5" score="7.650">Northwest</coll>
+    <coll hits="4" score="7.370">Sound</coll>
+    <coll hits="21" score="7.370">stream</coll>
+    <coll hits="4" score="7.350">Delta</coll>
+    <coll hits="10" score="7.310">system</coll>
+    <coll hits="4" score="7.260">Columbia</coll>
+    <coll hits="4" score="7.240">coast</coll>
+    <coll hits="4" score="7.210">approach</coll>
+  </gramrel>
+</wordsketch>
+</export>

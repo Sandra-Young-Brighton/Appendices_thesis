@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Solea</keyword>
+  <gramrel name="nouns modified by X" hits="17" score="65.380">
+    <coll hits="12" score="13.720" query="w1832770304">solea</coll>
+    <coll hits="4" score="12.600" query="w1832770306">senegalensis</coll>
+    <coll hits="1" score="9.910" query="w1832770305">vulgaris</coll>
+  </gramrel>
+</wordsketch>
+</export>

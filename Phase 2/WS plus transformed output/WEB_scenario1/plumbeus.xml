@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">plumbeus</keyword>
+  <gramrel name="modifiers of X" hits="30" score="81.080">
+    <coll hits="30" score="13.970">Couesius</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="2.700">
+    <coll hits="1" score="11.990">spiloptera</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="5.410">
+    <coll hits="1" score="12.190">catostomus</coll>
+    <coll hits="1" score="12.190">Catostomus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.700">
+    <coll hits="1" score="10.410">Illinois</coll>
+  </gramrel>
+</wordsketch>
+</export>

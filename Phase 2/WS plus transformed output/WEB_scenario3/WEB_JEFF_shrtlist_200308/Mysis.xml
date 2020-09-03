@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Mysis</keyword>
+  <gramrel name="nouns modified by X" hits="30" score="44.780">
+    <coll hits="13" score="13.270">diluviana</coll>
+    <coll hits="13" score="13.270">relicta</coll>
+    <coll hits="4" score="11.910">mixta</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="5.970">
+    <coll hits="1" score="7.930">Superior</coll>
+    <coll hits="2" score="6.900">sculpin</coll>
+    <coll hits="1" score="5.340">fishery</coll>
+  </gramrel>
+</wordsketch>
+</export>

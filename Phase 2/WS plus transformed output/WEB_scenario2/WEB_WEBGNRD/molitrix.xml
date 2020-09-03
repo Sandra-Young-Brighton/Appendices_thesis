@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">molitrix</keyword>
+  <gramrel name="modifiers of X" hits="15" score="75.000">
+    <coll hits="13" score="13.530" query="w2040040833">Hypophthalmichthys</coll>
+    <coll hits="1" score="11.000" query="w2040040834">idellus</coll>
+    <coll hits="1" score="10.410" query="w2040040832">Carpio</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.000">
+    <coll hits="1" score="11.410" query="w2040072064">nobilis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.000">
+    <coll hits="1" score="13.990" query="w2040030272">nobilis</coll>
+  </gramrel>
+</wordsketch>
+</export>

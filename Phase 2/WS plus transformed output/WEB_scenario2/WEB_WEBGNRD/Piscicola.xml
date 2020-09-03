@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Piscicola</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="71.430">
+    <coll hits="5" score="13.990" query="w2128058048">geometra</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="28.570">
+    <coll hits="1" score="13.000" query="w2128072257">sieboldi</coll>
+    <coll hits="1" score="13.000" query="w2128072256">Ergasilus</coll>
+  </gramrel>
+</wordsketch>
+</export>

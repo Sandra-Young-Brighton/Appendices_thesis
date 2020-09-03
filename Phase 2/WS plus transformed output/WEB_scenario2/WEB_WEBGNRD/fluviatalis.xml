@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fluviatalis</keyword>
+  <gramrel name="modifiers of X" hits="2" score="66.670">
+    <coll hits="1" score="6.680" query="w2127818433">Lampetra</coll>
+    <coll hits="1" score="5.580" query="w2127818432">Perca</coll>
+  </gramrel>
+</wordsketch>
+</export>

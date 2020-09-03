@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gasterosteus</keyword>
+  <gramrel name="nouns modified by X" hits="254" score="59.480">
+    <coll hits="254" score="13.960" query="w123868672">aculeatus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.230">
+    <coll hits="1" score="13.990" query="w123859968">Pygosteus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.230">
+    <coll hits="1" score="13.990" query="w123880064">zooplanktivore</coll>
+  </gramrel>
+</wordsketch>
+</export>

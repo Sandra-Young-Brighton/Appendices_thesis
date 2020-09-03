@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Palaemon</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="50.000">
+    <coll hits="2" score="13.410" query="w2009925377">serrifer</coll>
+    <coll hits="1" score="12.680" query="w2009925378">serratus</coll>
+    <coll hits="1" score="10.540" query="w2009925376">pacificus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gambusia</keyword>
+  <gramrel name="nouns modified by X" hits="48" score="60.760">
+    <coll hits="26" score="13.470">affinis</coll>
+    <coll hits="19" score="13.180">holbrooki</coll>
+    <coll hits="2" score="10.350">geiseri</coll>
+    <coll hits="1" score="9.000">reticulata</coll>
+  </gramrel>
+</wordsketch>
+</export>

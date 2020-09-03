@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gadidae</keyword>
+  <gramrel name="modifiers of X" hits="6" score="24.000">
+    <coll hits="1" score="11.990">Percopsidae</coll>
+    <coll hits="1" score="11.990">arcticus</coll>
+    <coll hits="1" score="11.830">morhua</coll>
+    <coll hits="1" score="11.090">Teleostei</coll>
+    <coll hits="1" score="8.240">Gadus</coll>
+    <coll hits="1" score="7.530">Thymallus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="8.000">
+    <coll hits="1" score="11.990">Teleostei</coll>
+    <coll hits="1" score="8.500">lota</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="4.000">
+    <coll hits="1" score="12.190">Teleostei</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="4.000">
+    <coll hits="1" score="7.290">variability</coll>
+  </gramrel>
+</wordsketch>
+</export>

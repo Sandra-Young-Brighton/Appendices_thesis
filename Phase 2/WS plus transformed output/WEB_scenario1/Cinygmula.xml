@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cinygmula</keyword>
+  <gramrel name="modifiers of X" hits="3" score="150.000">
+    <coll hits="2" score="13.410">Baetis</coll>
+    <coll hits="1" score="13.000">Ichneumonidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

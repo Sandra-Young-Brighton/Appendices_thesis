@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ootheca</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="18.180">
+    <coll hits="1" score="6.860" query="w2090692545">week</coll>
+    <coll hits="1" score="5.830" query="w2090692544">source</coll>
+  </gramrel>
+</wordsketch>
+</export>

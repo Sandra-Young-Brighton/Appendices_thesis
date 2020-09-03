@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">albula</keyword>
+  <gramrel name="modifiers of X" hits="87" score="65.410">
+    <coll hits="86" score="12.100" query="w1703409728">Coregonus</coll>
+    <coll hits="1" score="8.540" query="w1703409729">autumnalis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="1.500">
+    <coll hits="1" score="10.540" query="w1703432192">williamsoni</coll>
+    <coll hits="1" score="9.790" query="w1703432193">eperlanus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.750">
+    <coll hits="1" score="13.990" query="w1703398080">eperlanus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="1.500">
+    <coll hits="1" score="8.680" query="w1703452673">watercourse</coll>
+    <coll hits="1" score="6.760" query="w1703452672">L</coll>
+  </gramrel>
+</wordsketch>
+</export>

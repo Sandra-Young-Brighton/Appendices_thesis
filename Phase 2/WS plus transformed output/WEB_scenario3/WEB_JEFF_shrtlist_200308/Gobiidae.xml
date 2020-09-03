@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gobiidae</keyword>
+  <gramrel name="modifiers of X" hits="2" score="2.630">
+    <coll hits="1" score="13.410">grunniens</coll>
+    <coll hits="1" score="11.830">Osteichthyes</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="2.630">
+    <coll hits="1" score="13.410">Eleotridinae</coll>
+    <coll hits="1" score="12.410">Gasterosteidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="2.630">
+    <coll hits="1" score="13.410">Eleotridinae</coll>
+    <coll hits="1" score="13.410">Labridae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="7" score="9.210">
+    <coll hits="1" score="11.300">Perciformes</coll>
+    <coll hits="1" score="11.190">edition</coll>
+    <coll hits="4" score="7.560">basin</coll>
+    <coll hits="1" score="7.370">Basin</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="1.320">
+    <coll hits="1" score="13.990">goby</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Schistosoma</keyword>
+  <gramrel name="nouns modified by X" hits="7" score="63.640">
+    <coll hits="4" score="13.540" query="w2072531456">mansoni</coll>
+    <coll hits="3" score="13.260" query="w2072531457">haematobium</coll>
+  </gramrel>
+</wordsketch>
+</export>

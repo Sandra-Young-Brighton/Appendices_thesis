@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="-j" freq="0">salmon_trout</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="6.250">
+    <coll hits="1" score="8.040">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">bicolor</keyword>
+  <gramrel name="X and/or ..." hits="3" score="17.650">
+    <coll hits="2" score="13.670">bicolor</coll>
+    <coll hits="1" score="8.960">white</coll>
+  </gramrel>
+</wordsketch>
+</export>

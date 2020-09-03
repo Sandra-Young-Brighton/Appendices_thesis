@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gila</keyword>
+  <gramrel name="nouns modified by X" hits="11" score="31.430">
+    <coll hits="4" score="13.090" query="w1761897155">atraria</coll>
+    <coll hits="3" score="12.770" query="w1761897153">coerulea</coll>
+    <coll hits="2" score="12.290" query="w1761897154">cypha</coll>
+    <coll hits="2" score="12.090" query="w1761897152">robusta</coll>
+  </gramrel>
+</wordsketch>
+</export>

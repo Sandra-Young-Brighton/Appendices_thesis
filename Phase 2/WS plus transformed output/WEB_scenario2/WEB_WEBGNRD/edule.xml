@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">edule</keyword>
+  <gramrel name="modifiers of X" hits="3" score="60.000">
+    <coll hits="2" score="13.670" query="w1956169216">Cerastoderma</coll>
+    <coll hits="1" score="12.680" query="w1956169217">Cardium</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="20.000">
+    <coll hits="1" score="13.990" query="w1956158400">balthica</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="20.000">
+    <coll hits="1" score="10.540" query="w1956185600">cadmium</coll>
+  </gramrel>
+</wordsketch>
+</export>

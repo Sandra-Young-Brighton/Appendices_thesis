@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">anthracinus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="40.000">
+    <coll hits="2" score="11.670" query="w2166580032">Chironomus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="40.000">
+    <coll hits="1" score="11.830" query="w2166590081">Esrom</coll>
+    <coll hits="1" score="5.400" query="w2166590080">part</coll>
+  </gramrel>
+</wordsketch>
+</export>

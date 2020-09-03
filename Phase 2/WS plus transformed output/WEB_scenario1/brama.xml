@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">brama</keyword>
+  <gramrel name="modifiers of X" hits="88" score="72.130">
+    <coll hits="84" score="13.930">Abramis</coll>
+    <coll hits="2" score="9.350">rutilus</coll>
+    <coll hits="2" score="9.280">fluviatilis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="1.640">
+    <coll hits="1" score="10.350">aspius</coll>
+    <coll hits="1" score="8.070">gobio</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="6" score="4.920">
+    <coll hits="3" score="12.580">rutilus</coll>
+    <coll hits="1" score="11.830">aspius</coll>
+    <coll hits="1" score="11.300">gobio</coll>
+    <coll hits="1" score="11.190">alburnus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="3.280">
+    <coll hits="2" score="13.410">Mondsee</coll>
+    <coll hits="1" score="12.680">Mostise</coll>
+    <coll hits="1" score="12.680">Mostiste</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="2.460">
+    <coll hits="1" score="11.540">fluviatilis</coll>
+    <coll hits="1" score="11.540">Perca</coll>
+    <coll hits="1" score="7.500">Cyprinidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

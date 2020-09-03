@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">chalcogramma</keyword>
+  <gramrel name="modifiers of X" hits="12" score="92.310">
+    <coll hits="12" score="13.990" query="w1834626560">Theragra</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="7.690">
+    <coll hits="1" score="8.790" query="w1834637440">examination</coll>
+  </gramrel>
+</wordsketch>
+</export>

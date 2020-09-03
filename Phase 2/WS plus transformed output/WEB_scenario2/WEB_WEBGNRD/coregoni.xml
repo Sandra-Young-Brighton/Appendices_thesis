@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">coregoni</keyword>
+  <gramrel name="modifiers of X" hits="4" score="80.000">
+    <coll hits="1" score="12.680" query="w1948772865">Eubosmina</coll>
+    <coll hits="3" score="11.340" query="w1948772864">Bosmina</coll>
+  </gramrel>
+</wordsketch>
+</export>

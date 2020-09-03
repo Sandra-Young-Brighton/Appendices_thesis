@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">solea</keyword>
+  <gramrel name="modifiers of X" hits="12" score="60.000">
+    <coll hits="12" score="13.990">Solea</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="10.000">
+    <coll hits="2" score="13.990">Mersin</coll>
+  </gramrel>
+</wordsketch>
+</export>

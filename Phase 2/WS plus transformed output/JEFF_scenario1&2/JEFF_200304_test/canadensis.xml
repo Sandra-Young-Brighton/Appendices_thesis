@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">canadensis</keyword>
+  <gramrel name="modifiers of X" hits="17" score="85.000">
+    <coll hits="9" score="13.470">Castor</coll>
+    <coll hits="2" score="11.750">Lontra</coll>
+    <coll hits="1" score="10.820">Ovis</coll>
+    <coll hits="1" score="10.820">vitreus</coll>
+    <coll hits="4" score="10.600">Sander</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="4" score="20.000">
+    <coll hits="1" score="11.990">vitreus</coll>
+    <coll hits="1" score="11.990">Sander</coll>
+    <coll hits="1" score="11.670">Lucius</coll>
+    <coll hits="1" score="11.670">Esox</coll>
+  </gramrel>
+</wordsketch>
+</export>

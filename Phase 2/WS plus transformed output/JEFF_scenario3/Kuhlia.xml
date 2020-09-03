@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Kuhlia</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="15.630">
+    <coll hits="5" score="12.620">rupestris</coll>
+  </gramrel>
+</wordsketch>
+</export>

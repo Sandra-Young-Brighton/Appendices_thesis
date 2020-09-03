@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">planktivores</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="14" score="7.040">
+    <coll hits="1" score="10.190">macrozooplankton</coll>
+    <coll hits="1" score="9.410">sardine</coll>
+    <coll hits="4" score="8.740">ratio</coll>
+    <coll hits="1" score="7.420">plankton</coll>
+    <coll hits="1" score="6.360">Michigan</coll>
+    <coll hits="2" score="6.260">region</coll>
+    <coll hits="1" score="5.500">resource</coll>
+    <coll hits="1" score="4.940">environment</coll>
+    <coll hits="2" score="4.710">year</coll>
+  </gramrel>
+</wordsketch>
+</export>

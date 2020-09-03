@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Smilosicyopus_chloe</keyword>
+  <gramrel name="modifiers of X" hits="3" score="75.000">
+    <coll hits="2" score="13.670">Sicyopus_zosterophorum</coll>
+    <coll hits="1" score="8.960">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gymnocephalus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="0.930">
+    <coll hits="1" score="8.520" query="w1757180416">Stizostedion</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="72" score="66.670">
+    <coll hits="55" score="13.770" query="w1757189569">cernuus</coll>
+    <coll hits="15" score="12.060" query="w1757189570">cernua</coll>
+    <coll hits="1" score="8.810" query="w1757189571">schraetser</coll>
+    <coll hits="1" score="7.330" query="w1757189568">Carpio</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="1.850">
+    <coll hits="1" score="9.440" query="w1757230849">fluviatilis</coll>
+    <coll hits="1" score="9.350" query="w1757230848">Perca</coll>
+  </gramrel>
+</wordsketch>
+</export>

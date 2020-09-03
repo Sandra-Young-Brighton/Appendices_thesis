@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Anthrenocerus</keyword>
+  <gramrel name="nouns modified by X" hits="20" score="23.260">
+    <coll hits="3" score="12.060" query="w2146021645">confertus</coll>
+    <coll hits="1" score="10.600" query="w2146021649">terzonatus</coll>
+    <coll hits="1" score="10.600" query="w2146021648">quadrifasciatus</coll>
+    <coll hits="1" score="10.600" query="w2146021646">pinto</coll>
+    <coll hits="1" score="10.600" query="w2146021644">schwarzeneggeri</coll>
+    <coll hits="1" score="10.600" query="w2146021643">pilatus</coll>
+    <coll hits="1" score="10.600" query="w2146021642">musaicus</coll>
+    <coll hits="1" score="10.600" query="w2146021641">intricatus</coll>
+    <coll hits="1" score="10.600" query="w2146021640">hirsutus</coll>
+    <coll hits="1" score="10.600" query="w2146021639">decoris</coll>
+    <coll hits="1" score="10.600" query="w2146021638">corrugatus</coll>
+    <coll hits="1" score="10.600" query="w2146021637">brindabella</coll>
+    <coll hits="1" score="10.600" query="w2146021636">armstrongi</coll>
+    <coll hits="1" score="10.600" query="w2146021635">tessellatus</coll>
+    <coll hits="1" score="10.540" query="w2146021647">pulchellus</coll>
+    <coll hits="1" score="10.470" query="w2146021634">variabilis</coll>
+    <coll hits="1" score="10.470" query="w2146021633">stellatus</coll>
+    <coll hits="1" score="8.460" query="w2146021632">nebulosus</coll>
+  </gramrel>
+</wordsketch>
+</export>

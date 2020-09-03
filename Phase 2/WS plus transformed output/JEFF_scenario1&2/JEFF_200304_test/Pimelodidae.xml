@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pimelodidae</keyword>
+  <gramrel name="modifiers of X" hits="2" score="28.570">
+    <coll hits="1" score="13.410">Loricariidae</coll>
+    <coll hits="1" score="12.680">Siluriformes</coll>
+  </gramrel>
+</wordsketch>
+</export>

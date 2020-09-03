@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">plerocercoids</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="8" score="80.000">
+    <coll hits="1" score="11.830">nodulosus</coll>
+    <coll hits="1" score="11.830">Cobbold</coll>
+    <coll hits="1" score="11.540">latum</coll>
+    <coll hits="1" score="11.300">Leidy</coll>
+    <coll hits="1" score="11.000">crassus</coll>
+    <coll hits="1" score="10.910">tapeworm</coll>
+    <coll hits="1" score="10.910">solidus</coll>
+    <coll hits="1" score="8.850">lavaretus</coll>
+  </gramrel>
+</wordsketch>
+</export>

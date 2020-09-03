@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">crockeri</keyword>
+  <gramrel name="modifiers of X" hits="1" score="0.650">
+    <coll hits="1" score="13.990">Acanthemblemaria</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="36" score="23.230">
+    <coll hits="10" score="11.440">Chile</coll>
+    <coll hits="2" score="10.600">Talcahuano</coll>
+    <coll hits="2" score="9.800">plane</coll>
+    <coll hits="4" score="9.300">November</coll>
+    <coll hits="2" score="9.210">spawn</coll>
+    <coll hits="2" score="9.150">ontogeny</coll>
+    <coll hits="2" score="8.460">bay</coll>
+    <coll hits="2" score="7.360">net</coll>
+    <coll hits="4" score="7.090">ecosystem</coll>
+    <coll hits="2" score="6.520">spring</coll>
+    <coll hits="2" score="4.730">area</coll>
+    <coll hits="2" score="4.070">water</coll>
+  </gramrel>
+</wordsketch>
+</export>

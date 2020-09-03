@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">crystallina</keyword>
+  <gramrel name="modifiers of X" hits="5" score="83.330">
+    <coll hits="4" score="13.670" query="w1948500289">Sida</coll>
+    <coll hits="1" score="10.600" query="w1948500288">Cladocera</coll>
+  </gramrel>
+</wordsketch>
+</export>

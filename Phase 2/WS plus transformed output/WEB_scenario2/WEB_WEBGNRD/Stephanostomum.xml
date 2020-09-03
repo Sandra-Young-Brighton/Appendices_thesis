@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Stephanostomum</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="100.000">
+    <coll hits="1" score="13.000" query="w2070161601">tenue</coll>
+    <coll hits="1" score="13.000" query="w2070161600">baccatum</coll>
+    <coll hits="1" score="12.680" query="w2070161602">pristis</coll>
+  </gramrel>
+</wordsketch>
+</export>

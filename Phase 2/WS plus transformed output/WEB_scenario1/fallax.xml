@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fallax</keyword>
+  <gramrel name="modifiers of X" hits="27" score="50.000">
+    <coll hits="27" score="12.320">Alosa</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="7.410">
+    <coll hits="3" score="11.410">Bullhead</coll>
+    <coll hits="1" score="8.980">Lagoon</coll>
+  </gramrel>
+</wordsketch>
+</export>

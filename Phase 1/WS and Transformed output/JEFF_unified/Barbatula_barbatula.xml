@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Barbatula_barbatula</keyword>
+  <gramrel name="modifiers of X" hits="1" score="4.000">
+    <coll hits="1" score="13.410">Cottus_gobio</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="8.000">
+    <coll hits="1" score="12.410">Silurus_glanis</coll>
+    <coll hits="1" score="8.690">Linnaeus</coll>
+  </gramrel>
+</wordsketch>
+</export>

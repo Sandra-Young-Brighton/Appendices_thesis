@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Neolebias_trewavasae</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="50.000">
+    <coll hits="1" score="13.990">Microctenopoma_nanum</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="50.000">
+    <coll hits="1" score="13.990">Microctenopoma_nanum</coll>
+  </gramrel>
+</wordsketch>
+</export>

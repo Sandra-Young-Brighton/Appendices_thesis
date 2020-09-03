@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Si</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="5.410">
+    <coll hits="1" score="9.910">k</coll>
+    <coll hits="1" score="7.670">i</coll>
+  </gramrel>
+</wordsketch>
+</export>

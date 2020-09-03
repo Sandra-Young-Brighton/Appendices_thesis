@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">williamsoni</keyword>
+  <gramrel name="modifiers of X" hits="20" score="71.430">
+    <coll hits="18" score="13.360" query="w1656999553">Prosopium</coll>
+    <coll hits="1" score="10.540" query="w1656999554">albula</coll>
+    <coll hits="1" score="5.830" query="w1656999552">Coregonus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">oxyrinchus</keyword>
+  <gramrel name="modifiers of X" hits="5" score="41.670">
+    <coll hits="1" score="11.990" query="w1977834689">alpinus</coll>
+    <coll hits="4" score="7.880" query="w1977834688">Coregonus</coll>
+  </gramrel>
+</wordsketch>
+</export>

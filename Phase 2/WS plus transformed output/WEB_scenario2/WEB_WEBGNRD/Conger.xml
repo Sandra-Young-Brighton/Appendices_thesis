@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Conger</keyword>
+  <gramrel name="nouns modified by X" hits="13" score="61.900">
+    <coll hits="7" score="13.480" query="w2034442049">myriaster</coll>
+    <coll hits="4" score="12.830" query="w2034442050">oceanicus</coll>
+    <coll hits="2" score="12.090" query="w2034442048">conger</coll>
+  </gramrel>
+</wordsketch>
+</export>

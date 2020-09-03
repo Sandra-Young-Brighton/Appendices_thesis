@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Richardsonius</keyword>
+  <gramrel name="nouns modified by X" hits="13" score="92.860">
+    <coll hits="12" score="13.880">balteatus</coll>
+    <coll hits="1" score="11.190">egregius</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="14.290">
+    <coll hits="2" score="7.500">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

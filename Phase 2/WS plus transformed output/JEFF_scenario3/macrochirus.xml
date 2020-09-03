@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">macrochirus</keyword>
+  <gramrel name="modifiers of X" hits="57" score="69.510">
+    <coll hits="56" score="13.140">Lepomis</coll>
+    <coll hits="1" score="9.140">macrochirus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.220">
+    <coll hits="1" score="13.000">flavescens</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="1.220">nouns modified by &quot;%w&quot;</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="2.440">
+    <coll hits="1" score="7.860">combination</coll>
+    <coll hits="1" score="5.620">bass</coll>
+  </gramrel>
+</wordsketch>
+</export>

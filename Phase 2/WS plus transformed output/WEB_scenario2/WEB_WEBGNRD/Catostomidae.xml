@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Catostomidae</keyword>
+  <gramrel name="modifiers of X" hits="2" score="6.900">
+    <coll hits="1" score="13.410" query="w1806243457">pallasii</coll>
+    <coll hits="1" score="8.230" query="w1806243456">Clupea</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="8" score="27.590">
+    <coll hits="3" score="12.880" query="w1806264001">Ictaluridae</coll>
+    <coll hits="4" score="11.640" query="w1806264000">Salmonidae</coll>
+    <coll hits="1" score="11.190" query="w1806264002">Umbridae</coll>
+  </gramrel>
+</wordsketch>
+</export>

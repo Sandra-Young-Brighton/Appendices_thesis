@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lamellidens</keyword>
+  <gramrel name="nouns modified by X" hits="5" score="62.500">
+    <coll hits="3" score="13.410" query="w2025388225">corrianus</coll>
+    <coll hits="2" score="12.830" query="w2025388224">marginalis</coll>
+  </gramrel>
+</wordsketch>
+</export>

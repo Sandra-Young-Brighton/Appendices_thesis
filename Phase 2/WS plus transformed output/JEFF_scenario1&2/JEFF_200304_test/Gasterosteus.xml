@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gasterosteus</keyword>
+  <gramrel name="nouns modified by X" hits="105" score="60.690">
+    <coll hits="99" score="13.940">aculeatus</coll>
+    <coll hits="4" score="9.160">Linnaeus</coll>
+    <coll hits="1" score="8.270">gymnurus</coll>
+    <coll hits="1" score="7.730">pungitius</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="1.160">
+    <coll hits="2" score="13.990">Pygosteus</coll>
+  </gramrel>
+</wordsketch>
+</export>

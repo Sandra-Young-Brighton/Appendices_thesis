@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Leuciscus_idus</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="15.380">
+    <coll hits="2" score="8.470">Sea</coll>
+  </gramrel>
+</wordsketch>
+</export>

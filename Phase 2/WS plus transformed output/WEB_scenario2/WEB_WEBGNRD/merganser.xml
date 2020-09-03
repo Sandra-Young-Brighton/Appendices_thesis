@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">merganser</keyword>
+  <gramrel name="modifiers of X" hits="28" score="16.770">
+    <coll hits="28" score="13.850" query="w1963456384">Mergus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="11" score="6.590">
+    <coll hits="1" score="8.440" query="w1963467841">situation</coll>
+    <coll hits="1" score="7.000" query="w1963467846">proportion</coll>
+    <coll hits="1" score="5.990" query="w1963467847">relation</coll>
+    <coll hits="1" score="5.770" query="w1963467845">smolt</coll>
+    <coll hits="2" score="5.350" query="w1963467844">predator</coll>
+    <coll hits="2" score="4.550" query="w1963467840">river</coll>
+    <coll hits="2" score="4.200" query="w1963467842">salmon</coll>
+    <coll hits="1" score="3.230" query="w1963467843">population</coll>
+  </gramrel>
+</wordsketch>
+</export>

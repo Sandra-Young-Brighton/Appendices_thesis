@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Morone</keyword>
+  <gramrel name="modifiers of X" hits="2" score="1.140">
+    <coll hits="1" score="13.410">saxatilis</coll>
+    <coll hits="1" score="13.000">punctatus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="70" score="40.000">
+    <coll hits="52" score="13.750">saxatilis</coll>
+    <coll hits="16" score="12.570">chrysops</coll>
+    <coll hits="1" score="8.750">Perca</coll>
+    <coll hits="1" score="8.620">crysoleucas</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.570">
+    <coll hits="1" score="13.990">crysoleucas</coll>
+  </gramrel>
+</wordsketch>
+</export>

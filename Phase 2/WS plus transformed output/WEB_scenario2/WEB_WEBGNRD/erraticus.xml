@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">erraticus</keyword>
+  <gramrel name="modifiers of X" hits="7" score="70.000">
+    <coll hits="4" score="13.540" query="w2071743425">Ichthyocotylurus</coll>
+    <coll hits="3" score="13.120" query="w2071743424">Cotylurus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="20.000">
+    <coll hits="1" score="3.100" query="w2071762945">trout</coll>
+    <coll hits="1" score="1.750" query="w2071762944">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

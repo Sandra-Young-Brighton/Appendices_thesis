@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">parva</keyword>
+  <gramrel name="modifiers of X" hits="28" score="43.080">
+    <coll hits="27" score="13.970">Pseudorasbora</coll>
+    <coll hits="1" score="10.000">gibbosus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="3.080">
+    <coll hits="2" score="9.750">lucioperca</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="3.080">
+    <coll hits="2" score="13.190">lucioperca</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="9.230">
+    <coll hits="3" score="12.770">foodweb</coll>
+    <coll hits="1" score="8.500">magnitude</coll>
+    <coll hits="1" score="7.340">web</coll>
+    <coll hits="1" score="3.780">site</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="1.540">
+    <coll hits="1" score="13.410">invader</coll>
+  </gramrel>
+</wordsketch>
+</export>

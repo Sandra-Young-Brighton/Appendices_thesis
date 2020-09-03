@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Anchoa</keyword>
+  <gramrel name="nouns modified by X" hits="28" score="77.780">
+    <coll hits="28" score="13.990" query="w1819590016">mitchilli</coll>
+  </gramrel>
+</wordsketch>
+</export>

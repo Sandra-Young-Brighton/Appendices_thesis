@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">longirostris</keyword>
+  <gramrel name="modifiers of X" hits="17" score="34.000">
+    <coll hits="15" score="13.230" query="w1850519296">Bosmina</coll>
+    <coll hits="1" score="10.820" query="w1850519298">Rallus</coll>
+    <coll hits="1" score="10.820" query="w1850519297">excisum</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="4.000">
+    <coll hits="1" score="12.680" query="w1850544256">quadrata</coll>
+    <coll hits="1" score="10.910" query="w1850544257">sphaericus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="6.000">
+    <coll hits="1" score="13.000" query="w1850491648">quadrata</coll>
+    <coll hits="1" score="12.680" query="w1850491650">micrura</coll>
+    <coll hits="1" score="12.410" query="w1850491649">sphaericus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.000">
+    <coll hits="1" score="8.680" query="w1850563776">F</coll>
+  </gramrel>
+</wordsketch>
+</export>

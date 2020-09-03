@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">der</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="8" score="3.640">
+    <coll hits="1" score="11.830">Fitzinger</coll>
+    <coll hits="1" score="11.540">mid-channel</coll>
+    <coll hits="1" score="11.410">woodland</coll>
+    <coll hits="1" score="10.470">placement</coll>
+    <coll hits="2" score="9.870">waterway</coll>
+    <coll hits="1" score="3.340">study</coll>
+    <coll hits="1" score="1.960">fish</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.450">
+    <coll hits="1" score="10.680">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

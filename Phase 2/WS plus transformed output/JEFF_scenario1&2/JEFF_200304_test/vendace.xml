@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">vendace</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="53" score="9.650">
+    <coll hits="2" score="9.950">Osensjøen</coll>
+    <coll hits="2" score="9.410">y</coll>
+    <coll hits="1" score="9.240">Vättern</coll>
+    <coll hits="1" score="9.190">approx.</coll>
+    <coll hits="1" score="9.060">Pyhäjärvi</coll>
+    <coll hits="1" score="9.040">Pyh</coll>
+    <coll hits="1" score="8.960">Stechlin</coll>
+    <coll hits="1" score="8.810">interac</coll>
+    <coll hits="1" score="8.410">haul</coll>
+    <coll hits="1" score="8.300">stratum</coll>
+    <coll hits="3" score="8.270">catch</coll>
+    <coll hits="1" score="7.970">situation</coll>
+    <coll hits="1" score="7.730">Finland</coll>
+    <coll hits="3" score="7.700">end</coll>
+    <coll hits="1" score="7.590">series</coll>
+    <coll hits="3" score="7.400">zone</coll>
+    <coll hits="1" score="7.280">respect</coll>
+    <coll hits="3" score="7.210">spring</coll>
+    <coll hits="2" score="7.010">July</coll>
+    <coll hits="1" score="6.750">autumn</coll>
+    <coll hits="1" score="6.550">unit</coll>
+    <coll hits="1" score="6.430">net</coll>
+    <coll hits="2" score="6.370">basin</coll>
+    <coll hits="1" score="6.130">interaction</coll>
+    <coll hits="6" score="6.050">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

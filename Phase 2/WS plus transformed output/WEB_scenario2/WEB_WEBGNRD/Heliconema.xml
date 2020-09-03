@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Heliconema</keyword>
+  <gramrel name="nouns modified by X" hits="10" score="25.640">
+    <coll hits="4" score="13.190" query="w2032039681">longissimum</coll>
+    <coll hits="4" score="12.540" query="w2032039680">anguillae</coll>
+    <coll hits="2" score="12.410" query="w2032039682">africanum</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="5.130">
+    <coll hits="1" score="13.000" query="w2032070465">synonym</coll>
+    <coll hits="1" score="13.000" query="w2032070464">H</coll>
+  </gramrel>
+</wordsketch>
+</export>

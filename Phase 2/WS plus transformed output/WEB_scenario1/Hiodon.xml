@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hiodon</keyword>
+  <gramrel name="modifiers of X" hits="3" score="15.790">
+    <coll hits="1" score="12.680">transmontanus</coll>
+    <coll hits="1" score="12.680">malma</coll>
+    <coll hits="1" score="4.900">Salvelinus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="21.050">
+    <coll hits="3" score="13.770">tergisus</coll>
+    <coll hits="1" score="12.680">alosoides</coll>
+  </gramrel>
+</wordsketch>
+</export>

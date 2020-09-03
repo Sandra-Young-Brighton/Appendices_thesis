@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">gairdneri</keyword>
+  <gramrel name="modifiers of X" hits="169" score="72.840">
+    <coll hits="162" score="11.450" query="w1289231297">Salmo</coll>
+    <coll hits="3" score="9.150" query="w1289231299">Saimo</coll>
+    <coll hits="2" score="8.470" query="w1289231296">mykiss</coll>
+    <coll hits="1" score="7.590" query="w1289231300">Fario</coll>
+    <coll hits="1" score="7.590" query="w1289231298">tenuis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.430">
+    <coll hits="1" score="11.540" query="w1289282560">bonariensis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="0.860">
+    <coll hits="1" score="13.410" query="w1289210881">bonariensis</coll>
+    <coll hits="1" score="11.670" query="w1289210880">Lucius</coll>
+  </gramrel>
+</wordsketch>
+</export>

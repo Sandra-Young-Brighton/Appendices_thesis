@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lepomis_marginatus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="40.000">
+    <coll hits="1" score="13.410">Poecilia_latipinnu</coll>
+    <coll hits="1" score="13.410">Gamhusia_holbrooki</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="20.000">
+    <coll hits="1" score="7.990">H</coll>
+  </gramrel>
+</wordsketch>
+</export>

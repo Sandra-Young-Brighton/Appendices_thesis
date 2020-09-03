@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Umbra</keyword>
+  <gramrel name="nouns modified by X" hits="8" score="72.730">
+    <coll hits="6" score="13.770">limi</coll>
+    <coll hits="2" score="12.680">krameri</coll>
+  </gramrel>
+</wordsketch>
+</export>

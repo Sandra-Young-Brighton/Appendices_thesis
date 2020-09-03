@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cladocera</keyword>
+  <gramrel name="modifiers of X" hits="4" score="1.690">
+    <coll hits="1" score="12.680">Copepods</coll>
+    <coll hits="1" score="12.410">Ostracoda</coll>
+    <coll hits="1" score="11.300">Copepoda</coll>
+    <coll hits="1" score="11.000">Crustacea</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="19" score="8.050">
+    <coll hits="15" score="13.580">Copepoda</coll>
+    <coll hits="1" score="10.600">Calanoida</coll>
+    <coll hits="1" score="10.540">Rotifera</coll>
+    <coll hits="1" score="10.410">crystallina</coll>
+    <coll hits="1" score="10.350">Bosmina</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="33" score="13.980">
+    <coll hits="25" score="13.600">Copepoda</coll>
+    <coll hits="5" score="11.620">Rotifera</coll>
+    <coll hits="1" score="9.830">Calanoida</coll>
+    <coll hits="1" score="9.750">Bosmina</coll>
+    <coll hits="1" score="9.670">Cladocera</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="13" score="5.510">
+    <coll hits="1" score="11.000">Broad</coll>
+    <coll hits="1" score="10.540">lily</coll>
+    <coll hits="1" score="8.750">Daphnia</coll>
+    <coll hits="2" score="8.430">B</coll>
+    <coll hits="2" score="7.040">increase</coll>
+    <coll hits="1" score="5.860">Bay</coll>
+    <coll hits="1" score="5.170">predation</coll>
+    <coll hits="1" score="4.330">diet</coll>
+    <coll hits="2" score="3.890">lake</coll>
+    <coll hits="1" score="2.690">specie</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="6" score="2.540">
+    <coll hits="2" score="13.000">Bosmina</coll>
+    <coll hits="2" score="12.830">Daphnia</coll>
+    <coll hits="1" score="12.190">Chydorus</coll>
+    <coll hits="1" score="11.830">Copepoda</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="4" score="1.690">
+    <coll hits="1" score="12.680">rudd</coll>
+    <coll hits="1" score="12.680">organism</coll>
+    <coll hits="1" score="11.990">number</coll>
+    <coll hits="1" score="11.540">food</coll>
+  </gramrel>
+</wordsketch>
+</export>

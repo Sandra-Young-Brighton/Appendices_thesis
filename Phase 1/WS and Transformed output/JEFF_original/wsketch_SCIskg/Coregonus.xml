@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Coregonus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="0.460">
+    <coll hits="2" score="10.140">whitefish</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="283" score="64.760">
+    <coll hits="94" score="12.990">albula</coll>
+    <coll hits="95" score="12.910">lavaretus</coll>
+    <coll hits="17" score="10.840">clupeaformis</coll>
+    <coll hits="13" score="10.360">nasus</coll>
+    <coll hits="11" score="10.260">sardinella</coll>
+    <coll hits="10" score="10.110">artedi</coll>
+    <coll hits="8" score="9.800">hoyi</coll>
+    <coll hits="6" score="9.410">zenithicus</coll>
+    <coll hits="6" score="9.390">pidschian</coll>
+    <coll hits="5" score="9.150">artedii</coll>
+    <coll hits="3" score="8.420">fontanae</coll>
+    <coll hits="2" score="7.840">Zavaretus</coll>
+    <coll hits="2" score="7.830">pusillus</coll>
+    <coll hits="1" score="6.850">clupeaformiss</coll>
+    <coll hits="1" score="6.850">kiyi</coll>
+    <coll hits="1" score="6.850">zeni</coll>
+    <coll hits="1" score="6.850">laveretus</coll>
+    <coll hits="1" score="6.850">lava</coll>
+    <coll hits="1" score="6.850">lavarefus</coll>
+    <coll hits="1" score="6.850">Iuvuretus</coll>
+    <coll hits="1" score="6.850">luvuretus</coll>
+    <coll hits="1" score="5.600">larva</coll>
+    <coll hits="2" score="5.350">specie</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="6" score="1.370">
+    <coll hits="1" score="11.830">whitefish</coll>
+    <coll hits="3" score="8.080">specie</coll>
+    <coll hits="2" score="7.560">fish</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.230">
+    <coll hits="1" score="3.480">lake</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.230">
+    <coll hits="1" score="12.190">acid</coll>
+  </gramrel>
+</wordsketch>
+</export>

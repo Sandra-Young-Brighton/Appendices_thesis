@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Heterotis</keyword>
+  <gramrel name="nouns modified by X" hits="1" score="5.880">
+    <coll hits="1" score="6.310">larva</coll>
+  </gramrel>
+  <gramrel name="X is a ..." hits="1" score="5.880">
+    <coll hits="1" score="9.500">specie</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="29.410">
+    <coll hits="1" score="10.040">Hlan</coll>
+    <coll hits="3" score="5.350">River</coll>
+    <coll hits="1" score="3.730">habitat</coll>
+  </gramrel>
+</wordsketch>
+</export>

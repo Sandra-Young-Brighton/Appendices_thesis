@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">diminuta</keyword>
+  <gramrel name="modifiers of X" hits="2" score="50.000">
+    <coll hits="2" score="13.990" query="w2015460224">Hymenolepis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="25.000">
+    <coll hits="1" score="13.000" query="w2015469504">Paracalliope</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="25.000">
+    <coll hits="1" score="5.750" query="w2015481664">survival</coll>
+  </gramrel>
+</wordsketch>
+</export>

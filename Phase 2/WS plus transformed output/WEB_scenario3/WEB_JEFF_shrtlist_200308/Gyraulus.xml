@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gyraulus</keyword>
+  <gramrel name="modifiers of X" hits="1" score="4.760">
+    <coll hits="1" score="13.990">Physa</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="3" score="14.290">
+    <coll hits="1" score="12.680">goby</coll>
+    <coll hits="1" score="12.680">round</coll>
+    <coll hits="1" score="10.680">diet</coll>
+  </gramrel>
+</wordsketch>
+</export>

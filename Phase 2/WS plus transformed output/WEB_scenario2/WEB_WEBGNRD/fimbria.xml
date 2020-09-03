@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fimbria</keyword>
+  <gramrel name="modifiers of X" hits="5" score="45.450">
+    <coll hits="4" score="13.830" query="w2061333057">Anoplopoma</coll>
+    <coll hits="1" score="12.190" query="w2061333056">sagax</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="9.090">
+    <coll hits="1" score="6.680" query="w2061353920">Pacific</coll>
+  </gramrel>
+</wordsketch>
+</export>

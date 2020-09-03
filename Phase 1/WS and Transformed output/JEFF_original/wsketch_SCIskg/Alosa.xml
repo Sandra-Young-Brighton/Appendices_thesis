@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Alosa</keyword>
+  <gramrel name="nouns modified by X" hits="53" score="48.620">
+    <coll hits="17" score="12.950">sapidissima</coll>
+    <coll hits="13" score="12.650">pseudoharengus</coll>
+    <coll hits="13" score="12.650">Alosa</coll>
+    <coll hits="4" score="11.140">fallax</coll>
+    <coll hits="2" score="10.190">psuedoharengus</coll>
+    <coll hits="1" score="9.240">Sapidissima</coll>
+    <coll hits="1" score="9.240">chrysochloris</coll>
+    <coll hits="1" score="9.240">sapisissima</coll>
+    <coll hits="1" score="4.580">specie</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="0.920">
+    <coll hits="1" score="10.680">species</coll>
+  </gramrel>
+  <gramrel name="X is a ..." hits="1" score="0.920">
+    <coll hits="1" score="9.350">specie</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="13" score="11.930">modifiers of &quot;%w&quot;</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="1.830">
+    <coll hits="1" score="11.670">clupeid</coll>
+    <coll hits="1" score="11.090">lift</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.920">
+    <coll hits="1" score="9.410">species</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Trisopterus</keyword>
+  <gramrel name="nouns modified by X" hits="10" score="62.500">
+    <coll hits="3" score="12.880" query="w1962448448">esmarkii</coll>
+    <coll hits="2" score="12.410" query="w1962448450">luscus</coll>
+    <coll hits="4" score="11.950" query="w1962448449">minutus</coll>
+    <coll hits="1" score="11.540" query="w1962448451">esmarki</coll>
+  </gramrel>
+</wordsketch>
+</export>

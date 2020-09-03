@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">pratensis</keyword>
+  <gramrel name="modifiers of X" hits="1" score="2.270">
+    <coll hits="1" score="13.990" query="w2007464640">Succisa</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="4.550">
+    <coll hits="1" score="7.610" query="w2007473600">indicator</coll>
+    <coll hits="1" score="5.730" query="w2007473601">plant</coll>
+  </gramrel>
+</wordsketch>
+</export>

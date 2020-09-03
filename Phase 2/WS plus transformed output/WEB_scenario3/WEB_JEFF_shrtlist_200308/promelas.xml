@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">promelas</keyword>
+  <gramrel name="modifiers of X" hits="24" score="54.550">
+    <coll hits="23" score="13.610">Pimephales</coll>
+    <coll hits="1" score="10.300">promelas</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="4.550">
+    <coll hits="1" score="11.000">cataractae</coll>
+    <coll hits="1" score="10.300">promelas</coll>
+  </gramrel>
+</wordsketch>
+</export>

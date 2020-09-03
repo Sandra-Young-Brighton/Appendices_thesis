@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">gairdneri</keyword>
+  <gramrel name="modifiers of X" hits="55" score="82.090">
+    <coll hits="53" score="10.180">Salmo</coll>
+    <coll hits="2" score="10.160">Sdmo</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="2.990">
+    <coll hits="1" score="12.190">Lucius</coll>
+    <coll hits="1" score="12.190">mykiss</coll>
+  </gramrel>
+</wordsketch>
+</export>

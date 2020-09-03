@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">elegans</keyword>
+  <gramrel name="modifiers of X" hits="3" score="23.080">
+    <coll hits="2" score="13.670" query="w1637996672">Caenorhabditis</coll>
+    <coll hits="1" score="13.000" query="w1637996673">Sterna</coll>
+  </gramrel>
+</wordsketch>
+</export>

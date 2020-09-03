@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">aegypti</keyword>
+  <gramrel name="modifiers of X" hits="5" score="62.500">
+    <coll hits="5" score="13.510" query="w2135860288">Aedes</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="25.000">
+    <coll hits="1" score="10.680" query="w2135870016">Vietnam</coll>
+    <coll hits="1" score="10.190" query="w2135870017">village</coll>
+  </gramrel>
+</wordsketch>
+</export>

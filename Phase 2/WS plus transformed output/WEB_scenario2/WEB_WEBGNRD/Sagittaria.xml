@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sagittaria</keyword>
+  <gramrel name="modifiers of X" hits="2" score="10.530">
+    <coll hits="2" score="10.160" query="w2006569728">Potamogeton</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="8" score="42.110">
+    <coll hits="4" score="13.410" query="w2006579394">sagittifolia</coll>
+    <coll hits="1" score="11.830" query="w2006579396">Paspalum</coll>
+    <coll hits="1" score="11.670" query="w2006579395">Glyceria</coll>
+    <coll hits="1" score="11.090" query="w2006579393">latifolia</coll>
+    <coll hits="1" score="10.750" query="w2006579392">Myriophyllum</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="10.530">
+    <coll hits="1" score="13.000" query="w2006552129">Glyceria</coll>
+    <coll hits="1" score="10.750" query="w2006552128">Myriophyllum</coll>
+  </gramrel>
+</wordsketch>
+</export>

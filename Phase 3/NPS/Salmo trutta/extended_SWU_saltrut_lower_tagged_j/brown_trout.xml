@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">brown_trout</keyword>
+  <gramrel name="modifiers of X" hits="38" score="2.070">
+    <coll hits="7" score="11.500">brook_trout</coll>
+    <coll hits="5" score="11.280">salmo_trutta</coll>
+    <coll hits="3" score="11.030">sea_trout</coll>
+    <coll hits="2" score="10.600">salvelinus_fontinalis</coll>
+    <coll hits="14" score="10.540">trout</coll>
+    <coll hits="2" score="10.320">salmo_salar</coll>
+    <coll hits="3" score="9.580">brown_trout</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="90" score="4.910">
+    <coll hits="71" score="12.840">salmo_trutta</coll>
+    <coll hits="5" score="10.570">lake_trout</coll>
+    <coll hits="3" score="9.870">brook_trout</coll>
+    <coll hits="5" score="9.800">trout</coll>
+    <coll hits="3" score="9.580">brown_trout</coll>
+    <coll hits="2" score="9.480">brownie</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="99" score="5.400">
+    <coll hits="70" score="13.240">salmo_trutta</coll>
+    <coll hits="11" score="10.670">trout</coll>
+    <coll hits="7" score="10.630">brook_trout</coll>
+    <coll hits="3" score="9.760">lake_trout</coll>
+    <coll hits="2" score="9.340">brownie</coll>
+    <coll hits="2" score="9.270">sea_trout</coll>
+  </gramrel>
+  <gramrel name="X is a ..." hits="4" score="0.220">
+    <coll hits="2" score="13.410">sewin</coll>
+    <coll hits="2" score="13.410">salmo_trutta</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="197" score="10.740">
+    <coll hits="4" score="9.230">oulankajoki</coll>
+    <coll hits="5" score="9.020">fork</coll>
+    <coll hits="3" score="8.770">sca</coll>
+    <coll hits="28" score="8.460">stream</coll>
+    <coll hits="2" score="8.360">värmland</coll>
+    <coll hits="2" score="8.340">derg</coll>
+    <coll hits="2" score="8.330">sphaerospora</coll>
+    <coll hits="2" score="8.230">derwent</coll>
+    <coll hits="2" score="8.190">American</coll>
+    <coll hits="2" score="8.160">coexistence</coll>
+    <coll hits="3" score="8.060">norway</coll>
+    <coll hits="4" score="7.930">u</coll>
+    <coll hits="2" score="7.860">watercourse</coll>
+    <coll hits="5" score="7.620">zone</coll>
+    <coll hits="33" score="7.610">river</coll>
+    <coll hits="3" score="7.420">channel</coll>
+    <coll hits="2" score="7.360">category</coll>
+    <coll hits="2" score="7.360">nature</coll>
+    <coll hits="3" score="7.090">relation</coll>
+    <coll hits="2" score="6.570">section</coll>
+    <coll hits="3" score="6.570">summer</coll>
+    <coll hits="2" score="6.550">europe</coll>
+    <coll hits="2" score="6.080">effect</coll>
+    <coll hits="2" score="6.070">part</coll>
+    <coll hits="2" score="6.040">reservoir</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="12" score="0.650">
+    <coll hits="8" score="12.090">trout</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="12" score="0.650">
+    <coll hits="2" score="12.090">bracken</coll>
+    <coll hits="2" score="12.090">Quinn</coll>
+    <coll hits="2" score="12.090">invertebrate</coll>
+  </gramrel>
+  <gramrel name="... is a X" hits="2" score="0.110">
+    <coll hits="2" score="13.190">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

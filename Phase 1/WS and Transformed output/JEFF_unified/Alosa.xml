@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Alosa</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="10.340">
+    <coll hits="1" score="13.000">Sapidissima</coll>
+    <coll hits="1" score="13.000">Alosa</coll>
+    <coll hits="1" score="4.430">specie</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="3.450">modifiers of &quot;%w&quot;</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="3.450">
+    <coll hits="1" score="11.830">clupeid</coll>
+  </gramrel>
+</wordsketch>
+</export>

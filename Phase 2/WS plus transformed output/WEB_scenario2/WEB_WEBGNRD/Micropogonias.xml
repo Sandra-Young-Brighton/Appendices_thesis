@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Micropogonias</keyword>
+  <gramrel name="nouns modified by X" hits="11" score="78.570">
+    <coll hits="11" score="13.990" query="w1832718784">undulatus</coll>
+  </gramrel>
+</wordsketch>
+</export>

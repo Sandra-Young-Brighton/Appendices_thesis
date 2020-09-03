@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Ptychocheilus</keyword>
+  <gramrel name="nouns modified by X" hits="9" score="69.230">
+    <coll hits="3" score="12.880">grandis</coll>
+    <coll hits="1" score="11.670">oregonensis</coll>
+    <coll hits="5" score="9.750">Lucius</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="15.380">
+    <coll hits="2" score="7.500">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

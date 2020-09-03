@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Tilapia</keyword>
+  <gramrel name="nouns modified by X" hits="14" score="60.870">
+    <coll hits="5" score="13.070">guineensis</coll>
+    <coll hits="3" score="12.410">nilotica</coll>
+    <coll hits="2" score="11.910">rendalli</coll>
+    <coll hits="2" score="11.830">tholloni</coll>
+    <coll hits="1" score="11.090">mossambica</coll>
+    <coll hits="1" score="11.090">mariae</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="4.350">
+    <coll hits="1" score="7.920">Victoria</coll>
+  </gramrel>
+</wordsketch>
+</export>

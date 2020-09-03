@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">green</keyword>
+  <gramrel name="X and/or ..." hits="37" score="9.740">
+    <coll hits="3" score="10.940" query="w1148861130">blue-green</coll>
+    <coll hits="3" score="10.410" query="w1148861124">blue</coll>
+    <coll hits="2" score="10.110" query="w1148861134">pink</coll>
+    <coll hits="6" score="10.020" query="w1148861120">red</coll>
+    <coll hits="2" score="9.950" query="w1148861127">electrical</coll>
+    <coll hits="1" score="9.750" query="w1148861141">earthy</coll>
+    <coll hits="1" score="9.750" query="w1148861139">grayish</coll>
+    <coll hits="1" score="9.750" query="w1148861138">gooey</coll>
+    <coll hits="1" score="9.750" query="w1148861132">unbroken</coll>
+    <coll hits="1" score="9.670" query="w1148861140">poisonous</coll>
+    <coll hits="1" score="9.670" query="w1148861135">epoxy</coll>
+    <coll hits="1" score="9.640" query="w1148861131">iridescent</coll>
+    <coll hits="1" score="9.500" query="w1148861136">dotted</coll>
+    <coll hits="1" score="9.140" query="w1148861123">gray</coll>
+    <coll hits="1" score="8.930" query="w1148861137">orange</coll>
+    <coll hits="1" score="8.690" query="w1148861133">plastic</coll>
+    <coll hits="4" score="8.660" query="w1148861125">yellow</coll>
+    <coll hits="1" score="8.400" query="w1148861129">caudal</coll>
+    <coll hits="1" score="7.970" query="w1148861122">significant</coll>
+    <coll hits="1" score="7.720" query="w1148861128">light</coll>
+    <coll hits="1" score="7.400" query="w1148861121">white</coll>
+    <coll hits="2" score="6.810" query="w1148861126">brown</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="8" score="2.110">
+    <coll hits="1" score="11.090" query="w1149027911">olive</coll>
+    <coll hits="1" score="10.680" query="w1149027910">blotch</coll>
+    <coll hits="1" score="8.280" query="w1149027908">color</coll>
+    <coll hits="1" score="8.030" query="w1149027905">spot</coll>
+    <coll hits="1" score="7.890" query="w1149027909">colour</coll>
+    <coll hits="1" score="7.400" query="w1149027906">A</coll>
+    <coll hits="1" score="4.690" query="w1149027907">growth</coll>
+    <coll hits="1" score="3.700" query="w1149027904">year</coll>
+  </gramrel>
+</wordsketch>
+</export>

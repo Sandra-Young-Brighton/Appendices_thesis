@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">gibelio</keyword>
+  <gramrel name="modifiers of X" hits="7" score="43.750">
+    <coll hits="7" score="11.340" query="w2015940096">Carassius</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="6.250">
+    <coll hits="1" score="11.540" query="w2015955712">parva</coll>
+  </gramrel>
+</wordsketch>
+</export>

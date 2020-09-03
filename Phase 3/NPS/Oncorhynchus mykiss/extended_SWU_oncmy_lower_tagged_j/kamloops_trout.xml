@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_oncmy_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">kamloops_trout</keyword>
+  <gramrel name="modifiers of X" hits="4" score="25.000">
+    <coll hits="2" score="12.540">steelhead_trout</coll>
+    <coll hits="2" score="10.160">steelhead</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="7" score="43.750">
+    <coll hits="7" score="10.780">trout</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="7" score="43.750">
+    <coll hits="7" score="10.250">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

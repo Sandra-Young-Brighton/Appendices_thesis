@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">papillae</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="18" score="22.220">
+    <coll hits="1" score="10.350" query="w2002270475">cheek</coll>
+    <coll hits="1" score="10.300" query="w2002270474">chin</coll>
+    <coll hits="1" score="9.750" query="w2002270473">duck</coll>
+    <coll hits="3" score="8.600" query="w2002270464">specimen</coll>
+    <coll hits="1" score="8.230" query="w2002270466">row</coll>
+    <coll hits="1" score="7.970" query="w2002270472">top</coll>
+    <coll hits="4" score="7.850" query="w2002270470">male</coll>
+    <coll hits="1" score="7.240" query="w2002270469">pair</coll>
+    <coll hits="1" score="7.080" query="w2002270465">head</coll>
+    <coll hits="1" score="6.570" query="w2002270467">fin</coll>
+    <coll hits="1" score="6.150" query="w2002270468">end</coll>
+    <coll hits="2" score="6.110" query="w2002270471">lamprey</coll>
+  </gramrel>
+</wordsketch>
+</export>

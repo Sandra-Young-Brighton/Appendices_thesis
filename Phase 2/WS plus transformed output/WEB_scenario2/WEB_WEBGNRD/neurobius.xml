@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">neurobius</keyword>
+  <gramrel name="modifiers of X" hits="4" score="66.670">
+    <coll hits="1" score="12.680" query="w1994389697">cerebralis</coll>
+    <coll hits="3" score="12.330" query="w1994389696">Myxobolus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="16.670">
+    <coll hits="1" score="3.100" query="w1994406656">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

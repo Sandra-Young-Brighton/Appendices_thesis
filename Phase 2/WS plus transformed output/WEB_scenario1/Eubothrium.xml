@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Eubothrium</keyword>
+  <gramrel name="nouns modified by X" hits="20" score="19.420">
+    <coll hits="20" score="13.990">salvelini</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="9" score="8.740">
+    <coll hits="1" score="11.670">Byrne</coll>
+    <coll hits="1" score="8.790">T</coll>
+    <coll hits="1" score="6.770">infection</coll>
+    <coll hits="2" score="6.010">salmonid</coll>
+    <coll hits="2" score="4.100">trout</coll>
+    <coll hits="2" score="2.750">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

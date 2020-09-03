@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">nerka</keyword>
+  <gramrel name="modifiers of X" hits="190" score="75.100">
+    <coll hits="182" score="11.890" query="w376217152">Oncorhynchus</coll>
+    <coll hits="4" score="9.200" query="w376217155">Onchorhynchus</coll>
+    <coll hits="1" score="7.410" query="w376217157">kiyi</coll>
+    <coll hits="1" score="7.390" query="w376217156">Oncorynchus</coll>
+    <coll hits="1" score="7.360" query="w376217154">Oncorhyncus</coll>
+    <coll hits="1" score="5.460" query="w376217153">Coregonus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="0.400">
+    <coll hits="1" score="9.240" query="w376271552">gorbuscha</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="1.190">
+    <coll hits="2" score="13.670" query="w376192129">californiensis</coll>
+    <coll hits="1" score="13.000" query="w376192128">gorbuscha</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="1.580">
+    <coll hits="3" score="9.800" query="w376281408">resident</coll>
+    <coll hits="1" score="6.010" query="w376281409">relation</coll>
+  </gramrel>
+</wordsketch>
+</export>

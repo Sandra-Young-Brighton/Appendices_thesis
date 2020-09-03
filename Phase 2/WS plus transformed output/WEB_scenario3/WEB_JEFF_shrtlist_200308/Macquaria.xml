@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Macquaria</keyword>
+  <gramrel name="nouns modified by X" hits="38" score="88.370">
+    <coll hits="31" score="13.840">australasica</coll>
+    <coll hits="6" score="12.090">ambigua</coll>
+    <coll hits="1" score="9.710">novemaculeata</coll>
+  </gramrel>
+</wordsketch>
+</export>

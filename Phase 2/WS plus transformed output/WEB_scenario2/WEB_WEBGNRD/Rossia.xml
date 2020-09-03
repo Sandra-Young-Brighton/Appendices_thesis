@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Rossia</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="37.500">
+    <coll hits="2" score="13.670" query="w2109148800">Pacifica</coll>
+    <coll hits="1" score="13.000" query="w2109148801">Gonatidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

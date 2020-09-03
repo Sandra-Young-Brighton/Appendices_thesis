@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Bolbophorus</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="18.180">
+    <coll hits="3" score="13.580" query="w2068623361">levantinus</coll>
+    <coll hits="1" score="9.750" query="w2068623360">confusus</coll>
+  </gramrel>
+</wordsketch>
+</export>

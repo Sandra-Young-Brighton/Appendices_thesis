@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lagarosiphon</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="6.250">
+    <coll hits="2" score="11.090">Dunstan</coll>
+    <coll hits="1" score="7.700">case</coll>
+    <coll hits="1" score="7.430">macrophyte</coll>
+    <coll hits="1" score="6.090">ecosystem</coll>
+  </gramrel>
+</wordsketch>
+</export>

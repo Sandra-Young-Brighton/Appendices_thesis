@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">carpio</keyword>
+  <gramrel name="modifiers of X" hits="6" score="15.380">
+    <coll hits="6" score="10.540" query="w1915438976">Cyprinus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="2.560">
+    <coll hits="1" score="13.410" query="w1915426624">commersoni</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="10.260">
+    <coll hits="1" score="10.600" query="w1915450114">Israel</coll>
+    <coll hits="1" score="8.820" query="w1915450115">marsh</coll>
+    <coll hits="1" score="7.180" query="w1915450113">carp</coll>
+    <coll hits="1" score="3.780" query="w1915450112">study</coll>
+  </gramrel>
+</wordsketch>
+</export>

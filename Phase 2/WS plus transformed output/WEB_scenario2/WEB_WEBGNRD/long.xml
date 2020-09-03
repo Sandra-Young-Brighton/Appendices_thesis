@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">long</keyword>
+  <gramrel name="X and/or ..." hits="186" score="14.590">
+    <coll hits="21" score="11.530" query="w11205242">pale</coll>
+    <coll hits="19" score="11.530" query="w11205244">slender</coll>
+    <coll hits="7" score="10.150" query="w11205236">thin</coll>
+    <coll hits="5" score="9.640" query="w11205214">narrow</coll>
+    <coll hits="8" score="9.470" query="w11205193">shallow</coll>
+    <coll hits="4" score="9.400" query="w11698829">sloping</coll>
+    <coll hits="4" score="9.380" query="w11698827">cylindrical</coll>
+    <coll hits="3" score="9.010" query="w11698840">convoluted</coll>
+    <coll hits="3" score="8.900" query="w11205233">transparent</coll>
+    <coll hits="3" score="8.880" query="w11205200">heavy</coll>
+    <coll hits="3" score="8.870" query="w11205227">short-term</coll>
+    <coll hits="3" score="8.790" query="w11205185">unique</coll>
+    <coll hits="3" score="8.610" query="w11205188">anal</coll>
+    <coll hits="2" score="8.440" query="w11698844">strap-like</coll>
+    <coll hits="2" score="8.440" query="w11205229">lasting</coll>
+    <coll hits="2" score="8.420" query="w11698839">emarginate</coll>
+    <coll hits="2" score="8.420" query="w11205246">hooked</coll>
+    <coll hits="2" score="8.380" query="w11698818">muscular</coll>
+    <coll hits="2" score="8.380" query="w11205245">streamlined</coll>
+    <coll hits="2" score="8.310" query="w11205199">single</coll>
+    <coll hits="2" score="8.290" query="w11205202">slow</coll>
+    <coll hits="3" score="8.250" query="w11205191">dark</coll>
+    <coll hits="2" score="8.170" query="w11205221">historical</coll>
+    <coll hits="3" score="8.050" query="w11205187">dorsal</coll>
+    <coll hits="2" score="7.950" query="w11205197">maximum</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="92" score="7.220">
+    <coll hits="17" score="10.020" query="w11921740">mm.</coll>
+    <coll hits="2" score="9.320" query="w11921771">alkalinity</coll>
+    <coll hits="3" score="8.520" query="w11921751">h</coll>
+    <coll hits="1" score="8.440" query="w11921778">Schleswig</coll>
+    <coll hits="1" score="8.410" query="w11921779">wait</coll>
+    <coll hits="1" score="8.410" query="w11921777">mantle</coll>
+    <coll hits="1" score="8.400" query="w11921776">centrifuge</coll>
+    <coll hits="3" score="8.380" query="w11921767">station</coll>
+    <coll hits="4" score="8.380" query="w11921743">cm</coll>
+    <coll hits="1" score="8.350" query="w11921781">shank</coll>
+    <coll hits="1" score="8.350" query="w11921780">Mosbeux</coll>
+    <coll hits="1" score="8.190" query="w11921770">bucket</coll>
+    <coll hits="1" score="8.020" query="w11921775">snout</coll>
+    <coll hits="2" score="7.980" query="w11921759">maturity</coll>
+    <coll hits="1" score="7.970" query="w11921773">height</coll>
+    <coll hits="2" score="7.780" query="w11921745">km</coll>
+    <coll hits="1" score="7.640" query="w11921774">jaw</coll>
+    <coll hits="1" score="7.400" query="w11921766">inch</coll>
+    <coll hits="3" score="7.260" query="w11921758">male</coll>
+    <coll hits="1" score="7.160" query="w11921763">minute</coll>
+    <coll hits="1" score="7.140" query="w11921754">width</coll>
+    <coll hits="2" score="6.930" query="w11921742">end</coll>
+    <coll hits="1" score="6.820" query="w11921757">future</coll>
+    <coll hits="1" score="6.810" query="w11921765">stocking</coll>
+    <coll hits="1" score="6.680" query="w11921772">trial</coll>
+  </gramrel>
+</wordsketch>
+</export>

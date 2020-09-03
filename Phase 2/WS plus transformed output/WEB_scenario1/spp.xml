@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">spp</keyword>
+  <gramrel name="modifiers of X" hits="25" score="55.560">
+    <coll hits="4" score="10.890">Daphnia</coll>
+    <coll hits="1" score="10.300">Chydorus</coll>
+    <coll hits="1" score="10.300">Sebastes</coll>
+    <coll hits="1" score="10.300">spp</coll>
+    <coll hits="1" score="9.830">Chironomus</coll>
+    <coll hits="1" score="9.610">Bosmina</coll>
+    <coll hits="1" score="9.060">Pomoxis</coll>
+    <coll hits="1" score="8.400">Catostomus</coll>
+    <coll hits="1" score="8.330">Micropterus</coll>
+    <coll hits="4" score="7.970">Coregonus</coll>
+    <coll hits="6" score="7.460">Salvelinus</coll>
+    <coll hits="1" score="7.020">Lepomis</coll>
+    <coll hits="1" score="6.600">Cottus</coll>
+    <coll hits="1" score="4.550">Oncorhynchus</coll>
+  </gramrel>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="2.220">&quot;%w&quot; and/or ...</coll>
+    <coll hits="1" score="2.220">nouns modified by &quot;%w&quot;</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="4.440">
+    <coll hits="1" score="10.300">V</coll>
+    <coll hits="1" score="3.080">water</coll>
+  </gramrel>
+</wordsketch>
+</export>

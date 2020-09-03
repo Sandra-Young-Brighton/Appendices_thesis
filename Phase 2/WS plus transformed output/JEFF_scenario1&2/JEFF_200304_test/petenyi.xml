@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">petenyi</keyword>
+  <gramrel name="modifiers of X" hits="5" score="62.500">
+    <coll hits="5" score="10.720">Barbus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="12.500">
+    <coll hits="1" score="9.190">lota</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Mysidacea</keyword>
+  <gramrel name="modifiers of X" hits="1" score="12.500">
+    <coll hits="1" score="9.020">zooplankton</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="1" score="12.500">
+    <coll hits="1" score="13.990">Hemimysis_anomala</coll>
+  </gramrel>
+</wordsketch>
+</export>

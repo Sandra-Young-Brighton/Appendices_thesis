@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Aspius</keyword>
+  <gramrel name="nouns modified by X" hits="17" score="70.830">
+    <coll hits="15" score="13.620" query="w2025718592">aspius</coll>
+    <coll hits="2" score="11.750" query="w2025718593">vorax</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">latifolia</keyword>
+  <gramrel name="modifiers of X" hits="7" score="53.850">
+    <coll hits="5" score="13.510" query="w1954319616">Typha</coll>
+    <coll hits="1" score="11.830" query="w1954319617">latifolia</coll>
+    <coll hits="1" score="11.090" query="w1954319618">Sagittaria</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="15.380">
+    <coll hits="1" score="11.830" query="w1954344321">latifolia</coll>
+    <coll hits="1" score="10.410" query="w1954344320">lacustris</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="7.690">
+    <coll hits="1" score="12.680" query="w1954309312">lacustris</coll>
+  </gramrel>
+</wordsketch>
+</export>

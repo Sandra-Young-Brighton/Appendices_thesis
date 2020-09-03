@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Arripis</keyword>
+  <gramrel name="nouns modified by X" hits="12" score="85.710">
+    <coll hits="2" score="11.350" query="w2133640833">Trutta</coll>
+    <coll hits="10" score="8.730" query="w2133640832">trutta</coll>
+  </gramrel>
+</wordsketch>
+</export>

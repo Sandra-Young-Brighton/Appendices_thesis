@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lutra</keyword>
+  <gramrel name="nouns modified by X" hits="12" score="57.140">
+    <coll hits="12" score="13.990">lutra</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="5" score="23.810">
+    <coll hits="1" score="12.190">garzetta</coll>
+    <coll hits="1" score="12.190">atthis</coll>
+    <coll hits="1" score="12.190">Alcedo</coll>
+    <coll hits="1" score="12.190">Egretta</coll>
+    <coll hits="1" score="12.190">Ardea</coll>
+  </gramrel>
+</wordsketch>
+</export>

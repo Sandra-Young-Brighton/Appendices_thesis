@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hymenoptera</keyword>
+  <gramrel name="modifiers of X" hits="10" score="50.000">
+    <coll hits="1" score="11.540">Heteroptera</coll>
+    <coll hits="1" score="11.540">Corixidae</coll>
+    <coll hits="1" score="11.410">Cicadellidae</coll>
+    <coll hits="1" score="11.410">Culicidae</coll>
+    <coll hits="1" score="11.300">Simuliidae</coll>
+    <coll hits="1" score="11.300">Heptageniidae</coll>
+    <coll hits="1" score="10.910">Hirudinea</coll>
+    <coll hits="1" score="10.910">Nematoda</coll>
+    <coll hits="1" score="10.470">Plecoptera</coll>
+    <coll hits="1" score="10.350">Chironomidae</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.000">
+    <coll hits="1" score="10.350">Diptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.000">
+    <coll hits="1" score="10.540">Diptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

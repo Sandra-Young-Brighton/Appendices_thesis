@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Insecta</keyword>
+  <gramrel name="modifiers of X" hits="1" score="0.230">
+    <coll hits="1" score="13.410" query="w2089129344">Arthropoda</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="7" score="1.630">
+    <coll hits="1" score="11.990" query="w2089140224">Mantodea</coll>
+    <coll hits="6" score="9.230" query="w2089140225">indet</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="5" score="1.170">
+    <coll hits="2" score="13.190" query="w2089092099">Vermes</coll>
+    <coll hits="1" score="12.410" query="w2089092098">Mantodea</coll>
+    <coll hits="1" score="12.410" query="w2089092097">Blattodea</coll>
+    <coll hits="1" score="11.670" query="w2089092096">Mollusca</coll>
+  </gramrel>
+</wordsketch>
+</export>

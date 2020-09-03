@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_saltrut_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="-j" freq="0">sea_trout</keyword>
+  <gramrel name="nouns modified by X" hits="4" score="1.860">
+    <coll hits="1" score="11.000">brown_trout</coll>
+    <coll hits="3" score="8.720">salmo_trutta</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="16" score="7.440">
+    <coll hits="3" score="11.370">effective</coll>
+    <coll hits="1" score="10.910">compatible</coll>
+    <coll hits="1" score="9.830">molecular</coll>
+    <coll hits="2" score="9.640">trout</coll>
+    <coll hits="2" score="8.600">other</coll>
+    <coll hits="1" score="8.200">resident</coll>
+    <coll hits="1" score="7.860">individual</coll>
+    <coll hits="1" score="7.720">upstream</coll>
+    <coll hits="1" score="6.580">juvenile</coll>
+    <coll hits="1" score="6.480">s.</coll>
+    <coll hits="2" score="6.200">Atlantic</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="28" score="13.020">
+    <coll hits="2" score="10.510">loch</coll>
+    <coll hits="1" score="10.090">sikån</coll>
+    <coll hits="1" score="10.090">esk</coll>
+    <coll hits="2" score="9.300">reference</coll>
+    <coll hits="1" score="9.020">S</coll>
+    <coll hits="1" score="8.330">peninsula</coll>
+    <coll hits="1" score="8.030">norway</coll>
+    <coll hits="1" score="8.000">england</coll>
+    <coll hits="1" score="7.890">gulf</coll>
+    <coll hits="1" score="7.610">coast</coll>
+    <coll hits="1" score="7.430">fishway</coll>
+    <coll hits="4" score="7.230">migration</coll>
+    <coll hits="1" score="7.140">origin</coll>
+    <coll hits="1" score="6.890">r</coll>
+    <coll hits="1" score="6.660">juvenile</coll>
+    <coll hits="1" score="6.010">relation</coll>
+    <coll hits="1" score="5.920">result</coll>
+    <coll hits="1" score="4.600">day</coll>
+    <coll hits="1" score="4.480">individual</coll>
+    <coll hits="2" score="4.190">stream</coll>
+    <coll hits="1" score="3.890">area</coll>
+    <coll hits="1" score="2.650">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

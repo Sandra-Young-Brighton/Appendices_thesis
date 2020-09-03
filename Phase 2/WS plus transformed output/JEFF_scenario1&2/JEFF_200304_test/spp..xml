@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">spp.</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="26" score="4.400">
+    <coll hits="2" score="11.040">jam</coll>
+    <coll hits="1" score="10.240">4-year-olds</coll>
+    <coll hits="1" score="9.640">Biwa</coll>
+    <coll hits="1" score="9.410">Age</coll>
+    <coll hits="1" score="8.600">migra</coll>
+    <coll hits="1" score="8.590">nursery</coll>
+    <coll hits="1" score="8.280">copepod</coll>
+    <coll hits="3" score="8.030">char</coll>
+    <coll hits="1" score="8.000">Zealand</coll>
+    <coll hits="1" score="7.000">R</coll>
+    <coll hits="1" score="6.690">field</coll>
+    <coll hits="2" score="6.030">sample</coll>
+    <coll hits="1" score="5.840">class</coll>
+    <coll hits="1" score="5.300">pool</coll>
+    <coll hits="1" score="5.230">Lake</coll>
+    <coll hits="1" score="5.060">reach</coll>
+    <coll hits="1" score="4.940">level</coll>
+    <coll hits="1" score="4.610">day</coll>
+    <coll hits="2" score="4.580">river</coll>
+    <coll hits="1" score="4.180">analysis</coll>
+    <coll hits="1" score="3.480">lake</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="1" score="0.170">
+    <coll hits="1" score="10.750">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

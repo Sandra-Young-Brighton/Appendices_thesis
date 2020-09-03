@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Elisa</keyword>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="2" score="6.250" query="w1937765056">&quot;%w&quot; and/or ...</coll>
+    <coll hits="1" score="3.130" query="w1937775680">modifiers of &quot;%w&quot;</coll>
+    <coll hits="1" score="3.130" query="w1937785984">nouns modified by &quot;%w&quot;</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="6.250">
+    <coll hits="1" score="7.940" query="w1937796289">detection</coll>
+    <coll hits="1" score="4.380" query="w1937796288">system</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="3.130">
+    <coll hits="1" score="13.990" query="w1937819328">technique</coll>
+  </gramrel>
+</wordsketch>
+</export>

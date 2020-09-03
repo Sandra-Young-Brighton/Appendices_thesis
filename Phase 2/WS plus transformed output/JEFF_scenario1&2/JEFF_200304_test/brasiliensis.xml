@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">brasiliensis</keyword>
+  <gramrel name="modifiers of X" hits="3" score="27.270">
+    <coll hits="1" score="13.000">Geophagus</coll>
+    <coll hits="1" score="13.000">Pteroneura</coll>
+    <coll hits="1" score="13.000">Salminus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="9.090">
+    <coll hits="1" score="10.910">orbignyanus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="9.090">
+    <coll hits="1" score="13.990">orbignyanus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">nebulosus</keyword>
+  <gramrel name="modifiers of X" hits="5" score="35.710">
+    <coll hits="5" score="13.620">Ameiurus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="7.140">
+    <coll hits="1" score="9.950">auratus</coll>
+  </gramrel>
+</wordsketch>
+</export>

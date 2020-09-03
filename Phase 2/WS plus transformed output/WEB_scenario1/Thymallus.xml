@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Thymallus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="0.870">
+    <coll hits="1" score="7.560">Thymallus</coll>
+    <coll hits="1" score="6.040">Coregonus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="171" score="74.670">
+    <coll hits="95" score="13.480">thymallus</coll>
+    <coll hits="72" score="13.240">arcticus</coll>
+    <coll hits="1" score="7.560">Thymallus</coll>
+    <coll hits="1" score="7.530">Gadidae</coll>
+    <coll hits="1" score="7.320">Salmonidae</coll>
+    <coll hits="1" score="6.820">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="1.310">
+    <coll hits="2" score="12.830">thymallus</coll>
+    <coll hits="1" score="12.190">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="0.440">
+    <coll hits="1" score="7.500">autumn</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.440">
+    <coll hits="1" score="10.410">Salmonidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

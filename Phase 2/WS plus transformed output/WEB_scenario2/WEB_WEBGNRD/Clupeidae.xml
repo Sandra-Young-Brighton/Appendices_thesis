@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Clupeidae</keyword>
+  <gramrel name="modifiers of X" hits="2" score="10.000">
+    <coll hits="1" score="13.410" query="w1438910145">tridentatus</coll>
+    <coll hits="1" score="11.540" query="w1438910144">Entosphenus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.000">
+    <coll hits="1" score="9.020" query="w1438928640">pseudoharengus</coll>
+  </gramrel>
+</wordsketch>
+</export>

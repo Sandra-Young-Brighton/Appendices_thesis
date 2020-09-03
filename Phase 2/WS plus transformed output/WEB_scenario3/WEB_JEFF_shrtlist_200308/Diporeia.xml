@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Diporeia</keyword>
+  <gramrel name="usage patterns" hits="0" score="0.000">
+    <coll hits="1" score="1.250">&quot;%w&quot; is the generic of...</coll>
+    <coll hits="1" score="1.250">&quot;%w&quot; is a type of...</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="7.500">
+    <coll hits="2" score="12.190">Mysis</coll>
+    <coll hits="3" score="7.420">Ontario</coll>
+    <coll hits="1" score="6.700">item</coll>
+  </gramrel>
+</wordsketch>
+</export>

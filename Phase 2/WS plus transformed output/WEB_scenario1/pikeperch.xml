@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">pikeperch</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="1.180">
+    <coll hits="1" score="12.680">Dümmer</coll>
+    <coll hits="1" score="7.730">simulation</coll>
+    <coll hits="1" score="7.260">Finland</coll>
+  </gramrel>
+</wordsketch>
+</export>

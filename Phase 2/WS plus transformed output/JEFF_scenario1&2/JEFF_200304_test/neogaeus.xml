@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">neogaeus</keyword>
+  <gramrel name="modifiers of X" hits="7" score="77.780">
+    <coll hits="6" score="11.520">Phoxinus</coll>
+    <coll hits="1" score="11.190">Chrosomus</coll>
+  </gramrel>
+</wordsketch>
+</export>

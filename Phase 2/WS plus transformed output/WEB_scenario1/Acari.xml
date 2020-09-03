@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Acari</keyword>
+  <gramrel name="modifiers of X" hits="3" score="7.320">
+    <coll hits="1" score="12.680">Annelida</coll>
+    <coll hits="1" score="12.190">Bivalvia</coll>
+    <coll hits="1" score="11.090">Crustacea</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="2.440">
+    <coll hits="1" score="11.990">Bivalvia</coll>
+  </gramrel>
+</wordsketch>
+</export>

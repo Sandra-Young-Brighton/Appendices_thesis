@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">cladocerans</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="30" score="10.950">
+    <coll hits="2" score="10.950">Maggiore</coll>
+    <coll hits="1" score="9.950">Chydoridae</coll>
+    <coll hits="1" score="9.750">Tahoe</coll>
+    <coll hits="1" score="9.060">Vätersee</coll>
+    <coll hits="3" score="9.040">copepod</coll>
+    <coll hits="1" score="9.000">provision</coll>
+    <coll hits="1" score="8.930">cyanobacterium</coll>
+    <coll hits="1" score="8.870">rudd</coll>
+    <coll hits="1" score="8.200">bacterium</coll>
+    <coll hits="3" score="7.860">roach</coll>
+    <coll hits="1" score="7.050">phytoplankton</coll>
+    <coll hits="2" score="6.930">relation</coll>
+    <coll hits="2" score="6.660">zone</coll>
+    <coll hits="1" score="6.660">bed</coll>
+    <coll hits="1" score="6.480">assemblage</coll>
+    <coll hits="1" score="5.720">C</coll>
+    <coll hits="1" score="5.210">sample</coll>
+    <coll hits="1" score="4.880">group</coll>
+    <coll hits="1" score="4.850">community</coll>
+    <coll hits="1" score="4.790">Lake</coll>
+    <coll hits="1" score="4.350">perch</coll>
+    <coll hits="1" score="4.320">diet</coll>
+    <coll hits="1" score="2.880">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

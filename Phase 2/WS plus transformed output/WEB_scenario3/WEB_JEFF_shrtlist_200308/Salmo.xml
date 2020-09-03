@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Salmo</keyword>
+  <gramrel name="modifiers of X" hits="10" score="0.350">
+    <coll hits="3" score="6.160">Oncorhynchus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1687" score="59.190">
+    <coll hits="750" score="13.290">salar</coll>
+    <coll hits="728" score="13.250">trutta</coll>
+    <coll hits="162" score="11.480">gairdneri</coll>
+    <coll hits="18" score="8.350">Linnaeus</coll>
+    <coll hits="7" score="7.050">clarki</coll>
+    <coll hits="5" score="6.590">Salvelinus</coll>
+    <coll hits="4" score="6.270">gairdnerii</coll>
+    <coll hits="3" score="5.850">Linneaus</coll>
+    <coll hits="3" score="5.850">marmoratus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="14" score="0.490">
+    <coll hits="11" score="13.700">Salvelinus</coll>
+    <coll hits="3" score="12.410">Oncorhynchus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="10" score="0.350">
+    <coll hits="5" score="12.270">Salmonidae</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="7" score="0.250">
+    <coll hits="6" score="11.350">[number]</coll>
+  </gramrel>
+</wordsketch>
+</export>

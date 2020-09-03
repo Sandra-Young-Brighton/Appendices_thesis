@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Potamogeton</keyword>
+  <gramrel name="modifiers of X" hits="5" score="3.110">
+    <coll hits="1" score="11.670" query="w1705509315">Nymphoides</coll>
+    <coll hits="1" score="11.300" query="w1705509314">Najas</coll>
+    <coll hits="2" score="10.910" query="w1705509312">Elodea</coll>
+    <coll hits="1" score="10.540" query="w1705509313">Chara</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="55" score="34.160">
+    <coll hits="19" score="13.010" query="w1705542018">pectinatus</coll>
+    <coll hits="4" score="11.120" query="w1705542033">perfoliatus</coll>
+    <coll hits="4" score="11.120" query="w1705542030">richardsonii</coll>
+    <coll hits="3" score="10.700" query="w1705542023">crispus</coll>
+    <coll hits="2" score="10.160" query="w1705542028">Sagittaria</coll>
+    <coll hits="2" score="10.160" query="w1705542027">lucens</coll>
+    <coll hits="2" score="10.160" query="w1705542022">maackianus</coll>
+    <coll hits="2" score="10.160" query="w1705542019">pusillus</coll>
+    <coll hits="1" score="9.190" query="w1705542040">diversifolius</coll>
+    <coll hits="1" score="9.190" query="w1705542039">Batrachospermum</coll>
+    <coll hits="1" score="9.190" query="w1705542038">berchtoldii</coll>
+    <coll hits="1" score="9.190" query="w1705542037">nodosus</coll>
+    <coll hits="1" score="9.190" query="w1705542036">Cabomba</coll>
+    <coll hits="1" score="9.190" query="w1705542035">robbinsii</coll>
+    <coll hits="1" score="9.190" query="w1705542034">gramineus</coll>
+    <coll hits="1" score="9.190" query="w1705542032">natans</coll>
+    <coll hits="1" score="9.190" query="w1705542031">zosteriformis</coll>
+    <coll hits="1" score="9.190" query="w1705542029">illinoensis</coll>
+    <coll hits="1" score="9.190" query="w1705542025">Polygonum</coll>
+    <coll hits="1" score="9.160" query="w1705542024">obtusifolius</coll>
+    <coll hits="1" score="9.160" query="w1705542016">zone</coll>
+    <coll hits="1" score="9.120" query="w1705542021">wrightii</coll>
+    <coll hits="1" score="9.120" query="w1705542017">Elodea</coll>
+    <coll hits="1" score="9.090" query="w1705542026">Ceratophyllum</coll>
+    <coll hits="1" score="8.960" query="w1705542020">Myriophyllum</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="9" score="5.590">
+    <coll hits="2" score="12.410" query="w1705455172">Sagittaria</coll>
+    <coll hits="1" score="11.670" query="w1705455174">Batrachospermum</coll>
+    <coll hits="1" score="11.670" query="w1705455173">Cabomba</coll>
+    <coll hits="1" score="11.540" query="w1705455170">Polygonum</coll>
+    <coll hits="2" score="11.300" query="w1705455169">Myriophyllum</coll>
+    <coll hits="1" score="11.300" query="w1705455168">Elodea</coll>
+    <coll hits="1" score="11.190" query="w1705455171">Ceratophyllum</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="1.240">
+    <coll hits="1" score="13.000" query="w1705724801">Alnus</coll>
+    <coll hits="1" score="9.090" query="w1705724800">stem</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="1.240">
+    <coll hits="2" score="12.680" query="w1705743872">Chara</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">crassus</keyword>
+  <gramrel name="modifiers of X" hits="14" score="28.570">
+    <coll hits="7" score="13.410">Anguillicola</coll>
+    <coll hits="4" score="12.830">Anguillicoloides</coll>
+    <coll hits="3" score="12.490">Triaenophorus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="9" score="18.370">
+    <coll hits="1" score="11.670">osmoconform</coll>
+    <coll hits="1" score="9.240">colonization</coll>
+    <coll hits="1" score="8.520">wall</coll>
+    <coll hits="1" score="8.220">Anguilla</coll>
+    <coll hits="1" score="7.390">A</coll>
+    <coll hits="1" score="7.330">England</coll>
+    <coll hits="2" score="5.490">eel</coll>
+    <coll hits="1" score="3.230">population</coll>
+  </gramrel>
+</wordsketch>
+</export>

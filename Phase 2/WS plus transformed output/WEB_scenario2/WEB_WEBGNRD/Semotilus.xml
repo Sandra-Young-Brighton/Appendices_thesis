@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Semotilus</keyword>
+  <gramrel name="nouns modified by X" hits="22" score="57.890">
+    <coll hits="19" score="13.850" query="w1806936385">atromaculatus</coll>
+    <coll hits="2" score="11.410" query="w1806936386">corporalis</coll>
+    <coll hits="1" score="10.040" query="w1806936384">limi</coll>
+  </gramrel>
+</wordsketch>
+</export>

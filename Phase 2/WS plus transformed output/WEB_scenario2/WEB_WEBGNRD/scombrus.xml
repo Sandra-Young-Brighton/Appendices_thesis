@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">scombrus</keyword>
+  <gramrel name="modifiers of X" hits="8" score="25.000">
+    <coll hits="8" score="13.470" query="w2029408896">Scomber</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="9.380">
+    <coll hits="3" score="8.600" query="w2029419136">Gulf</coll>
+  </gramrel>
+</wordsketch>
+</export>

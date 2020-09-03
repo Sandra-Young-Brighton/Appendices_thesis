@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">alpinus</keyword>
+  <gramrel name="modifiers of X" hits="585" score="71.600">
+    <coll hits="579" score="13.470" query="w399820672">Salvelinus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="16" score="1.960">
+    <coll hits="13" score="12.700" query="w399774721">trutta</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="38" score="4.650">
+    <coll hits="6" score="11.720" query="w399904273">Thingvallavatn</coll>
+    <coll hits="2" score="10.640" query="w399904277">Spitzbergen</coll>
+    <coll hits="2" score="10.440" query="w399904272">Rannoch</coll>
+    <coll hits="5" score="9.580" query="w399904271">Britain</coll>
+    <coll hits="3" score="8.820" query="w399904270">Norway</coll>
+    <coll hits="2" score="7.900" query="w399904263">series</coll>
+    <coll hits="2" score="6.920" query="w399904265">Europe</coll>
+    <coll hits="2" score="3.880" query="w399904261">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

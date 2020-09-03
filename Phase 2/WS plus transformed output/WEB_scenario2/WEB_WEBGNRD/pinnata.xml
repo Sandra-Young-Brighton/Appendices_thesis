@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">pinnata</keyword>
+  <gramrel name="modifiers of X" hits="2" score="66.670">
+    <coll hits="1" score="13.410" query="w2004425025">polyrhiza</coll>
+    <coll hits="1" score="13.000" query="w2004425024">Azolla</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="33.330">
+    <coll hits="1" score="13.410" query="w2004413888">cucullata</coll>
+  </gramrel>
+</wordsketch>
+</export>

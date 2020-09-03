@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Nocomis</keyword>
+  <gramrel name="nouns modified by X" hits="6" score="42.860">
+    <coll hits="4" score="13.540" query="w2099928769">biguttatus</coll>
+    <coll hits="1" score="12.190" query="w2099928770">biggutatus</coll>
+    <coll hits="1" score="11.990" query="w2099928768">micropogon</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="7.140">
+    <coll hits="1" score="6.660" query="w2099956288">States</coll>
+  </gramrel>
+</wordsketch>
+</export>

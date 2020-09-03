@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">hubbsi</keyword>
+  <gramrel name="modifiers of X" hits="3" score="10.340">
+    <coll hits="3" score="13.000">Gobiomorphus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="10.340">
+    <coll hits="1" score="13.000">Chemin</coll>
+    <coll hits="1" score="5.400">Creek</coll>
+    <coll hits="1" score="3.760">River</coll>
+  </gramrel>
+</wordsketch>
+</export>

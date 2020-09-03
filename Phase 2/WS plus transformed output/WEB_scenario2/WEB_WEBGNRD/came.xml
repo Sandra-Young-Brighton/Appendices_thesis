@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">came</keyword>
+  <gramrel name="X and/or ..." hits="4" score="0.870">
+    <coll hits="1" score="12.680" query="w1189278147">visit</coll>
+    <coll hits="1" score="12.190" query="w1189278144">experience</coll>
+    <coll hits="1" score="11.830" query="w1189278145">spend</coll>
+    <coll hits="1" score="11.540" query="w1189278146">serve</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="253" score="54.760">
+    <coll hits="8" score="9.690" query="w1189897856">contact</coll>
+    <coll hits="8" score="9.390" query="w1189897889">cost</coll>
+    <coll hits="5" score="9.090" query="w1189897866">conclusion</coll>
+    <coll hits="13" score="9.010" query="w1189308888">source</coll>
+    <coll hits="4" score="8.860" query="w1189308893">Foundation</coll>
+    <coll hits="4" score="8.740" query="w1189308918">force</coll>
+    <coll hits="4" score="8.690" query="w1190473473">market</coll>
+    <coll hits="3" score="8.570" query="w1190473488">salmo</coll>
+    <coll hits="3" score="8.560" query="w1190473480">struggle</coll>
+    <coll hits="3" score="8.410" query="w1189897906">equilibrium</coll>
+    <coll hits="3" score="8.290" query="w1189897859">person</coll>
+    <coll hits="2" score="7.990" query="w1189897909">play</coll>
+    <coll hits="3" score="7.700" query="w1189308885">shape</coll>
+    <coll hits="3" score="7.700" query="w1189897882">aquaculture</coll>
+    <coll hits="2" score="7.640" query="w1189897914">hook</coll>
+    <coll hits="3" score="7.580" query="w1189308892">observation</coll>
+    <coll hits="2" score="7.070" query="w1189308896">conservation</coll>
+    <coll hits="2" score="7.010" query="w1189308874">occurrence</coll>
+    <coll hits="1" score="7.010" query="w1190473508">spigg</coll>
+    <coll hits="1" score="7.010" query="w1190473507">Andriyashev</coll>
+    <coll hits="1" score="7.010" query="w1190473505">itero</coll>
+    <coll hits="1" score="7.010" query="w1190473504">semel</coll>
+    <coll hits="1" score="7.010" query="w1190473503">fruition</coll>
+    <coll hits="1" score="7.010" query="w1190473502">anadromo</coll>
+    <coll hits="1" score="7.010" query="w1190473496">sap</coll>
+  </gramrel>
+</wordsketch>
+</export>

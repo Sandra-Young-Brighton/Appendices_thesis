@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Cobitis</keyword>
+  <gramrel name="nouns modified by X" hits="17" score="56.670">
+    <coll hits="8" score="13.300">paludica</coll>
+    <coll hits="7" score="13.160">taenia</coll>
+    <coll hits="1" score="10.090">glanis</coll>
+    <coll hits="1" score="5.100">trutta</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="3.330">
+    <coll hits="1" score="6.510">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

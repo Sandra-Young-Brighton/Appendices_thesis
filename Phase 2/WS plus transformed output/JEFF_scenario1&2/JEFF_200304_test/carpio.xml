@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">carpio</keyword>
+  <gramrel name="modifiers of X" hits="2" score="5.000">
+    <coll hits="2" score="13.190">Cyprinus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="15.000">
+    <coll hits="3" score="7.850">tank</coll>
+    <coll hits="1" score="6.660">P</coll>
+    <coll hits="1" score="6.190">treatment</coll>
+    <coll hits="1" score="4.410">growth</coll>
+  </gramrel>
+</wordsketch>
+</export>

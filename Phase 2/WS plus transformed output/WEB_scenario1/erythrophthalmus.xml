@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">erythrophthalmus</keyword>
+  <gramrel name="modifiers of X" hits="49" score="73.130">
+    <coll hits="47" score="13.940">Scardinius</coll>
+    <coll hits="1" score="9.350">Scardinus</coll>
+    <coll hits="1" score="9.060">rutilus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="3" score="4.480">
+    <coll hits="1" score="10.300">aspius</coll>
+    <coll hits="2" score="6.460">fluviatilis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="5.970">
+    <coll hits="1" score="12.190">aspius</coll>
+    <coll hits="3" score="11.880">fluviatilis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2" score="2.990">
+    <coll hits="2" score="7.010">Europe</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="2" score="2.990">
+    <coll hits="1" score="12.190">plant</coll>
+    <coll hits="1" score="11.830">food</coll>
+  </gramrel>
+</wordsketch>
+</export>

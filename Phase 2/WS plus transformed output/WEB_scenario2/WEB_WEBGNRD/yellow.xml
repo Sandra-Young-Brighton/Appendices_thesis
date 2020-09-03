@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">yellow</keyword>
+  <gramrel name="X and/or ..." hits="72" score="4.070">
+    <coll hits="9" score="11.450" query="w1105364110">silver</coll>
+    <coll hits="8" score="10.980" query="w1105364127">pruinose</coll>
+    <coll hits="5" score="10.650" query="w1105364120">orange</coll>
+    <coll hits="2" score="9.770" query="w1105364121">hyoid</coll>
+    <coll hits="2" score="9.690" query="w1105364115">pigmented</coll>
+    <coll hits="2" score="9.460" query="w1105364111">inner</coll>
+    <coll hits="5" score="9.140" query="w1105364109">European</coll>
+    <coll hits="7" score="9.040" query="w1105364108">American</coll>
+    <coll hits="1" score="8.810" query="w1105364129">brass-colored</coll>
+    <coll hits="1" score="8.810" query="w1105364128">intersegmental</coll>
+    <coll hits="1" score="8.810" query="w1105364126">magenta</coll>
+    <coll hits="1" score="8.810" query="w1105364125">cream</coll>
+    <coll hits="1" score="8.810" query="w1105364123">silver-stage</coll>
+    <coll hits="1" score="8.790" query="w1105364124">pinkish</coll>
+    <coll hits="1" score="8.790" query="w1105364107">mid</coll>
+    <coll hits="1" score="8.760" query="w1105364122">faint</coll>
+    <coll hits="3" score="8.710" query="w1105364100">black</coll>
+    <coll hits="1" score="8.680" query="w1105364116">fluorescent</coll>
+    <coll hits="1" score="8.650" query="w1105364112">brownish</coll>
+    <coll hits="1" score="8.640" query="w1105364114">olive</coll>
+    <coll hits="1" score="8.590" query="w1105364119">hind</coll>
+    <coll hits="1" score="8.570" query="w1105364099">opaque</coll>
+    <coll hits="1" score="8.550" query="w1105364104">colored</coll>
+    <coll hits="1" score="8.540" query="w1105364103">golden</coll>
+    <coll hits="1" score="8.520" query="w1105364113">oval</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="12" score="0.680">
+    <coll hits="1" score="11.300" query="w1105642121">orange-red</coll>
+    <coll hits="1" score="11.300" query="w1105642120">amber</coll>
+    <coll hits="1" score="11.300" query="w1105642119">yellow-olive</coll>
+    <coll hits="1" score="10.820" query="w1105642117">globule</coll>
+    <coll hits="1" score="10.300" query="w1105642118">grey</coll>
+    <coll hits="2" score="8.850" query="w1105642116">colour</coll>
+    <coll hits="1" score="8.620" query="w1105642112">ray</coll>
+    <coll hits="1" score="8.230" query="w1105642115">color</coll>
+    <coll hits="1" score="5.930" query="w1105642114">surface</coll>
+    <coll hits="2" score="4.200" query="w1105642113">salmon</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Piaractus</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="16.670">
+    <coll hits="2" score="13.670" query="w2015784513">brachypomus</coll>
+    <coll hits="1" score="13.000" query="w2015784512">mesopotamicus</coll>
+  </gramrel>
+</wordsketch>
+</export>

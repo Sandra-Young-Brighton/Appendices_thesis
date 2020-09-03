@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Sicyopterus</keyword>
+  <gramrel name="nouns modified by X" hits="87" score="51.480">
+    <coll hits="57" score="13.650">lagocephalus</coll>
+    <coll hits="20" score="12.570">japonicus</coll>
+    <coll hits="4" score="10.490">stimpsoni</coll>
+    <coll hits="3" score="10.090">aiensis</coll>
+    <coll hits="2" score="9.520">sarasini</coll>
+    <coll hits="1" score="8.540">extraneus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="1.780">
+    <coll hits="1" score="11.540">Indo</coll>
+    <coll hits="1" score="7.080">November</coll>
+    <coll hits="1" score="3.920">area</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="1.180">
+    <coll hits="1" score="13.410">Sicydiinae</coll>
+    <coll hits="1" score="12.410">Gobioidei</coll>
+  </gramrel>
+</wordsketch>
+</export>

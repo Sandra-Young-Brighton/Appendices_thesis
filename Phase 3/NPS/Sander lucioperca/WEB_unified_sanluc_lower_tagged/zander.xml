@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_sanluc_lower_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">zander</keyword>
+  <gramrel name="nouns modified by X" hits="6" score="3.210">
+    <coll hits="5" score="12.320">sander_lucioperca</coll>
+    <coll hits="1" score="11.410">stizostedion_lucioperca</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="1.600">
+    <coll hits="3" score="12.880">sander_lucioperca</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="36" score="19.250">
+    <coll hits="14" score="11.180">canal</coll>
+    <coll hits="1" score="9.670">profit</coll>
+    <coll hits="2" score="9.040">tl</coll>
+    <coll hits="1" score="7.660">beginning</coll>
+    <coll hits="1" score="6.300">catch</coll>
+    <coll hits="1" score="6.080">mm.</coll>
+    <coll hits="1" score="5.960">weight</coll>
+    <coll hits="1" score="5.810">body</coll>
+    <coll hits="4" score="5.740">study</coll>
+    <coll hits="2" score="5.650">prey</coll>
+    <coll hits="1" score="4.920">age</coll>
+    <coll hits="2" score="4.690">year</coll>
+    <coll hits="1" score="4.500">length</coll>
+    <coll hits="1" score="4.340">predator</coll>
+    <coll hits="1" score="4.170">fishery</coll>
+    <coll hits="1" score="3.940">time</coll>
+    <coll hits="1" score="2.620">river</coll>
+  </gramrel>
+</wordsketch>
+</export>

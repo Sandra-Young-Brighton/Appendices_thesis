@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">rerio</keyword>
+  <gramrel name="modifiers of X" hits="19" score="67.860">
+    <coll hits="18" score="13.960">Danio</coll>
+    <coll hits="1" score="10.040">rutilus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="3.570">
+    <coll hits="1" score="6.440">Lucius</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="3.570">
+    <coll hits="1" score="9.190">challenge</coll>
+  </gramrel>
+</wordsketch>
+</export>

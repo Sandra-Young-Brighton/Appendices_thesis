@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">umbla</keyword>
+  <gramrel name="modifiers of X" hits="3" score="50.000">
+    <coll hits="3" score="6.490">Salvelinus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="33.330">
+    <coll hits="1" score="11.670">fluviatilis</coll>
+    <coll hits="1" score="11.670">Perca</coll>
+  </gramrel>
+</wordsketch>
+</export>

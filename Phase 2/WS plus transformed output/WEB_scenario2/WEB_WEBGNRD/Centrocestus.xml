@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Centrocestus</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="7.690">
+    <coll hits="1" score="13.410" query="w2068684161">formosanus</coll>
+    <coll hits="1" score="13.000" query="w2068684160">metacercariae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="3.850">
+    <coll hits="1" score="13.410" query="w2068674368">Haplorchis</coll>
+  </gramrel>
+</wordsketch>
+</export>

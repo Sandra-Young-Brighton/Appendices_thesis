@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Rhinichthys</keyword>
+  <gramrel name="nouns modified by X" hits="26" score="60.470">
+    <coll hits="15" score="13.510">cataractae</coll>
+    <coll hits="8" score="12.870">osculus</coll>
+    <coll hits="2" score="11.190">atratulus</coll>
+    <coll hits="1" score="10.240">cobitis</coll>
+  </gramrel>
+</wordsketch>
+</export>

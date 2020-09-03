@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">melanogaster</keyword>
+  <gramrel name="modifiers of X" hits="6" score="37.500">
+    <coll hits="5" score="13.860">Drosophila</coll>
+    <coll hits="1" score="10.680">Diptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

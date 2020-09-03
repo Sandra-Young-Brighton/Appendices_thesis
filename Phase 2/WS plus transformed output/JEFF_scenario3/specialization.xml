@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">specialization</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="13" score="23.640">
+    <coll hits="1" score="10.300">alpinus</coll>
+    <coll hits="1" score="8.400">niche</coll>
+    <coll hits="1" score="8.300">adaptation</coll>
+    <coll hits="2" score="8.210">darter</coll>
+    <coll hits="1" score="7.010">position</coll>
+    <coll hits="3" score="6.640">charr</coll>
+    <coll hits="2" score="6.600">bass</coll>
+    <coll hits="1" score="4.770">group</coll>
+    <coll hits="1" score="3.170">trout</coll>
+  </gramrel>
+</wordsketch>
+</export>

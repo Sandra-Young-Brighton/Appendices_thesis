@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">illinoensis</keyword>
+  <gramrel name="modifiers of X" hits="5" score="33.330">
+    <coll hits="2" score="13.190">Potamogeton</coll>
+    <coll hits="1" score="12.410">Potumogeton</coll>
+    <coll hits="1" score="12.410">verticillatu</coll>
+    <coll hits="1" score="12.410">verticillata</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="6.670">
+    <coll hits="1" score="13.000">hemitomon</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="13.330">
+    <coll hits="2" score="13.990">hemitomon</coll>
+  </gramrel>
+</wordsketch>
+</export>

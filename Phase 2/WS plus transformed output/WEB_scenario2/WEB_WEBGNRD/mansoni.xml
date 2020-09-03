@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">mansoni</keyword>
+  <gramrel name="modifiers of X" hits="4" score="57.140">
+    <coll hits="4" score="13.540" query="w2072548224">Schistosoma</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="14.290">
+    <coll hits="1" score="11.000" query="w2072557696">cultivation</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">arcticus</keyword>
+  <gramrel name="modifiers of X" hits="35" score="89.740">
+    <coll hits="34" score="12.960">Thymallus</coll>
+    <coll hits="1" score="9.830">Thymalus</coll>
+  </gramrel>
+</wordsketch>
+</export>

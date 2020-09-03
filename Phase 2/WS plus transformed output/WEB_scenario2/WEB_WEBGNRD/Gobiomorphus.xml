@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Gobiomorphus</keyword>
+  <gramrel name="nouns modified by X" hits="11" score="50.000">
+    <coll hits="4" score="13.090" query="w2123782786">cotidianus</coll>
+    <coll hits="2" score="12.290" query="w2123782787">basalis</coll>
+    <coll hits="2" score="12.290" query="w2123782785">huttoni</coll>
+    <coll hits="3" score="11.830" query="w2123782784">hubbsi</coll>
+  </gramrel>
+</wordsketch>
+</export>

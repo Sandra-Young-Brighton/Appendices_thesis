@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Calles</keyword>
+  <gramrel name="modifiers of X" hits="1" score="3.330">
+    <coll hits="1" score="13.990">Caiola</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="6.670">
+    <coll hits="2" score="13.990">Campana</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="6.670">
+    <coll hits="2" score="13.990">Campana</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="3.330">
+    <coll hits="1" score="6.810">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

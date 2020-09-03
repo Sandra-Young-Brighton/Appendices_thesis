@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">metacercariae</keyword>
+  <gramrel name="modifiers of X" hits="2" score="2.350">
+    <coll hits="1" score="13.000" query="w1995856576">Centrocestus</coll>
+    <coll hits="1" score="12.680" query="w1995856577">Neascus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="33" score="38.820">
+    <coll hits="2" score="10.790" query="w1995872278">erraticus</coll>
+    <coll hits="2" score="10.020" query="w1995872268">trematode</coll>
+    <coll hits="1" score="9.910" query="w1995872279">vaneyi</coll>
+    <coll hits="1" score="9.910" query="w1995872277">Crassophiala</coll>
+    <coll hits="1" score="9.910" query="w1995872274">Neascus</coll>
+    <coll hits="1" score="9.910" query="w1995872273">nana</coll>
+    <coll hits="1" score="9.870" query="w1995872276">diplostomatid</coll>
+    <coll hits="1" score="9.870" query="w1995872275">predilection</coll>
+    <coll hits="1" score="9.830" query="w1995872269">marginatum</coll>
+    <coll hits="1" score="9.710" query="w1995872270">Sa</coll>
+    <coll hits="6" score="9.510" query="w1995872263">gill</coll>
+    <coll hits="1" score="9.350" query="w1995872272">digenean</coll>
+    <coll hits="1" score="9.270" query="w1995872271">mollusc</coll>
+    <coll hits="1" score="8.040" query="w1995872262">sp</coll>
+    <coll hits="1" score="7.450" query="w1995872260">spp.</coll>
+    <coll hits="1" score="7.090" query="w1995872266">muscle</coll>
+    <coll hits="1" score="7.050" query="w1995872257">N</coll>
+    <coll hits="1" score="6.100" query="w1995872264">mm.</coll>
+    <coll hits="1" score="5.710" query="w1995872265">C</coll>
+    <coll hits="1" score="5.290" query="w1995872267">fishery</coll>
+    <coll hits="1" score="4.960" query="w1995872259">age</coll>
+    <coll hits="1" score="4.470" query="w1995872256">eel</coll>
+    <coll hits="1" score="3.690" query="w1995872258">year</coll>
+    <coll hits="3" score="3.330" query="w1995872261">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

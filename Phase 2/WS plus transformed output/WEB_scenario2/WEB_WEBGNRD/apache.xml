@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">apache</keyword>
+  <gramrel name="modifiers of X" hits="6" score="75.000">
+    <coll hits="2" score="13.000" query="w1984270146">gilae</coll>
+    <coll hits="2" score="5.560" query="w1984270144">Oncorhynchus</coll>
+    <coll hits="2" score="5.230" query="w1984270145">Salmo</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="25.000">
+    <coll hits="2" score="13.990" query="w1984255872">chrysogaster</coll>
+  </gramrel>
+</wordsketch>
+</export>

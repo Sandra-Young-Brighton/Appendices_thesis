@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Acari</keyword>
+  <gramrel name="modifiers of X" hits="4" score="9.760">
+    <coll hits="1" score="12.680" query="w500366083">Passalidae</coll>
+    <coll hits="1" score="11.670" query="w500366080">Annelida</coll>
+    <coll hits="1" score="11.540" query="w500366082">Bivalvia</coll>
+    <coll hits="1" score="10.910" query="w500366081">Crustacea</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="4.880">
+    <coll hits="1" score="13.410" query="w500394241">Hydrachnidia</coll>
+    <coll hits="1" score="11.990" query="w500394240">Bivalvia</coll>
+  </gramrel>
+</wordsketch>
+</export>

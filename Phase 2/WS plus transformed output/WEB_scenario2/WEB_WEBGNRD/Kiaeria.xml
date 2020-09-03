@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Kiaeria</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="100.000">
+    <coll hits="3" score="13.990" query="w2186891456">starkei</coll>
+  </gramrel>
+</wordsketch>
+</export>

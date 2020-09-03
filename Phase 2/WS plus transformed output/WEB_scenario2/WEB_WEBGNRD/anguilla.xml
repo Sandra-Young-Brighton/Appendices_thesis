@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">anguilla</keyword>
+  <gramrel name="modifiers of X" hits="59" score="32.960">
+    <coll hits="59" score="11.860" query="w1501457344">Anguilla</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="48" score="26.820">
+    <coll hits="3" score="10.540" query="w1501466393">Asi</coll>
+    <coll hits="3" score="10.090" query="w1501466390">Lithuania</coll>
+    <coll hits="1" score="9.380" query="w1501466394">SeaMar</coll>
+    <coll hits="1" score="9.380" query="w1501466389">heartland</coll>
+    <coll hits="1" score="9.270" query="w1501466391">Meuse</coll>
+    <coll hits="5" score="9.150" query="w1501466386">country</coll>
+    <coll hits="2" score="9.040" query="w1501466392">Canal</coll>
+    <coll hits="1" score="8.930" query="w1501466388">Shannon</coll>
+    <coll hits="1" score="8.890" query="w1501466387">waterbodie</coll>
+    <coll hits="1" score="8.130" query="w1501466382">check</coll>
+    <coll hits="1" score="7.500" query="w1501466384">Sweden</coll>
+    <coll hits="2" score="7.090" query="w1501466381">watershed</coll>
+    <coll hits="3" score="6.920" query="w1501466373">Sea</coll>
+    <coll hits="1" score="6.820" query="w1501466379">Sr</coll>
+    <coll hits="1" score="6.810" query="w1501466380">salinity</coll>
+    <coll hits="1" score="6.700" query="w1501466383">acid</coll>
+    <coll hits="3" score="6.430" query="w1501466378">stage</coll>
+    <coll hits="2" score="6.200" query="w1501466370">region</coll>
+    <coll hits="1" score="6.080" query="w1501466374">history</coll>
+    <coll hits="1" score="5.890" query="w1501466385">Europe</coll>
+    <coll hits="6" score="5.650" query="w1501466371">water</coll>
+    <coll hits="1" score="5.340" query="w1501466375">migration</coll>
+    <coll hits="1" score="5.340" query="w1501466368">freshwater</coll>
+    <coll hits="2" score="4.760" query="w1501466376">habitat</coll>
+    <coll hits="1" score="3.750" query="w1501466369">study</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.560">
+    <coll hits="1" score="7.910" query="w1501739072">Cyprinidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

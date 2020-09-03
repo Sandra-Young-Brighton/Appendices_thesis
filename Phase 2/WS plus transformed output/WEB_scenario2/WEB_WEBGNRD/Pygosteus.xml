@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Pygosteus</keyword>
+  <gramrel name="nouns modified by X" hits="8" score="88.890">
+    <coll hits="7" score="11.850" query="w2018539712">pungitius</coll>
+    <coll hits="1" score="11.830" query="w2018539713">pungitus</coll>
+  </gramrel>
+</wordsketch>
+</export>

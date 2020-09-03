@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Fundulus_notatus</keyword>
+  <gramrel name="modifiers of X" hits="2" score="9.090">
+    <coll hits="1" score="8.850">minnow</coll>
+    <coll hits="1" score="4.310">fish</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="3" score="13.640">
+    <coll hits="3" score="13.990">Fundulus_olivaceus</coll>
+  </gramrel>
+</wordsketch>
+</export>

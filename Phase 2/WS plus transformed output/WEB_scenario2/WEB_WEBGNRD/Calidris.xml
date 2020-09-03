@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Calidris</keyword>
+  <gramrel name="nouns modified by X" hits="7" score="63.640">
+    <coll hits="2" score="12.830" query="w1955699779">minutilla</coll>
+    <coll hits="2" score="12.830" query="w1955699778">pusilla</coll>
+    <coll hits="2" score="12.830" query="w1955699776">alpina</coll>
+    <coll hits="1" score="11.830" query="w1955699777">canutus</coll>
+  </gramrel>
+</wordsketch>
+</export>

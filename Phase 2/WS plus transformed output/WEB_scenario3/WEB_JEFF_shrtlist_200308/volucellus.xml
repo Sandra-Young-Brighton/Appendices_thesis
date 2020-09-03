@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">volucellus</keyword>
+  <gramrel name="modifiers of X" hits="7" score="58.330">
+    <coll hits="7" score="12.250">Notropis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="8.330">
+    <coll hits="1" score="13.000">emiliae</coll>
+  </gramrel>
+</wordsketch>
+</export>

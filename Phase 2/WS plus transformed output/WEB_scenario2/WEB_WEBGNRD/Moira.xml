@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Moira</keyword>
+  <gramrel name="X is the generic of..." hits="2" score="28.570">
+    <coll hits="1" score="11.540" query="w2016673921">Cyperus</coll>
+    <coll hits="1" score="11.540" query="w2016673920">Eleocharis</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="2" score="28.570">
+    <coll hits="1" score="13.410" query="w2016682625">Soar</coll>
+    <coll hits="1" score="13.410" query="w2016682624">record</coll>
+  </gramrel>
+</wordsketch>
+</export>

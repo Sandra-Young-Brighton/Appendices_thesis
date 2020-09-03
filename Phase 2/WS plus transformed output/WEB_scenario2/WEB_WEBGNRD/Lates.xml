@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Lates</keyword>
+  <gramrel name="nouns modified by X" hits="46" score="58.230">
+    <coll hits="30" score="13.060" query="w1835051584">niloticus</coll>
+    <coll hits="14" score="12.900" query="w1835051585">calcarifer</coll>
+    <coll hits="1" score="9.440" query="w1835051587">sponsa</coll>
+    <coll hits="1" score="9.440" query="w1835051586">albertianus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="1.270">
+    <coll hits="1" score="13.990" query="w1835042496">Psammoperca</coll>
+  </gramrel>
+</wordsketch>
+</export>

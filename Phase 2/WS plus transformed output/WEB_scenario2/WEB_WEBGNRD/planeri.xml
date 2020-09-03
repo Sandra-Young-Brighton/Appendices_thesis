@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">planeri</keyword>
+  <gramrel name="modifiers of X" hits="69" score="53.080">
+    <coll hits="68" score="12.490" query="w1978397569">Lampetra</coll>
+    <coll hits="1" score="8.680" query="w1978397568">fluviatilis</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="1.540">
+    <coll hits="1" score="11.670" query="w1978376577">Lucius</coll>
+    <coll hits="1" score="10.470" query="w1978376576">fluviatilis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="9" score="6.920">
+    <coll hits="1" score="11.670" query="w1978419207">Hebride</coll>
+    <coll hits="2" score="9.870" query="w1978419206">Lomond</coll>
+    <coll hits="1" score="7.570" query="w1978419203">case</coll>
+    <coll hits="1" score="6.560" query="w1978419204">field</coll>
+    <coll hits="1" score="6.000" query="w1978419205">Europe</coll>
+    <coll hits="1" score="4.340" query="w1978419200">number</coll>
+    <coll hits="1" score="3.960" query="w1978419201">time</coll>
+    <coll hits="1" score="3.810" query="w1978419202">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

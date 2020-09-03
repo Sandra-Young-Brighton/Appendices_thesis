@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/extended_swu_saltrut_lower_untagged</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="6">[lc=&quot;peal&quot; | lemma_lc=&quot;peal&quot;]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#349" num="0" label="_">
+    <left>names: sewin in wales, finnock in scotland,</left>
+    <kwic> peal</kwic>
+    <right> in the west country, mort in north west england,</right>
+  </line>
+  <line refs="doc#350" num="1" label="_">
+    <left>names: sewin in wales, finnock in scotland,</left>
+    <kwic> peal</kwic>
+    <right> in the west country, mort in north west england,</right>
+  </line>
+  <line refs="doc#350" num="2" label="_">
+    <left>brown_trout are sewin (wales), peel or</left>
+    <kwic> peal</kwic>
+    <right> (southwest england), mort (northwest england</right>
+  </line>
+  <line refs="doc#492" num="3" label="_">
+    <left>including sewin (wales), finnock (scotland),</left>
+    <kwic> peal</kwic>
+    <right> (west country), mort (north west england) and</right>
+  </line>
+  <line refs="doc#928" num="4" label="_">
+    <left>small sea_trout are variously called finnock,</left>
+    <kwic> peal</kwic>
+    <right>, herling and whitling (although whitling is a</right>
+  </line>
+  <line refs="doc#929" num="5" label="_">
+    <left>brown_trout are sewin (wales), peel or</left>
+    <kwic> peal</kwic>
+    <right> (southwest england), mort (northwest england</right>
+  </line>
+</concordance>
+</export>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">trutta</keyword>
+  <gramrel name="modifiers of X" hits="708" score="49.480">
+    <coll hits="695" score="13.360">Salmo</coll>
+    <coll hits="7" score="8.300">Sulmo</coll>
+    <coll hits="2" score="6.520">fontinalis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="17" score="1.190">
+    <coll hits="14" score="11.670">Linnaeus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="11" score="0.770">
+    <coll hits="3" score="12.770">gairdneri</coll>
+    <coll hits="3" score="12.770">salar</coll>
+    <coll hits="3" score="12.580">mykiss</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="52" score="3.630">
+    <coll hits="3" score="10.650">District</coll>
+    <coll hits="2" score="9.610">branch</coll>
+    <coll hits="2" score="8.730">Zealand</coll>
+    <coll hits="17" score="7.320">stream</coll>
+    <coll hits="3" score="6.790">migration</coll>
+    <coll hits="2" score="6.190">scale</coll>
+  </gramrel>
+</wordsketch>
+</export>

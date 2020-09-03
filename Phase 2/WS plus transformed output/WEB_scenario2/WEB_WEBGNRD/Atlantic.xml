@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Atlantic</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="11" score="0.300">
+    <coll hits="2" score="11.670" query="w831296964">Bahamas</coll>
+    <coll hits="1" score="11.410" query="w831296968">CMC</coll>
+    <coll hits="1" score="11.410" query="w831296967">Shearer</coll>
+    <coll hits="1" score="7.830" query="w831296966">1980</coll>
+    <coll hits="1" score="7.500" query="w831296965">current</coll>
+    <coll hits="2" score="6.990" query="w831296963">Europe</coll>
+    <coll hits="1" score="5.990" query="w831296962">relation</coll>
+    <coll hits="1" score="5.220" query="w831296961">concentration</coll>
+    <coll hits="1" score="3.550" query="w831296960">river</coll>
+  </gramrel>
+  <gramrel name="“X&quot; is part of..." hits="8" score="0.220">
+    <coll hits="1" score="11.410" query="w831394114">Baltic</coll>
+    <coll hits="6" score="11.340" query="w831394112">[number]</coll>
+    <coll hits="1" score="10.820" query="w831394113">muscle</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="1" score="0.030">
+    <coll hits="1" score="13.990" query="w831379072">Portugal</coll>
+  </gramrel>
+</wordsketch>
+</export>

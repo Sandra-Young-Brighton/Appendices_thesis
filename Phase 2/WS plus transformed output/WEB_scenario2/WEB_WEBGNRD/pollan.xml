@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">pollan</keyword>
+  <gramrel name="modifiers of X" hits="4" score="2.130">
+    <coll hits="4" score="7.880" query="w2073330048">Coregonus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="15" score="7.980">
+    <coll hits="2" score="11.410" query="w2073339148">Erne</coll>
+    <coll hits="1" score="10.820" query="w2073339144">accretion</coll>
+    <coll hits="1" score="9.910" query="w2073339145">Shannon</coll>
+    <coll hits="1" score="9.670" query="w2073339146">legislation</coll>
+    <coll hits="1" score="9.530" query="w2073339147">Neagh</coll>
+    <coll hits="2" score="7.270" query="w2073339143">Ireland</coll>
+    <coll hits="1" score="6.250" query="w2073339142">term</coll>
+    <coll hits="1" score="6.160" query="w2073339138">end</coll>
+    <coll hits="1" score="4.990" query="w2073339136">age</coll>
+    <coll hits="1" score="4.390" query="w2073339141">level</coll>
+    <coll hits="1" score="4.360" query="w2073339140">system</coll>
+    <coll hits="1" score="3.860" query="w2073339137">species</coll>
+    <coll hits="1" score="2.880" query="w2073339139">lake</coll>
+  </gramrel>
+</wordsketch>
+</export>

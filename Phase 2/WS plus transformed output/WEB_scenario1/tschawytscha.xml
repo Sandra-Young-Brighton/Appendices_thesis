@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">tschawytscha</keyword>
+  <gramrel name="modifiers of X" hits="3" score="50.000">
+    <coll hits="1" score="12.680">keta</coll>
+    <coll hits="2" score="5.580">Oncorhynchus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="16.670">
+    <coll hits="1" score="7.300">kisutch</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="16.670">
+    <coll hits="1" score="13.990">kisutch</coll>
+  </gramrel>
+</wordsketch>
+</export>

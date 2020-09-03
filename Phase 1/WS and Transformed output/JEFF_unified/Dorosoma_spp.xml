@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Dorosoma_spp</keyword>
+  <gramrel name="modifiers of X" hits="3" score="60.000">
+    <coll hits="1" score="13.000">Dorosoma_petenense</coll>
+    <coll hits="1" score="12.410">Dorosoma_cepedianum</coll>
+    <coll hits="1" score="12.190">Clupeidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

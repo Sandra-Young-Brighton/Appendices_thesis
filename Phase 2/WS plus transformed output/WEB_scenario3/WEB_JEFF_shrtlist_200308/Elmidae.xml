@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Elmidae</keyword>
+  <gramrel name="modifiers of X" hits="5" score="25.000">
+    <coll hits="2" score="13.190">Ephemerellidae</coll>
+    <coll hits="1" score="12.410">Curculionidae</coll>
+    <coll hits="1" score="12.410">Dytiscidae</coll>
+    <coll hits="1" score="10.600">Coleoptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.000">
+    <coll hits="1" score="13.410">Gyrinidae</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="4" score="20.000">
+    <coll hits="2" score="13.190">Brachycentridae</coll>
+    <coll hits="1" score="12.410">Gyrinidae</coll>
+    <coll hits="1" score="10.820">Ephemeroptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

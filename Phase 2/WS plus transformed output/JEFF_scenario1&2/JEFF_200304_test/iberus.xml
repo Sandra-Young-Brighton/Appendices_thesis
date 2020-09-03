@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">iberus</keyword>
+  <gramrel name="modifiers of X" hits="16" score="33.330">
+    <coll hits="16" score="13.830">Aphanius</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="6" score="12.500">
+    <coll hits="2" score="12.410">marshland</coll>
+    <coll hits="1" score="10.600">Union</coll>
+    <coll hits="1" score="7.530">lagoon</coll>
+    <coll hits="1" score="4.750">datum</coll>
+    <coll hits="1" score="3.920">year</coll>
+  </gramrel>
+</wordsketch>
+</export>

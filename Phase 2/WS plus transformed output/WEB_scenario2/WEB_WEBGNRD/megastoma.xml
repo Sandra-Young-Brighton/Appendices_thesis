@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">megastoma</keyword>
+  <gramrel name="modifiers of X" hits="5" score="100.000">
+    <coll hits="1" score="12.410" query="w2033950849">Ptychogonimus</coll>
+    <coll hits="4" score="8.130" query="w2033950848">Anguilla</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">commersonii</keyword>
+  <gramrel name="modifiers of X" hits="11" score="61.110">
+    <coll hits="10" score="12.540">Catostomus</coll>
+    <coll hits="1" score="11.190">fontinalis</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.560">
+    <coll hits="1" score="12.190">Perca</coll>
+  </gramrel>
+</wordsketch>
+</export>

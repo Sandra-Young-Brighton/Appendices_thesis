@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">balteatus</keyword>
+  <gramrel name="modifiers of X" hits="11" score="61.110">
+    <coll hits="11" score="13.990" query="w1968970496">Richardsonius</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.560">
+    <coll hits="1" score="8.520" query="w1968986752">lota</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="5.560">
+    <coll hits="1" score="11.990" query="w1968958720">lota</coll>
+  </gramrel>
+</wordsketch>
+</export>

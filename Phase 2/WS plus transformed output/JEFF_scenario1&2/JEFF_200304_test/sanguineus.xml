@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">sanguineus</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="9" score="42.860">
+    <coll hits="1" score="8.980">country</coll>
+    <coll hits="2" score="8.570">carp</coll>
+    <coll hits="1" score="8.200">England</coll>
+    <coll hits="2" score="7.150">C</coll>
+    <coll hits="1" score="6.880">comparison</coll>
+    <coll hits="1" score="6.640">mortality</coll>
+    <coll hits="1" score="5.050">sample</coll>
+  </gramrel>
+</wordsketch>
+</export>

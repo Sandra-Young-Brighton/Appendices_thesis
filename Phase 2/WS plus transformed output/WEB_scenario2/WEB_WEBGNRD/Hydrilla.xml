@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Hydrilla</keyword>
+  <gramrel name="modifiers of X" hits="1" score="2.330">
+    <coll hits="1" score="13.410" query="w2076028544">Polygonum</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="29" score="67.440">
+    <coll hits="28" score="13.970" query="w2076038017">verticillata</coll>
+    <coll hits="1" score="9.670" query="w2076038016">Myriophyllum</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="4.650">
+    <coll hits="2" score="11.750" query="w2076018560">Myriophyllum</coll>
+  </gramrel>
+</wordsketch>
+</export>

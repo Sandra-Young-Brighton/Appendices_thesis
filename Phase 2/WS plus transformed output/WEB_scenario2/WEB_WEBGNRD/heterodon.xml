@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">heterodon</keyword>
+  <gramrel name="modifiers of X" hits="9" score="47.370">
+    <coll hits="5" score="13.320" query="w1898381249">Alasmidonta</coll>
+    <coll hits="4" score="11.140" query="w1898381248">Notropis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="5.260">
+    <coll hits="1" score="5.400" query="w1898406848">part</coll>
+  </gramrel>
+</wordsketch>
+</export>

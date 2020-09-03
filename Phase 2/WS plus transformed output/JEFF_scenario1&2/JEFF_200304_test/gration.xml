@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">gration</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="17" score="44.740">
+    <coll hits="1" score="10.680">chalkstream</coll>
+    <coll hits="1" score="8.240">dusk</coll>
+    <coll hits="1" score="8.070">emigration</coll>
+    <coll hits="1" score="6.820">B</coll>
+    <coll hits="1" score="6.270">chub</coll>
+    <coll hits="2" score="5.550">eel</coll>
+    <coll hits="1" score="5.530">tributary</coll>
+    <coll hits="1" score="5.240">range</coll>
+    <coll hits="1" score="5.050">charr</coll>
+    <coll hits="1" score="4.770">variable</coll>
+    <coll hits="1" score="4.490">individual</coll>
+    <coll hits="1" score="4.340">water</coll>
+    <coll hits="1" score="3.720">habitat</coll>
+    <coll hits="1" score="3.510">salmon</coll>
+    <coll hits="1" score="3.480">lake</coll>
+    <coll hits="1" score="3.250">stream</coll>
+  </gramrel>
+</wordsketch>
+</export>

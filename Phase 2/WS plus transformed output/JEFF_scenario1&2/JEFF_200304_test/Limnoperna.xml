@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Limnoperna</keyword>
+  <gramrel name="nouns modified by X" hits="10" score="71.430">
+    <coll hits="9" score="13.920">fortunei</coll>
+    <coll hits="1" score="11.540">Corbicula</coll>
+  </gramrel>
+</wordsketch>
+</export>

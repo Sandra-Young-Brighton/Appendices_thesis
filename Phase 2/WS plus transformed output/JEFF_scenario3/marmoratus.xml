@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_lerga_newbreakdown_ti</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">marmoratus</keyword>
+  <gramrel name="modifiers of X" hits="44" score="57.890">
+    <coll hits="3" score="10.800">Proterorhinus</coll>
+    <coll hits="40" score="9.780">Salmo</coll>
+    <coll hits="1" score="9.500">Proterorchinus</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="5" score="6.580">
+    <coll hits="1" score="10.410">Slovenia</coll>
+    <coll hits="1" score="9.640">allopatry</coll>
+    <coll hits="1" score="5.450">basin</coll>
+    <coll hits="1" score="5.370">Creek</coll>
+    <coll hits="1" score="4.580">species</coll>
+  </gramrel>
+</wordsketch>
+</export>

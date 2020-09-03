@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Catostomus</keyword>
+  <gramrel name="nouns modified by X" hits="44" score="55.700">
+    <coll hits="10" score="12.570">commersoni</coll>
+    <coll hits="10" score="12.540">catostomus</coll>
+    <coll hits="10" score="12.540">commersonii</coll>
+    <coll hits="3" score="11.030">discobolus</coll>
+    <coll hits="3" score="11.030">latipinnis</coll>
+    <coll hits="3" score="11.030">macrocheilus</coll>
+    <coll hits="3" score="10.600">clarkii</coll>
+    <coll hits="1" score="9.500">insignis</coll>
+    <coll hits="1" score="9.500">dicobolus</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="2" score="2.530">
+    <coll hits="1" score="6.580">fish</coll>
+    <coll hits="1" score="6.500">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

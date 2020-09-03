@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Such</keyword>
+  <gramrel name="X and/or ..." hits="169" score="4.390">
+    <coll hits="8" score="9.470" query="w578816143">high</coll>
+    <coll hits="6" score="8.830" query="w578816132">small</coll>
+    <coll hits="3" score="8.830" query="w578816162">diverse</coll>
+    <coll hits="4" score="8.780" query="w578816167">wild</coll>
+    <coll hits="4" score="8.680" query="w578816157">negative</coll>
+    <coll hits="4" score="8.640" query="w578816172">seasonal</coll>
+    <coll hits="3" score="8.620" query="w579239765">behavioural</coll>
+    <coll hits="3" score="8.520" query="w578816159">important</coll>
+    <coll hits="3" score="8.240" query="w578816142">low</coll>
+    <coll hits="4" score="8.070" query="w578816133">large</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="2259" score="58.720">
+    <coll hits="65" score="9.300" query="w581299806">pike</coll>
+    <coll hits="45" score="8.570" query="w581299783">temperature</coll>
+    <coll hits="36" score="8.260" query="w580753968">perch</coll>
+    <coll hits="52" score="8.130" query="w580178143">trout</coll>
+    <coll hits="20" score="7.990" query="w582410685">herring</coll>
+    <coll hits="18" score="7.940" query="w582916001">weir</coll>
+    <coll hits="37" score="7.700" query="w580178138">salmon</coll>
+    <coll hits="15" score="7.630" query="w581299817">carp</coll>
+    <coll hits="14" score="7.540" query="w583939422">cod</coll>
+    <coll hits="15" score="7.270" query="w582916028">lamprey</coll>
+    <coll hits="11" score="7.260" query="w582410678">shark</coll>
+    <coll hits="12" score="7.230" query="w581868274">dam</coll>
+    <coll hits="12" score="7.210" query="w583939439">roach</coll>
+    <coll hits="11" score="7.150" query="w582915992">bird</coll>
+    <coll hits="13" score="7.110" query="w581299804">bass</coll>
+    <coll hits="10" score="7.070" query="w581299810">shad</coll>
+    <coll hits="11" score="7.070" query="w581299786">quality</coll>
+    <coll hits="13" score="7.020" query="w580178131">salmonid</coll>
+    <coll hits="9" score="6.990" query="w582916031">worm</coll>
+    <coll hits="11" score="6.960" query="w580753920">whitefish</coll>
+    <coll hits="16" score="6.920" query="w580178115">size</coll>
+    <coll hits="9" score="6.880" query="w580178173">insect</coll>
+    <coll hits="10" score="6.850" query="w580178145">Lakes</coll>
+    <coll hits="8" score="6.830" query="w580753937">amphipod</coll>
+    <coll hits="9" score="6.780" query="w581868250">goby</coll>
+  </gramrel>
+</wordsketch>
+</export>

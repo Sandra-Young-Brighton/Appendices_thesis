@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">relicta</keyword>
+  <gramrel name="modifiers of X" hits="13" score="81.250">
+    <coll hits="13" score="13.240" query="w729494272">Mysis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="6.250">
+    <coll hits="1" score="5.850" query="w729505600">Ontario</coll>
+  </gramrel>
+</wordsketch>
+</export>

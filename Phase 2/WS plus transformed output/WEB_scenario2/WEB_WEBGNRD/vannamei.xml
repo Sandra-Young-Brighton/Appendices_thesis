@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">vannamei</keyword>
+  <gramrel name="modifiers of X" hits="6" score="31.580">
+    <coll hits="5" score="13.070" query="w1882090753">Litopenaeus</coll>
+    <coll hits="1" score="12.190" query="w1882090752">superba</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="1" score="5.260">
+    <coll hits="1" score="12.680" query="w1882114496">pugio</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="5.260">
+    <coll hits="1" score="12.410" query="w1882124992">histopathology</coll>
+  </gramrel>
+</wordsketch>
+</export>

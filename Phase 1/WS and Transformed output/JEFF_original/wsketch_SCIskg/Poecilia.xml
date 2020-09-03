@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Poecilia</keyword>
+  <gramrel name="nouns modified by X" hits="31" score="55.360">
+    <coll hits="22" score="13.670">reticulata</coll>
+    <coll hits="6" score="12.380">latipinna</coll>
+    <coll hits="1" score="10.000">sulphuraria</coll>
+    <coll hits="1" score="10.000">formosa</coll>
+    <coll hits="1" score="9.910">Poeciliidae</coll>
+  </gramrel>
+</wordsketch>
+</export>

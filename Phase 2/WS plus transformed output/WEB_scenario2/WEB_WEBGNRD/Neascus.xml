@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Neascus</keyword>
+  <gramrel name="nouns modified by X" hits="3" score="25.000">
+    <coll hits="1" score="13.000" query="w2069351361">musculicola</coll>
+    <coll hits="1" score="12.680" query="w2069351360">metacercariae</coll>
+    <coll hits="1" score="12.190" query="w2069351362">levantinus</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="8.330">
+    <coll hits="1" score="13.990" query="w2069340224">levantinus</coll>
+  </gramrel>
+</wordsketch>
+</export>

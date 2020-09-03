@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_large_newbreakdown</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Rhinogobius</keyword>
+  <gramrel name="modifiers of X" hits="2" score="1.570">
+    <coll hits="2" score="9.160">goby</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="58" score="45.670">
+    <coll hits="11" score="12.350">giurinus</coll>
+    <coll hits="12" score="12.280">brunneus</coll>
+    <coll hits="9" score="12.100">cliffordpopei</coll>
+    <coll hits="3" score="10.190">goby</coll>
+    <coll hits="5" score="9.530">species</coll>
+    <coll hits="18" score="8.740">specie</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="3" score="2.360">
+    <coll hits="2" score="7.500">specie</coll>
+    <coll hits="1" score="6.570">fish</coll>
+  </gramrel>
+</wordsketch>
+</export>

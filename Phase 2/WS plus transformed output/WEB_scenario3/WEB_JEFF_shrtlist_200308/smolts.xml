@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">smolts</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="294" score="11.730">
+    <coll hits="10" score="10.070">Tange</coll>
+    <coll hits="3" score="8.220">Hatchery</coll>
+    <coll hits="7" score="8.190">estuary</coll>
+    <coll hits="9" score="8.130">migration</coll>
+    <coll hits="3" score="8.060">SW</coll>
+    <coll hits="2" score="7.790">Engsø</coll>
+    <coll hits="2" score="7.790">Lygna</coll>
+    <coll hits="3" score="7.780">passage</coll>
+    <coll hits="2" score="7.750">Firth</coll>
+    <coll hits="2" score="7.740">Fjord</coll>
+    <coll hits="2" score="7.660">pellet</coll>
+    <coll hits="5" score="7.560">source</coll>
+    <coll hits="2" score="7.530">stem</coll>
+    <coll hits="6" score="7.520">Creek</coll>
+    <coll hits="2" score="7.450">Maine</coll>
+    <coll hits="10" score="7.420">diet</coll>
+    <coll hits="16" score="7.410">river</coll>
+    <coll hits="5" score="7.400">spring</coll>
+    <coll hits="4" score="7.400">adult</coll>
+    <coll hits="2" score="7.300">seawater</coll>
+    <coll hits="6" score="7.230">age</coll>
+    <coll hits="4" score="7.180">survival</coll>
+    <coll hits="3" score="7.070">section</coll>
+    <coll hits="11" score="7.050">River</coll>
+    <coll hits="2" score="6.830">bird</coll>
+  </gramrel>
+</wordsketch>
+</export>

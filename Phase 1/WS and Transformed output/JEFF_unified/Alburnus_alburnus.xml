@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Alburnus_alburnus</keyword>
+  <gramrel name="modifiers of X" hits="5" score="11.360">
+    <coll hits="1" score="12.410">Barbus_barbus</coll>
+    <coll hits="2" score="12.290">Abramis_brama</coll>
+    <coll hits="1" score="12.190">Rhodeus_amarus</coll>
+    <coll hits="1" score="11.190">Rutilus_rutilus</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="5" score="11.360">
+    <coll hits="2" score="13.000">Leuciscus_cephalus</coll>
+    <coll hits="2" score="12.680">Gobio_spp</coll>
+    <coll hits="1" score="9.670">roach</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="4.550">
+    <coll hits="1" score="13.410">Leuciscus_cephalus</coll>
+    <coll hits="1" score="8.030">roach</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="1" score="2.270">
+    <coll hits="1" score="6.170">July</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="2.270">
+    <coll hits="1" score="6.810">specie</coll>
+  </gramrel>
+</wordsketch>
+</export>

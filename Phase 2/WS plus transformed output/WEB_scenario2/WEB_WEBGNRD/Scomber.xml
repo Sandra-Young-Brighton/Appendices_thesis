@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Scomber</keyword>
+  <gramrel name="nouns modified by X" hits="15" score="62.500">
+    <coll hits="8" score="13.470" query="w2029387393">scombrus</coll>
+    <coll hits="7" score="12.560" query="w2029387392">japonicus</coll>
+  </gramrel>
+</wordsketch>
+</export>

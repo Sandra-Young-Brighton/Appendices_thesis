@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Myriophyllum</keyword>
+  <gramrel name="modifiers of X" hits="11" score="3.620">
+    <coll hits="5" score="12.460" query="w1942414214">Triglochin</coll>
+    <coll hits="1" score="10.750" query="w1942414212">Sagittaria</coll>
+    <coll hits="1" score="10.410" query="w1942414210">Eleocharis</coll>
+    <coll hits="1" score="9.670" query="w1942414213">Hydrilla</coll>
+    <coll hits="1" score="9.670" query="w1942414208">Elodea</coll>
+    <coll hits="1" score="8.960" query="w1942414209">Potamogeton</coll>
+    <coll hits="1" score="8.600" query="w1942414211">Myriophyllum</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="73" score="24.010">
+    <coll hits="57" score="13.750" query="w1942472963">spicatum</coll>
+    <coll hits="7" score="11.480" query="w1942472967">variifolium</coll>
+    <coll hits="4" score="10.710" query="w1942472966">exalbescens</coll>
+    <coll hits="1" score="8.790" query="w1942472962">alterniflorum</coll>
+    <coll hits="1" score="8.750" query="w1942472964">Najas</coll>
+    <coll hits="1" score="8.730" query="w1942472960">Elodea</coll>
+    <coll hits="1" score="8.710" query="w1942472965">Ceratophyllum</coll>
+    <coll hits="1" score="8.600" query="w1942472961">Myriophyllum</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="8" score="2.630">
+    <coll hits="3" score="11.770" query="w1942365637">Triglochin</coll>
+    <coll hits="1" score="11.670" query="w1942365635">Chara</coll>
+    <coll hits="1" score="11.410" query="w1942365632">Elodea</coll>
+    <coll hits="1" score="11.300" query="w1942365636">Ceratophyllum</coll>
+    <coll hits="1" score="11.090" query="w1942365633">Potamogeton</coll>
+    <coll hits="1" score="11.000" query="w1942365634">Eleocharis</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="11" score="3.620">
+    <coll hits="4" score="11.950" query="w1942536774">Triglochin</coll>
+    <coll hits="1" score="10.600" query="w1942536772">PC2</coll>
+    <coll hits="2" score="10.380" query="w1942536773">Eleocharis</coll>
+    <coll hits="1" score="7.990" query="w1942536771">1970</coll>
+    <coll hits="1" score="6.690" query="w1942536770">nest</coll>
+    <coll hits="1" score="4.690" query="w1942536769">prey</coll>
+    <coll hits="1" score="3.960" query="w1942536768">time</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="4" score="1.320">
+    <coll hits="2" score="12.680" query="w1942599937">Nitella</coll>
+    <coll hits="2" score="12.680" query="w1942599936">Chara</coll>
+  </gramrel>
+  <gramrel name="X has part..." hits="3" score="0.990">
+    <coll hits="1" score="13.000" query="w1942608386">refuge</coll>
+    <coll hits="1" score="12.680" query="w1942608385">alga</coll>
+    <coll hits="1" score="12.190" query="w1942608384">detritus</coll>
+  </gramrel>
+</wordsketch>
+</export>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Arachnida</keyword>
+  <gramrel name="modifiers of X" hits="1" score="14.290">
+    <coll hits="1" score="10.820">Coleoptera</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="2" score="28.570">
+    <coll hits="1" score="13.410">Arthropoda</coll>
+    <coll hits="1" score="11.090">Hemiptera</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="2" score="28.570">
+    <coll hits="1" score="13.410">Arthropoda</coll>
+    <coll hits="1" score="11.830">Hemiptera</coll>
+  </gramrel>
+</wordsketch>
+</export>

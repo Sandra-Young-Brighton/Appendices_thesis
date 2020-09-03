@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Rhinichthys</keyword>
+  <gramrel name="nouns modified by X" hits="35" score="39.770">
+    <coll hits="13" score="13.080">cataractae</coll>
+    <coll hits="12" score="13.030">atratulus</coll>
+    <coll hits="7" score="12.410">osculus</coll>
+    <coll hits="3" score="11.300">Umatilla</coll>
+  </gramrel>
+</wordsketch>
+</export>

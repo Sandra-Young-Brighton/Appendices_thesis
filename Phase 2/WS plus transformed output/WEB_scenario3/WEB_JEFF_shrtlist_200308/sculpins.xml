@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_full_jeff</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">sculpins</keyword>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="4" score="8.000">
+    <coll hits="1" score="11.670">Kootenay</coll>
+    <coll hits="1" score="7.770">disturbance</coll>
+    <coll hits="1" score="6.620">pool</coll>
+    <coll hits="1" score="6.600">Erie</coll>
+  </gramrel>
+</wordsketch>
+</export>

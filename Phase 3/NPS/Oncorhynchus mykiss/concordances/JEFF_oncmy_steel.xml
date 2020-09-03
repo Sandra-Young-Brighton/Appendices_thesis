@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_swu_oncmy_lower_tagged</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="3">[ws(2, 1240858050)]</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#31" num="0" label="_">
+    <left>1978. california department of fish and game anadromous fisheries division administra- tive report number 80-2. 25 pp. jones, w.e. 1992. historical distribution and recent trends of summer steelhead. oncorhynchus_mykiss, in the eel river, california. proceedings of the eel river workshop, redding california feb. 6, 1992. sponsored by the california depart- ment of fish and game, california-nevada chapter ameri- can fisheries society, and pacific gas and electric co. 17 pp. jones, w.e. 1997. summer steelhead ,</left>
+    <kwic>oncorhynchus_mykiss</kwic>
+    <right>, in the middle fork of the eel river, trinity and mendocino counties: 1996 annual survey and trends. california de- partment of fish and game anadromous fisheries division administrative report, sacramento ca. 28 pp. klicka, j. &amp; zink, r.m. 1997. the importance of recent ice ages in speciation: a failed paradigm. science 277: 1666-1 669. leider, s.a., chilcote, m.w. &amp; loch, j.j. 1984. spawning characteristics of sympatric populations of steelhead_trout</right>
+  </line>
+  <line refs="doc#154" num="1" label="_">
+    <left>2000. arlequin ver. 2.000: a software for population genetics data analysis. university of geneva, switzerland: genetics and biometry laboratory. scribner, k.t., gust, j.r. &amp; fields, r.l. 1996. isolation and characterization of novel salmon microsatellite loci: cross- species amplification and population genetic applications. canadian journal of fisheries and aquatic sciences 53: 833– 841. seamons, t., bentzen, p. &amp; quinn, t. 2004. the mating system of steelhead ,</left>
+    <kwic>oncorhynchus_mykiss</kwic>
+    <right>, inferred by molecular analysis of parents and progeny. environmental biology of fishes 69: 333–344. slatkin, m. 1993. isolation by distance in equilibrium and non- equilibrium populations. evolution 47: 264–279. slatkin, m. 1995. a measure of population subdivision based on microsatellite allele frequencies. genetics 139: 457–462. snyder, j.o. 1925. the half-pounder of eel river, a steelhead_trout. california fish and game 11: 49–55. stanford, j.a</right>
+  </line>
+  <line refs="doc#435" num="2" label="_">
+    <left>subsequently entered the ermespu stream. our results do not contradict the possibility that offspring of brown_trout spawning in the baltic sea (landergren &amp; vallin, 1998; limburg et al., 2001) may enter &quot;non- natal&quot; streams in less saline parts of the baltic sea where suitable spawning substrate and shelter against storms may be found. it is known that salmonids [e.g. atlantic salmon and brown_trout (e.g. klementsen et al., 2003; jonsson &amp; jonsson, 2011)]; coho salmon, chinook salmon, sockeye salmon, steelhead</left>
+    <kwic>oncorhynchus_mykiss</kwic>
+    <right>(e.g. hodge, wilzbach, duffy, quiñones, &amp; hobbs, 2016; koski, 2009; roni et al., 2012; shrimpton et al., 2014; walsworth et al., 2015) and charrs e.g. dolly varden (e.g. armstrong, 1974; bond et al., 2014; hart, bond, may- mcnally, miller, &amp; quinn, 2015) and arctic charr salvelinus_alpinus (e.g. klementsen et al., 2003) exhibit a vast array of life histories, which differ in duration of fresh- water and/or</right>
+  </line>
+</concordance>
+</export>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/web_webgnrd</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">fontinalis</keyword>
+  <gramrel name="modifiers of X" hits="222" score="78.720">
+    <coll hits="208" score="12.350" query="w1372922432">Salvelinus</coll>
+    <coll hits="4" score="9.170" query="w1372922435">namaycush</coll>
+    <coll hits="3" score="8.740" query="w1372922438">trutta</coll>
+    <coll hits="2" score="8.140" query="w1372922437">Carpio</coll>
+    <coll hits="1" score="7.200" query="w1372922440">Sulvelinus</coll>
+    <coll hits="1" score="7.200" query="w1372922439">Salvalinus</coll>
+    <coll hits="1" score="7.190" query="w1372922434">malma</coll>
+    <coll hits="1" score="7.110" query="w1372922433">mykiss</coll>
+    <coll hits="1" score="4.060" query="w1372922436">Salmo</coll>
+  </gramrel>
+  <gramrel name="nouns modified by X" hits="4" score="1.420">
+    <coll hits="1" score="9.790" query="w1373010241">Salmonidae</coll>
+    <coll hits="1" score="5.790" query="w1373010240">alpinus</coll>
+    <coll hits="1" score="5.420" query="w1373010243">trutta</coll>
+    <coll hits="1" score="5.420" query="w1373010242">salar</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="5" score="1.770">
+    <coll hits="1" score="12.410" query="w1372888130">salar</coll>
+    <coll hits="1" score="11.830" query="w1372888128">alpinus</coll>
+    <coll hits="1" score="10.540" query="w1372888129">Salmonidae</coll>
+    <coll hits="2" score="10.270" query="w1372888131">trutta</coll>
+  </gramrel>
+  <gramrel name="X %(3.lemma) .../... %(3.lemma) X" hits="3" score="1.060">
+    <coll hits="1" score="10.090" query="w1373046530">pre</coll>
+    <coll hits="1" score="8.130" query="w1373046528">lack</coll>
+    <coll hits="1" score="5.300" query="w1373046529">summer</coll>
+  </gramrel>
+  <gramrel name="X is the generic of..." hits="2" score="0.710">
+    <coll hits="1" score="12.190" query="w1373072193">trutta</coll>
+    <coll hits="1" score="11.410" query="w1373072192">Salmo</coll>
+  </gramrel>
+  <gramrel name="X is a type of..." hits="1" score="0.350">
+    <coll hits="1" score="13.410" query="w1373080064">Salvelinus</coll>
+  </gramrel>
+</wordsketch>
+</export>

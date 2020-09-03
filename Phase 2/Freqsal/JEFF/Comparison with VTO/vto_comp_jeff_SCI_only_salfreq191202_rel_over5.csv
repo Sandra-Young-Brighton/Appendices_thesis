@@ -1,0 +1,228 @@
+TAXRANK_target,target,source,TAXRANK_source,data_source_x,relations,data_source_y,_merge
+ SPECIES,BJOERKNA,ABRAMIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,BRAMA,ABRAMIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,TRANSMONTANUS,ACIPENSER, GENUS,VTO ontology,is_a,JEFF corpus,both
+,LINNAEUS,ACULEATUS,,,,JEFF corpus,right_only
+ SPECIES,ALBURNUS,ALBURNUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ALOSA,ALOSA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PSEUDOHARENGUS,ALOSA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,SAPIDISSIMA,ALOSA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,RUPESTRIS,AMBLOPLITES, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NEBULOSUS,AMEIURUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ANGUILLA,ANGUILLA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,AUSTRALIS,ANGUILLA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,DIEFFENBACHII,ANGUILLA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,JAPONICA,ANGUILLA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ROSTRATA,ANGUILLA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,GRUNNIENS,APLODINOTUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,GIGAS,ARAPAIMA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ASPIUS,ASPIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,INTERMEDIUS,ASTYANAX, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,SPATULA,ATRACTOSTEUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,BARBATULA,BARBATULA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,BARBUS,BARBUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,HAASI,BARBUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PETENYI,BARBUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+,SCLATERI,BARBUS,,,,JEFF corpus,right_only
+ SPECIES,BJOERKNA,BLICCA, GENUS,VTO ontology,is_a,JEFF corpus,both
+,LONGIMANUS,BYTHOTREPHES,,,,JEFF corpus,right_only
+ SPECIES,ANOMALUM,CAMPOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,AURATUS,CARASSIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CARASSIUS,CARASSIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,GIBELIO,CARASSIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CANADENSIS,CASTOR, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CATOSTOMUS,CATOSTOMUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+,COMMERSONI,CATOSTOMUS,,,,JEFF corpus,right_only
+ SPECIES,COMMERSONII,CATOSTOMUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NASUS,CHONDROSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both
+,POLYLEPIS,CHONDROSTOMA,,,,JEFF corpus,right_only
+,ERYTHROGASTER,CHROSOMUS,,,,JEFF corpus,right_only
+,COPEPODA,CLADOCERA,,,,JEFF corpus,right_only
+ SPECIES,GARIEPINUS,CLARIAS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,HARENGUS,CLUPEA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PALUDICA,COBITIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,TAENIA,COBITIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ALBULA,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ARTEDI,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+,ARTEDII,COREGONUS,,,,JEFF corpus,right_only
+ SPECIES,CLUPEAFORMIS,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,HOYI,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,LAVARETUS,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NASUS,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PIDSCHIAN,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,SARDINELLA,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ZENITHICUS,COREGONUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+,BAIRDI,COTTUS,,,,JEFF corpus,right_only
+ SPECIES,BAIRDII,COTTUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CAROLINAE,COTTUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,COGNATUS,COTTUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,GOBIO,COTTUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,HANGIONGENSIS,COTTUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PAULUS,COTTUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ACUTIPINNIS,COTYLOPUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PLUMBEUS,COUESIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,FLUVIATILIS,CRATEROCEPHALUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CAERULEA,CYPRINELLA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,LUTRENSIS,CYPRINELLA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,VENUSTA,CYPRINELLA, GENUS,VTO ontology,is_a,JEFF corpus,both
+,GALEATA,DAPHNIA,,,,JEFF corpus,right_only
+,PULEX,DAPHNIA,,,,JEFF corpus,right_only
+ SPECIES,CEPEDIANUM,DOROSOMA, GENUS,VTO ontology,is_a,JEFF corpus,both
+,POLYMORPHA,DREISSENA,,,,JEFF corpus,right_only
+,TRIDENTATUS,ENTOSPHENUS,,,,JEFF corpus,right_only
+,PLECOPTERA,EPHEMEROPTERA,,,,JEFF corpus,right_only
+,LINNAEUS,ESOX,,,,JEFF corpus,right_only
+ SPECIES,LUCIUS,ESOX, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CAERULEUM,ETHEOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CINEREUM,ETHEOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,EXILE,ETHEOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,FLABELLARE,ETHEOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NIGRUM,ETHEOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,SPECTABILE,ETHEOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both
+,LINNAEUS,FLUVIATILIS,,,,JEFF corpus,right_only
+ SPECIES,HETEROCLITUS,FUNDULUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NOTATUS,FUNDULUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,OLIVACEUS,FUNDULUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MORHUA,GADUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ARGENTEUS,GALAXIAS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,FASCIATUS,GALAXIAS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MACULATUS,GALAXIAS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,AFFINIS,GAMBUSIA, GENUS,VTO ontology,is_a,JEFF corpus,both
+,HOLBROOKI,GAMBUSIA,,,,JEFF corpus,right_only
+ SPECIES,ACULEATUS,GASTEROSTEUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ROBUSTA,GILA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,COTIDIANUS,GOBIOMORPHUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+,CERNUA,GYMNOCEPHALUS,,,,JEFF corpus,right_only
+ SPECIES,CERNUUS,GYMNOCEPHALUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ODOE,HEPSETUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PLACITUS,HYBOGNATHUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,VITTATUS,HYDROCYNUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PUNCTATUS,ICTALURUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,RUPESTRIS,KUHLIA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,FLUVIATILIS,LAMPETRA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PLANERI,LAMPETRA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,TRIDENTATA,LAMPETRA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CONCOLOR,LENTIPES, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,OCULATUS,LEPISOSTEUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,OSSEUS,LEPISOSTEUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CYANELLUS,LEPOMIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,GIBBOSUS,LEPOMIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MACROCHIRUS,LEPOMIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+,KINDTII,LEPTODORA,,,,JEFF corpus,right_only
+ SPECIES,REISSNERI,LETHENTERON, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,DELINEATUS,LEUCASPIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CEPHALUS,LEUCISCUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,LEUCISCUS,LEUCISCUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+,PYRENAICUS,LEUCISCUS,,,,JEFF corpus,right_only
+,INTESTINALIS,LIGULA,,,,JEFF corpus,right_only
+ SPECIES,LOTA,LOTA, GENUS,VTO ontology,is_a,JEFF corpus,both
+,FLUVIATILIS,LUCIUS,,,,JEFF corpus,right_only
+,LINNAEUS,LUCIUS,,,,JEFF corpus,right_only
+ SPECIES,LUTRA,LUTRA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PEELII,MACCULLOCHELLA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,AMBIGUA,MACQUARIA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,AUSTRALASICA,MACQUARIA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,BERYLLINA,MENIDIA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MENIDIA,MENIDIA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,DOLOMIEU,MICROPTERUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+,DOLOMIEUI,MICROPTERUS,,,,JEFF corpus,right_only
+ SPECIES,ANGUILLICAUDATUS,MISGURNUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,SAXATILIS,MORONE, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,VALENCIENNESI,MOXOSTOMA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CEPHALUS,MUGIL, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,VISON,MUSTELA, GENUS,VTO ontology,is_a,JEFF corpus,both
+,SPICATUM,MYRIOPHYLLUM,,,,JEFF corpus,right_only
+,DILUVIANA,MYSIS,,,,JEFF corpus,right_only
+,RELICTA,MYSIS,,,,JEFF corpus,right_only
+ SPECIES,FLUVIATILIS,NEOGOBIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MELANOSTOMUS,NEOGOBIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MICROPOGON,NOCOMIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,HUDSONIUS,NOTROPIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,LUTIPINNIS,NOTROPIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,STRAMINEUS,NOTROPIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+,MYKISS,ONCHORHYNCHUS,,,,JEFF corpus,right_only
+,CLARKI,ONCORHYNCHUS,,,,JEFF corpus,right_only
+ SPECIES,CLARKII,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,GORBUSCHA,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,KETA,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,KISUTCH,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MYKISS,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NERKA,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,TSHAWYTSCHA,ONCORHYNCHUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,EPERLANUS,OSMERUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MORDAX,OSMERUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+,MYKISS,PARASALMO,,,,JEFF corpus,right_only
+ SPECIES,FLAVESCENS,PERCA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,FLUVIATILIS,PERCA, GENUS,VTO ontology,is_a,JEFF corpus,both
+,LINNAEUS,PERCA,,,,JEFF corpus,right_only
+ SPECIES,AUROLINEATA,PERCINA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,TANASI,PERCINA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MARINUS,PETROMYZON, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NEOGAEUS,PHOXINUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PHOXINUS,PHOXINUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MACULATUS,PIMELODUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NOTATUS,PIMEPHALES, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PROMELAS,PIMEPHALES, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,VIGILAX,PIMEPHALES, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ALTIVELIS,PLECOGLOSSUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,LATIPINNA,POECILIA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,RETICULATA,POECILIA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MINUTUS,POMATOSCHISTUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ANNULARIS,POMOXIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NIGROMACULATUS,POMOXIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+,CLARKII,PROCAMBARUS,,,,JEFF corpus,right_only
+ SPECIES,LINEATUS,PROCHILODUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,WILLIAMSONI,PROSOPIUM, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,SEMILUNARIS,PROTERORHINUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+,MAREANA,PROTOTROCTES,,,,JEFF corpus,right_only
+ SPECIES,OLORUM,PSEUDOGOBIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PARVA,PSEUDORASBORA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,GRANULOSUS,PTERODORAS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,LUCIUS,PTYCHOCHEILUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NYEREREI,PUNDAMILIA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PUNGITIUS,PUNGITIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,OLIVARIS,PYLODICTIS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CATARACTAE,RHINICHTHYS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,OSCULUS,RHINICHTHYS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,BRUNNEUS,RHINOGOBIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CLIFFORDPOPEI,RHINOGOBIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,GIURINUS,RHINOGOBIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,AMARUS,RHODEUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,SERICEUS,RHODEUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,BALTEATUS,RICHARDSONIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,RUTILUS,RUTILUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+,GAIRDNERI,SALMO,,,,JEFF corpus,right_only
+,LINNAEUS,SALMO,,,,JEFF corpus,right_only
+ SPECIES,MARMORATUS,SALMO, GENUS,VTO ontology,is_a,JEFF corpus,both
+,ONCORHYNCHUS,SALMO,,,,JEFF corpus,right_only
+ SPECIES,SALAR,SALMO, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,TRUTTA,SALMO, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ALPINUS,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CONFLUENTUS,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,FONTINALIS,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,MALMA,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,NAMAYCUSH,SALVELINUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,LUCIOPERCA,SANDER, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,VITREUS,SANDER, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ERYTHROPHTHALMUS,SCARDINIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ATROMACULATUS,SEMOTILUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,PUNCTATUM,SICYDIUM, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,JAPONICUS,SICYOPTERUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,LAGOCEPHALUS,SICYOPTERUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,ASOTUS,SILURUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,GLANIS,SILURUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,SOLEA,SOLEA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,CEPHALUS,SQUALIUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+,LUCIOPERCA,STIZOSTEDION,,,,JEFF corpus,right_only
+,VITREUM,STIZOSTEDION,,,,JEFF corpus,right_only
+,GUIRDNERI,SULMO,,,,JEFF corpus,right_only
+,TRUTTA,SULMO,,,,JEFF corpus,right_only
+,CYPRINIDAE,TELEOSTEI,,,,JEFF corpus,right_only
+ SPECIES,ARCTICUS,THYMALLUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,THYMALLUS,THYMALLUS, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,GUINEENSIS,TILAPIA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,TINCA,TINCA, GENUS,VTO ontology,is_a,JEFF corpus,both
+,LINNAEUS,TRUTTA,,,,JEFF corpus,right_only
+ SPECIES,LIMI,UMBRA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,VIMBA,VIMBA, GENUS,VTO ontology,is_a,JEFF corpus,both
+ SPECIES,TEXANUS,XYRAUCHEN, GENUS,VTO ontology,is_a,JEFF corpus,both

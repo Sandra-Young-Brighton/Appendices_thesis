@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>user/sandrayoung/jeff_nospaces_tagged</corpus>
+  <subcorpus>-</subcorpus>
+</header>
+<wordsketch>
+  <keyword pos="" freq="0">Rhodeus_amarus</keyword>
+  <gramrel name="nouns modified by X" hits="2" score="15.380">
+    <coll hits="1" score="12.190">Alburnus_alburnus</coll>
+    <coll hits="1" score="12.190">Abramis_brama</coll>
+  </gramrel>
+  <gramrel name="X and/or ..." hits="1" score="7.690">
+    <coll hits="1" score="13.410">Abramis_brama</coll>
+  </gramrel>
+</wordsketch>
+</export>
