@@ -1,0 +1,38 @@
+source,target,Difference description,Difference criteria
+GYMNOCEPHALUS,CERNUA,"Eurasian ruffe (Gymnocephalus cernua), also known as ruffe or pope (http://www.catalogueoflife.org/col/details/species/id/349c65df03755f01c50de8bc74868fd5)",Correct taxonomic reference not in the VTO
+EPHEMEROPTERA,PLECOPTERA,Mayflies and stoneflies (grouped of same rank),Incorrect matching - group same rank
+CLADOCERA,COPEPODA,two different groups of organisms - copopoda (subclass) versus cladocera (suborder),Incorrect matching - group various rank
+CYPRINIDAE,ESOX,Esox (genus) of the Esocidae family and cyprinidae (family) - latter are carps or minnows,Incorrect matching - group various rank
+CYPRINIDAE,FLUVIATILIS,Skipping rank across different lineages,Incorrect matching - group various rank
+CYPRINIDAE,LUCIUS,,Incorrect matching - group various rank
+CYPRINIDAE,PERCA,Family to genus (Cyprinidae) to genus (Perca) but should be Percidae(?) Is this something that is disputed at all?,Incorrect matching - group various rank
+GASTROPODA,NEMATODA,Gastropoda class of mollusca phyllum (http://www.catalogueoflife.org/col/browse/tree/id/3553f72080f2d512a344a663f510588a),Incorrect matching - group various rank
+ESOX,CYPRINIDAE,"Wrong way round, also different families",Incorrect matching - parent/child reversal
+ASELLUS,AQUATICUS,Crustacean,Invertebrate
+DREISSENA,POLYMORPHA,Zebra mussel,Invertebrate
+EURYCERCUS,LAMELLATUS,Part of cladocera,Invertebrate
+GAMMARUS,LACUSTRIS,Aquatic amphipod,Invertebrate
+GAMMARUS,PULEX,Crustaecean,Invertebrate
+MYSIS,DILUVIANA,Mysis diluviana is a mysid crustacean (opossum shrimp) found in freshwater lakes of northern North America.,Invertebrate
+MYSIS,RELICTA,Mysis relicta is a shrimp-like crustacean in the Mysida order,Invertebrate
+MYTILUS,EDULIS,blue mussel (Mytilus edulis),Invertebrate
+PACIFASTACUS,LENIUSCULUS,signal crayfish (Pacifastacus leniusculus) http://www.catalogueoflife.org/col/search/all/key/Pacifastacus+leniusculus/fossil/1/match/1,Invertebrate
+MICROPTERUS,DOLOMIEUI,"Micropterus dolomieui Lacepède, 1802 (sinónimo) of Micropterus dolomieu (http://www.catalogueoflife.org/col/details/species/id/ced2281502ef9115f373997c10cd3cc2)",Misspelling
+MYOXOCEPHALUS,THOMPSONI,Deepwater sculpin,Misspelling
+ONCHORHYNCHUS,MYKISS,Oncorhynchus mykiss,Misspelling
+SALMO,LINNAEUS,Skipping rank genus to specification of authorship,Partial name
+CERATOPHYLLUM,DEMERSUM,"Ceratophyllum demersum, commonly known as hornwort, rigid hornwort, coontail, or coon's tail,",Plant
+ELODEA,CANADENSIS,"perennial aquatic plant, or submergent macrophyte",Plant
+HYDRILLA,VERTICILLATA,Water thyme,Plant
+MYRIOPHYLLUM,SPICATUM,,Plant
+NUPHAR,LUTEA,"Nuphar lutea, the yellow water-lily, or brandy-bottle, is an aquatic plant of the family Nymphaeaceae",Plant
+ACERINA,CERNUA,Gymnocephalus cernuus,Synonym in the VTO
+CATOSTOMUS,COMMERSONI,White sucker is a freshwater cypriniform fish,Synonym in the VTO
+COREGONUS,ARTEDII,Coregonus artedi (lake herring) https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=623384#null,Synonym in the VTO
+COTTUS,BAIRDI,Cottus bairdii,Synonym in the VTO
+GAMBUSIA,HOLBROOKI,Gambusia affinis,Synonym in the VTO
+ONCORHYNCHUS,CLARKI,misspelling,Synonym in the VTO
+SALMO,GAIRDNERI,Synonym for Oncorhynchus mykiss,Synonym in the VTO
+SCOPHTHALMUS,MAXIMUS,turbot is a species of flatfish in the family Scophthalmidae. Related synonym for Psetta maxima,Synonym in the VTO
+STIZOSTEDION,LUCIOPERCA,related synonym for Sander lucioperca,Synonym in the VTO
+STIZOSTEDION,VITREUM,related synonym for Sander vitreus,Synonym in the VTO

@@ -1,0 +1,17 @@
+source,target,Difference description,Difference criteria
+ACERINA,CERNUA,Gymnocephalus cernuus,Synonym in the VTO
+CATOSTOMUS,COMMERSONI,White sucker is a freshwater cypriniform fish,Synonym in the VTO
+COTTUS,BAIRDI,Cottus bairdii,Synonym in the VTO
+CYPRINIDAE,ESOX,Esox (genus) of the Esocidae family and cyprinidae (family) - latter are carps or minnows,Incorrect matching - group various rank
+CYPRINIDAE,FLUVIATILIS,Skipping rank across different lineages,Incorrect matching - group various rank
+CYPRINIDAE,LUCIUS,,Incorrect matching - group various rank
+CYPRINIDAE,PERCA,Family to genus (Cyprinidae) to genus (Perca) but should be Percidae(?) Is this something that is disputed at all?,Incorrect matching - group various rank
+DREISSENA,POLYMORPHA,Zebra mussel,Invertebrate
+ESOX,CYPRINIDAE,"Wrong way round, also different families",Incorrect matching - parent/child reversal
+HYDRILLA,VERTICILLATA,Water thyme,Plant
+MYRIOPHYLLUM,SPICATUM,,Plant
+ONCORHYNCHUS,CLARKI,misspelling,Synonym in the VTO
+SALMO,GAIRDNERI,Synonym for Oncorhynchus mykiss,Synonym in the VTO
+SCOPHTHALMUS,MAXIMUS,turbot is a species of flatfish in the family Scophthalmidae. Related synonym for Psetta maxima,Synonym in the VTO
+STIZOSTEDION,LUCIOPERCA,related synonym for Sander lucioperca,Synonym in the VTO
+STIZOSTEDION,VITREUM,related synonym for Sander vitreus,Synonym in the VTO

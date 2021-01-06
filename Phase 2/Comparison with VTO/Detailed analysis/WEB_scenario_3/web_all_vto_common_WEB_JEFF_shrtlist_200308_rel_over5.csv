@@ -1,0 +1,86 @@
+source,target,Difference description,Difference criteria
+GYMNOCEPHALUS,CERNUA,"Eurasian ruffe (Gymnocephalus cernua), also known as ruffe or pope (http://www.catalogueoflife.org/col/details/species/id/349c65df03755f01c50de8bc74868fd5)",Correct taxonomic reference not in the VTO
+EPHEMEROPTERA,PLECOPTERA,Mayflies and stoneflies (grouped of same rank),Incorrect matching - group same rank
+MOLLUSCA,NEMATODA,Nematoda (phylum) and mollusca (phylum) - also group of same-level ranking,Incorrect matching - group same rank
+PLECOPTERA,TRICHOPTERA,Group of different insect orders,Incorrect matching - group same rank
+SALAR,TRUTTA,Grouping various species level terms for same family together,Incorrect matching - group same rank
+SALMO,SALVELINUS,Grouping of like ranks within same family,Incorrect matching - group same rank
+TRICHOPTERA,EPHEMEROPTERA,Groups of different orders of flies,Incorrect matching - group same rank
+BOSMINA,CHYDORUS,Both genera,Incorrect matching - group same rank
+CERNUUS,CERNUA,https://www.latin-is-simple.com/en/vocabulary/adjective/2118/,Incorrect matching - group same rank
+CLADOCERA,COPEPODA,two different groups of organisms - copopoda (subclass) versus cladocera (suborder),Incorrect matching - group various rank
+CYPRINIDAE,ESOX,Esox (genus) of the Esocidae family and cyprinidae (family) - latter are carps or minnows,Incorrect matching - group various rank
+CYPRINIDAE,PERCA,Family to genus (Cyprinidae) to genus (Perca) but should be Percidae(?) Is this something that is disputed at all?,Incorrect matching - group various rank
+CYPRINIDAE,FLUVIATILIS,Skipping rank across different lineages,Incorrect matching - group various rank
+GASTROPODA,NEMATODA,Gastropoda class of mollusca phyllum (http://www.catalogueoflife.org/col/browse/tree/id/3553f72080f2d512a344a663f510588a),Incorrect matching - group various rank
+CYPRINIDAE,LUCIUS,,Incorrect matching - group various rank
+[NUMBER],PARR,Common name plus number,Incorrect matching - not scientific name
+[NUMBER],SALMO,Partial scientific name plus number,Incorrect matching - not scientific name
+ESOX,CYPRINIDAE,"Wrong way round, also different families",Incorrect matching - parent/child reversal
+THYMALLUS,SALMONIDAE,Wrong way round (Thymallus is a genus of the family Salmonidae),Incorrect matching - parent/child reversal
+ASELLUS,AQUATICUS,Crustacean,Invertebrate
+BYTHOTREPHES,LONGIMANUS,Water flea,Invertebrate
+CHIRONOMUS,PLUMOSUS,"buzzer midge, is a species of nonbiting midge (Chironomidae) ",Invertebrate
+DAPHNIA,LONGISPINA,,Invertebrate
+DAPHNIA,PULEX,,Invertebrate
+DREISSENA,POLYMORPHA,Zebra mussel,Invertebrate
+EURYCERCUS,LAMELLATUS,Part of cladocera,Invertebrate
+GAMMARUS,LACUSTRIS,Aquatic amphipod,Invertebrate
+HEMIMYSIS,ANOMALA,"bloody-red mysid, Hemimysis anomala, is a shrimp-like crustacean in the Mysida order",Invertebrate
+HOLOPEDIUM,GIBBERUM,Holopedium gibberum is a species of ctenopod in the family Holopediidae,Invertebrate
+MYSIS,DILUVIANA,Mysis diluviana is a mysid crustacean (opossum shrimp) found in freshwater lakes of northern North America.,Invertebrate
+MYSIS,RELICTA,Mysis relicta is a shrimp-like crustacean in the Mysida order,Invertebrate
+MYTILUS,EDULIS,blue mussel (Mytilus edulis),Invertebrate
+PACIFASTACUS,LENIUSCULUS,signal crayfish (Pacifastacus leniusculus) http://www.catalogueoflife.org/col/search/all/key/Pacifastacus+leniusculus/fossil/1/match/1,Invertebrate
+CLONORCHIS,SINENSIS,Chinese river fluke,Invertebrate
+DAPHNIA,HYALINA,,Invertebrate
+DREISSENA,BUGENSIS,Quagga mussel,Invertebrate
+DROSOPHILA,MELANOGASTER,Common fruit fly,Invertebrate
+GAMMARUS,PULEX,Crustaecean,Invertebrate
+ORCONECTES,PROPINQUUS,"Northern clearwater crayfish. Synonyms and Other Names: Orconectes propinquus. This species underwent a reclassification in 2017, changing the genus of non-cave dwelling Orconectes to Faxonius (Crandall and De Grave 2017). Identification: Faxonius propinquus are a relatively small crayfish.",Invertebrate
+ORCONECTES,RUSTICUS,"The rusty crayfish (Faxonius rusticus) is a large, aggressive species of freshwater crayfish ... ""Fish Predation and Trapping for Rusty Crayfish (Orconectes rusticus) Control: A Whole-lake Experiment"".",Invertebrate
+PROCAMBARUS,CLARKII,"Procambarus clarkii is a species of cambarid freshwater crayfish, native to northern Mexico, and southern and southeastern United States, but also introduced elsewhere, where it is often an invasive pest",Invertebrate
+MICROPTERUS,DOLOMIEUI,"Micropterus dolomieui Lacepède, 1802 (sinónimo) of Micropterus dolomieu (http://www.catalogueoflife.org/col/details/species/id/ced2281502ef9115f373997c10cd3cc2)",Misspelling
+ONCHORHYNCHUS,MYKISS,Oncorhynchus mykiss,Misspelling
+SALVELINUS,WILLUGHBII,"Windermere charr, is a cold-water fish in the family Salmonidae. In the VTO only Salvelinus willoughbii, but CoL says this form is a synonym for the latter.",Misspelling
+MYOXOCEPHALUS,THOMPSONI,Deepwater sculpin,Misspelling
+ONCORHYNCUS,MYKISS,Oncorhynchus mykiss,Misspelling
+ACULEATUS,LINNAEUS,Partial name,Partial name
+ESOX,LINNAEUS,Partial name and also skipping ranks,Partial name
+FLUVIATILIS,LINNAEUS,Correct order and rank level,Partial name
+GASTEROSTEUS,LINNAEUS,Gasterosteus aculeatus,Partial name
+MARINUS,LINNAEUS,,Partial name
+PERCA,LINNAEUS,Perca…. Linneaus,Partial name
+PETROMYZON,LINNAEUS,Petromyzon … could be sort of lamprey,Partial name
+SALAR,LINNAEUS,,Partial name
+SALMO,LINNAEUS,Skipping rank genus to specification of authorship,Partial name
+SALVELINUS,SPP,Salvelinus species,Partial name
+TRUTTA,LINNAEUS,species level plus linnaeus specification,Partial name
+LUCIUS,LINNAEUS,,Partial name
+ELODEA,CANADENSIS,"perennial aquatic plant, or submergent macrophyte",Plant
+FAGUS,SYLVATICA,Common or European beech tree,Plant
+NUPHAR,LUTEA,"Nuphar lutea, the yellow water-lily, or brandy-bottle, is an aquatic plant of the family Nymphaeaceae",Plant
+CERATOPHYLLUM,DEMERSUM,"Ceratophyllum demersum, commonly known as hornwort, rigid hornwort, coontail, or coon's tail,",Plant
+HYDRILLA,VERTICILLATA,Water thyme,Plant
+MYRIOPHYLLUM,SPICATUM,,Plant
+PHRAGMITES,AUSTRALIS,,Plant
+TYPHA,LATIFOLIA,Common bullrush,Plant
+CATOSTOMUS,COMMERSONI,White sucker is a freshwater cypriniform fish,Synonym in the VTO
+CHONDROSTOMA,TOXOSTOMA,South-west European nase (Parachondrostoma toxostoma) is a species of cyprinid fish,Synonym in the VTO
+COREGONUS,ARTEDII,Coregonus artedi (lake herring) https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=623384#null,Synonym in the VTO
+COTTUS,BAIRDI,Cottus bairdii,Synonym in the VTO
+ENTOSPHENUS,TRIDENTATUS,Lampetra tridentata synonym,Synonym in the VTO
+GAMBUSIA,HOLBROOKI,Gambusia affinis,Synonym in the VTO
+LEUCISCUS,ASPIUS,asp is a European freshwater fish of the Cyprinid family. Synonym for Aspius aspius,Synonym in the VTO
+SALMO,GAIRDNERI,Synonym for Oncorhynchus mykiss,Synonym in the VTO
+SCOPHTHALMUS,MAXIMUS,turbot is a species of flatfish in the family Scophthalmidae. Related synonym for Psetta maxima,Synonym in the VTO
+STIZOSTEDION,LUCIOPERCA,related synonym for Sander lucioperca,Synonym in the VTO
+STIZOSTEDION,VITREUM,related synonym for Sander vitreus,Synonym in the VTO
+ACERINA,CERNUA,Gymnocephalus cernuus,Synonym in the VTO
+APOLLONIA,MELANOSTOMA,Neogobius melanostomus,Synonym in the VTO
+ONCORHYNCHUS,CLARKI,"""misspelling""",Synonym in the VTO
+ONCORHYNCHUS,RHODURUS,For Oncorhynchus masou,Synonym in the VTO
+PLEURONECTES,AMERICANUS,"The winter flounder (Pseudopleuronectes americanus), also known as the black back, is a right-eyed (""dextral"") flatfish of the family Pleuronectidae.",Synonym in the VTO
+SALMO,CLARKI,Oncorhynchus clarkii - cutthroat trout,Synonym in the VTO
+PYGOSTEUS,PUNGITIUS,"The ninespine stickleback, also called the ten-spined stickleback, is a freshwater species of fish in the family Gasterosteidae that inhabits temperate waters.",Synonym not in the VTO
+PARVICAPSULA,MINIBICORNIS,myxosporean parasite Parvicapsula minibicornis,Unknown 
