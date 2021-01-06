@@ -1,0 +1,26 @@
+#select all VTO entries relating to Salmonidae (higher and lower ranks)
+
+import os
+import pandas as pd
+
+def vto_salm(vto_file):
+	#read in VTO dataframe with source and target sorted
+	df_vto = pd.read_csv(vto_file)
+	
+	#select the Salmonidae target and source examples in the dataframe
+	salmonidae_fam = df_vto[df_vto['source']=='Salmonidae']&df_vto[df_vto['target']=='Salmonidae']
+	
+	#select higher ranks of Salmonidae to add to the table
+	salmonidae_higher = salmonidae_fam['Salmonidae', 'target']
+	salm_genera = salmon
+	
+	mixed_relations[mixed_relations['relations']=='parent-child']
+
+
+
+def main():
+      
+    
+    
+if __name__ == "__main__":
+    main()
